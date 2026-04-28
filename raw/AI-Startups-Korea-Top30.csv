@@ -1,0 +1,31 @@
+Rank,Company,Sector,Relevance,Status
+1,Twelve Labs,Video AI,Highest (Creator Tech),Unicorn
+2,Upstage,LLM / GenAI,High (B2B Scaling),Unicorn
+3,Wrtn Tech,B2C AI Portal,High (B2C Velocity),Series B
+4,Rebellions,AI Hardware,Infrastructure,Unicorn
+5,LINER,AI Search,B2C Growth,Pre-Unicorn
+6,Lunit,Healthcare,Regulatory PM,Public
+7,DeepBrain AI,AI Humans,Creator Tools,Scale-up
+8,Nota AI,Edge AI,Hardware PM,Public
+9,MarqVision,IP Protection,Vision AI,Series B
+10,VoyagerX,Video Editing,Highest (Creator UX),Scale-up
+11,FuriosaAI,AI Chips,Infrastructure,Series C
+12,Scatter Lab,Social AI,Interaction UX,Series B
+13,Superb AI,MLOps,Data Lifecycle,Pre-IPO
+14,MakinaRocks,Industrial AI,Manufacturing,Series B
+15,DeepX,Edge NPU,Robotics/IoT,Series C
+16,Persona AI,AICC,Enterprise AX,Pre-Unicorn
+17,AItrics,Healthcare,Social Impact,Series B
+18,Allganize,Enterprise AI,Workflow Automation,Series B
+19,Standigm,Drug Discovery,Deep R&D,Series C
+20,Moloco,AdTech,Global Ads,Unicorn
+21,Sendbird,Comm. API,API PMing,Unicorn
+22,Speak,EdTech,Consumer UX,Series B+
+23,VUNO,Healthcare,Medical Imaging,Public
+24,MediWhale,Healthcare,Niche Leader,Series B
+25,Mobilint,Industrial NPU,Smart Factory,Series A
+26,AIMMO,Data Ops,Autonomous Driving,Series B
+27,Riiid,EdTech,Personalized Learning,Series D
+28,Coredotbio,Bio-Tech,Deep Science,Series A
+29,SqueezeBits,AI Compression,Model Efficiency,Series A
+30,FriendliAI,LLM Serving,Infrastructure,Series A
