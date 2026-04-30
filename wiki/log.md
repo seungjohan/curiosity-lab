@@ -41,3 +41,4 @@
 | 2026-04-27 | ADDED | `wiki/Coredotbio.md` | Deep-dive into mRNA AI & World Models. |
 | 2026-04-27 | ADDED | `wiki/SqueezeBits.md` | Deep-dive into AI Model Optimization. |
 | 2026-04-27 | ADDED | `wiki/FriendliAI.md` | Deep-dive into LLM Serving & PeriFlow. |
+| 2026-04-30 | ADDED | `wiki/Bear-Robotics.md` | Deep-dive into Physical AI leader & LG subsidiary. |

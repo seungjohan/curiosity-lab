@@ -7,3 +7,8 @@ Create personal wiki for researching with Gemini, Claude Code.
 - [AI로 나를 복제했습니다 | 클로드 코드 × 옵시디언 × LLM Wiki](https://www.youtube.com/@jayychoii)]
 
 
+
+
+```php-template
+https://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@github.com/seungjohan/obsidian-research.git
+```
