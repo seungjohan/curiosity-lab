@@ -1,3 +1,11 @@
+---
+industry: [Healthcare, AI Diagnostics]
+scale: Series B
+hq: Seoul
+country: South Korea
+tags: [company, VerticalAI, Healthcare]
+about: Non-invasive cardiovascular risk assessment through AI retina analysis.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** MediWhale is the master of "The Window." They turned a simple retina scan into a "Systemic Health Dashboard," replacing expensive Heart CTs.
 > **How to use it:** For a junior 0→1 PM, study their **Category Creation**. They created "Reti-Intelligence"—a new diagnostic category that sits between Ophthalmology and Cardiology.
@@ -27,5 +35,6 @@ MediWhale is a "Reti-Intelligence" company that uses AI and retinal imaging to p
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Lunit]] (AI Diagnostic peer)
 - [[AItrics]] (Predictive care peer)

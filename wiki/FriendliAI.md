@@ -1,3 +1,11 @@
+---
+industry: [LLM Serving, Infrastructure]
+scale: Series A
+hq: Seoul
+country: South Korea
+tags: [company, Infrastructure, MLOps]
+about: High-throughput LLM inference engine and serving platform.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** FriendliAI has solved the "Inference Tax." By pioneering **Continuous Batching**, they've turned raw compute into a high-margin utility, making 0→1 scaling affordable.
 > **How to use it:** For a junior 0→1 PM, study their **Infrastructure Advantage**. They handle the "messy plumbing" so you can focus on building the "Agent UX."
@@ -28,6 +36,7 @@ FriendliAI is a frontier AI inference platform that optimizes the deployment and
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Upstage]] (Infrastructure partner/peer)
 - [[Moloco]] (Business model peer)
 - [[FriendliAI]] (Self-link)

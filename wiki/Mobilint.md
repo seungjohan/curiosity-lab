@@ -1,3 +1,11 @@
+---
+industry: [Industrial NPU, Smart Factory]
+scale: Series A
+hq: Seoul
+country: South Korea
+tags: [company, Infrastructure, Semiconductors]
+about: Edge AI hardware and software for industrial applications.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Mobilint is the "Industrial NPU" leader. Their **ARIES** chip allows 14B parameter LLMs to run *entirely offline* on the factory floor.
 > **How to use it:** For a junior 0→1 PM, study their **Hardware-Software Synergy**. They aren't just selling chips; they're selling the "Edge AI Box" (MLX-A1) that makes deployment "plug-and-play."
@@ -27,5 +35,6 @@ Mobilint is a fabless AI semiconductor company specializing in high-performance,
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[DeepX]] (Direct competitor/peer)
 - [[FuriosaAI]] (Infrastructure peer)

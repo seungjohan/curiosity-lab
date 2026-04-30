@@ -1,3 +1,11 @@
+---
+industry: [Comm. API, Messaging]
+scale: Unicorn
+hq: San Mateo
+country: USA
+tags: [company, AgenticAI, Communications]
+about: Global leader in chat, voice, and video APIs for mobile and web apps.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Sendbird is a masterclass in "Reinvention." They pivoted from a "Chat API" (plumbing) to an "AI CX Platform" (**Delight.ai**) to avoid commoditization.
 > **How to use it:** For a junior 0→1 PM, study their **Value Chain Evolution**. When the low-level tool becomes a commodity, move up the stack to solve the "Outcome."
@@ -27,5 +35,6 @@ Sendbird is a global leader in in-app communications, currently transforming int
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Moloco]] (Global SaaS peer)
 - [[Wrtn-Technologies]] (Conversational UI peer)

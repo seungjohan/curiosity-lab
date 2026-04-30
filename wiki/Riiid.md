@@ -1,3 +1,11 @@
+---
+industry: [EdTech, AI Tutoring]
+scale: Series D
+hq: Seoul
+country: South Korea
+tags: [company, VerticalAI, EdTech]
+about: AI-driven personalized learning platform for standardized testing.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Riiid (Socra AI) is the master of the "J-Curve." By rebranding to **Socra AI** and focusing on the Socratic method, they've moved from "Test-Prep" to "Human-Growing AI."
 > **How to use it:** For a junior 0→1 PM, study their **Platform Rebranding**. They moved from a single app (Santa) to a B2B AI-as-a-Service (R.Inside) platform to scale infinitely.
@@ -28,5 +36,6 @@ Riiid, recently rebranded as Socra AI, is a global leader in AI-driven education
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Speak]] (EdTech peer)
 - [[Scatter-Lab]] (Conversational AI peer)

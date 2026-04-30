@@ -1,3 +1,11 @@
+---
+industry: [IP Protection, Vision AI]
+scale: Series B
+hq: Los Angeles
+country: USA
+tags: [company, VerticalAI, LegalTech]
+about: AI platform for automated counterfeit detection and IP protection.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** MarqVision has turned IP protection from a "legal cost" into a "revenue growth lever." Their 2026 concept of the "AI Tax" on brands is a crucial insight for digital-first products.
 > **How to use it:** Study their "IP Operating System" as a model for how AI can provide offensive market share gains.
@@ -28,5 +36,6 @@ MarqVision is an "IP Operating System" that uses AI to protect brand integrity a
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Upstage]] (Enterprise SaaS peer)
 - [[Wrtn-Technologies]] (Consumer portal/platform awareness)

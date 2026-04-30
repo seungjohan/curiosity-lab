@@ -42,3 +42,14 @@
 | 2026-04-27 | ADDED | `wiki/SqueezeBits.md` | Deep-dive into AI Model Optimization. |
 | 2026-04-27 | ADDED | `wiki/FriendliAI.md` | Deep-dive into LLM Serving & PeriFlow. |
 | 2026-04-30 | ADDED | `wiki/Bear-Robotics.md` | Deep-dive into Physical AI leader & LG subsidiary. |
+| 2026-04-30 | ADDED | `wiki/AI-Industry-Map-2026.md` | Comprehensive mapping of Agentic, Physical, and Vertical AI intersections. |
+| 2026-04-30 | UPDATED | `wiki/ (27 files)` | Batch update to follow "Company Page Schema" (YAML frontmatter and Industry Map link). |
+| 2026-04-30 | UPDATED | `GEMINI.md` | Defined "List Page Schema" for structured index/map pages. |
+| 2026-04-30 | UPDATED | `wiki/` | Standardized [[AI-Industry-Map-2026]], [[AI-Startups-Korea-2026]], and [[Healthcare-AI-Trends-2026]] with new List Schema and #list tag. |
+| 2026-04-30 | UPDATED | `wiki/ (31+ files)` | Added explicit `country` property to all company pages and standardized `hq` (City/State). |
+| 2026-04-30 | ADDED | `wiki/ (London & Dublin)` | Added [[Wayve]], [[Synthesia]], [[Akara-Robotics]], and [[Tines]] with standard Analyst Schema. |
+| 2026-04-30 | ADDED | `wiki/ (Country Maps)` | Created [[Global-AI-Index]] and specific maps: [[South-Korea-AI-Map]], [[UK-AI-Map]], [[Ireland-AI-Map]], [[USA-AI-Map]]. |
+| 2026-05-01 | ADDED | `wiki/ (London & Dublin)` | Created 20 new company pages (10 London, 10 Dublin) following Schema. Added link to [[AI-Industry-Map-2026]]. |
+| 2026-05-01 | UPDATED | `wiki/UK-AI-Map.md` | Listed all 30 researched companies for London/UK. |
+| 2026-05-01 | UPDATED | `wiki/Ireland-AI-Map.md` | Listed all 30 researched companies for Dublin/Ireland. |
+| 2026-05-01 | UPDATED | `wiki/index.md` | Integrated new London & Dublin leaders into Pillar structure. |

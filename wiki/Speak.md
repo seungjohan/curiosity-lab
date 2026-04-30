@@ -1,3 +1,11 @@
+---
+industry: [EdTech, Language Learning]
+scale: Series B+
+hq: San Francisco
+country: USA
+tags: [company, VerticalAI, EdTech]
+about: AI-powered language learning application with real-time speech recognition.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Speak is the definitive case study for "Applied LLM UX." By partnering with OpenAI and focusing on the "Speaking" moat, they've turned a commodity LLM into a high-retention EdTech product.
 > **How to use it:** For a junior 0→1 PM, study their **Conversational Flow**. They solved the "Fear of Speaking" by making the AI a non-judgmental, low-friction tutor.
@@ -27,5 +35,6 @@ Speak is an AI-native language learning platform that provides a real-time, inte
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[VoyagerX]] (Consumer UX peer)
 - [[Scatter-Lab]] (Conversational AI peer)

@@ -1,3 +1,11 @@
+---
+industry: [Healthcare, Medical Imaging]
+scale: Public
+hq: Seoul
+country: South Korea
+tags: [company, VerticalAI, Healthcare]
+about: AI medical diagnostics platform for radiology and cardiology.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** VUNO is the "Biosignal Pioneer." While others focused on images, VUNO won by predicting cardiac arrest (**DeepCARS**) using simple biosignals.
 > **How to use it:** For a junior 0→1 PM, study their **Revenue Mix**. 74% of their revenue comes from *one* highly focused prediction product (DeepCARS), proving that "Focus" beats "Breadth."
@@ -28,5 +36,6 @@ VUNO is a medical AI leader specializing in deep learning-based analysis of medi
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Lunit]] (Direct competitor/peer)
 - [[AItrics]] (Biosignal competitor/peer)

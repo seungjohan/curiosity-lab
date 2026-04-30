@@ -1,3 +1,11 @@
+---
+industry: [Video AI, Multimodal AI, Infrastructure]
+scale: Scale-up
+hq: San Francisco, CA
+country: USA
+tags: [company, CreativeTech, VideoUnderstanding, Multimodal]
+about: Leader in multimodal video understanding, building infrastructure to make video as searchable as text.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Twelve Labs is the leader in "multimodal video understanding." As a composer and writer, this is the tech that will eventually allow AI to "score" video or "write" based on visual cues.
 > **How to use it:** A PM here works at the frontier of how machines perceive time-based media (video/audio).
@@ -34,3 +42,4 @@ Twelve Labs is an AI startup building the foundational infrastructure for video 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
 - [[Creative-Tech-Trends]]
+- [[AI-Industry-Map-2026]]

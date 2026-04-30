@@ -1,3 +1,11 @@
+---
+industry: [Healthcare, Medical Imaging]
+scale: Public
+hq: Seoul
+country: South Korea
+tags: [company, VerticalAI, Healthcare]
+about: AI-powered cancer diagnostic and treatment planning software.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Lunit is the gold standard for "Applied AI" in healthcare. Their 2026 pivot to profitability proves that medical AI can move from R&D curiosity to a sustainable, large-scale business.
 > **How to use it:** Benchmark for PMs on how to navigate high-stakes, regulated environments while maintaining high-growth SaaS metrics.
@@ -28,5 +36,6 @@ Lunit is a global leader in AI-driven medical imaging and precision oncology, fa
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Upstage]] (Enterprise AI peer)
 - [[Twelve-Labs]] (R&D intensity peer)

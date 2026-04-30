@@ -1,3 +1,11 @@
+---
+industry: [Bio-Tech, Drug Discovery]
+scale: Series A
+hq: Seoul
+country: South Korea
+tags: [company, VerticalAI, BioTech]
+about: AI platform for RNA-based drug discovery and biological data analysis.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Coredotbio is shifting the biotech paradigm from "Molecule-centric" to "System-centric." They are building a "World Model" for biology to fix the 90% failure rate in drug development.
 > **How to use it:** For a junior 0→1 PM, study their **Platform Play (Helixir AI)**. They are democratizing mRNA design for external teams, creating a "Network Effect" in deep science.
@@ -27,5 +35,6 @@ Coredotbio is a TechBio company that leverages equivariant AI foundation models 
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Standigm]] (Direct competitor/peer)
 - [[Lunit]] (Precision medicine peer)

@@ -1,3 +1,11 @@
+---
+industry: [Physical AI, Robotics, Hospitality, Logistics]
+scale: Scale-up (LG Subsidiary)
+hq: Redwood City, CA
+country: USA
+tags: [PhysicalAI, SDR, Logistics, Hospitality, LG, PhysicalAIBody, company]
+about: Silicon Valley-based leader in Physical AI and autonomous mobile robots (AMRs), now a subsidiary of LG Electronics.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Bear Robotics represents the shift from "screen AI" to "Physical AI," where autonomous navigation meets high-frequency human service needs. Its acquisition by LG Electronics (2025) signifies a major consolidation in the service robot market, merging Bear's advanced software-defined robotics (SDR) with LG's hardware scale.
 > **How to use it:** Monitor their transition from hospitality (Servi) to industrial/logistics (Carti/Cardi) as a blueprint for vertical expansion. Look for PM opportunities in "Physical AI" orchestration where multi-robot coordination (500+ units) is the next UX challenge.

@@ -1,3 +1,11 @@
+---
+industry: [Video Editing, AI Productivity]
+scale: Scale-up
+hq: Seoul
+country: South Korea
+tags: [company, VerticalAI, Productivity]
+about: AI-powered mobile apps including vFlat (scanning) and Vrew (video editing).
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** VoyagerX represents the "Human-Centric AI" ideal. By making video editing as easy as editing text, they’ve unlocked the creator economy for millions.
 > **How to use it:** Perfect benchmark for "Prosumer UX." Study how they handle the transition from "Tool" to "Agent."
@@ -26,6 +34,7 @@ VoyagerX is an AI-driven productivity startup famous for **Vrew**, a text-based 
 - **Reputation:** Rated "Highest Relevance" for Creator UX in the 2026 Korean AI landscape.
 
 ## 🔗 Connections
-- [[Twelve-Labs]] (Complementary Video AI infrastructure)
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
+- [[Twelve-Labs]] (Complementary Video AI infrastructure)
 - [[Creative-Tech-Trends]]

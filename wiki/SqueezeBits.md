@@ -1,3 +1,11 @@
+---
+industry: [AI Compression, Model Efficiency]
+scale: Series A
+hq: Seoul
+country: South Korea
+tags: [company, Infrastructure, MLOps]
+about: AI model compression and optimization for efficient on-device deployment.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** SqueezeBits solves the "GenAI Trilemma" (Accuracy vs. Efficiency vs. Latency). Their **OwLite** toolkit allows LLMs to run on tiny edge chips without losing intelligence.
 > **How to use it:** For a junior 0→1 PM, study their **Hardware-Awareness**. They don't just compress models; they optimize them for *specific* chips (Qualcomm, Samsung).
@@ -27,5 +35,6 @@ SqueezeBits is an AI model compression and optimization specialist that enables 
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Nota-AI]] (Direct competitor/peer)
 - [[DeepX]] (Hardware partner)

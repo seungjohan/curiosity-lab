@@ -1,3 +1,11 @@
+---
+industry: [B2C AI Portal, GenAI]
+scale: Series B
+hq: Seoul
+country: South Korea
+tags: [company, AgenticAI, B2C]
+about: Leading B2C AI portal in Korea offering diverse generative AI services.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Wrtn is the "front door" for AI for the general public in Korea. It's a high-velocity B2C environment.
 > **How to use it:** Ideal for a 0→1 PM who wants to build features that millions of people will use immediately.
@@ -29,4 +37,5 @@ Wrtn is Korea's leading B2C AI portal, offering a platform where users can acces
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[B2C-AI-Strategy]]

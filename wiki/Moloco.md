@@ -1,3 +1,11 @@
+---
+industry: [AdTech, Machine Learning]
+scale: Unicorn
+hq: Redwood City
+country: USA
+tags: [company, VerticalAI, AdTech]
+about: Machine learning platform for performance-based mobile advertising.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Moloco is the "Walled Garden" challenger. They prove that "Operational ML" (models that make money in real-time) is more valuable than general intelligence in the ad market.
 > **How to use it:** Study their **Outcomes-based Model**. They focus on ROAS (Return on Ad Spend) rather than just "clicks."
@@ -27,5 +35,6 @@ Moloco (Machine Learning Company) is a global leader in AI-native ad infrastruct
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Wrtn-Technologies]] (Monetization peer)
 - [[Sendbird]] (Infrastructure peer)

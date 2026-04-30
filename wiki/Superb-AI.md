@@ -1,3 +1,11 @@
+---
+industry: [MLOps, Data Lifecycle]
+scale: Pre-IPO
+hq: San Mateo
+country: USA
+tags: [company, VerticalAI, MLOps]
+about: MLOps platform for managing data labeling and computer vision models.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Superb AI is the bridge to "Physical AI." Their 2026 move into "Zero-Shot" industrial models shows that the value in MLOps has shifted from "Labeling" to "Curation and Deployment."
 > **How to use it:** A 0→1 PM should study their **Vertical Strategy**. They moved beyond general MLOps into deep industrial niches (Manufacturing, Aerospace).
@@ -27,5 +35,6 @@ Superb AI is an "All-in-One Vision AI" platform provider that automates the MLOp
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Nota-AI]] (Edge AI peer)
 - [[Rebellions]] (Infrastructure partner/peer)

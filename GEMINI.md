@@ -57,6 +57,43 @@ Every wiki page must follow this structure:
 - [[Related Page 2]]
 ```
 
+### 🏢 Company Page Schema (Analyst Mode)
+For pages specifically analyzing a company, use this standardized YAML frontmatter and tagging:
+
+```markdown
+---
+industry: [Primary, Secondary]
+scale: [Startup/Scale-up/Unicorn/Public]
+hq: City, State/Province
+country: CountryName
+tags: [company, PillarName, SpecificTag]
+about: One-sentence summary.
+---
+```
+
+**Mandatory for Companies:**
+- Use `#company` tag.
+- Include explicit `country` for easier filtering.
+- Link to the relevant pillar in [[AI-Industry-Map-2026]].
+
+### 📜 List Page Schema (Index/Map Mode)
+For pages that list, map, or index multiple entities, use this standardized schema:
+
+```markdown
+---
+type: list
+scope: [Global/Regional/Industry-specific]
+pillar: [AgenticAI/PhysicalAI/VerticalAI/Infrastructure/Cross-pillar]
+tags: [list, Map, StartupList, Strategy]
+about: Concise description of what this list covers.
+---
+```
+
+**Mandatory for Lists:**
+- Use `#list` tag for vault-wide filtering.
+- Define the `scope` (e.g., "South Korea", "Global AI Landscape").
+- Define the `pillar` it primarily serves.
+
 ## 🔗 Linking Philosophy
 - Prioritize patterns across domains (e.g., Product ↔ Music).
 - Build a network of thinking, not isolated notes.

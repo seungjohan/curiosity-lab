@@ -1,3 +1,11 @@
+---
+industry: [AICC, Enterprise AI]
+scale: Pre-Unicorn
+hq: Seoul
+country: South Korea
+tags: [company, Infrastructure, EnterpriseAI]
+about: Conversational AI and on-device AI solutions for customer centers.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Persona AI is the leader in "On-Device AX" (AI Transformation). They solve the privacy and cost problems of LLMs by using sLMs (Small Language Models) that run locally.
 > **How to use it:** Study their **Mentor Lens** (AI Smart Glasses). It’s a glimpse into how AI moves from a "screen" to a "wearable" interactive experience.
@@ -27,5 +35,6 @@ Persona AI (페르소나AI) is an Enterprise AX (AI Transformation) specialist f
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Upstage]] (Enterprise AI peer)
 - [[Sendbird]] (Conversational UI peer)

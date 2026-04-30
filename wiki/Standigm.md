@@ -1,3 +1,11 @@
+---
+industry: [Drug Discovery, Bio-Tech]
+scale: Series C
+hq: Seoul
+country: South Korea
+tags: [company, VerticalAI, BioTech]
+about: AI-powered drug discovery platform for identifying new drug candidates.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Standigm is industrializing drug discovery. Their move from "Service" to "Pipeline" (Hybrid Model) shows how AI can double the success rate of Phase I clinical trials.
 > **How to use it:** For a junior 0→1 PM, study their **Rapid Iteration Cycle**. They reduced the early discovery timeline to just 7 months using a "Knowledge Graph" approach.
@@ -27,5 +35,6 @@ Standigm is an AI-driven drug discovery company that automates the transition fr
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[AItrics]] (Healthcare R&D peer)
 - [[Lunit]] (Diagnostics peer)

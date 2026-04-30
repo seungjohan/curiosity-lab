@@ -1,0 +1,63 @@
+Company,Country,HQ,Industry,Scale,Pillar,Tags,About
+Upstage,South Korea,Seoul,"Enterprise AI, LLM, Agentic AI",Unicorn,AgenticAI,"#company, #AgenticAI, #SolarLLM, #SovereignAI, #B2B",South Korea's leading generative AI unicorn focusing on practical AI and agentic workflows.
+Bear Robotics,USA,Redwood City,"Physical AI, Robotics, Hospitality, Logistics",Scale-up (LG Subsidiary),PhysicalAI,"#company, #PhysicalAI, #SDR, #Logistics, #Hospitality, #LG, #PhysicalAIBody",Silicon Valley-based leader in Physical AI and autonomous mobile robots (AMRs).
+Twelve Labs,USA,San Francisco,"Video AI, Multimodal AI, Infrastructure",Scale-up,Infrastructure,"#company, #CreativeTech, #VideoUnderstanding, #Multimodal",Leader in multimodal video understanding building infrastructure to make video searchable.
+Wayve,UK,London,"Physical AI, Autonomous Vehicles",Unicorn,PhysicalAI,"#company, #PhysicalAI, #AV, #DeepTech, #London",Leader in embodied AI for autonomous driving using end-to-end deep learning.
+Synthesia,UK,London,"Video AI, Creative Tech",Unicorn,VerticalAI,"#company, #VerticalAI, #CreativeTech, #VideoAvatars, #London",AI video generation platform specialized in hyper-realistic interactive avatars.
+Akara Robotics,Ireland,Dublin,"Physical AI, Robotics, Healthcare",Scale-up,PhysicalAI,"#company, #PhysicalAI, #Healthcare, #Robotics, #Dublin",Trinity College spin-out developing AI-powered robots for hospital disinfection.
+Tines,Ireland,Dublin,"Agentic AI, Cybersecurity, Automation",Scale-up,AgenticAI,"#company, #AgenticAI, #Cybersecurity, #Automation, #Dublin",Cybersecurity orchestration platform for autonomous agentic workflows.
+Rebellions,South Korea,Seoul,"AI Hardware, Semiconductors",Unicorn,Infrastructure,"#company, #Infrastructure, #Semiconductors",Fabless AI chip company focusing on ultra-low latency inference.
+MakinaRocks,South Korea,Seoul,"Industrial AI, MLOps, Manufacturing",Scale-up,VerticalAI,"#company, #IndustrialAI, #PredictiveMaintenance, #MLOps",Industrial AI startup specializing in anomaly detection and process optimization.
+Lunit,South Korea,Seoul,"Healthcare AI, Oncology",Public,VerticalAI,"#company, #VerticalAI, #Healthcare, #MedTech",Leading healthcare AI company focusing on cancer diagnostics and treatment.
+Wrtn Technologies,South Korea,Seoul,"B2C AI Portal, GenAI",Series B,AgenticAI,"#company, #AgenticAI, #B2C",Leading B2C AI portal in Korea offering diverse generative AI services.
+World Labs,USA,San Francisco,"Spatial AI, 3D Computer Vision",Unicorn,PhysicalAI,"#company, #PhysicalAI, #SpatialIntelligence, #3D",Fei-Fei Li's startup building Large World Models with spatial intelligence.
+Cognition AI,USA,San Francisco,"Agentic AI, Software Engineering",Unicorn,AgenticAI,"#company, #AgenticAI, #Devin, #Coding",Creator of Devin the first autonomous AI software engineer.
+Sierra,USA,San Francisco,"Agentic AI, Customer Experience",Unicorn,AgenticAI,"#company, #AgenticAI, #CX, #BretTaylor",Agentic AI platform for high-resolution autonomous customer service.
+Harvey AI,USA,San Francisco,"Vertical AI, Legal",Unicorn,VerticalAI,"#company, #VerticalAI, #LegalTech",Standard for M&A due diligence and legal research for Big Law.
+Hebbia,USA,New York,"Vertical AI, Finance",Scale-up,VerticalAI,"#company, #VerticalAI, #Finance, #WallStreet",Matrix platform for automated analysis of global financial assets.
+Formation Bio,USA,New York,"Vertical AI, Pharma",Scale-up,VerticalAI,"#company, #VerticalAI, #Pharma, #DrugDiscovery",AI-native drug development and clinical trial acceleration.
+Rogo,USA,New York,"Agentic AI, Finance",Scale-up,AgenticAI,"#company, #AgenticAI, #Finance, #Banking",Autonomous agents for financial modeling and investment banking.
+CloudNC,UK,London,"Physical AI, Manufacturing",Scale-up,PhysicalAI,"#company, #PhysicalAI, #Manufacturing, #SDR",Automating precision manufacturing with autonomous CNC programming.
+LabGenius,UK,London,"Physical AI, Biotech",Scale-up,PhysicalAI,"#company, #PhysicalAI, #Biotech, #Robotics",Using a robotic platform to autonomously design and test protein therapeutics.
+PhysicsX,UK,London,"Physical AI, Engineering",Scale-up,PhysicalAI,"#company, #PhysicalAI, #Engineering, #Simulations",Physical AI for engineering and aerospace simulations.
+11xAI,UK,London,"Agentic AI, Sales",Scale-up,AgenticAI,"#company, #AgenticAI, #SDR, #Sales",Creator of Alice the world's first autonomous AI sales representative.
+Gradient Labs,UK,London,"Agentic AI, FinOps",Scale-up,AgenticAI,"#company, #AgenticAI, #FinOps, #CustomerOps",Autonomous agents for customer operations in regulated finance.
+Fetch.ai,UK,London,"Agentic AI, Decentralized",Scale-up,AgenticAI,"#company, #AgenticAI, #Decentralized, #MAS",Decentralized platform for autonomous economic agents.
+Quantexa,UK,London,"Vertical AI, Decision Intelligence",Unicorn,VerticalAI,"#company, #VerticalAI, #DecisionIntelligence, #BigData",Decision intelligence platform for fraud detection and risk management.
+Tractable,UK,London,"Vertical AI, Insurance",Unicorn,VerticalAI,"#company, #VerticalAI, #Insurance, #CV",Computer vision for automated insurance claims assessment.
+Limbic,UK,London,"Vertical AI, Healthcare",Scale-up,VerticalAI,"#company, #VerticalAI, #Healthcare, #MentalHealth",Clinical AI for mental health triage and diagnostic support.
+ElevenLabs,UK,London,"Vertical AI, Audio",Unicorn,VerticalAI,"#company, #VerticalAI, #Audio, #VoiceAI",Leader in AI voice synthesis and audio generation.
+Manna Drone Delivery,Ireland,Dublin,"Physical AI, Logistics",Scale-up,PhysicalAI,"#company, #PhysicalAI, #Logistics, #Drones",Autonomous aerial logistics for suburban delivery.
+Provizio,Ireland,Dublin,"Physical AI, Auto",Scale-up,PhysicalAI,"#company, #PhysicalAI, #Auto, #Safety",5D radar and edge AI for predictive automotive safety.
+Ubotica,Ireland,Dublin,"Physical AI, Space",Scale-up,PhysicalAI,"#company, #PhysicalAI, #Space, #EdgeAI",Orbital AI platforms for autonomous satellite processing.
+Protex AI,Ireland,Dublin,"Physical AI, Safety",Scale-up,PhysicalAI,"#company, #PhysicalAI, #Safety, #CV",Workplace safety monitoring using proactive computer vision.
+Jentic,Ireland,Dublin,"Agentic AI, Infrastructure",Startup,AgenticAI,"#company, #AgenticAI, #Infra",Infrastructure for API-native business agents.
+Rezolve AI,Ireland,Dublin,"Agentic AI, Service Desk",Scale-up,AgenticAI,"#company, #AgenticAI, #ITSM",Autonomous service desk for IT and HR support.
+Numra,Ireland,Dublin,"Agentic AI, FinOps",Scale-up,AgenticAI,"#company, #AgenticAI, #Accounting",Automating financial operations with AI accounting assistants.
+Nuritas,Ireland,Dublin,"Vertical AI, Biotech",Scale-up,VerticalAI,"#company, #VerticalAI, #Biotech, #Peptides",AI-driven peptide discovery for health and pharma.
+Kitman Labs,Ireland,Dublin,"Vertical AI, Sports",Scale-up,VerticalAI,"#company, #VerticalAI, #Sports, #Analytics",Intelligence platform for elite sports performance and injury risk.
+Nory,Ireland,Dublin,"Vertical AI, Hospitality",Scale-up,VerticalAI,"#company, #VerticalAI, #Hospitality, #SaaS",AI-powered operating system for the hospitality industry.
+DeepX,South Korea,Gyeonggi,"Edge NPU, AI Chips",Scale-up,Infrastructure,"#company, #Infrastructure, #Semiconductors",AI semiconductor company focusing on NPU for edge devices.
+FuriosaAI,South Korea,Seoul,"AI Hardware, Semiconductors",Scale-up,Infrastructure,"#company, #Infrastructure, #Semiconductors",High-performance NPU for data centers and edge AI.
+Nota AI,South Korea,Seoul,"Model Optimization, Edge AI",Scale-up,Infrastructure,"#company, #Infrastructure, #Optimization",Lightweighting AI models for on-device deployment.
+SqueezeBits,South Korea,Seoul,"Model Compression, AI Optimization",Startup,Infrastructure,"#company, #Infrastructure, #Optimization",AI model compression and acceleration software.
+FriendliAI,South Korea,Seoul,"LLM Serving, Infrastructure",Startup,Infrastructure,"#company, #Infrastructure, #LLM",Optimized LLM serving and PeriFlow infrastructure.
+Scatter Lab,South Korea,Seoul,"Social AI, Zeta",Scale-up,AgenticAI,"#company, #AgenticAI, #SocialAI",Interactive storytelling and social AI platform (Zeta).
+LINER,South Korea,Seoul,"AI Search, Research",Scale-up,AgenticAI,"#company, #AgenticAI, #Search",Global AI search and research productivity leader.
+Speak,USA,San Francisco,"AI Education, EdTech",Scale-up,VerticalAI,"#company, #VerticalAI, #EdTech, #Language",AI language tutoring and oral communication platform.
+Riiid,South Korea,Seoul,"AI Education, EdTech",Scale-up,VerticalAI,"#company, #VerticalAI, #EdTech",AI-driven personalized learning for exam prep.
+VUNO,South Korea,Seoul,"Healthcare AI, Medical Imaging",Public,VerticalAI,"#company, #VerticalAI, #Healthcare",Medical imaging and biosignal AI diagnostics.
+AItrics,South Korea,Seoul,"Healthcare AI, Crisis Prediction",Scale-up,VerticalAI,"#company, #VerticalAI, #Healthcare",VitalCare platform for medical crisis prediction.
+MediWhale,South Korea,Seoul,"Healthcare AI, Retinal Biomarkers",Scale-up,VerticalAI,"#company, #VerticalAI, #Healthcare",Reti-Intelligence for preventive care through eye scans.
+Standigm,South Korea,Seoul,"AI Drug Discovery",Scale-up,VerticalAI,"#company, #VerticalAI, #DrugDiscovery",AI-driven drug discovery for industrial R&D.
+Coredotbio,South Korea,Seoul,"mRNA AI, World Models",Startup,VerticalAI,"#company, #VerticalAI, #Biotech",mRNA AI and biological world models.
+AIMMO,South Korea,Seongnam,"DataOps, Autonomous Driving",Scale-up,VerticalAI,"#company, #VerticalAI, #DataOps",High-quality data operations for autonomous physical systems.
+Superb AI,South Korea,Seoul,"MLOps, Vision AI",Scale-up,VerticalAI,"#company, #VerticalAI, #MLOps",End-to-end MLOps platform for computer vision.
+VoyagerX,South Korea,Seoul,"AI Video Editing, Creator UX",Scale-up,VerticalAI,"#company, #VerticalAI, #CreativeTech",AI video editing and productivity tools (Vrew).
+Persona AI,South Korea,Seoul,"AICC, On-device AX",Scale-up,VerticalAI,"#company, #VerticalAI, #AICC",Artificial Intelligence Contact Center and on-device AI solutions.
+Allganize,South Korea,Seoul,"Agentic AI, sLLM",Scale-up,AgenticAI,"#company, #AgenticAI, #sLLM",Agentic AI and small LLM enablement for enterprise.
+Sendbird,USA,San Mateo,"Communication, AI CX",Scale-up,AgenticAI,"#company, #AgenticAI, #CX",AI-first communication and customer experience platform.
+Moloco,USA,Redwood City,"AdTech, Machine Learning",Unicorn,VerticalAI,"#company, #VerticalAI, #AdTech",Operational ML and performance advertising technology.
+MarqVision,USA,Los Angeles,"IP Protection, Brand Integrity",Scale-up,VerticalAI,"#company, #VerticalAI, #LegalTech",AI-driven IP and brand protection OS.
+Mobilint,South Korea,Seoul,"Edge NPU, Industrial AI",Scale-up,Infrastructure,"#company, #Infrastructure, #NPU",Industrial NPU and edge AI for physical systems.
+... (50+ more US companies based on search results)

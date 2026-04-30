@@ -1,3 +1,11 @@
+---
+industry: [Edge NPU, AI Chips]
+scale: Series C
+hq: Gyeonggi
+country: South Korea
+tags: [company, Infrastructure, Semiconductors]
+about: AI semiconductor company developing high-efficiency NPU for edge devices.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** DeepX has solved the "Power-Performance" paradox for the edge. Their ability to run 100B parameter models on under 5W is the "holy grail" for robotics.
 > **How to use it:** For a 0→1 PM, this is about **Unlocking Use Cases**. Robots can now "think" locally without needing a Wi-Fi connection or a massive battery.
@@ -27,5 +35,6 @@ DeepX is a high-performance AI semiconductor company focusing on NPU (Neural Pro
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[FuriosaAI]] (Direct competitor/peer)
 - [[Nota-AI]] (Optimization partner)

@@ -1,3 +1,11 @@
+---
+industry: [Healthcare, AI Diagnostics]
+scale: Series B
+hq: Seoul
+country: South Korea
+tags: [company, VerticalAI, Healthcare]
+about: AI-driven clinical decision support system for emergency medicine.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** AItrics is the "Life-Saving AI." Their **VitalCare** platform proves that AI can be a "Clinical Copilot" that predicts death and sepsis hours before they happen.
 > **How to use it:** For a junior 0→1 PM, study their **Regulatory Moat**. They didn't just build a model; they built a medical device with global certifications (FDA, MDSAP).
@@ -27,5 +35,6 @@ AItrics is a medical AI company specializing in real-time patient monitoring and
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Lunit]] (Medical AI peer/leader)
 - [[Application-Strategy-2026]]

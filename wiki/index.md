@@ -3,12 +3,14 @@
 Welcome to your thinking system. This index is the map of your synthesized knowledge across product, creativity, and learning.
 
 ## 🚀 AI Strategy & Landscape
+- [[AI-Industry-Map-2026]] - Categorization and intersections of Agentic, Physical, and Vertical AI.
 - [[AI-Startups-Korea-2026]] - Current landscape and high-potential targets.
 - [[Application-Strategy-2026]] - Tailored pitches and application tactics.
 - [[Job-Search-Status-2026]] - Active application tracking and lead pipeline.
 - [[Product-Management-0-to-1]] - 0→1 PM skillset and strategic targets.
 
 ## 🔗 Career Hub (Quick Access)
+- [[Global-AI-Index]] - Regional hubs (Korea, UK, Ireland, USA).
 | Company | Career Page | Platform Focus |
 | :--- | :--- | :--- |
 | **Twelve Labs** | [twelvelabs.ai/careers](https://www.twelvelabs.ai/careers) | Global/Multimodal |
@@ -56,6 +58,7 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 - [[MediWhale]] - Reti-Intelligence & Preventive care.
 - [[Standigm]] - AI Drug Discovery (Industrial R&D).
 - [[Coredotbio]] - mRNA AI & World Models.
+- [[Nuritas]] - AI-driven peptide discovery.
 
 ### Industrial & Autonomous Driving
 - [[MakinaRocks]] - Industrial AI & Predictive maintenance.
@@ -65,10 +68,20 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 ### Creative Tech & Search
 - [[Creative-Tech-Trends]] - Video understanding, Prosumer UX, and Social AI.
 - [[Twelve-Labs]] - Global leader in video understanding and multimodal AI.
+- [[ElevenLabs]] - State-of-the-art AI audio & voice synthesis.
 - [[VoyagerX]] - AI Video Editing & Creator UX (Vrew).
 - [[DeepBrain-AI]] - AI Humans & Agentic video avatars.
 - [[MarqVision]] - AI-driven IP & Brand Integrity OS.
 - [[Persona-AI]] - AICC & On-device AX (SKT backed).
+
+### Financial, Insurance & Legal
+- [[Quantexa]] - Decision Intelligence for fraud & risk management.
+- [[Tractable]] - Computer vision for insurance claims.
+
+### Specialized Services
+- [[Limbic]] - AI mental health triage (NHS backed).
+- [[Kitman-Labs]] - Elite sports performance intelligence.
+- [[Nory]] - AI-powered operating system for hospitality.
 
 ### AdTech & Commerce
 - [[Moloco]] - Operational ML & Performance AdTech Unicorn.
@@ -83,4 +96,4 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 - *Empty - Awaiting inputs*
 
 ---
-*Last Updated: 2026-04-27*
+*Last Updated: 2026-05-01*

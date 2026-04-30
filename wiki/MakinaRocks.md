@@ -1,3 +1,11 @@
+---
+industry: [Industrial AI, Manufacturing, Enterprise Software]
+scale: Series B Scale-up
+hq: Seoul
+country: South Korea
+tags: [company, IndustrialAI, Manufacturing, MLOps]
+about: Industrial AI startup specializing in anomaly detection and process optimization.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** MakinaRocks is the "Industrial Intelligence" layer. They solve the "Rework Tax" in manufacturing through anomaly detection and process optimization.
 > **How to use it:** A 0→1 PM should study their **Enterprise Integration**. They don't just provide an API; they integrate into the factory floor (OT/IT convergence).

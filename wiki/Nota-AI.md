@@ -1,3 +1,11 @@
+---
+industry: [Edge AI, Model Optimization]
+scale: Public
+hq: Seoul
+country: South Korea
+tags: [company, Infrastructure, EdgeAI]
+about: Lightweight AI model optimization and deployment platform for edge devices.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Nota AI is the critical "enabler" for the Edge AI era. Their ability to compress LLMs and VLMs for hardware like Samsung's Exynos is a massive technical moat.
 > **How to use it:** Monitor their **NetsPresso** platform as the standard for hardware-aware model optimization.
@@ -27,5 +35,6 @@ Nota AI is a global leader in Edge AI optimization, specializing in making high-
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Rebellions]] (Hardware partner/peer)
 - [[Creative-Tech-Trends]] (On-device enablement)

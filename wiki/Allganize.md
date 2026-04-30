@@ -1,3 +1,11 @@
+---
+industry: [Enterprise AI, Workflow Automation]
+scale: Series B
+hq: Tokyo
+country: Japan
+tags: [company, AgenticAI, Workflow]
+about: LLM-based enterprise search and workflow automation solution.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Allganize is the pioneer of "Zero-Labor" automation. They've successfully moved from "Chat" to "Agentic AI" that orchestrates entire workflows in high-security environments.
 > **How to use it:** For a junior 0→1 PM, study their **App Market Strategy**. They didn't just build an LLM; they built a marketplace of 100+ specialized apps to solve the "Paradox of Choice" for enterprises.
@@ -27,5 +35,6 @@ Allganize is an Enterprise AI platform specialist that provides "All-in-One" gen
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Upstage]] (Direct competitor/peer)
 - [[Sendbird]] (Conversational AI peer)

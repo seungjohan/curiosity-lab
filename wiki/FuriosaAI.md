@@ -1,3 +1,11 @@
+---
+industry: [AI Chips, Infrastructure]
+scale: Series C
+hq: Seoul
+country: South Korea
+tags: [company, Infrastructure, Semiconductors]
+about: AI semiconductor startup designing high-performance chips for data centers.
+---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** FuriosaAI is a masterclass in "High-Conviction Product Strategy." By rejecting an $800M Meta buyout to pursue an independent 2027 IPO, they are betting on the "Inference Gap."
 > **How to use it:** For a junior 0→1 PM, the learning here is **Vertical Specialization**. They didn't try to beat Nvidia at training; they built the best "inference-per-watt" engine for data centers.
@@ -27,5 +35,6 @@ FuriosaAI is a leading AI semiconductor company specializing in high-performance
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
+- [[AI-Industry-Map-2026]]
 - [[Rebellions]] (Direct competitor/peer)
 - [[Nota-AI]] (Software optimization partner/peer)
