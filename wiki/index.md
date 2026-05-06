@@ -5,6 +5,7 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 ## 🚀 AI Strategy & Landscape
 - [[AI-Industry-Map-2026]] - Categorization and intersections of Agentic, Physical, and Vertical AI.
 - [[AI-Startups-Korea-2026]] - Current landscape and high-potential targets.
+- [[Visa-Sponsorship-PM-Europe-2026]] - IT/AI companies in major European hubs sponsoring PM visas.
 - [[Application-Strategy-2026]] - Tailored pitches and application tactics.
 - [[Job-Search-Status-2026]] - Active application tracking and lead pipeline.
 - [[Product-Management-0-to-1]] - 0→1 PM skillset and strategic targets.

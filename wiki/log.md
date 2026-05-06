@@ -53,3 +53,5 @@
 | 2026-05-01 | UPDATED | `wiki/UK-AI-Map.md` | Listed all 30 researched companies for London/UK. |
 | 2026-05-01 | UPDATED | `wiki/Ireland-AI-Map.md` | Listed all 30 researched companies for Dublin/Ireland. |
 | 2026-05-01 | UPDATED | `wiki/index.md` | Integrated new London & Dublin leaders into Pillar structure. |
+| 2026-05-06 | ADDED | `wiki/Visa-Sponsorship-PM-Europe-2026.md` | Researched and listed visa-sponsoring IT/AI companies in 8 European cities. |
+| 2026-05-06 | UPDATED | `wiki/index.md` | Added Visa Sponsorship list to the master index. |
