@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"7acd70a84fb1e715","type":"text","text":"## Side Project","x":60,"y":-720,"width":250,"height":60},
+		{"id":"8ba10c56a79ed5f9","type":"text","text":"## Otro Persona","x":880,"y":-720,"width":250,"height":60},
+		{"id":"2a14a214cdadf8c6","type":"link","url":"https://eopla.net/magazines/8075","x":1280,"y":-609,"width":400,"height":400},
+		{"id":"c70774ba6b812e52","type":"link","url":"https://eopla.net/magazines/7352#","x":1280,"y":-120,"width":400,"height":400},
+		{"id":"6880f17bf554c1c2","type":"text","text":"## Idea","x":60,"y":-1088,"width":250,"height":60},
+		{"id":"3e9ff146d2490bb1","type":"link","url":"https://www.youtube.com/watch?v=WY3clwTLEXc","x":-740,"y":-1517,"width":640,"height":360},
+		{"id":"4066c64834a68e96","type":"link","url":"https://readymag.com/?utm_source=protoware_google&utm_medium=cpc&utm_campaign=tier_1_youtube&utm_content=youtube&utm_term=&gclid=CjwKCAiA29auBhBxEiwAnKcSqnmbbuCcsqFMfnPe4CqhY64smocKTja-FA3LFo0EvrF-82cXEhOhmBoCTm0QAvD_BwE","x":-2200,"y":-890,"width":400,"height":400},
+		{"id":"a87e835a621ac1f7","type":"link","url":"https://eopla.net/magazines/10032","x":-2200,"y":-280,"width":400,"height":400},
+		{"id":"935f3ea223026ea2","type":"text","text":"### No code tool","x":-1165,"y":-720,"width":250,"height":60},
+		{"id":"14e04a9796b23022","type":"text","text":"## Single founding ","x":-364,"y":165,"width":289,"height":60},
+		{"id":"08890940eb7d99b1","type":"link","url":"https://maily.so/unsexybusinesskr/posts/b775f6f8","x":-1040,"y":294,"width":400,"height":400},
+		{"id":"4cc3390f3ca1115a","type":"link","url":"https://www.youtube.com/watch?v=SSeF-JXVWwQ","x":-1280,"y":848,"width":640,"height":360},
+		{"id":"17ddae1bfea0e28d","type":"link","url":"https://eopla.net/magazines/9703?utm_source=fb&utm_medium=text-organic&utm_campaign=post-booku2-Saturn","x":-1040,"y":1441,"width":400,"height":400},
+		{"id":"56a92f69a365d758","type":"link","url":"https://eopla.net/magazines/17351","x":-1040,"y":2135,"width":400,"height":400},
+		{"id":"cdf48a5597059c2c","x":-1040,"y":2698,"width":400,"height":400,"type":"link","url":"https://eopla.net/magazines/18999"}
+	],
+	"edges":[
+		{"id":"ad5aa474cd524850","fromNode":"935f3ea223026ea2","fromSide":"bottom","toNode":"a87e835a621ac1f7","toSide":"right"},
+		{"id":"174d6f9712a011b7","fromNode":"7acd70a84fb1e715","fromSide":"right","toNode":"8ba10c56a79ed5f9","toSide":"left"},
+		{"id":"f149ce5de4c51a75","fromNode":"8ba10c56a79ed5f9","fromSide":"bottom","toNode":"2a14a214cdadf8c6","toSide":"left"},
+		{"id":"977554c82b4059f5","fromNode":"8ba10c56a79ed5f9","fromSide":"bottom","toNode":"c70774ba6b812e52","toSide":"left"},
+		{"id":"f24a16f195e2ad94","fromNode":"6880f17bf554c1c2","fromSide":"top","toNode":"3e9ff146d2490bb1","toSide":"right"},
+		{"id":"8f49f5eb8bde22f3","fromNode":"6880f17bf554c1c2","fromSide":"bottom","toNode":"7acd70a84fb1e715","toSide":"bottom"},
+		{"id":"521003a78dc181df","fromNode":"7acd70a84fb1e715","fromSide":"left","toNode":"935f3ea223026ea2","toSide":"right"},
+		{"id":"3e095d760e6d6b69","fromNode":"935f3ea223026ea2","fromSide":"bottom","toNode":"4066c64834a68e96","toSide":"right"},
+		{"id":"c0e7d06d4dfbb2c7","fromNode":"7acd70a84fb1e715","fromSide":"bottom","toNode":"14e04a9796b23022","toSide":"right"},
+		{"id":"47ef808434d04b06","fromNode":"14e04a9796b23022","fromSide":"bottom","toNode":"08890940eb7d99b1","toSide":"right"},
+		{"id":"aea3593d5b36c59c","fromNode":"14e04a9796b23022","fromSide":"bottom","toNode":"4cc3390f3ca1115a","toSide":"right"},
+		{"id":"3525df9b5aab2d96","fromNode":"14e04a9796b23022","fromSide":"bottom","toNode":"17ddae1bfea0e28d","toSide":"right"},
+		{"id":"33fccab083286de4","fromNode":"14e04a9796b23022","fromSide":"bottom","toNode":"56a92f69a365d758","toSide":"right"},
+		{"id":"e3caab18ef2618d2","fromNode":"14e04a9796b23022","fromSide":"bottom","toNode":"cdf48a5597059c2c","toSide":"right"}
+	]
+}

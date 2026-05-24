@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e7274932cc9d51fc","type":"link","url":"https://gamma.app/","x":-420,"y":-280,"width":400,"height":400},
+		{"id":"72fb9160ab06962a","type":"text","text":"### Docs, Presentation","x":260,"y":-620,"width":250,"height":69}
+	],
+	"edges":[
+		{"id":"edd23b9f190be6d4","fromNode":"72fb9160ab06962a","fromSide":"bottom","toNode":"e7274932cc9d51fc","toSide":"right"}
+	]
+}
