@@ -36,6 +36,9 @@ A curated, data-driven list of fine dining restaurants filtered from premium sou
 ## Data Scope
 - **Fields**: Name, Address, Location, Price, Cuisine, Coordinates, Phone, URL, Website, Awards (Michelin Stars, Green Star, Wine List Award), Local Ratings (e.g., Ribbons, Soles, Points), Facilities.
 
+## Related
+- [[Favorite Foods]]
+
 ---
 - **Subject**: [[Startup & Side Projects]]
 - **Source**: `raw/obsidian/startup/idea/Listing reasonable Michelin restaurants.md`

@@ -14,7 +14,7 @@ Welcome to the Brainstorming Wiki. This is a persistent, interlinked knowledge b
 - [[Startup Insights]] - General research and wisdom.
 - [[Market Analysis]] - Companies and tools.
 - [[Webeing]] - Past project retrospective.
-- **Active Ideas**: [[The Connection]], [[Triathlon Photo Finder]], [[Michelin Filter]].
+- **Active Ideas**: [[The Connection]], [[Triathlon Photo Finder]].
 
 ### 🧠 Knowledge Base
 - [[Idea Stream]] - Raw thoughts, brain dumps, and evolving ideas.
@@ -36,6 +36,10 @@ Welcome to the Brainstorming Wiki. This is a persistent, interlinked knowledge b
 - [[Books]] - Reading logs and book reports.
 - [[Movies & Music]] - Reviews and inspirations from films and soundtracks.
 - [[Media & Articles]] - Insights from newsletters, videos, and articles.
+
+### 🍴 Culinary & Dining
+- [[Favorite Foods]] - Registry of personal favorite dishes.
+- [[Michelin Filter]] - Strategy for finding reasonable fine dining.
 
 ### 🛠️ Meta
 - [[llm-wiki-pattern]] - The philosophy and structure of this wiki.
