@@ -1,8 +1,12 @@
 ---
+category: career
 type: list
 scope: Global
 pillar: Cross-pillar
-tags: [list, Map, GlobalStrategy]
+tags:
+- list
+- Map
+- GlobalStrategy
 about: Master index of AI companies categorized by country and region.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

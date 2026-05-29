@@ -1,9 +1,15 @@
 ---
-industry: [B2C AI Portal, GenAI]
+category: career
+industry:
+- B2C AI Portal
+- GenAI
 scale: Series B
 hq: Seoul
 country: South Korea
-tags: [company, AgenticAI, B2C]
+tags:
+- company
+- AgenticAI
+- B2C
 about: Leading B2C AI portal in Korea offering diverse generative AI services.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
@@ -25,9 +31,9 @@ Wrtn is Korea's leading B2C AI portal, offering a platform where users can acces
 - **Product Velocity:** Known for very fast shipping cycles and experimental features.
 - **PM Role:** Focuses on retention, monetization of AI features, and the "Agent Ecosystem" strategy.
 
-## 💼 Current Openings (2024-2026)
-- **AX (AI Transformation) Product Manager:** (Seoul) Leading B2B AI solution development (AICC, Voicebots).
-- **AX Project Manager:** (Seoul) B2B client management and AI delivery.
+## 💼 Careers & Openings
+- **Product Manager (B2C):** [[Wrtn-Technologies-PM]] - Driving growth for the core AI platform (5M+ users).
+- **AX (AI Transformation) Product Manager:** (Seoul) Leading B2B AI solution development.
 - **Product Manager Intern:** Frequent openings for 2-month sprints focusing on data and user research.
 
 ## 🚀 Product Strategy
@@ -38,4 +44,4 @@ Wrtn is Korea's leading B2C AI portal, offering a platform where users can acces
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
 - [[AI-Industry-Map-2026]]
-- [[B2C-AI-Strategy]]
+- [[Wrtn-Technologies-PM]] - Active B2C PM role.

@@ -1,9 +1,15 @@
 ---
-industry: [AICC, Enterprise AI]
+category: career
+industry:
+- AICC
+- Enterprise AI
 scale: Pre-Unicorn
 hq: Seoul
 country: South Korea
-tags: [company, Infrastructure, EnterpriseAI]
+tags:
+- company
+- Infrastructure
+- EnterpriseAI
 about: Conversational AI and on-device AI solutions for customer centers.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

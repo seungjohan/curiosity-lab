@@ -1,9 +1,16 @@
 ---
-industry: [Agentic AI, Infrastructure]
+category: career
+industry:
+- Agentic AI
+- Infrastructure
 scale: Startup
 hq: Dublin
 country: Ireland
-tags: [company, AgenticAI, Infrastructure, DeveloperTools]
+tags:
+- company
+- AgenticAI
+- Infrastructure
+- DeveloperTools
 about: Jentic provides an AI integration layer for building complex, multi-agent workflows.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

@@ -1,3 +1,7 @@
+---
+category: system
+---
+
 # 🧠 Knowledge OS: Master Index
 
 Welcome to your thinking system. This index is the map of your synthesized knowledge across product, creativity, and learning.

@@ -1,10 +1,18 @@
 ---
-industry: [Agentic AI, FinOps]
+category: career
+industry:
+- Agentic AI
+- FinOps
 scale: Startup
 hq: London
 country: UK
-tags: [company, AgenticAI, FinOps, CustomerOperations]
-about: Gradient Labs builds autonomous agents for customer operations in highly regulated industries.
+tags:
+- company
+- AgenticAI
+- FinOps
+- CustomerOperations
+about: Gradient Labs builds autonomous agents for customer operations in highly regulated
+  industries.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Proves that Agentic AI can handle high-stakes, regulated environments (Fintech) if built with the right guardrails.

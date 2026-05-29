@@ -1,9 +1,15 @@
 ---
-industry: [Social AI, Conversational AI]
+category: career
+industry:
+- Social AI
+- Conversational AI
 scale: Series B
 hq: Seoul
 country: South Korea
-tags: [company, VerticalAI, SocialAI]
+tags:
+- company
+- VerticalAI
+- SocialAI
 about: Conversational AI company behind the emotional AI agent 'Luda Lee'.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
@@ -34,8 +40,12 @@ Scatter Lab is an AI-native entertainment company famous for its social AI chara
 - **User Growth:** Millions of user-generated characters; high Net Revenue Retention (NRR).
 - **Tech Stack:** Proprietary LLMs (Luda Gen, Koji, Luca).
 
+## 💼 Careers
+- **Product Owner (Zeta):** [[Scatter-Lab-PM]] - Leading the development of the Zeta social AI platform.
+
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
 - [[AI-Industry-Map-2026]]
 - [[DeepBrain-AI]] (Virtual human peer)
 - [[VoyagerX]] (Creator tool peer)
+- [[Scatter-Lab-PM]] - Active PO role for Zeta.

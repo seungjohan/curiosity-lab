@@ -1,9 +1,16 @@
 ---
+category: career
 type: list
 scope: USA (New York)
 pillar: Cross-pillar
-tags: [list, Map, USA, NYC, NewYork]
-about: Deep-dive list of 15+ New York City AI leaders focusing on Vertical AI (Finance, Legal, Pharma).
+tags:
+- list
+- Map
+- USA
+- NYC
+- NewYork
+about: Deep-dive list of 15+ New York City AI leaders focusing on Vertical AI (Finance,
+  Legal, Pharma).
 ---
 # USA AI Map: New York City
 

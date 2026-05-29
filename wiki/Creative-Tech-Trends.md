@@ -1,3 +1,7 @@
+---
+category: career
+---
+
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Creative tech is the intersection of AI understanding and human expression. For a PM, this is about moving from "Generative" (making things) to "Perceptive" (understanding style, mood, and intent).
 > **How to use it:** Focus on companies like [[Twelve-Labs]], [[VoyagerX]], and [[Scatter-Lab]] to study how they bridge the gap between deep-tech embeddings and creator workflows.

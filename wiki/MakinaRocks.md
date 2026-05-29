@@ -1,9 +1,17 @@
 ---
-industry: [Industrial AI, Manufacturing, Enterprise Software]
+category: career
+industry:
+- Industrial AI
+- Manufacturing
+- Enterprise Software
 scale: Series B Scale-up
 hq: Seoul
 country: South Korea
-tags: [company, IndustrialAI, Manufacturing, MLOps]
+tags:
+- company
+- IndustrialAI
+- Manufacturing
+- MLOps
 about: Industrial AI startup specializing in anomaly detection and process optimization.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

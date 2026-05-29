@@ -1,9 +1,15 @@
 ---
-industry: [IP Protection, Vision AI]
+category: career
+industry:
+- IP Protection
+- Vision AI
 scale: Series B
 hq: Los Angeles
 country: USA
-tags: [company, VerticalAI, LegalTech]
+tags:
+- company
+- VerticalAI
+- LegalTech
 about: AI platform for automated counterfeit detection and IP protection.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
@@ -34,8 +40,12 @@ MarqVision is an "IP Operating System" that uses AI to protect brand integrity a
 - **Customer Base:** 350+ global enterprise clients (Luxury, Fashion, Gaming, etc.).
 - **Impact:** Typically drives 5-10% top-line growth for brands through revenue recovery.
 
+## 💼 Careers
+- **Sr. Product Manager (Brand Protection):** [[MarqVision-PM]] - Leading automated enforcement engines for global brands.
+
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
 - [[AI-Industry-Map-2026]]
 - [[Upstage]] (Enterprise SaaS peer)
 - [[Wrtn-Technologies]] (Consumer portal/platform awareness)
+- [[MarqVision-PM]] - Active senior role for IP protection systems.

@@ -1,9 +1,15 @@
 ---
-industry: [AI Chips, Infrastructure]
+category: career
+industry:
+- AI Chips
+- Infrastructure
 scale: Series C
 hq: Seoul
 country: South Korea
-tags: [company, Infrastructure, Semiconductors]
+tags:
+- company
+- Infrastructure
+- Semiconductors
 about: AI semiconductor startup designing high-performance chips for data centers.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

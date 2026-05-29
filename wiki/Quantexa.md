@@ -1,10 +1,18 @@
 ---
-industry: [Vertical AI, Decision Intelligence]
+category: career
+industry:
+- Vertical AI
+- Decision Intelligence
 scale: Unicorn
 hq: London
 country: UK
-tags: [company, VerticalAI, DecisionIntelligence, Fintech]
-about: Quantexa provides AI-driven decision intelligence for fraud detection and risk management.
+tags:
+- company
+- VerticalAI
+- DecisionIntelligence
+- Fintech
+about: Quantexa provides AI-driven decision intelligence for fraud detection and risk
+  management.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It solves the "entity resolution" problem—knowing that ten different data points all refer to the same suspicious actor.

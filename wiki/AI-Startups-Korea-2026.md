@@ -1,9 +1,14 @@
 ---
+category: career
 type: list
 scope: South Korea
 pillar: Cross-pillar
-tags: [list, StartupList, Landscape]
-about: Comprehensive report on the 2026 South Korean AI startup ecosystem across three strategic pillars.
+tags:
+- list
+- StartupList
+- Landscape
+about: Comprehensive report on the 2026 South Korean AI startup ecosystem across three
+  strategic pillars.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** The 2026 Korean AI market has matured from "general model research" to a hyper-specialized "Precision Application" phase. For a 0→1 PM, the opportunity is no longer in building the LLM, but in orchestrating **Agentic Workflows** and **Physical AI** infrastructure.

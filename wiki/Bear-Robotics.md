@@ -1,10 +1,23 @@
 ---
-industry: [Physical AI, Robotics, Hospitality, Logistics]
+category: career
+industry:
+- Physical AI
+- Robotics
+- Hospitality
+- Logistics
 scale: Scale-up (LG Subsidiary)
 hq: Redwood City, CA
 country: USA
-tags: [PhysicalAI, SDR, Logistics, Hospitality, LG, PhysicalAIBody, company]
-about: Silicon Valley-based leader in Physical AI and autonomous mobile robots (AMRs), now a subsidiary of LG Electronics.
+tags:
+- PhysicalAI
+- SDR
+- Logistics
+- Hospitality
+- LG
+- PhysicalAIBody
+- company
+about: Silicon Valley-based leader in Physical AI and autonomous mobile robots (AMRs),
+  now a subsidiary of LG Electronics.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Bear Robotics represents the shift from "screen AI" to "Physical AI," where autonomous navigation meets high-frequency human service needs. Its acquisition by LG Electronics (2025) signifies a major consolidation in the service robot market, merging Bear's advanced software-defined robotics (SDR) with LG's hardware scale.
@@ -50,8 +63,12 @@ In Bear’s unified software stack (Bear Universe/OS), the `--model` flag is the
 - **Dynamic Configuration:** This flag triggers the loading of kinematic constraints, sensor maps, and actuator profiles unique to that model (Servi, Carti, or custom LG hardware).
 - **PM Insight:** For a 0→1 PM, this architecture is a massive "force multiplier." It allows for rapid prototyping of new hardware forms without rewriting core navigation or AI logic, effectively creating an "Android for Robots" ecosystem.
 
+## 💼 Careers
+- **Open Position:** [[Bear-Robotics-PM-Seoul]] - Product Manager (3–10 years), Seoul.
+
 ## 🔗 Connections
 - [[Edge-AI-Infrastructure-2026]] - Hardware/Software stack for on-device navigation.
 - [[MakinaRocks]] - Synergies in industrial AI and predictive maintenance.
 - [[AI-Startups-Korea-2026]] - Bear is a key player in the Korea-originated global robot landscape.
 - [[Superb-AI]] - Potential for vision AI training in complex physical environments.
+- [[Bear-Robotics-PM-Seoul]] - Active PM role in Seoul.

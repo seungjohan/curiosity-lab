@@ -1,9 +1,15 @@
 ---
-industry: [Video Editing, AI Productivity]
+category: career
+industry:
+- Video Editing
+- AI Productivity
 scale: Scale-up
 hq: Seoul
 country: South Korea
-tags: [company, VerticalAI, Productivity]
+tags:
+- company
+- VerticalAI
+- Productivity
 about: AI-powered mobile apps including vFlat (scanning) and Vrew (video editing).
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

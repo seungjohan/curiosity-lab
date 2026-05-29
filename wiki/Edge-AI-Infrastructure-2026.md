@@ -1,3 +1,7 @@
+---
+category: career
+---
+
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Edge AI is the bridge to the "Physical World." For a PM, this is about unlocking use cases where cloud latency or privacy risks are deal-breakers.
 > **How to use it:** Study the hardware-aware optimization tools of [[Nota-AI]] and [[SqueezeBits]] to understand how software constraints are defined by the silicon.

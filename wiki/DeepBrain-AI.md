@@ -1,9 +1,15 @@
 ---
-industry: [AI Humans, Creator Tools]
+category: career
+industry:
+- AI Humans
+- Creator Tools
 scale: Scale-up
 hq: Seoul
 country: South Korea
-tags: [company, AgenticAI, AIHumans]
+tags:
+- company
+- AgenticAI
+- AIHumans
 about: Real-time conversational AI video synthesis and virtual humans.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

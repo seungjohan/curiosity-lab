@@ -1,10 +1,18 @@
 ---
-industry: [Physical AI, Engineering]
+category: career
+industry:
+- Physical AI
+- Engineering
 scale: Scale-up
 hq: London
 country: UK
-tags: [company, PhysicalAI, Engineering, Simulation]
-about: PhysicsX builds AI-native engineering software to accelerate the design and operation of complex machines.
+tags:
+- company
+- PhysicalAI
+- Engineering
+- Simulation
+about: PhysicsX builds AI-native engineering software to accelerate the design and
+  operation of complex machines.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Traditional physics simulations are too slow for real-time AI optimization; PhysicsX makes them near-instant.

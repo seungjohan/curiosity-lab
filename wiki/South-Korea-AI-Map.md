@@ -1,9 +1,14 @@
 ---
+category: career
 type: list
 scope: South Korea
 pillar: Cross-pillar
-tags: [list, Map, Korea]
-about: Deep-dive list of South Korean AI leaders across Agentic, Physical, and Vertical AI.
+tags:
+- list
+- Map
+- Korea
+about: Deep-dive list of South Korean AI leaders across Agentic, Physical, and Vertical
+  AI.
 ---
 # South Korea AI Map
 

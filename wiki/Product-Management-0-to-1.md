@@ -1,3 +1,7 @@
+---
+category: career
+---
+
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** 0→1 Product Management is the art of defining a market before it exists. In 2026 AI, this means moving from "Feature PMing" to "Agentic Workflow PMing."
 > **How to use it:** Target startups in their Series B/C phase ([[Wrtn-Technologies]], [[Upstage]], [[Allganize]]) where the core engine is 0→1 exploration.

@@ -1,9 +1,16 @@
 ---
+category: career
 type: list
 scope: USA (Bay Area)
 pillar: Cross-pillar
-tags: [list, Map, USA, SiliconValley, SanFrancisco]
-about: Deep-dive list of 30+ San Francisco Bay Area AI leaders focusing on Physical and Agentic AI.
+tags:
+- list
+- Map
+- USA
+- SiliconValley
+- SanFrancisco
+about: Deep-dive list of 30+ San Francisco Bay Area AI leaders focusing on Physical
+  and Agentic AI.
 ---
 # USA AI Map: San Francisco Bay Area
 

@@ -1,9 +1,15 @@
 ---
-industry: [MLOps, Data Lifecycle]
+category: career
+industry:
+- MLOps
+- Data Lifecycle
 scale: Pre-IPO
 hq: San Mateo
 country: USA
-tags: [company, VerticalAI, MLOps]
+tags:
+- company
+- VerticalAI
+- MLOps
 about: MLOps platform for managing data labeling and computer vision models.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

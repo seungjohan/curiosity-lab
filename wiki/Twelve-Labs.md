@@ -1,10 +1,19 @@
 ---
-industry: [Video AI, Multimodal AI, Infrastructure]
+category: career
+industry:
+- Video AI
+- Multimodal AI
+- Infrastructure
 scale: Scale-up
 hq: San Francisco, CA
 country: USA
-tags: [company, CreativeTech, VideoUnderstanding, Multimodal]
-about: Leader in multimodal video understanding, building infrastructure to make video as searchable as text.
+tags:
+- company
+- CreativeTech
+- VideoUnderstanding
+- Multimodal
+about: Leader in multimodal video understanding, building infrastructure to make video
+  as searchable as text.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Twelve Labs is the leader in "multimodal video understanding." As a composer and writer, this is the tech that will eventually allow AI to "score" video or "write" based on visual cues.
@@ -25,9 +34,9 @@ Twelve Labs is an AI startup building the foundational infrastructure for video 
 - **The "PM Gap":** They have deep-tech experts but need PMs who can translate "multimodal embeddings" into intuitive tools for creators and enterprise video platforms.
 - **Global Presence:** HQ in San Francisco, with a massive R&D center in Seoul. Ideal for someone seeking a global culture.
 
-## 💼 Current Openings (2024-2026)
-- **Lead Product Manager (Core Experience):** (SF/Hybrid) Focus on evolving the platform for Marengo/Pegasus models.
-- **Senior ML Data Project Manager:** (SF & Seoul) Managing data pipelines for foundation models ($150k-$160k base).
+## 💼 Careers & Openings
+- **Lead Product Manager (Video Agent & Application):** [[Twelve-Labs-PM]] - Leading the shift from infrastructure to agentic apps (Seoul/SF).
+- **Senior ML Data Project Manager:** (SF & Seoul) Managing data pipelines for foundation models.
 - **Engineering Manager, Products (Seoul):** Leading full-stack teams to ship B2B features.
 
 ## 🧠 Product Leadership Philosophy (CEO Jae Lee)

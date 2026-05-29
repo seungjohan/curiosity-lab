@@ -1,9 +1,15 @@
 ---
-industry: [EdTech, AI Tutoring]
+category: career
+industry:
+- EdTech
+- AI Tutoring
 scale: Series D
 hq: Seoul
 country: South Korea
-tags: [company, VerticalAI, EdTech]
+tags:
+- company
+- VerticalAI
+- EdTech
 about: AI-driven personalized learning platform for standardized testing.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

@@ -1,9 +1,15 @@
 ---
-industry: [Enterprise AI, Workflow Automation]
+category: career
+industry:
+- Enterprise AI
+- Workflow Automation
 scale: Series B
 hq: Tokyo
 country: Japan
-tags: [company, AgenticAI, Workflow]
+tags:
+- company
+- AgenticAI
+- Workflow
 about: LLM-based enterprise search and workflow automation solution.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

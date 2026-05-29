@@ -1,10 +1,20 @@
 ---
-industry: [Enterprise AI, LLM, Agentic AI]
+category: career
+industry:
+- Enterprise AI
+- LLM
+- Agentic AI
 scale: Unicorn
 hq: Seoul
 country: South Korea
-tags: [company, AgenticAI, SolarLLM, SovereignAI, B2B]
-about: South Korea's leading generative AI unicorn, focusing on practical AI and agentic workflows for enterprises.
+tags:
+- company
+- AgenticAI
+- SolarLLM
+- SovereignAI
+- B2B
+about: South Korea's leading generative AI unicorn, focusing on practical AI and agentic
+  workflows for enterprises.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Upstage has successfully pivoted from a research-heavy "model builder" to a "solution builder" (Agentic AI), making them the top contender for B2B AI dominance in Asia.
@@ -34,8 +44,12 @@ Upstage is South Korea's leading generative AI unicorn, focusing on delivering "
 - **Talent:** ~230 employees, including alumni from Apple, Amazon, and Nvidia.
 - **IPO Status:** Targeted KOSPI listing in late 2026 / early 2027.
 
+## 💼 Careers
+- **Solar Product Manager:** [[Upstage-PM]] - Defining the technical strategy for Solar LLM/VLM.
+
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
 - [[Twelve-Labs]] (Global R&D peer)
 - [[Wrtn-Technologies]] (B2C counterpart)
 - [[AI-Industry-Map-2026]]
+- [[Upstage-PM]] - Active PM role for Solar products.

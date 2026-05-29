@@ -1,9 +1,16 @@
 ---
-industry: [Agentic AI, Service Desk]
+category: career
+industry:
+- Agentic AI
+- Service Desk
 scale: Scale-up
 hq: Dublin
 country: Ireland
-tags: [company, AgenticAI, ServiceDesk, ITAutomation]
+tags:
+- company
+- AgenticAI
+- ServiceDesk
+- ITAutomation
 about: Rezolve AI automates IT service desk workflows using autonomous agents.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

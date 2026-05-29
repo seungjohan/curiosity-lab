@@ -1,3 +1,7 @@
+---
+category: career
+---
+
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** A 0→1 PM's job search is itself a product launch. This page tracks the "Funnel" from lead generation to offer.
 > **How to use it:** Update status daily. Use the "Connections" to jump into specific company research.

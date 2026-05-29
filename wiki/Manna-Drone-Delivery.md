@@ -1,9 +1,16 @@
 ---
-industry: [Physical AI, Logistics]
+category: career
+industry:
+- Physical AI
+- Logistics
 scale: Scale-up
 hq: Dublin
 country: Ireland
-tags: [company, PhysicalAI, Logistics, Drones]
+tags:
+- company
+- PhysicalAI
+- Logistics
+- Drones
 about: Manna provides autonomous drone delivery services for food and medical supplies.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

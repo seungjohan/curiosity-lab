@@ -1,9 +1,15 @@
 ---
-industry: [AI Hardware, Semiconductors]
+category: career
+industry:
+- AI Hardware
+- Semiconductors
 scale: Unicorn
 hq: Seoul
 country: South Korea
-tags: [company, Infrastructure, Semiconductors]
+tags:
+- company
+- Infrastructure
+- Semiconductors
 about: Fabless AI chip company focusing on ultra-low latency inference.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

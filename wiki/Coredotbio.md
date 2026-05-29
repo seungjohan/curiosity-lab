@@ -1,9 +1,15 @@
 ---
-industry: [Bio-Tech, Drug Discovery]
+category: career
+industry:
+- Bio-Tech
+- Drug Discovery
 scale: Series A
 hq: Seoul
 country: South Korea
-tags: [company, VerticalAI, BioTech]
+tags:
+- company
+- VerticalAI
+- BioTech
 about: AI platform for RNA-based drug discovery and biological data analysis.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

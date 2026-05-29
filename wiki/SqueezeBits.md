@@ -1,9 +1,15 @@
 ---
-industry: [AI Compression, Model Efficiency]
+category: career
+industry:
+- AI Compression
+- Model Efficiency
 scale: Series A
 hq: Seoul
 country: South Korea
-tags: [company, Infrastructure, MLOps]
+tags:
+- company
+- Infrastructure
+- MLOps
 about: AI model compression and optimization for efficient on-device deployment.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

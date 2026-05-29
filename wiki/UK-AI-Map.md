@@ -1,8 +1,13 @@
 ---
+category: career
 type: list
 scope: United Kingdom
 pillar: Cross-pillar
-tags: [list, Map, UK, London]
+tags:
+- list
+- Map
+- UK
+- London
 about: Deep-dive list of London-based AI leaders across the three pillars.
 ---
 # UK AI Map (London)

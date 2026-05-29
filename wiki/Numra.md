@@ -1,10 +1,18 @@
 ---
-industry: [Agentic AI, FinOps]
+category: career
+industry:
+- Agentic AI
+- FinOps
 scale: Startup
 hq: Dublin
 country: Ireland
-tags: [company, AgenticAI, FinOps, Accounting]
-about: Numra builds AI agents for accounting and finance teams to automate complex reconciliation.
+tags:
+- company
+- AgenticAI
+- FinOps
+- Accounting
+about: Numra builds AI agents for accounting and finance teams to automate complex
+  reconciliation.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Accounting is full of "manual check" loops; Numra builds agents that handle the nuance of financial matching and error detection.

@@ -1,9 +1,15 @@
 ---
-industry: [Industrial NPU, Smart Factory]
+category: career
+industry:
+- Industrial NPU
+- Smart Factory
 scale: Series A
 hq: Seoul
 country: South Korea
-tags: [company, Infrastructure, Semiconductors]
+tags:
+- company
+- Infrastructure
+- Semiconductors
 about: Edge AI hardware and software for industrial applications.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

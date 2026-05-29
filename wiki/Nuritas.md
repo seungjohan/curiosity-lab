@@ -1,9 +1,16 @@
 ---
-industry: [Vertical AI, Biotech]
+category: career
+industry:
+- Vertical AI
+- Biotech
 scale: Scale-up
 hq: Dublin
 country: Ireland
-tags: [company, VerticalAI, Biotech, PeptideDiscovery]
+tags:
+- company
+- VerticalAI
+- Biotech
+- PeptideDiscovery
 about: Nuritas uses AI to discover bioactive peptides for functional foods and therapeutics.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

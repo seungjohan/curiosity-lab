@@ -1,9 +1,15 @@
 ---
-industry: [EdTech, Language Learning]
+category: career
+industry:
+- EdTech
+- Language Learning
 scale: Series B+
 hq: San Francisco
 country: USA
-tags: [company, VerticalAI, EdTech]
+tags:
+- company
+- VerticalAI
+- EdTech
 about: AI-powered language learning application with real-time speech recognition.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

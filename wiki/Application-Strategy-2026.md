@@ -1,3 +1,7 @@
+---
+category: career
+---
+
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** High-growth AI startups don't hire for "skills," they hire for "alignment with the future."
 > **How to use it:** Use the "Composer" angle for infrastructure/multimodal roles (Twelve Labs) and the "0→1 Speed" angle for platform/agentic roles (Wrtn).

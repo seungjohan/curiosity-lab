@@ -1,9 +1,15 @@
 ---
-industry: [AdTech, Machine Learning]
+category: career
+industry:
+- AdTech
+- Machine Learning
 scale: Unicorn
 hq: Redwood City
 country: USA
-tags: [company, VerticalAI, AdTech]
+tags:
+- company
+- VerticalAI
+- AdTech
 about: Machine learning platform for performance-based mobile advertising.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

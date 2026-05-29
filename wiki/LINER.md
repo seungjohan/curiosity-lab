@@ -1,9 +1,15 @@
 ---
-industry: [AI Search, B2C Growth]
+category: career
+industry:
+- AI Search
+- B2C Growth
 scale: Pre-Unicorn
 hq: Seoul
 country: South Korea
-tags: [company, VerticalAI, Search]
+tags:
+- company
+- VerticalAI
+- Search
 about: AI-powered search and information curation platform.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

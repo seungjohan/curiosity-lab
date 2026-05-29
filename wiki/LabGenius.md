@@ -1,10 +1,18 @@
 ---
-industry: [Physical AI, Biotech]
+category: career
+industry:
+- Physical AI
+- Biotech
 scale: Scale-up
 hq: London
 country: UK
-tags: [company, PhysicalAI, Biotech, DrugDiscovery]
-about: LabGenius uses an autonomous robotic platform and AI to discover next-generation protein therapeutics.
+tags:
+- company
+- PhysicalAI
+- Biotech
+- DrugDiscovery
+about: LabGenius uses an autonomous robotic platform and AI to discover next-generation
+  protein therapeutics.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It represents the "closed-loop" of AI: the AI designs an experiment, the robots execute it, and the data feeds back to the AI.

@@ -1,9 +1,15 @@
 ---
-industry: [Physical AI, Manufacturing]
+category: career
+industry:
+- Physical AI
+- Manufacturing
 scale: Scale-up
 hq: London
 country: UK
-tags: [company, PhysicalAI, Manufacturing]
+tags:
+- company
+- PhysicalAI
+- Manufacturing
 about: CloudNC is automating CNC machining with AI to enable "one-click" manufacturing.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

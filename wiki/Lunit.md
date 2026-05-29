@@ -1,9 +1,15 @@
 ---
-industry: [Healthcare, Medical Imaging]
+category: career
+industry:
+- Healthcare
+- Medical Imaging
 scale: Public
 hq: Seoul
 country: South Korea
-tags: [company, VerticalAI, Healthcare]
+tags:
+- company
+- VerticalAI
+- Healthcare
 about: AI-powered cancer diagnostic and treatment planning software.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

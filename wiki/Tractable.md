@@ -1,10 +1,18 @@
 ---
-industry: [Vertical AI, Insurance]
+category: career
+industry:
+- Vertical AI
+- Insurance
 scale: Unicorn
 hq: London
 country: UK
-tags: [company, VerticalAI, Insurance, ComputerVision]
-about: Tractable uses computer vision to assess damage to cars and property for insurance claims.
+tags:
+- company
+- VerticalAI
+- Insurance
+- ComputerVision
+about: Tractable uses computer vision to assess damage to cars and property for insurance
+  claims.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It automates a highly subjective and slow human process (damage assessment), drastically reducing "Time to Payout."

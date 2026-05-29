@@ -1,9 +1,15 @@
 ---
-industry: [LLM Serving, Infrastructure]
+category: career
+industry:
+- LLM Serving
+- Infrastructure
 scale: Series A
 hq: Seoul
 country: South Korea
-tags: [company, Infrastructure, MLOps]
+tags:
+- company
+- Infrastructure
+- MLOps
 about: High-throughput LLM inference engine and serving platform.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

@@ -1,9 +1,15 @@
 ---
-industry: [Edge AI, Model Optimization]
+category: career
+industry:
+- Edge AI
+- Model Optimization
 scale: Public
 hq: Seoul
 country: South Korea
-tags: [company, Infrastructure, EdgeAI]
+tags:
+- company
+- Infrastructure
+- EdgeAI
 about: Lightweight AI model optimization and deployment platform for edge devices.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

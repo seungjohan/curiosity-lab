@@ -1,9 +1,15 @@
 ---
-industry: [Edge NPU, AI Chips]
+category: career
+industry:
+- Edge NPU
+- AI Chips
 scale: Series C
 hq: Gyeonggi
 country: South Korea
-tags: [company, Infrastructure, Semiconductors]
+tags:
+- company
+- Infrastructure
+- Semiconductors
 about: AI semiconductor company developing high-efficiency NPU for edge devices.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

@@ -1,9 +1,15 @@
 ---
-industry: [Drug Discovery, Bio-Tech]
+category: career
+industry:
+- Drug Discovery
+- Bio-Tech
 scale: Series C
 hq: Seoul
 country: South Korea
-tags: [company, VerticalAI, BioTech]
+tags:
+- company
+- VerticalAI
+- BioTech
 about: AI-powered drug discovery platform for identifying new drug candidates.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

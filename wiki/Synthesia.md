@@ -1,10 +1,19 @@
 ---
-industry: [Video AI, Creative Tech]
+category: career
+industry:
+- Video AI
+- Creative Tech
 scale: Unicorn
 hq: London
 country: UK
-tags: [company, VerticalAI, CreativeTech, VideoAvatars, London]
-about: AI video generation platform specialized in hyper-realistic interactive avatars for enterprise training and communication.
+tags:
+- company
+- VerticalAI
+- CreativeTech
+- VideoAvatars
+- London
+about: AI video generation platform specialized in hyper-realistic interactive avatars
+  for enterprise training and communication.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Synthesia represents the "Vertical AI" moat for corporate communication. By 2026, they've moved from static video to "Interactive AI Avatars" that can act as real-time interfaces.
@@ -25,7 +34,11 @@ Synthesia is a London-based AI unicorn that leads the market in AI-driven video 
 - **2026:** Released "Interactive Avatars," allowing for two-way voice and visual communication between humans and AI humans.
 - **Enterprise Domination:** Used by over 50% of the Fortune 100 for internal communications.
 
+## 💼 Careers
+- **Principal Product Manager (Video Creation & Editing):** [[Synthesia-PM-London]] - Leading the vision for the core video platform.
+
 ## 🔗 Connections
 - [[AI-Industry-Map-2026]] - Key Pillar: Vertical AI / Creative Tech.
 - [[Twelve-Labs]] - Peer in multimodal video.
 - [[DeepBrain-AI]] - Direct competitor in AI avatars.
+- [[Synthesia-PM-London]] - Active Principal PM role in London.

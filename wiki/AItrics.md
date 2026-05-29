@@ -1,9 +1,15 @@
 ---
-industry: [Healthcare, AI Diagnostics]
+category: career
+industry:
+- Healthcare
+- AI Diagnostics
 scale: Series B
 hq: Seoul
 country: South Korea
-tags: [company, VerticalAI, Healthcare]
+tags:
+- company
+- VerticalAI
+- Healthcare
 about: AI-driven clinical decision support system for emergency medicine.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

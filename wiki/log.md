@@ -1,3 +1,7 @@
+---
+category: system
+---
+
 # 📜 Change Log
 
 | Date | Action | Page | Description |
@@ -54,4 +58,11 @@
 | 2026-05-01 | UPDATED | `wiki/Ireland-AI-Map.md` | Listed all 30 researched companies for Dublin/Ireland. |
 | 2026-05-01 | UPDATED | `wiki/index.md` | Integrated new London & Dublin leaders into Pillar structure. |
 | 2026-05-06 | ADDED | `wiki/Visa-Sponsorship-PM-Europe-2026.md` | Researched and listed visa-sponsoring IT/AI companies in 8 European cities. |
+| 2026-05-06 | UPDATED | `wiki/Visa-Sponsorship-PM-Europe-2026.md` | Expanded list with 40+ startups and scale-ups; added direct career links. |
 | 2026-05-06 | UPDATED | `wiki/index.md` | Added Visa Sponsorship list to the master index. |
+| 2026-05-07 | ADDED | `wiki/Bear-Robotics-PM-Seoul.md` | Created detailed JD page for Product Manager role. |
+| 2026-05-07 | UPDATED | `wiki/Bear-Robotics.md` | Added Careers section and linked to new PM position. |
+| 2026-05-07 | BATCH | `wiki/ (4 roles)` | Added [[Twelve-Labs-PM]], [[Upstage-PM]], [[Wrtn-Technologies-PM]], and [[Scatter-Lab-PM]]. |
+| 2026-05-07 | UPDATED | `wiki/ (4 companies)` | Linked new PM roles in Careers sections of Twelve Labs, Upstage, Wrtn, and Scatter Lab. |
+| 2026-05-07 | BATCH | `wiki/ (7 roles)` | Added [[Synthesia-PM-London]], [[Wayve-PM-London]], [[Harvey-AI-PM-NYC]], [[Hebbia-PM-NYC]], [[Formation-Bio-PM]], [[Rogo-AI-PM-NYC]], and [[MarqVision-PM]]. |
+| 2026-05-07 | UPDATED | `wiki/ (7 companies)` | Linked new PM roles in Careers sections of Synthesia, Wayve, Harvey AI, Hebbia, Formation Bio, Rogo, and MarqVision. |

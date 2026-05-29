@@ -1,9 +1,15 @@
 ---
-industry: [Healthcare, AI Diagnostics]
+category: career
+industry:
+- Healthcare
+- AI Diagnostics
 scale: Series B
 hq: Seoul
 country: South Korea
-tags: [company, VerticalAI, Healthcare]
+tags:
+- company
+- VerticalAI
+- Healthcare
 about: Non-invasive cardiovascular risk assessment through AI retina analysis.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

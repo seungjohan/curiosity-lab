@@ -1,8 +1,13 @@
 ---
+category: career
 type: list
 scope: Ireland
 pillar: Cross-pillar
-tags: [list, Map, Ireland, Dublin]
+tags:
+- list
+- Map
+- Ireland
+- Dublin
 about: Deep-dive list of Dublin-based AI leaders across the three pillars.
 ---
 # Ireland AI Map (Dublin)

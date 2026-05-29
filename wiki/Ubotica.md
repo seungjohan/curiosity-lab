@@ -1,10 +1,18 @@
 ---
-industry: [Physical AI, Space]
+category: career
+industry:
+- Physical AI
+- Space
 scale: Scale-up
 hq: Dublin
 country: Ireland
-tags: [company, PhysicalAI, Space, EdgeAI]
-about: Ubotica provides on-board AI processing for satellites to enable real-time Earth observation.
+tags:
+- company
+- PhysicalAI
+- Space
+- EdgeAI
+about: Ubotica provides on-board AI processing for satellites to enable real-time
+  Earth observation.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It moves the "brain" to the satellite, so we only download the *insights* instead of terabytes of raw image data.

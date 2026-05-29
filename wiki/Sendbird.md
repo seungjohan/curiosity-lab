@@ -1,9 +1,15 @@
 ---
-industry: [Comm. API, Messaging]
+category: career
+industry:
+- Comm. API
+- Messaging
 scale: Unicorn
 hq: San Mateo
 country: USA
-tags: [company, AgenticAI, Communications]
+tags:
+- company
+- AgenticAI
+- Communications
 about: Global leader in chat, voice, and video APIs for mobile and web apps.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
