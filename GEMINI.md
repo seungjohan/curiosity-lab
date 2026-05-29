@@ -40,9 +40,13 @@ This document defines the rules, schemas, and workflows for the Product Thinking
   3. Suggest new connections between Product, Music, and Learning.
 
 ## 📝 Page Schema
-Every wiki page must follow this structure:
+Every wiki page must follow this structure. The `category` property is **mandatory** and must be the first property in the YAML frontmatter.
 
 ```markdown
+---
+category: [career/stock market/cooking/system/etc]
+---
+
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** {Insight}
 > **How to use it:** {Action/Decision}
@@ -58,10 +62,11 @@ Every wiki page must follow this structure:
 ```
 
 ### 🏢 Company Page Schema (Analyst Mode)
-For pages specifically analyzing a company, use this standardized YAML frontmatter and tagging:
+For pages specifically analyzing a company, use this standardized YAML frontmatter and tagging. The `category` property is **mandatory** and must be the first property.
 
 ```markdown
 ---
+category: system
 industry: [Primary, Secondary]
 scale: [Startup/Scale-up/Unicorn/Public]
 hq: City, State/Province
@@ -77,10 +82,11 @@ about: One-sentence summary.
 - Link to the relevant pillar in [[AI-Industry-Map-2026]].
 
 ### 📜 List Page Schema (Index/Map Mode)
-For pages that list, map, or index multiple entities, use this standardized schema:
+For pages that list, map, or index multiple entities, use this standardized schema. The `category` property is **mandatory** and must be the first property.
 
 ```markdown
 ---
+category: system
 type: list
 scope: [Global/Regional/Industry-specific]
 pillar: [AgenticAI/PhysicalAI/VerticalAI/Infrastructure/Cross-pillar]
