@@ -9,9 +9,10 @@ This document defines the rules, schemas, and workflows for the Product Thinking
 ## 📁 System Structure
 - `/raw/`: Incoming raw materials (read-only for Gemini).
 - `/wiki/`: Processed, structured knowledge (Gemini-managed).
-- `/wiki/index.md`: Master index organized by themes.
-- `/wiki/log.md`: Change log for all updates.
-- **Rule:** Flat structure inside `/raw/` and `/wiki/`. No subfolders.
+  - `/wiki/index.md`: Master index organized by themes.
+  - `/wiki/log.md`: Change log for all updates.
+  - `/wiki/{category}/`: Topic files grouped by their `category` (e.g., `career`, `system`).
+- **Rule:** Topic files must be placed in a subdirectory corresponding to their `category`. `index.md` and `log.md` remain at the root of `/wiki/`.
 
 ## 🔄 Workflows
 

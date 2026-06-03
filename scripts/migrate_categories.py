@@ -1,8 +1,11 @@
-import os
 import yaml
 import re
+from pathlib import Path
+import tempfile
+import shutil
+import os
 
-WIKI_DIR = "wiki"
+WIKI_DIR = Path("wiki")
 CATEGORIES = ["career", "stock market", "cooking", "system"]
 
 def get_category(filename, content, tags):
@@ -13,16 +16,20 @@ def get_category(filename, content, tags):
     # Default to career for now as per vault contents
     return "career"
 
-def migrate_file(filepath):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
+def migrate_file(filepath: Path):
+    try:
+        content = filepath.read_text(encoding='utf-8')
+    except Exception as e:
+        print(f"Error reading {filepath}: {e}")
+        return
 
     match = re.match(r'^---\n(.*?)\n---\n(.*)', content, re.DOTALL)
     if not match:
         # Handle files without frontmatter
-        filename = os.path.basename(filepath)
+        filename = filepath.name
         category = get_category(filename, "", [])
-        new_content = f"---\ncategory: {category}\n---\n\n" + content
+        frontmatter = {'category': category}
+        body = content
     else:
         frontmatter_raw = match.group(1)
         body = match.group(2)
@@ -32,7 +39,7 @@ def migrate_file(filepath):
             print(f"Error parsing YAML in {filepath}")
             return
 
-        filename = os.path.basename(filepath)
+        filename = filepath.name
         tags = frontmatter.get('tags', [])
         if isinstance(tags, str): tags = [tags]
         
@@ -43,25 +50,32 @@ def migrate_file(filepath):
             
         # Remove old keys if any
         frontmatter.pop('subject', None)
-        frontmatter['category'] = category
         
-        # Reconstruct YAML with category first
-        ordered_keys = ['category'] + [k for k in frontmatter.keys() if k != 'category']
-        new_yaml = ""
-        for k in ordered_keys:
-            val = frontmatter[k]
-            if isinstance(val, list):
-                new_yaml += f"{k}: [{', '.join(val)}]\n"
-            else:
-                new_yaml += f"{k}: {val}\n"
+        # Ensure 'category' is the first key by re-inserting into a new dict
+        new_frontmatter = {'category': category}
+        for k, v in frontmatter.items():
+            if k != 'category':
+                new_frontmatter[k] = v
+        frontmatter = new_frontmatter
         
-        new_content = f"---\n{new_yaml}---\n{body}"
+    # Reconstruct YAML using yaml.dump with sort_keys=False to preserve order
+    # allow_unicode=True prevents escaping non-ascii chars if any
+    new_yaml = yaml.dump(frontmatter, sort_keys=False, allow_unicode=True, default_flow_style=False)
+    new_content = f"---\n{new_yaml}---\n{body}"
 
-    with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(new_content)
+    # Atomic write: write to temp file then move
+    # Using filepath.parent to ensure it's on the same filesystem
+    fd, temp_path = tempfile.mkstemp(dir=filepath.parent, suffix=".tmp")
+    try:
+        with os.fdopen(fd, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        shutil.move(temp_path, filepath)
+    except Exception as e:
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
+        print(f"Failed to write {filepath}: {e}")
 
 if __name__ == "__main__":
-    if os.path.exists(WIKI_DIR):
-        for filename in os.listdir(WIKI_DIR):
-            if filename.endswith(".md"):
-                migrate_file(os.path.join(WIKI_DIR, filename))
+    if WIKI_DIR.exists():
+        for file in WIKI_DIR.glob("*.md"):
+            migrate_file(file)

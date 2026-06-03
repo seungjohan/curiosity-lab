@@ -1,0 +1,52 @@
+<h2>Organizing Your Knowledge OS</h2>
+<p class="subtitle">Choosing how to "divide by subject" for both IDE navigation and Obsidian Graph View</p>
+
+<div class="options">
+  <div class="option" data-choice="folders" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>Subject-Based Folders</h3>
+      <p>Organize files into <code>/wiki/career/</code>, <code>/wiki/stocks/</code>, etc. </p>
+      <ul>
+        <li><strong>IDE:</strong> Folders are visible and collapsible.</li>
+        <li><strong>Graph View:</strong> Folders can be colored differently (using "Groups").</li>
+        <li><strong>Trade-off:</strong> Breaks the current "flat" mandate; requires updating automation scripts.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="option" data-choice="tags" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>Enhanced Tagging + MOCs</h3>
+      <p>Keep the directory flat, but use <code>#career</code>, <code>#stocks</code> tags and "Maps of Content" (MOCs).</p>
+      <ul>
+        <li><strong>IDE:</strong> Flat list, but easily filtered by file name prefix (e.g., <code>career-xxx.md</code>).</li>
+        <li><strong>Graph View:</strong> Best for Obsidian. You can color nodes by tag and see relationships better.</li>
+        <li><strong>Trade-off:</strong> Harder to "browse" by folder in a standard file explorer.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h3>Graph View Visualization</h3>
+  <div class="mockup">
+    <div class="mockup-header">Obsidian Graph View Preview</div>
+    <div class="mockup-body" style="background: #1e1e1e; padding: 20px; border-radius: 8px; color: #fff;">
+      <div style="display: flex; justify-content: space-around; align-items: center; min-height: 200px;">
+        <div style="text-align: center;">
+          <div style="width: 150px; height: 150px; border: 2px dashed #555; border-radius: 50%; display: flex; align-items: center; justify-content: center; position: relative;">
+            <div style="width: 20px; height: 20px; background: #ff4757; border-radius: 50%; position: absolute; top: 20%; left: 30%;"></div>
+            <div style="width: 15px; height: 15px; background: #ff4757; border-radius: 50%; position: absolute; top: 50%; left: 10%;"></div>
+            <div style="width: 25px; height: 25px; background: #2ed573; border-radius: 50%; position: absolute; bottom: 20%; right: 30%;"></div>
+            <div style="width: 18px; height: 18px; background: #2ed573; border-radius: 50%; position: absolute; bottom: 40%; right: 10%;"></div>
+            <div style="width: 22px; height: 22px; background: #1e90ff; border-radius: 50%; position: absolute; top: 30%; right: 20%;"></div>
+            <span style="font-size: 12px; color: #888;">Nodes colored by subject</span>
+          </div>
+          <p style="margin-top: 10px; font-size: 14px;">Color Groups (Folders or Tags)</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
