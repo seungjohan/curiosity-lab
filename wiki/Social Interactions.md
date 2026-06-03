@@ -1,3 +1,11 @@
+---
+type: reflection
+topic: [Social, Communication, Mirror Effect]
+status: active
+industry: N/A
+created: 2026-05-14
+---
+
 # Social Interactions
 
 ## The Philosophy of Small Talk

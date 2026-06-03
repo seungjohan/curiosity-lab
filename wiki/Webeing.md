@@ -1,3 +1,11 @@
+---
+type: idea
+topic: [Sustainability, Food Waste, Startup]
+status: closed
+industry: Food Tech
+created: 2026-05-14
+---
+
 # Webeing
 
 ## Overview

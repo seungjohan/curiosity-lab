@@ -1,3 +1,11 @@
+---
+type: reflection
+topic: [Ideas, Philosophy, AI]
+status: active
+industry: N/A
+created: 2026-05-15
+---
+
 # Idea Stream
 
 This is a dedicated space for raw thoughts, "brain dumps," and throwing out initial ideas before they are structured into formal research or startup projects.

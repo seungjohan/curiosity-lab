@@ -1,3 +1,11 @@
+---
+type: research
+topic: [Startups, Market, Analysis]
+status: active
+industry: Technology
+created: 2026-05-14
+---
+
 # Market Analysis
 
 ## Interesting Companies

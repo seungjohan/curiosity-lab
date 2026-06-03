@@ -1,3 +1,11 @@
+---
+type: research
+topic: [AI, Education, Cognitive Offloading]
+status: completed
+industry: Technology
+created: 2026-05-15
+---
+
 # AI in Education: Side Effects for Teenagers
 
 The integration of AI into education for teenagers has revealed several significant "side effects" that impact cognitive development, social dynamics, and mental health.

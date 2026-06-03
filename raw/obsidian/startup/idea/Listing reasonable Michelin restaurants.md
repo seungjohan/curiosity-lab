@@ -5,7 +5,7 @@ type:
   - sideproject
 date: 2025-05-30
 one liner: 
-industry: 
+industry: food & beverage
 domain: 
 problem: 
 business model: 

@@ -1,3 +1,11 @@
+---
+type: reflection
+topic: [Personality, Growth, Reflection]
+status: active
+industry: N/A
+created: 2026-05-14
+---
+
 # Self-Reflection
 
 ## Personality & Growth

@@ -1,3 +1,11 @@
+---
+type: research
+topic: [Startups, Lessons, Wisdom]
+status: active
+industry: Technology
+created: 2026-05-14
+---
+
 # Startup Insights
 
 ## Lessons from Past Projects

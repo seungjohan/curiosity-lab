@@ -1,3 +1,11 @@
+---
+type: reflection
+topic: [Music, Composition, Hobbies]
+status: active
+industry: N/A
+created: 2026-05-14
+---
+
 # Dreams & Hobbies
 
 ## Music & Composing

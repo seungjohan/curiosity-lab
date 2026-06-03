@@ -1,3 +1,11 @@
+---
+type: index
+topic: [Research, Market, Technology]
+status: active
+industry: Technology
+created: 2026-05-14
+---
+
 # Research
 
 A central list of topics and deep-dive research pages.

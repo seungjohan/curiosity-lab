@@ -1,3 +1,11 @@
+---
+type: index
+topic: [Wiki, Knowledge Base, Hub]
+status: active
+industry: N/A
+created: 2026-05-14
+---
+
 # Wiki Index
 
 Welcome to the Brainstorming Wiki. This is a persistent, interlinked knowledge base for developing startup and side project ideas.
@@ -14,7 +22,7 @@ Welcome to the Brainstorming Wiki. This is a persistent, interlinked knowledge b
 - [[Startup Insights]] - General research and wisdom.
 - [[Market Analysis]] - Companies and tools.
 - [[Webeing]] - Past project retrospective.
-- **Active Ideas**: [[The Connection]], [[Triathlon Photo Finder]].
+- **Active Ideas**: [[The Connection]], [[Triathlon Photo Finder]], [[Personal Blog & Portfolio]] ([[PRD]], [[Design]]).
 
 ### 🧠 Knowledge Base
 - [[Idea Stream]] - Raw thoughts, brain dumps, and evolving ideas.

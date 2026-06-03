@@ -1,22 +1,30 @@
+---
+type: resource
+topic: [Food, Culinary, Personal]
+status: active
+industry: Food
+created: 2026-05-28
+---
+
 # Favorite Foods
 
 ## Related
 - [[Michelin Filter]]
 
 ## Overview
-A curated registry of favorite dishes and flavors to reference when choosing restaurants.
+A curated registry of favorite dishes and flavors to reference when choosing restaurants. This registry uses a general "Foodie" schema to categorize dishes by their course, primary element, cooking style, and overall vibe.
 
 ## Spain
-| Food Name | Type | Basic Ingredient | Notes |
-| :--- | :--- | :--- | :--- |
-| **[[Fideuá]]** | Main Dish | Seafood, Noodles | Often compared to Paella but uses short noodles. |
+| Food Name | Course | Core Component | Style | Vibe |
+| :--- | :--- | :--- | :--- | :--- |
+| **[[Fideuá]]** | Main Dish | Seafood & Noodle | Pan-Seared | Savory & Toasted |
 
 ## Korea
-| Food Name | Type | Basic Ingredient | Notes |
-| :--- | :--- | :--- | :--- |
-| | | | |
+| Food Name | Course | Core Component | Style | Vibe |
+| :--- | :--- | :--- | :--- | :--- |
+| | | | | |
 
 ## Japan
-| Food Name | Type | Basic Ingredient | Notes |
-| :--- | :--- | :--- | :--- |
-| | | | |
+| Food Name | Course | Core Component | Style | Vibe |
+| :--- | :--- | :--- | :--- | :--- |
+| | | | | |

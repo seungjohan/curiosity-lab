@@ -1,3 +1,11 @@
+---
+type: idea
+topic: [AI, Sports Tech, Photo Recognition]
+status: ideation
+industry: Sports Tech
+created: 2026-06-02
+---
+
 # Triathlon Photo Finder
 
 ## Overview

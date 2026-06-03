@@ -1,3 +1,11 @@
+---
+type: idea
+topic: [AI, HR Tech, Team Building]
+status: ideation
+industry: HR Tech
+created: 2026-06-02
+---
+
 # The Connection
 
 ## Overview

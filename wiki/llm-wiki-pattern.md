@@ -1,3 +1,11 @@
+---
+type: meta
+topic: [Wiki, LLM, Structure]
+status: active
+industry: N/A
+created: 2026-05-14
+---
+
 # LLM Wiki Pattern
 
 The **LLM Wiki Pattern** is a method for building personal knowledge bases where an LLM incrementally builds and maintains a persistent wiki of interlinked markdown files.

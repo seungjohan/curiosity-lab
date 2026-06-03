@@ -1,3 +1,11 @@
+---
+type: reflection
+topic: [Relationships, Growth, Lessons]
+status: active
+industry: N/A
+created: 2026-05-14
+---
+
 # Relationship Lessons
 
 ## Heartbreak & Moving On

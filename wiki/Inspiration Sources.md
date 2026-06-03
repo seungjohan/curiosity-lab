@@ -1,3 +1,11 @@
+---
+type: resource
+topic: [Inspiration, Business, Media]
+status: active
+industry: Media
+created: 2026-05-15
+---
+
 # Inspiration Sources
 
 A curated list of media channels, organizations, and platforms that provide inspiration for startup ideas, business strategy, and personal growth.

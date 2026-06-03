@@ -1,3 +1,11 @@
+---
+type: research
+topic: [AI, Agentic Workflows]
+status: active
+industry: Technology
+created: 2026-05-15
+---
+
 # AI & Agentic Workflows
 
 Investigation into Large Language Models (LLMs), AI Agents, and the Model Context Protocol (MCP).

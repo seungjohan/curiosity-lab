@@ -1,3 +1,11 @@
+---
+type: index
+topic: [Startups, Ideas, Projects]
+status: active
+industry: Technology
+created: 2026-05-14
+---
+
 # Ideation
 
 A central hub for listing and categorizing startup and side project ideas.

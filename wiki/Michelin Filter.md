@@ -1,3 +1,11 @@
+---
+type: research
+topic: [Food, Data, Dining]
+status: active
+industry: Food Tech
+created: 2026-05-14
+---
+
 # Michelin Filter
 
 ## Overview
