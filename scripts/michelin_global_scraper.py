@@ -127,9 +127,47 @@ def parse_detail(url):
         return None
 
 def main():
-    print("Michelin Global Scraper Initialized")
-    # Dry run with 1 page
-    discover_urls(max_pages=1)
+    print("Starting Michelin Global Scraper...")
+    urls = discover_urls()
+    
+    # Initialize CSV if it doesn't exist
+    if not os.path.exists(OUTPUT_CSV):
+        os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
+        pd.DataFrame(columns=COLUMNS).to_csv(OUTPUT_CSV, index=False)
+    
+    existing_df = pd.read_csv(OUTPUT_CSV)
+    # Handle empty CSV case
+    if existing_df.empty:
+        processed_urls = set()
+    else:
+        processed_urls = set(existing_df['Url'].tolist())
+    
+    print(f"Found {len(processed_urls)} already processed. {len(urls) - len(processed_urls)} remaining.")
+    
+    batch = []
+    for i, url in enumerate(urls):
+        if url in processed_urls: continue
+        
+        print(f"[{i+1}/{len(urls)}] Scraping details for: {url}")
+        data = parse_detail(url)
+        if data:
+            batch.append(data)
+            processed_urls.add(url)
+        
+        # Checkpoint every 10 restaurants
+        if len(batch) >= 10:
+            pd.DataFrame(batch).to_csv(OUTPUT_CSV, mode='a', header=False, index=False)
+            batch = []
+            print("Checkpoint saved to CSV.")
+        
+        time.sleep(random.uniform(0.5, 1.5))
+    
+    # Final save for remaining in batch
+    if batch:
+        pd.DataFrame(batch).to_csv(OUTPUT_CSV, mode='a', header=False, index=False)
+        print("Final batch saved.")
+        
+    print("Scraping complete.")
 
 if __name__ == "__main__":
     main()
