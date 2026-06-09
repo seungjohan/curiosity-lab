@@ -5,14 +5,25 @@ category: system
 # 🧠 Knowledge OS: Master Index
 
 Welcome to your thinking system. This index is the map of your synthesized knowledge across product, creativity, and learning.
-
 ## 🚀 AI Strategy & Landscape
 - [[AI-Industry-Map-2026]] - Categorization and intersections of Agentic, Physical, and Vertical AI.
 - [[AI-Startups-Korea-2026]] - Current landscape and high-potential targets.
 - [[Visa-Sponsorship-PM-Europe-2026]] - IT/AI companies in major European hubs sponsoring PM visas.
+
+## 📝 Career & Professional Development
 - [[Application-Strategy-2026]] - Tailored pitches and application tactics.
 - [[Job-Search-Status-2026]] - Active application tracking and lead pipeline.
 - [[Product-Management-0-to-1]] - 0→1 PM skillset and strategic targets.
+- [[references]] - Benchmarks and inspiration for resume and cover letter improvement.
+
+## 🍳 Cooking & Culinary Arts
+- [[wiki/cooking/index.md|Culinary Arts: Master Index]] - Research across France, Italy, Spain, Japan, China, Korea, Vietnam, Mexico, and USA.
+
+## 🌊 Vibecoding & AI Development
+- [[wiki/vibecoding/index.md|Vibecoding: Master Index]] - Technical workflows for AI-driven software creation and Karpathy's "vibing" philosophy.
+
+## 🌐 Personal Project: Website & Portfolio
+- [[wiki/personal/index.md|Personal Project Index]] - Planning and building a personal website, blog, and portfolio to synthesize the "PM + Composer" identity.
 
 ## 🔗 Career Hub (Quick Access)
 - [[Global-AI-Index]] - Regional hubs (Korea, UK, Ireland, USA).
@@ -100,5 +111,8 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 ## 🧠 Learning & Mental Models
 - *Empty - Awaiting inputs*
 
+## 🌿 Planting & Horticulture
+- [[wiki/planting/index.md|Planting & Horticulture: Master Index]] - Botany, gardening, and life cycle tracking.
+
 ---
-*Last Updated: 2026-05-01*
+*Last Updated: 2026-06-09*
