@@ -97,3 +97,5 @@ category: system
 | 2026-06-07 | ADDED | `wiki/cooking/coq-au-vin.md` | Created deep-dive page for classic French chicken stew. |
 | 2026-06-07 | UPDATED | `wiki/cooking/france.md` | Linked Coq au Vin in signature dishes. |
 | 2026-06-09 | ADDED | `planting` | Added `planting` category and vocabulary. |
+| 2026-06-10 | UPDATE | `raw/guia_repsol_full.csv` | Scraped full Guia Repsol 2026 list (808 restaurants) and updated scraper script. |
+| 2026-06-09 | EXPAND | `wiki/cooking/` | Integrated World's 101 Best Steak Restaurants and Guia Repsol; created Selected Restaurants master list. |
