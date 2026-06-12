@@ -5,6 +5,10 @@ category: system
 # 🧠 Knowledge OS: Master Index
 
 Welcome to your thinking system. This index is the map of your synthesized knowledge across product, creativity, and learning.
+## 🌍 Culinary & Travel
+- [[wiki/cooking/index.md|Culinary Master Index]] — Global cuisines, techniques, and restaurant databases.
+- [[wiki/travel/index.md|Voyage OS: Travel Hub]] — Planning, guidelines, and trip-specific culinary intelligence.
+
 ## 🚀 AI Strategy & Landscape
 - [[AI-Industry-Map-2026]] - Categorization and intersections of Agentic, Physical, and Vertical AI.
 - [[AI-Startups-Korea-2026]] - Current landscape and high-potential targets.
@@ -18,6 +22,7 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 
 ## 🍳 Cooking & Culinary Arts
 - [[wiki/cooking/index.md|Culinary Arts: Master Index]] - Research across France, Italy, Spain, Japan, China, Korea, Vietnam, Mexico, and USA.
+- [[wiki/cooking/selected-restaurants.md|Selected Restaurants]] - Consolidated list of high-tier restaurants from global guides (Michelin, World's 50 Best, Steak 101, Guia Repsol).
 
 ## 🌊 Vibecoding & AI Development
 - [[wiki/vibecoding/index.md|Vibecoding: Master Index]] - Technical workflows for AI-driven software creation and Karpathy's "vibing" philosophy.
@@ -113,6 +118,10 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 
 ## 🌿 Planting & Horticulture
 - [[wiki/planting/index.md|Planting & Horticulture: Master Index]] - Botany, gardening, and life cycle tracking.
+
+---
+*Last Updated: 2026-06-10*
+cycle tracking.
 
 ---
 *Last Updated: 2026-06-09*
