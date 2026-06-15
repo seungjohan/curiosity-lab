@@ -6,6 +6,32 @@ category: system
 
 This document defines the standard procedures for planning any culinary voyage.
 
+## 🚀 The Voyage Briefing Process
+
+Whenever you plan a new trip, follow this automated briefing process to get immediate recommendations from your entire restaurant database.
+
+### How to trigger a briefing:
+1.  **Ask me:** *"Give me a voyage briefing for [Location]"* (e.g., "Seoul", "London", "Tokyo").
+2.  **What I do:** I run the unified search script (`scripts/voyage_briefing.py`) across all your guides (Michelin, Blue Ribbon, World's 50 Best, Steak 101, Guia Repsol).
+3.  **What you get:** A structured report with:
+    *   **Elite Targets:** Must-go 3-star or Top 50 restaurants.
+    *   **Local Finds:** Curated recommendations from all sources.
+    *   **Booking Actions:** A list of establishments needing immediate reservation.
+    *   **Budget Overview:** A summary of the price tiers available.
+
+---
+## 🍷 Reasonable Restaurant with Winelist
+
+For the traveler who prioritizes the drinking experience alongside value-driven dining. This section identifies establishments that offer exceptional wine selections while maintaining a "Reasonable" (Tier 2-3) price point.
+
+### Key Resource:
+- **[[michelin_wine_list.csv|Michelin Wine List Database]]**: A curated list of establishments recognized by Michelin for their superior wine programs.
+
+### Strategy:
+1.  **Cross-Reference:** When a briefing gives you a "Reasonable Version" list, check them against the wine list database.
+2.  **Look for recognized lists:** Favor restaurants that have won specialized awards for their cellar quality but haven't reached "Elite" price tiers yet.
+
+---
 ## 🌟 The Voyage Checklist (Pre-Trip)
 
 Before departing on any trip, perform these checks:

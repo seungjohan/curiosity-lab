@@ -1,0 +1,232 @@
+[
+  {
+    "order": 1,
+    "version": "v1",
+    "prompts": [
+      "I'd like to make a personal blog and portfolio together\nI will give you a reference. Can you make a clean and simple prototype?\nhttps://www.sehyunjeon.com/expertise\nhttps://www.alessandrakrick.com/about\nhttps://kimchihill.com\nhttps://substack.com/ @seungjohan/notesnhttps://brunch.co.kr/@seungjohan",
+      "how can I see the preview?",
+      "how can I add more feature in this website?",
+      "Can I add more detail?"
+    ]
+  },
+  {
+    "order": 2,
+    "version": "v2",
+    "prompts": [
+      "show me hashtag feature refer design like a substack"
+    ]
+  },
+  {
+    "order": 3,
+    "version": "v3",
+    "prompts": [
+      "I want to make separate pages for each category, not in a single page",
+      "can you make an about page to this one?\nhttps://www.sehyunjeon.com/expertise"
+    ]
+  },
+  {
+    "order": 4,
+    "version": "v4",
+    "prompts": [
+      "in the beginning I want to show several pictures which I enjoy in my life and when I scroll down, there is space where I can explain myself briefly."
+    ]
+  },
+  {
+    "order": 5,
+    "version": "v6",
+    "prompts": [
+      "can you make this tech stack with next.js and typescript? to make this website 반응형.\nI want pictures to react more smoothly not like a just picture image."
+    ]
+  },
+  {
+    "order": 6,
+    "version": "v7",
+    "prompts": [
+      "Globally for every page\n- header: context with a link to each page\nRight side: Home, About, Projects, Blog, Contact, search feature, share current link feature\nLeft: Seungjo Han\n- Footer: Briefly explaining, there are two layers, context in the above, and other ones in the below\nin the middle: Home, About, Projects, Blog, Contact\nbelow right: linkedin, Github, Mail link to each page and link\n- Anchor links on the right side\n\nFor the blog post page\n- I want make content is located in the middle with right and left margin like a substack\n- In the beginning part, copy the substack design but only title, subtitle, share buttonile button, date data.\nAnd in the end part, profile button and share button in the same line. in the right below comment feature, in the below recommend other posts up to 3 aligning as like a substack post card."
+    ]
+  },
+  {
+    "order": 7,
+    "version": "v9",
+    "prompts": [
+      "- get rid of # in the blog.\n- get rid of heart in the blog post\n- in 'more to read' get rid of my profile, add main one keyword.\n- in the footer, get rid of Seungjo Han section.\n- in the footer, locate context home, about, and others in the middle. align logos in the same down as the context '2026 seungjo han all right reserved.\n- in the project, when I click one of the project post there is a page like a case study. Can you make a one sample of it? picture in the beginning, and brief explanation of the project like role, team, timeline, duration, platform, or tech stack, and then explanation of the project with 1,2,3 like. problem, solution, tl'dr, takeaway, conclusion, something like that\n- in the page 'home'. Align brief introduction of myself, these keywords as a next layer (# 2+ Years of Experience, # 10+ Technical Projects Completed, # 500+ Customers Interviewed in Person) and these keywords as next one, entrepreneurship, hands-on problem solving, technology, global mindset and align projects, up to 3 blog posts by the following"
+    ]
+  },
+  {
+    "order": 8,
+    "version": "v10",
+    "prompts": [
+      "- get rid of 'contact' page\n- in the page 'home', get rid of the line between the context home, about, ... and the below one\n- in the page 'blog', I want to fix the align of the information for the blog post. Don't locate date on the left. show information. Add hashtag up to 3, get rid of the reading time instead put date data\n- I want to put button in the footer for subscribing my writing.\nand below the blog post in the page 'home'. put a context something like contact, or let's connect together with the link email, and subscribe my blog button.\n- get rid of arrow on the right side of the each blog post preview.\n- get rid of next project section in the projects detail page, get rid of arrow in the project detail postcard in the project page"
+    ]
+  },
+  {
+    "order": 9,
+    "version": "v11",
+    "prompts": [
+      "- get rid of subscribe section in the footer.\n- get rid of back to blog link in the blog post.\n- in the blog post page, link the hashtag keyword with blog filtered by that keyword.\n- in the page 'blog', align date data first and then keyword and get rid of hashtag from the keyword.\n- get rid of clear filter in the page 'blog'\n- in the page 'about' get rid of interactive response and make the picture simple so that it doesn't bother loading time. But I want to make the mood like a museum any ideas?\n- in the page 'home' get rid of the context area of focus and get rid of line in the above to connect with above section.\n- in the page 'home', show two projects in a line"
+    ]
+  },
+  {
+    "order": 10,
+    "version": "v12",
+    "prompts": [
+      "- can you make a about page into super simple style? with left and right margin. Simply nothing else just text and image. Get rid of other extra design.\n- Get rid of lines between sections in detailed project page like between problem and TL;DR.\n- in blog post, anchor links are gone. put them again.\nand after editing everything. Based on the latest version, make a specific and detail PRD file with markdown format"
+    ]
+  },
+  {
+    "order": 11,
+    "version": "v15",
+    "prompts": [
+      "In the blog page\n- Show month up to 3 letters like Jan, Feb, Mar, Apr, May\n\nInside the blog post page\n- instead of adding profile below the subtitle just align my name 'Seungjo Han' on the left side, and date on the right side.\n- at the end, instead of profile section just put my name, and post created date.\n- change from 'more to read' to 'related', and recommend post which are the most relevant like posts which have same hashtag or keyword.\n\nIn the project page,\n- remove the number in each head tags like problems, TL;DR,...\n\nIn about page,\n- just one column, don't separate two column with picture and text.\nPicture above, and text in the below.\nand rewrite the PRD file, more specific and detail. more like an engineering friendly style."
+    ]
+  },
+  {
+    "order": 12,
+    "version": "v16",
+    "prompts": [
+      "in the project detail page\n- Regarding the information about the project, I want to align below the title and subtitle with no lines. And only my role, team, duration, tools not as a table with lines.\n\nIn the project page\n- before the cards for project, I want to put these information\n\n### Entrepreneurship\nI founded a B2B2C e-Commerce Startup in order to deliver my vision and solve a real-world problem.\n\n### Technology\nI studied Software Venture (Computer Science and Entrepreneurship), learned programming at '멋쟁이사자처럼', and built software projects for implementing my ideas.\n\n### Hands-on Mindset\nI am curious about business opportunities, and solve problems through projects, meeting customers, and taking action.\n\n### Global Communication\nI collaborated with global teammates from the US, Kazakhstan, and Europe.\n\n- after post card for project, I want to make a section for showing my skill set with product management with categories of software, product management, language, analytics and design.\n\nIn the blog detail page\n- get rid of reading time information\n- get rid of comment feature\n- in the above, make a link for going back the list\n\nRegarding the blog post, I want to make a magazine feature in the brunch, medium, or substack. But especially the website brunch, there is a feature called magazine which is for showing sequential posts like a series, but not just filtered by hashtag. As I said for sequel series of post. I want to show the name of the magazine on the right side of the blog information which align on the same line of the date and hashtag, and in the detail blog post put the magazine name on the above of the hashtag. and in the below, get rid of the information, name and date instead show hashtag keyword on the left, and magazine name on the right alignment.\n\nand can you recommend a page design for magazine but simple and modern."
+    ]
+  },
+  {
+    "order": 13,
+    "version": "v17",
+    "prompts": [
+      "In blog detail page,\n- Can you reduce the left and right margin a little bit more so that text can be shown little bit wider. A little bit. like around 15% more wider?\n- in the related section which recommend other posts, align title and subtitle first and then magazine with linking the magazine page. Get rid of the hashtags\n- get rid of the information of magazine and hashtag in the beginning above the title. instead place them in the place of name. and move the name next to the date.\n- get rid of lines before and after the profile name, and date information section."
+    ]
+  },
+  {
+    "order": 14,
+    "version": "v18",
+    "prompts": [
+      "- rewrite the prd file as detail as possible in an engineer focused way\n\n- for 'home' page\nI will give you data put them in that page.\n\nrefer this website\nhttps://seungjohan.notion.site/Seungjo-Han-8b3f842fd9da473d924af83163eba758\n\nSeungjo Han (한승조)\nProactive and Customer-Focused Product Manager\n#zero-to-one #hands-on #data-driven #customer-focused #technical innovation #trial & error\n- Passionate about solving problems and driving positive innovation to the world through developing ideas, building technical products, and taking action.\n- Love to work in fast-paced environments and interact with people of all backgrounds and different mindsets.\n- Keen to listen to people's voices, learn new things, and challenge myself.\n\nand in the get in touch section,\ninstead of subscribing feature, remove that. and add email me button to link to my email (seungjohan.kr @gmail.com) and contact button for linkedin (https://www.linkedin.com/in/seungjohan/)\n\nfor the projects app,\ninstead of showing project with two columns, change to one column and show all the data which align, and for the explanation I want 3 parts impact, what I did, and outcome."
+    ]
+  },
+  {
+    "order": 15,
+    "version": "v19",
+    "prompts": [
+      "in the project detail page.\nAlign data like this. Get rid of data for role, team, tools like those.",
+      "nono I liked the detail project page before asking several query ago. in the version 16\nI want to change the page 'project', the preview card for listing projects.\nI want to change that card alignment with one column and information for explaining each projects like a picture I gave you."
+    ]
+  },
+  {
+    "order": 16,
+    "version": "v20",
+    "prompts": [
+      "everytime when I asked something, adjust them and improve in the prd file."
+    ]
+  },
+  {
+    "order": 17,
+    "version": "v22",
+    "prompts": [
+      "in project page,\nremove the lines in between section in the single project and make an outline of each project to make visitor easy to identify each project.\n\nand make hashtag keyword like a blog for the project page as well. link each keyword to filter feature and display"
+    ]
+  },
+  {
+    "order": 18,
+    "version": "v23",
+    "prompts": [
+      "can you get rid of all the hashtags in the all, branding, .. section above the project preview posts.\nand get rid of # character in every keywords for preview project cards\n\nfor the anchor link in the project detail page or other blog detail post, make it move until the h tag I think it moves a little bit less than h tag.\n\nand in the blog detail page, when I click one of the blog post in the related section I want to move to the top of that blog post.\n\nalso renewal prd file once more"
+    ]
+  },
+  {
+    "order": 19,
+    "version": "v24",
+    "prompts": [
+      "I want to make pages for managing blog posts, projects's dashboard for analysing, when I wrote, views, modify, something like basic data.\nbut as a admin, only have permission for admin. You know.\n\n- in the project pages\nI want pictures automatically changed in 1 second duration. Make that work."
+    ]
+  },
+  {
+    "order": 20,
+    "version": "v25",
+    "prompts": [
+      "(no explicit prompt text — veion marker only)"
+    ]
+  },
+  {
+    "order": 21,
+    "version": "v27",
+    "prompts": [
+      "in the project page\n- duration second has to be 2 times longer. It's too rapid change right now.\n- make small arrows for moving left and right above the pictures.\n\nIf I click blog post cards, go to the top of the page.\nand if I click any anchor links, I want to move up until there\nFor example, I click problem in the project detail page, it moves right below the problem context.\nIt works well in the blog detail page, but still not working in project detail page.\n\nrenew the prd file."
+    ]
+  },
+  {
+    "order": 22,
+    "version": "v28",
+    "prompts": [
+      "In the project page\n- move arrow in the middle or left and right side with transparent background.\n\nIf I click any categories like home, about, projects, and magazine\nmove page to the top\n\nin the page 'home'\nI prefer the style like version 14 instead of new one after giving you input of my information."
+    ]
+  },
+  {
+    "order": 23,
+    "version": "v29",
+    "prompts": [
+      "change the page 'home' to like version 14\nI prefer the initial version rather than the version after giving you the information about me\n\nin the project page\nI want to add something more.\nin the above\n\ndesign the page like this page in the below before actual projects start, first copy that until these ones\n\nhttps://www.alessandrakrick.com/product-management\n\nSENIOR PRODUCT MANAGER PORTFOLIO\n\nI build products from 0 to 1.\n10M+ users platforms · Payments · Mobile · Stakeholder Management · B2B + B2C\n6 YEARS OF EXPERIENCE\n10M+ USERS IMPACTED\n12+ PRODUCTS SHIPPED\nFeatured case studies\nThree deep dives into products I've owned end-to-end — plus two more projects below.\n\nand then put 4 keywords, entrepreneurship, technology, hands-on, and global\n\nchange the section context skills to Skills & tools\nThe mix I use to take products from discovery, through delivery, to measurable impact.\nlike the page I gave you for reference.\n\nand copy these as 15+ PARTNER INTEGRATIONS DELIVERED\n88% ENGINEERING TEAM RETENTION RATE\n5 APP STORES SHIPPED SIMULTANEOUSLY\n\nLet's build something impactful.\nEmail Me\nLinkedIn\n\nbelow the skills section.\n\nand adjust all of them in prd files"
+    ]
+  },
+  {
+    "order": 24,
+    "version": "v30",
+    "prompts": [
+      "- get rid of magazine feature and pages.\n\nI want to change the footer\ncopy the structure of the footer like this website\nhttps://www.keeyonghan.com\n\nmake sections for pages(Home, About, Projects, Blog), Connect (Linkedin, Email, Github)\n, aligning on the right side\n\non the left\nSeungjo Han\nProduct Manager,\n\nand in the center below\n© 2026 Seungjo Han. All rights reserved.\n\nI want to change the page 'home'\nI got inspired by this page\nhttps://www.ycombinator.com\n\ncan you tailor mine a little bit similar to the url I gave.\n\nThe main point is too make it simple with several contexts, powerful meaning delivery"
+    ]
+  },
+  {
+    "order": 25,
+    "version": "v32",
+    "prompts": [
+     "- align footer with the same margin as other body context.\n- I will give you some basic information about myself. So, keep the structure of the page 'home', and 'project'.\nSelect the right data from the data I'm giving you and put them into the page.\n- can you remove '#' in every anchor links? in both page 'blog', and 'project'.\n- whenever if you click to enter another page, move to the top, not in the middle of the page.\n- update prd file"
+    ]
+  },
+  {
+    "order": 26,
+    "version": "v33",
+    "prompts": [
+      "in the blog detail page\ncan you remove the hashtag keywords, and name in the above, and instead add magazine title on the left side",
+      "magazine I mean what I asked you before.\nI asked you to remove the feature, but I want you to make it happen again."
+    ]
+  },
+  {
+    "order": 27,
+    "version": "v34",
+    "prompts": [
+      "can you keep the format and structure, just fill out the context based on what I am giving you right now for the projects on the page 'projects'\n\nand can you add this one at the 'what i bring' section?\n\n### Hands-on Mindset\nI am curious about business opportunities, and solve problems through projects, meeting customers, and taking action.\n\nand add these 3 blog posts in 'blog' as well\n# I'm a Proud Dokdo Security Police of Korea\n\n### Another way to protect our territory, 'Dokdo', and a way to love myself. 'Dokdo Security Police'\n\n*By Seungjo Han · Dec 02, 2022*\n\n[Full blog post content about Dokdo Security Police experience...]"
+    ]
+  },
+  {
+    "order": 28,
+    "version": "v36",
+    "prompts": [
+      "(no explicit prompt text — version marker only)"
+    ]
+  },
+  {
+    "order": 29,
+    "version": "v37",
+    "prompts": [
+      "make 2 rows, 2 columns for the section 'what I bring'\n\nchange the text 'selected work' to 'Projects'\n\nand update design.md, prd again"
+    ]
+  },
+  {
+    "order": 30,
+    "version": "v38",
+    "prompts": [
+      "get rid of other posts except the ones I gave you"
+    ]
+  },
+  {
+    "order": 31,
+    "version": "",
+    "prompts": [
+      "Can I link dashboard with google analytics, search console, gtm data??\n\nand I want to make blog posts or projects in the dashboard as well. can you make that?\n\nI want data is actually working: views, and share\n\nand on the footer with the same align with 'Product Manager' I want to add more context.\nAuthor, Composer, Triathlete, Polyglot\n\nin the page 'projects' add Spanish (conversational), French (Beginner)"
+    ]
+  },
+  {
+    "order": 32,
+    "version": "v44",
+    "prompts": [
+      "align by the column (Author, Composer, Triathlete, Polyglot) not in a row\n\nlink the Github to this link in the footer\nhttps://github.com/seungjohan\n\nin the header, instead of copy link can you make it to share a link feature? to several social medias?"
+    ]
+  }
+]

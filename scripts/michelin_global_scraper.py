@@ -16,7 +16,7 @@ COLUMNS = [
     "Longitude", "Latitude", "PhoneNumber", "Url", 
     "WebsiteUrl", "Award", "GreenStar", "FacilitiesAndServices", "Description"
 ]
-OUTPUT_CSV = "raw/michelin_global_restaurants.csv"
+OUTPUT_CSV = "raw/michelin_scraped_full.csv"
 URL_LOG = "raw/michelin_urls.json"
 
 def discover_urls(max_pages=403):
@@ -26,7 +26,15 @@ def discover_urls(max_pages=403):
             urls = json.load(f)
         print(f"Loaded {len(urls)} existing URLs.")
     
-    for page in range(1, max_pages + 1):
+    if len(urls) >= 19310:
+        print("URL log seems complete. Skipping discovery phase.")
+        return urls
+    
+    # Logic to resume from the last page
+    start_page = (len(urls) // 40) + 1 # Each page has ~40-50
+    if start_page > max_pages: start_page = 1
+    
+    for page in range(start_page, max_pages + 1):
         print(f"Scraping page {page}...")
         try:
             response = requests.get(f"{LIST_URL}{page}", headers=HEADERS, timeout=10)
@@ -128,12 +136,14 @@ def parse_detail(url):
 
 def main():
     print("Starting Michelin Global Scraper...")
-    urls = discover_urls()
     
     # Initialize CSV if it doesn't exist
     if not os.path.exists(OUTPUT_CSV):
         os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
         pd.DataFrame(columns=COLUMNS).to_csv(OUTPUT_CSV, index=False)
+        print(f"Initialized {OUTPUT_CSV} with headers.")
+    
+    urls = discover_urls()
     
     existing_df = pd.read_csv(OUTPUT_CSV)
     # Handle empty CSV case

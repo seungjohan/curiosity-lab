@@ -21,55 +21,34 @@ COLUMNS = [
 class BlueRibbonParser:
     @staticmethod
     def map_price_to_tier(price_str):
-        """
-        Maps price range string to 1-4 tier.
-        < 30k -> 1
-        30k-80k -> 2
-        80k-200k -> 3
-        > 200k -> 4
-        """
-        if not price_str:
-            return 0
-        
-        # Clean string and find numbers
-        # Format usually: "₩11,500 ~ ₩16,000" or "10,000원 이하"
+        if not price_str: return 0
         nums = re.findall(r'[\d,]+', price_str)
-        if not nums:
-            return 0
-            
-        # Get the first number (usually the lower bound or the "under X" amount)
+        if not nums: return 0
         try:
             val = int(nums[0].replace(',', ''))
-            if val < 30000:
-                return 1
-            elif val < 80000:
-                return 2
-            elif val < 200000:
-                return 3
-            else:
-                return 4
-        except ValueError:
-            return 0
+            if val < 30000: return 1
+            elif val < 80000: return 2
+            elif val < 200000: return 3
+            else: return 4
+        except: return 0
 
     @staticmethod
     def parse_ribbons(soup):
-        """Extract ribbon count (0-3) from soup."""
-        # Ribbon images are typically like /images/common/ribbon1.png
+        # The ribbons are usually in a div.header-inner or similar
+        # Looking for ribbon images
         ribbon_img = soup.select_one('img[src*="ribbon"]')
         if ribbon_img:
             src = ribbon_img.get('src', '')
             match = re.search(r'ribbon(\d)', src)
-            if match:
-                return int(match.group(1))
+            if match: return int(match.group(1))
         
-        # Check for text fallback or NEW (which is essentially 0 ribbons but "selected")
-        ribbon_text = soup.select_one('.ribbon-count')
-        if ribbon_text:
-            text = ribbon_text.get_text().strip()
-            if '3' in text: return 3
-            if '2' in text: return 2
-            if '1' in text: return 1
-            
+        # Check for text in ribbon container
+        ribbon_box = soup.select_one('.ribbon-box, .ribbon')
+        if ribbon_box:
+            txt = ribbon_box.get_text()
+            if '3' in txt: return 3
+            if '2' in txt: return 2
+            if '1' in txt: return 1
         return 0
 
     @staticmethod
@@ -78,113 +57,89 @@ class BlueRibbonParser:
         data = {k: "" for k in COLUMNS}
         data["Source_Url"] = url
         
-        # Name
-        name_tag = soup.select_one('h1.restaurant-name, .title, .restaurant_title')
-        if name_tag:
-            data["Name"] = name_tag.get_text().strip()
-            
-        # Ribbons
+        # New selectors based on live site analysis
+        name_tag = soup.select_one('h1.restaurant_title, div.header-inner h1, .restaurant-name')
+        if not name_tag:
+            # Try to get from page title as fallback
+            title_tag = soup.select_one('title')
+            if title_tag:
+                data["Name"] = title_tag.get_text().split('|')[0].strip()
+        else:
+            data["Name"] = name_tag.get_text(strip=True)
+
         data["Ribbons"] = BlueRibbonParser.parse_ribbons(soup)
         
-        # Info blocks (Address, Phone, etc.)
-        # These are usually in a list or div block
-        info_list = soup.select('.info-list li, .restaurant-info p')
-        for item in info_list:
-            text = item.get_text(separator=" ", strip=True)
-            if "위치" in text or "주소" in text:
-                # Remove label and any leading colon/whitespace
-                val = re.sub(r'^(위치|주소)\s*[:\s]*', '', text).strip()
-                data["Address"] = val
-                # Extract Region from address (e.g., "서울특별시 강남구" -> "서울")
-                if data["Address"]:
-                    parts = data["Address"].split()
-                    if parts:
-                        data["Region"] = parts[0].replace("서울특별시", "서울").replace("경기도", "경기")
-            elif "전화" in text or "Tel" in text:
-                data["Phone"] = re.sub(r'^(전화|Tel)\s*[:\s]*', '', text).strip()
-            elif "메뉴" in text or "가격" in text or "₩" in text:
-                data["Price_Range"] = re.sub(r'^(메뉴|가격)\s*[:\s]*', '', text).strip()
-                data["Price_Tier"] = BlueRibbonParser.map_price_to_tier(data["Price_Range"])
-            elif "시간" in text or "영업" in text:
-                data["Opening_Hours"] = re.sub(r'^(시간|영업)\s*[:\s]*', '', text).strip()
-            elif "예약" in text:
-                data["Booking_Info"] = text.strip()
+        # Info items (Address, Phone, etc.)
+        info_items = soup.select('div.info-inner li, ul.info-list li')
+        for li in info_items:
+            label_tag = li.select_one('strong, span.label')
+            if not label_tag: continue
+            
+            label = label_tag.get_text(strip=True)
+            value = li.get_text(strip=True).replace(label, '').strip()
+            
+            if "주소" in label or "위치" in label:
+                data["Address"] = value
+                if value:
+                    data["Region"] = value.split()[0].replace("서울특별시", "서울").replace("경기도", "경기")
+            elif "전화" in label:
+                data["Phone"] = value
+            elif "메뉴" in label or "가격" in label:
+                data["Price_Range"] = value
+                data["Price_Tier"] = BlueRibbonParser.map_price_to_tier(value)
+            elif "영업" in label or "시간" in label:
+                data["Opening_Hours"] = value
+            elif "예약" in label:
+                data["Booking_Info"] = value
 
         # Description
-        desc_tag = soup.select_one('.description, .review-content, .pick-text')
+        desc_tag = soup.select_one('div.review-content, .pick-text, .description')
         if desc_tag:
-            data["Description"] = desc_tag.get_text().strip()
+            data["Description"] = desc_tag.get_text(strip=True)
             
-        # Coordinates (Look for script tags or hidden inputs)
-        # Often in window.__INITIAL_STATE__ or similar
-        # For now, placeholder or try to extract from script
-        scripts = soup.find_all('script')
-        for s in scripts:
-            if s.string and ('lat' in s.string.lower() or 'longitude' in s.string.lower()):
-                lat_match = re.search(r'lat["\']?\s*[:=]\s*["\']?([\d\.]+)', s.string)
-                lng_match = re.search(r'lng["\']?\s*[:=]\s*["\']?([\d\.]+)', s.string)
-                if lat_match and lng_match:
-                    data["Coordinates"] = f"{lat_match.group(1)}, {lng_match.group(1)}"
-                    break
-                    
         return data
 
 def main():
-    if not os.path.exists(URL_LOG):
-        print(f"Error: {URL_LOG} not found. Run discovery first.")
-        return
+    if not os.path.exists(URL_LOG): return
+    with open(URL_LOG, 'r') as f: urls = json.load(f)
 
-    with open(URL_LOG, 'r') as f:
-        urls = json.load(f)
-
-    # Initialize CSV
     if not os.path.exists(OUTPUT_CSV):
         pd.DataFrame(columns=COLUMNS).to_csv(OUTPUT_CSV, index=False)
         processed_urls = set()
     else:
         existing_df = pd.read_csv(OUTPUT_CSV)
-        processed_urls = set(existing_df['Source_Url'].tolist())
+        processed_urls = set(existing_df['Source_Url'].dropna().tolist())
 
     remaining_urls = [u for u in urls if u not in processed_urls]
-    print(f"Total: {len(urls)}, Processed: {len(processed_urls)}, Remaining: {len(remaining_urls)}")
-
-    if not remaining_urls:
-        print("Everything processed.")
-        return
+    if not remaining_urls: return
 
     batch = []
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        )
+        context = browser.new_context(user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
         page = context.new_page()
 
-        try:
-            for i, url in enumerate(remaining_urls):
-                print(f"[{i+1}/{len(remaining_urls)}] Scraping: {url}")
-                try:
-                    page.goto(url, wait_until="networkidle", timeout=30000)
-                    html = page.content()
-                    data = BlueRibbonParser.parse_page(html, url)
+        for i, url in enumerate(remaining_urls):
+            print(f"Scraping {i+1}/{len(remaining_urls)}: {url}")
+            try:
+                page.goto(url, wait_until="networkidle", timeout=30000)
+                time.sleep(2) # Extra wait for dynamic data
+                data = BlueRibbonParser.parse_page(page.content(), url)
+                if data["Name"]: # Only add if we got a name
                     batch.append(data)
-                except Exception as e:
-                    print(f"  Error scraping {url}: {e}")
                 
-                # Checkpoint
                 if len(batch) >= CHECKPOINT_INTERVAL:
                     pd.DataFrame(batch).to_csv(OUTPUT_CSV, mode='a', header=False, index=False)
                     batch = []
-                    print(f"  Checkpoint saved ({i+1}/{len(remaining_urls)})")
-                
-                # Random delay
-                time.sleep(random.uniform(2, 5))
-                
-        finally:
-            if batch:
-                pd.DataFrame(batch).to_csv(OUTPUT_CSV, mode='a', header=False, index=False)
-                print("  Final batch saved.")
-            browser.close()
+                    print("Checkpoint saved.")
+            except Exception as e:
+                print(f"Error: {e}")
+            
+            time.sleep(random.uniform(2, 4))
+            
+        if batch:
+            pd.DataFrame(batch).to_csv(OUTPUT_CSV, mode='a', header=False, index=False)
+        browser.close()
 
 if __name__ == "__main__":
     main()

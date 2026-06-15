@@ -9,7 +9,6 @@ BASE_URL = "https://www.bluer.co.kr"
 
 def discover_urls():
     with sync_playwright() as p:
-        # Launch browser with specific options to be more robust
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -23,32 +22,25 @@ def discover_urls():
         except Exception as e:
             print(f"Initial navigation warning: {e}. Attempting to proceed...")
             
-        # Wait for the restaurant list items to be present
         try:
             page.wait_for_selector("[data-href^='/restaurants/']", timeout=15000)
         except Exception as e:
-            print(f"Selector timeout: {e}. Page content might be different or taking too long.")
-            # Print page title and some content for debugging if it fails
-            print(f"Page title: {page.title()}")
+            print(f"Selector timeout: {e}. Page title: {page.title()}")
             browser.close()
             return
 
         last_count = 0
         scroll_count = 0
-        max_scrolls = 10 # Set to 10 for a solid "dry run"
+        max_scrolls = 30
         
         while scroll_count < max_scrolls:
-            # Scroll to bottom
             page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-            time.sleep(2) # Wait for content to load
-            
-            # Count current restaurant links
+            time.sleep(2)
             current_count = page.locator("[data-href^='/restaurants/']").count()
             print(f"Scroll {scroll_count + 1}: Found {current_count} items...")
             
             if current_count == last_count:
-                # Try scrolling a bit more or waiting
-                page.evaluate("window.scrollBy(0, -200)") # Scroll up slightly
+                page.evaluate("window.scrollBy(0, -200)")
                 time.sleep(1)
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
                 time.sleep(3)
@@ -59,7 +51,6 @@ def discover_urls():
             last_count = current_count
             scroll_count += 1
 
-        # Extract URLs
         elements = page.locator("[data-href^='/restaurants/']").all()
         urls = []
         for el in elements:
@@ -76,8 +67,6 @@ def discover_urls():
             with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
                 json.dump(urls, f, ensure_ascii=False, indent=4)
             print(f"Saved {len(urls)} URLs to {OUTPUT_FILE}")
-        else:
-            print("No URLs found. Output file not created.")
             
         browser.close()
 

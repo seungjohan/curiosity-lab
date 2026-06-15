@@ -25,55 +25,52 @@ def extract_list():
             response.raise_for_status()
             soup = BeautifulSoup(response.content, "html.parser")
             
-            # The page contains grids: 1-50 and 51-100
-            grids = soup.find_all("div", class_="list-grid")
+            # Find all potential restaurant items. 
+            # 1-50 are in 'div.list-item', 51-100 are also in 'div.list-item' but in a different grid.
+            items = soup.find_all("div", class_="list-item")
+            print(f"Found {len(items)} potential items.")
             
-            for grid in grids:
-                items = grid.find_all("div", class_="list-item")
-                print(f"Found {len(items)} items in grid.")
-                
-                for item in items:
-                    try:
-                        rank_text = item.find("p", class_="rank").text.strip()
-                        rank = int(rank_text)
-                        
-                        name_el = item.find("h2")
-                        if not name_el:
-                            continue
-                        name = name_el.text.strip()
-                        
-                        # Location is usually in the first <p> in item-bottom
-                        bottom_div = item.find("div", class_="item-bottom")
-                        location = ""
-                        if bottom_div:
-                            loc_p = bottom_div.find("p")
-                            if loc_p:
-                                location = loc_p.text.strip()
-                        
-                        # Detail link
-                        link_el = item.find("a", href=True)
-                        detail_url = ""
-                        if link_el:
-                            href = link_el["href"]
-                            if href.startswith("/"):
-                                detail_url = BASE_URL + href
-                            elif href.startswith("http"):
-                                detail_url = href
-                        
-                        # Use a dict to avoid duplicates if same restaurant appears on multiple pages/grids
-                        restaurant_data = {
+            for item in items:
+                try:
+                    # Skip if it's not a restaurant (e.g. ad or info block)
+                    rank_el = item.select_one(".rank")
+                    if not rank_el:
+                        continue
+                    
+                    rank = int(rank_el.text.strip())
+                    
+                    name_el = item.find("h2") or item.find("h3")
+                    if not name_el:
+                        continue
+                    name = name_el.text.strip()
+                    
+                    location = ""
+                    loc_el = item.select_one(".location") or item.select_one(".item-bottom p")
+                    if loc_el:
+                        location = loc_el.text.strip()
+                    
+                    # Detail link: it might wrap the whole item or be a button/link inside
+                    link_el = item.find("a", href=True) or item.parent.find("a", href=True)
+                    detail_url = ""
+                    if link_el:
+                        href = link_el["href"]
+                        if href.startswith("/"):
+                            detail_url = BASE_URL + href
+                        elif href.startswith("http"):
+                            detail_url = href
+                    
+                    # Store if we haven't seen this rank yet
+                    if not any(r["Rank"] == rank for r in restaurants):
+                        restaurants.append({
                             "Rank": rank,
                             "Name": name,
                             "Location": location,
                             "DetailUrl": detail_url
-                        }
-                        
-                        # Check if already added
-                        if not any(r["Rank"] == rank for r in restaurants):
-                            restaurants.append(restaurant_data)
+                        })
                             
-                    except Exception as e:
-                        print(f"Error parsing item: {e}")
+                except Exception as e:
+                    # Silently skip items that don't have rank (often ads or placeholders)
+                    pass
         except Exception as e:
             print(f"Error fetching {list_url}: {e}")
                 

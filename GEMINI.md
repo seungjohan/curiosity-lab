@@ -82,24 +82,23 @@ about: One-sentence summary.
 - Include explicit `country` for easier filtering.
 - Link to the relevant pillar in [[AI-Industry-Map-2026]].
 
-### 📜 List Page Schema (Index/Map Mode)
-For pages that list, map, or index multiple entities, use this standardized schema. The `category` property is **mandatory** and must be the first property.
+### 🍳 Culinary Page Schema (Dish & Region Mode)
+For pages exploring dishes, ingredients, or regional cuisines. The `category` property is **mandatory** and must be `cooking`.
 
 ```markdown
 ---
-category: system
-type: list
-scope: [Global/Regional/Industry-specific]
-pillar: [AgenticAI/PhysicalAI/VerticalAI/Infrastructure/Cross-pillar]
-tags: [list, Map, StartupList, Strategy]
-about: Concise description of what this list covers.
+category: cooking
+country: [France/Italy/Spain/Japan/China/Korea/Vietnam/Mexico/USA]
+region: [Specific region if applicable]
+type: [Dish/Ingredient/Technique/Restaurant]
+tags: [cooking, CuisineType, MainIngredient]
 ---
 ```
 
-**Mandatory for Lists:**
-- Use `#list` tag for vault-wide filtering.
-- Define the `scope` (e.g., "South Korea", "Global AI Landscape").
-- Define the `pillar` it primarily serves.
+**Mandatory for Cooking:**
+- Use `#cooking` tag.
+- Specify the `country` for vault-wide organization.
+- Include a "Key Takeaway" focusing on the product/creative essence of the dish.
 
 ## 🔗 Linking Philosophy
 - Prioritize patterns across domains (e.g., Product ↔ Music).
