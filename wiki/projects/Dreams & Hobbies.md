@@ -1,4 +1,5 @@
 ---
+category: system
 type: reflection
 topic: [Music, Composition, Hobbies]
 status: active
@@ -6,7 +7,16 @@ industry: N/A
 created: 2026-05-14
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Tracking personal aspirations and hobbies ensures a balanced approach to the "0→1" life.
+> **How to use it:** Use this as a map for creative recharge and long-term fulfillment.
+> **Informs:** Creative-domain synthesis.
+
 # Dreams & Hobbies
+
+## 🔗 Connections
+- [[../index|Master Index]]
+
 
 ## Music & Composing
 - **Childhood Dreams**: Rediscovering the spark of creativity that was suppressed by "reality" and career focus.

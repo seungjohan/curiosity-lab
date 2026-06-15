@@ -1,4 +1,5 @@
 ---
+category: cooking
 type: resource
 topic: [Food, Culinary, Personal]
 status: active
@@ -6,7 +7,17 @@ industry: Food
 created: 2026-05-28
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Cataloging flavor profiles and personal preferences informs the "Michelin Filter" and culinary product thinking.
+> **How to use it:** Reference when planning dining research or cooking experiments.
+> **Informs:** [[Michelin Filter]]
+
 # Favorite Foods
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[Michelin Filter]]
+
 
 ## Related
 - [[Michelin Filter]]

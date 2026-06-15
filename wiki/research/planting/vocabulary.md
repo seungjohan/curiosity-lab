@@ -5,6 +5,11 @@ tags: [vocabulary, botany, planting]
 
 # 🌿 Planting Vocabulary
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Precise botanical vocabulary is essential for accurate research, cross-guide comparison, and successful plant care.
+> **How to use it:** Reference these terms when documenting observations in the gardening log or analyzing plant health.
+> **Informs:** [[index|Planting Index]]
+
 This page consolidates terms related to botany, gardening, and plant life cycles.
 
 ## 🇬🇧 English

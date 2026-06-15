@@ -2,6 +2,11 @@
 category: system
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Standardized procedures for culinary voyages ensure efficient data gathering and a balanced mix of "Elite" and "Reasonable" dining experiences.
+> **How to use it:** Follow the Voyage Briefing Process and Pre-Trip Checklist before any international or local trip.
+> **Informs:** [[index|Voyage OS: Travel Hub]]
+
 # 📋 Voyage Guidelines & Checklist
 
 This document defines the standard procedures for planning any culinary voyage.

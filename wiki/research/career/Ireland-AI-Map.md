@@ -12,6 +12,11 @@ about: Deep-dive list of Dublin-based AI leaders across the three pillars.
 ---
 # Ireland AI Map (Dublin)
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Dublin serves as a strategic European hub for Vertical AI (Health, FinTech) and AI Infrastructure, supported by a strong multinational presence.
+> **How to use it:** Identify Dublin-based leaders in Orbital AI, Agentic FinOps, and Peptide discovery for regional market analysis.
+> **Informs:** [[Global-AI-Index]]
+
 ## ⚡ Physical AI & Infrastructure
 - [[Akara-Robotics]] (Hospital Disinfection Robots)
 - [[Manna-Drone-Delivery]] (Autonomous Logistics)

@@ -14,6 +14,11 @@ about: Deep-dive list of 15+ New York City AI leaders focusing on Vertical AI (F
 ---
 # USA AI Map: New York City
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** New York City is the primary hub for Vertical AI applied to high-value sectors like Finance, Legal, and Pharmaceuticals.
+> **How to use it:** Map NYC leaders in autonomous financial modeling and clinical trials to understand vertical-specific AI adoption.
+> **Informs:** [[Global-AI-Index]], [[USA-AI-Map]]
+
 ## 🤖 Agentic AI & Automation
 - [[Rogo]] (Autonomous Financial Modeling)
 - **Clay AI** (Autonomous GTM / Sales)

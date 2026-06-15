@@ -47,8 +47,10 @@ Twelve Labs is an AI startup building the foundational infrastructure for video 
 
 ## 🎨 Creative Synergy
 - Imagine using Twelve Labs' tech to search through a music video library for "melancholic sunsets" to find visual inspiration for a composition.
+- **Project Synergy:** Their video search infrastructure directly informs the technical feasibility of [[../../projects/Triathlon Photo Finder|Triathlon Photo Finder]].
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
 - [[Creative-Tech-Trends]]
 - [[AI-Industry-Map-2026]]
+- [[../../projects/Triathlon Photo Finder]]

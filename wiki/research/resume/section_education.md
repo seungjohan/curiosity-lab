@@ -2,6 +2,11 @@
 category: resume
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Framing education as a synthesis of technology and creative expression (MMT) creates a unique competitive advantage for product roles in creative tech.
+> **How to use it:** Highlight technical composition and media technology components to bridge the gap between "Music" and "PM".
+> **Informs:** Overall resume narrative.
+
 # 🎓 Resume Section: Education
 
 ## 🏫 Current Data
@@ -17,3 +22,6 @@ category: resume
 
 ## 🛠 Reconstruction (Proposed)
 - *Drafting area for the new education section*
+
+## 🔗 Connections
+- [[../index|Master Index]]

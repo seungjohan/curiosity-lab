@@ -72,3 +72,4 @@ In Bear’s unified software stack (Bear Universe/OS), the `--model` flag is the
 - [[AI-Startups-Korea-2026]] - Bear is a key player in the Korea-originated global robot landscape.
 - [[Superb-AI]] - Potential for vision AI training in complex physical environments.
 - [[Bear-Robotics-PM-Seoul]] - Active PM role in Seoul.
+- [[../../projects/Michelin Filter]] - Physical AI in dining and hospitality contexts.

@@ -2,6 +2,11 @@
 category: resume
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Professional experience at the intersection of Physical AI (Bear Robotics) and GenAI (Upstage) demonstrates 0→1 adaptability across distinct technical domains.
+> **How to use it:** Focus on metric-driven "X-Y-Z" bullets to prove impact in both hardware-orchestration and software-intelligence roles.
+> **Informs:** Resume impact bullets.
+
 # 💼 Resume Section: Experience
 
 ## 🏢 Current Data
@@ -18,3 +23,6 @@ category: resume
 
 ## 🛠 Reconstruction (Proposed)
 - *Drafting area for high-impact bullet points*
+
+## 🔗 Connections
+- [[../index|Master Index]]

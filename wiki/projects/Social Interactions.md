@@ -1,10 +1,16 @@
 ---
+category: system
 type: reflection
 topic: [Social, Communication, Mirror Effect]
 status: active
 industry: N/A
 created: 2026-05-14
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Brief social interactions are energy generators that ground personal perspective and foster cultural diplomacy.
+> **How to use it:** Use small talk as a tool for connection and be mindful of the "mirror effect" when perceiving others.
+> **Informs:** [[Relationship Lessons]], [[Self-Reflection]]
 
 # Social Interactions
 
@@ -20,3 +26,8 @@ created: 2026-05-14
 ---
 - **Subject**: [[Personal Insights & Reflections]]
 - **Sources**: `raw/obsidian/input/myself/Small Talk with Strangers.md`, `raw/obsidian/input/myself/Reflections on Human Relationships.md`
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[Relationship Lessons]]
+- [[Self-Reflection]]

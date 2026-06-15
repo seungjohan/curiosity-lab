@@ -1,4 +1,5 @@
 ---
+category: system
 type: reflection
 topic: [Ideas, Philosophy, AI]
 status: active
@@ -6,7 +7,17 @@ industry: N/A
 created: 2026-05-15
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Raw thoughts are the seeds of future projects; a dedicated stream prevents loss of early intuition.
+> **How to use it:** Capture everything, review periodically for graduation to specs.
+> **Informs:** [[ideation]]
+
 # Idea Stream
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[../ideation/ideation|Ideation Board]]
+
 
 This is a dedicated space for raw thoughts, "brain dumps," and throwing out initial ideas before they are structured into formal research or startup projects.
 

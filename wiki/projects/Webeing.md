@@ -1,10 +1,16 @@
 ---
+category: system
 type: idea
 topic: [Sustainability, Food Waste, Startup]
 status: closed
 industry: Food Tech
 created: 2026-05-14
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Retrospectives on closed projects reveal critical failures in role ambiguity and MVP timing, informing future startup resilience.
+> **How to use it:** Avoid small-market traps by validating scalability and ensuring clear founder roles from day one.
+> **Informs:** [[Startup Insights]], [[ideation]]
 
 # Webeing
 
@@ -32,3 +38,8 @@ A B2B2C food e-commerce platform (2020.01 - 2021.06) focused on reducing food wa
 ---
 - **Subject**: [[Startup & Side Projects]]
 - **Source**: `raw/obsidian/startup/Webeing.md`
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[Startup Insights]]
+- [[ideation]]

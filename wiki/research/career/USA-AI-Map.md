@@ -12,6 +12,11 @@ about: Deep-dive list of US-based AI leaders in Physical AI and Foundation Infra
 ---
 # USA AI Map
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** The US AI ecosystem is geographically specialized, with the Bay Area leading in infrastructure and NYC in vertical applications.
+> **How to use it:** Navigate through specialized sub-maps (Bay Area, NYC) to deep-dive into regional AI leaders.
+> **Informs:** [[Global-AI-Index]], [[AI-Industry-Map-2026]]
+
 This index organizes the US AI ecosystem by key geographic hubs.
 
 ## 🌉 San Francisco Bay Area

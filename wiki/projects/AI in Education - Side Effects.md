@@ -1,10 +1,16 @@
 ---
+category: system
 type: research
 topic: [AI, Education, Cognitive Offloading]
 status: completed
 industry: Technology
 created: 2026-05-15
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Critical analysis of how AI integration in education can lead to cognitive offloading and weakened learning retention among teenagers.
+> **How to use it:** Consider these risks when designing AI-driven educational tools or creator platforms.
+> **Informs:** Ethical AI product development.
 
 # AI in Education: Side Effects for Teenagers
 
@@ -36,3 +42,8 @@ The integration of AI into education for teenagers has revealed several signific
 - *The Generative AI Paradox*, Wharton/UPenn (Bastani et al.), Aug 2024.
 - *Schools' Embrace of AI Connected to Increased Risks*, Center for Democracy and Technology (CDT), Sept 2025.
 - *Youth Perceptions of AI in Schools*, RAND Corporation, 2025.
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[AI & Agentic Workflows]]
+- [[Social Interactions]]

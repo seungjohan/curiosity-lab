@@ -12,6 +12,11 @@ about: Deep-dive list of London-based AI leaders across the three pillars.
 ---
 # UK AI Map (London)
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** London is a leading global center for Embodied AI and Multimodal understanding, particularly in AV and Creative Tech.
+> **How to use it:** Explore London-based innovators in drug discovery and decision intelligence for cross-domain AI research.
+> **Informs:** [[Global-AI-Index]]
+
 ## ⚡ Physical AI & Infrastructure
 - [[Wayve]] (Embodied AI for AV)
 - [[CloudNC]] (Autonomous Manufacturing)

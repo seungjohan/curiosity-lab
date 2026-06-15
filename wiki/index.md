@@ -2,9 +2,15 @@
 category: system
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** The central brain of the Knowledge OS, organizing information across culinary, travel, AI strategy, professional development, and personal projects.
+> **How to use it:** Use as the starting point for navigation and high-level synthesis across all domains.
+> **Informs:** System-wide structural integrity and navigation.
+
 # 🧠 Knowledge OS: Master Index
 
 Welcome to your thinking system. This index is the map of your synthesized knowledge across product, creativity, and learning.
+
 ## 🌍 Culinary & Travel
 - [[wiki/cooking/index.md|Culinary Master Index]] — Global cuisines, techniques, and restaurant databases.
 - [[wiki/travel/index.md|Voyage OS: Travel Hub]] — Planning, guidelines, and trip-specific culinary intelligence.
@@ -32,13 +38,14 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 
 ## 🔗 Career Hub (Quick Access)
 - [[Global-AI-Index]] - Regional hubs (Korea, UK, Ireland, USA).
+
 | Company | Career Page | Platform Focus |
 | :--- | :--- | :--- |
 | **Twelve Labs** | [twelvelabs.ai/careers](https://www.twelvelabs.ai/careers) | Global/Multimodal |
 | **Wrtn** | [career.wrtn.io](https://career.wrtn.io) | B2C/Social AI |
 | **Upstage** | [upstage.ai/careers](https://www.upstage.ai/careers) | Enterprise/LLM |
 | **Sendbird** | [sendbird.com/careers](https://sendbird.com/careers) | Global/Communication |
-| **Moloco** | [moloco.com/careers](https://www.moloco.com/careers) | AdTech/Machine Learning |
+| **Moloco** | [moloco.com/careers](https://moloco.com/careers) | AdTech/Machine Learning |
 | **Scatter Lab** | [scatterlab.co.kr/careers](https://scatterlab.co.kr/careers) | Social AI/Zeta |
 | **Lunit** | [lunit.io/careers](https://www.lunit.io/careers) | Healthcare AI |
 | **LINER** | [liner.career.greetinghr.com](https://liner.career.greetinghr.com) | AI Search/UX |
@@ -108,20 +115,21 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 - [[Moloco]] - Operational ML & Performance AdTech Unicorn.
 
 ## 🎼 Music & Composition
-- *Empty - Awaiting inputs*
+- [[wiki/research/music/index.md|Music Research: Master Index]] — Composition, production deep-dives, and references.
 
 ## ✍️ Writing & Creative Work
 - *Empty - Awaiting inputs*
 
 ## 🧠 Learning & Mental Models
+- [[wiki/research/language/index.md|Language Research: Master Index]] — Linguistics, translation, and semantic analysis.
 - *Empty - Awaiting inputs*
 
 ## 🌿 Planting & Horticulture
 - [[wiki/planting/index.md|Planting & Horticulture: Master Index]] - Botany, gardening, and life cycle tracking.
 
----
-*Last Updated: 2026-06-10*
-cycle tracking.
+## 🔗 Connections
+- [[log|System Log]]
+- [[llm-wiki-pattern|Wiki Design Pattern]]
 
 ---
-*Last Updated: 2026-06-09*
+*Last Updated: 2026-06-15*

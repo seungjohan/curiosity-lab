@@ -1,10 +1,16 @@
 ---
+category: system
 type: reflection
-topic: [Relationships, Growth, Lessons]
+topic: [ Relationships, Growth, Lessons]
 status: active
 industry: N/A
 created: 2026-05-14
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Interpersonal relationships are a primary driver of growth and psychological well-being.
+> **How to use it:** Apply selective generosity and the "Liking" principle to build a supportive social network.
+> **Informs:** [[Self-Reflection]], [[Social Interactions]]
 
 # Relationship Lessons
 
@@ -25,3 +31,8 @@ created: 2026-05-14
 ---
 - **Subject**: [[Personal Insights & Reflections]]
 - **Sources**: `raw/obsidian/input/myself/`, `raw/obsidian/input/person/`
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[Self-Reflection]]
+- [[Social Interactions]]

@@ -21,3 +21,4 @@ raw/resume/*
 .DS_Store
 *.log
 Basic root.md
+.aider*

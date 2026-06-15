@@ -1,10 +1,16 @@
 ---
+category: system
 type: reflection
 topic: [Personality, Growth, Reflection]
 status: active
 industry: N/A
 created: 2026-05-14
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Systematic self-reflection ensures that personal growth keeps pace with professional ambition.
+> **How to use it:** Review during weekly reflections to identify behavioral patterns and growth areas.
+> **Informs:** Personal leadership style and social interactions.
 
 # Self-Reflection
 
@@ -21,6 +27,11 @@ created: 2026-05-14
 ## Key Insights
 - **Liking People First**: Popularity and good relationships come to those whose "list of people I like" is the longest.
 - **The Power of Small Talk**: It's not just "noise"—it's a way to generate positive energy and connect with the world.
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[Relationship Lessons]]
+- [[Social Interactions]]
 
 ---
 - **Subject**: [[Personal Insights & Reflections]]

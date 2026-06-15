@@ -1,10 +1,16 @@
 ---
+category: system
 type: index
 topic: [Research, Market, Technology]
 status: active
 industry: Technology
 created: 2026-05-14
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** A centralized hub for active research topics across various domains, serving as the jumping-off point for deep-dive investigations.
+> **How to use it:** Use this as a reference to see what areas are currently being mapped and explored.
+> **Informs:** Future product intuition and project specs.
 
 # Research
 
@@ -19,3 +25,6 @@ A central list of topics and deep-dive research pages.
 - [[World History & Renaissance]] - Exploring periodic trends and organic relationships in history.
 - [[Fine Dining Data]] - Gathering Michelin and World 50 Best data.
 - [[Language Learning]] - Improving English/French through immersion and social interaction.
+
+## 🔗 Connections
+- [[../index|Master Index]]

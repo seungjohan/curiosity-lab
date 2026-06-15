@@ -1,4 +1,5 @@
 ---
+category: system
 type: project
 topic: [Project, Portfolio, Blog]
 status: active
@@ -6,11 +7,17 @@ industry: Technology
 created: 2026-06-02
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** A unified digital identity combines professional portfolio and personal writing into a single, high-signal experience.
+> **How to use it:** Iterate based on prompt history and design philosophy to maintain a modern, minimal aesthetic.
+> **Informs:** [[PRD]], [[Design]]
+
 # Personal Blog & Portfolio
 
 This project focuses on building a personal blog and portfolio website, leveraging AI tools and modern design principles. It serves as a central hub for Seungjo Han's identity, professional portfolio, and long-form writing.
 
-## Project Documentation
+## 🔗 Connections
+- [[../index|Master Index]]
 - [[PRD]] — Product Requirements Document (v4.1)
 - [[Design]] — Design System and Philosophy
 - [[Blog Portfolio - Figma Prompts.json]] — Chronological history of prompts used for Figma/Prototyping.

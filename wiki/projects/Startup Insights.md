@@ -1,10 +1,16 @@
 ---
+category: system
 type: research
 topic: [Startups, Lessons, Wisdom]
 status: active
 industry: Technology
 created: 2026-05-14
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Learning from both failures and successes in the startup world is the fastest way to build product intuition.
+> **How to use it:** Apply these lessons to current ideation and project specs.
+> **Informs:** [[ideation]]
 
 # Startup Insights
 
@@ -16,6 +22,11 @@ created: 2026-05-14
 ## External Wisdom
 - **Viral Growth**: Lessons from the app "Saturn" (from Lenny's Newsletter).
 - **Solo Entrepreneurship**: Example of a developer in Bali launching 23 products and reaching $100k/month.
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[Webeing]]
+- [[ideation]]
 
 ---
 - **Subject**: [[Startup & Side Projects]]

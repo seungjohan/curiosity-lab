@@ -1,10 +1,16 @@
 ---
+category: system
 type: resource
 topic: [PRD, Product, Specification]
 status: active
 industry: Technology
 created: 2026-06-03
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** This PRD defines the core architectural and functional requirements for the personal synthesis platform (PM + Composer).
+> **How to use it:** Use as the source of truth for technical implementation and feature prioritization.
+> **Informs:** Website development and portfolio presentation.
 
 # PRD — Personal Blog & Portfolio Website
 **Owner:** Seungjo Han (한승조)
@@ -110,15 +116,6 @@ createBrowserRouter([
 ]);
 ```
 
-### URL Parameters
-
-| Pattern | Param | Resolved against |
-|---|---|---|
-| `/blog/:slug` | `slug` | `POSTS[].slug` |
-| `/projects/:slug` | `slug` | `PROJECTS[].slug` |
-| `/magazine/:slug` | `slug` | `MAGAZINES[].slug` |
-| `/blog?tag=X` | `tag` (search param) | Tag filter; reactive via `useSearchParams()` |
-
 ---
 
 ## 5. Data Models
@@ -138,79 +135,6 @@ interface Post {
 }
 ```
 
-### 5.2 `Project` — `src/app/data/projects.ts`
-
-```ts
-interface Project {
-  slug: string;
-  title: string;
-  client: string;
-  year: string;
-  description: string;   // 1–2 sentence summary. Used in home cards and ProjectCase header.
-  tags: string[];        // Shown as dot-separated pill on listing + detail pages.
-  coverImage: string;    // Unsplash URL. Required.
-  color: string;         // Hex fallback bg (legacy, currently unused).
-  role: string;          // Shown in ProjectCase meta row.
-  team: string;
-  timeline: string;
-  duration: string;
-  platform: string;
-  techStack: string;
-  impact: string;              // Problem / why it mattered. ~2–3 sentences.
-  whatIDid: string;            // Intro sentence for What I Did section.
-  whatIDidBullets: string[];   // Arrow-bullet list items (→).
-  outcome: string;             // Measurable results. Shown in highlighted box.
-  images: string[];            // 3 images per project. Used in ProjectCard slideshow.
-}
-```
-
-### 5.3 `Magazine` — `src/app/data/magazines.ts`
-
-```ts
-interface Magazine {
-  slug: string;
-  name: string;
-  description: string;
-  coverImage: string;
-  postSlugs: string[];   // ORDERED list — defines the series sequence.
-}
-```
-
----
-
-## 6. Components
-
-(Refer to individual component implementation for details.)
-
----
-
-## 7. Pages — Detailed Spec
-
-(Refer to individual page implementation for details.)
-
----
-
-## 8. Design System
-
-(Refer to [[Design]] for visual and typographic standards.)
-
----
-
-## 11. Known Limitations
-
-(Refer to technical debt logs.)
-
----
-
-## 12. Backlog (Prioritized)
-
-1. 404 / NotFound catch-all route
-2. Extract `formatDate` to utils
-3. MDX-based blog posts
-4. OG meta tags per page/post
-5. Dark mode
-6. Korean language variant (`/ko/*`)
-
 ---
 
 ## 13. Changelog
@@ -218,3 +142,7 @@ interface Magazine {
 | Version | Date | Changes |
 |---|---|---|
 | 4.1 | May 25, 2026 | Real portfolio projects added; Dokdo post added; "What I Bring" grid update. |
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[Personal Blog & Portfolio]]

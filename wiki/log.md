@@ -2,6 +2,11 @@
 category: system
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Tracking the evolution of the Knowledge OS ensures accountability and captures the "how" and "why" behind structural changes.
+> **How to use it:** Review to understand the history of the vault and locate recently added content.
+> **Informs:** System audit and future planning.
+
 # 📜 Change Log
 
 | Date | Action | Page | Description |
@@ -109,45 +114,11 @@ category: system
 | 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added Thai section and 'Chim chum' vocabulary. |
 | 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added 'ホルモン (Horumon)' to Japanese vocabulary. |
 | 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added Motsunabe, Yakiniku, both types of Kaiseki, and Donburi to Japanese vocabulary. |
-| 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added Mexican section and 'Taquería' vocabulary. |
-| 2026-06-15 | DECISION | Workspace Integration | Discussed merging Research and Brainstorming vaults, deleted redundant python virtual environments, and outlined the unified workflow logic. Details appended below. |
-
-## 📜 Workspace Consolidation Discussion Logs
-
-### Prompts & Decisions (June 15, 2026)
-
-**Q1: Should I put GStack in each project? Can't I just put those globally so that I don't need to add those files in each project?**
-- **Decision:** Yes, GStack should be global.
-- **Details:** The GStack framework files (cloned in `/brainstorming/gstack`) are redundant in individual repositories. GStack's active skills live in the global configuration directory (`~/.claude/` or `~/.gemini/`). We can delete the local cloned folder once files are merged.
-
-**Q2: Deleting Virtual Environments**
-- **Decision:** Redundant python virtual environments are deleted.
-- **Details:** Deleted `scraper_venv`, `test_venv`, `temp_venv`, and `venv` from `/Users/seungjohan/Obsidian/research/`, immediately freeing up **530 MB** of disk space.
-
-**Q3: How do GStack and GBrain mention their thinking flow for ideation?**
-- **Details:**
-  1. **Startup Mode (YC Office Hours):** Uses six forcing questions asked one at a time (Demand Reality, Status Quo, Desperate Specificity, Narrowest Wedge, Observation & Surprise, Future-Fit) to validate user demand and build a specific target audience.
-  2. **Builder Mode (Generative Design Partner):** Focuses on delight, shareability, and self-solving (generative brainstorming for hackathons/side projects).
-  3. **Landscape Awareness (Search Before Building):** Uses three-layer synthesis to analyze conventional wisdom and uncover "Eureka Moments" (Layer 1: General knowledge, Layer 2: Current search discourse, Layer 3: Why it's wrong).
-
-**Q4: What were the deleted virtual environments for, and do I need them right now?**
-- **Decision:** Not needed currently.
-- **Details:** The virtual environments (`scraper_venv`, `test_venv`, `temp_venv`, `venv`) contained the Python runtimes and libraries (like `requests`, `beautifulsoup4`) required by your Michelin and 50 Best restaurant scraper scripts. Since you aren't active scraping today, they are safe to delete. When we resume scripting, we will instantiate a single, consolidated `venv` at the root, saving several hundred MBs.
-
-**Q5: How can I adjust GStack/GBrain's thinking flow into my own, or operate without them?**
-- **Details:**
-  - **With GStack:** Use the `/office-hours` command in Cursor when starting a new idea. It will guide you through the forcing questions and output a clean, formatted design spec.
-  - **Without GStack:** Manually write a "Pre-flight Spec" in your `wiki/projects/` directory using a simple three-question markdown template (Pain Point, Target Human, 1-Day Wedge) to validate thoughts before coding.
-
-**Q6: Should we run GStack inside each project, and what are the structures of both projects to map them together?**
-- **Decision:** GStack will be used globally and on-demand, not cloned locally in each folder.
-- **Details:** Detailed mapping of the current side-by-side structure of `Obsidian/research` and `Cursor/brainstorming` was created to visualize how files (e.g., flat brainstorming notes vs. category-based research notes, raw inputs, and python scripts) will consolidate under a single separate vault.
-
-**Q7: How can we make the directories align with the thinking flow, and what is the simple explanation of this workflow?**
-- **Decision:** Align folders directly with the thinking steps: `Research (wiki/{category}/) ➔ Ideation (wiki/ideation/) ➔ Specs (wiki/projects/) ➔ Execution (scripts/) ➔ Log & Learnings (wiki/log.md)`.
-- **Details:**
-  1. **Simplifying the flow (ELI10):** Explained how the flow prevents coding without validation by inserting a short "Stop and Think" gate (creating a spec in `/wiki/projects/` with 3 forcing questions) before writing code in `/scripts/`.
-  2. **Ideation graduation status:** Proposed keeping `wiki/ideation/ideation.md` as a central dashboard with statuses (`Researching` ➔ `Validated` ➔ `Coding`) and links to connect everything.
+L118- | 2026-06-16 | INITIALIZE | `wiki/research/music/` | Created music research section, subject index, and references list. |
+L119- | 2026-06-16 | INITIALIZE | `wiki/research/language/` | Created language research section and subject index. |
+L120- | 2026-06-15 | DECISION | Workspace Integration | Discussed merging Research and Brainstorming vaults, deleted redundant python virtual environments, and outlined the unified workflow logic. Details appended below. |
 
 
-
+## 🔗 Connections
+- [[index|Master Index]]
+- [[llm-wiki-pattern|Wiki Design Pattern]]

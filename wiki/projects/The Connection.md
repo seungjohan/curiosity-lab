@@ -1,10 +1,16 @@
 ---
+category: system
 type: idea
 topic: [AI, HR Tech, Team Building]
 status: ideation
 industry: HR Tech
 created: 2026-06-02
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Leveraging Graph ML and MBTI to move from 1:1 matching to optimized 1:N team synergy is a unique wedge in HR Tech.
+> **How to use it:** Focus on the "Graph Machine Learning" technical roadmap to build a defensible product.
+> **Informs:** Future HR Tech product strategies.
 
 # The Connection
 
@@ -23,6 +29,10 @@ A team-building and synergy analysis platform that uses personality traits (MBTI
 ## Challenges
 - **Survey Professionalism**: Moving beyond simple, non-professional surveys for personality analysis.
 - **Accuracy**: Quantifying "synergy" in a meaningful way.
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[ideation]]
 
 ---
 - **Subject**: [[Startup & Side Projects]]

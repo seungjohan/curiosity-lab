@@ -1,4 +1,5 @@
 ---
+category: system
 type: resource
 topic: [Inspiration, Business, Media]
 status: active
@@ -6,7 +7,16 @@ industry: Media
 created: 2026-05-15
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Understanding who and what influences your thinking helps maintain high-signal consumption.
+> **How to use it:** Curate and revisit these sources to recalibrate product intuition.
+> **Informs:** Research philosophy.
+
 # Inspiration Sources
+
+## 🔗 Connections
+- [[../index|Master Index]]
+
 
 A curated list of media channels, organizations, and platforms that provide inspiration for startup ideas, business strategy, and personal growth.
 

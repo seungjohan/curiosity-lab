@@ -1,10 +1,16 @@
 ---
+category: system
 type: reflection
 topic: [Career, Growth, Mindset]
 status: active
 industry: N/A
 created: 2026-05-14
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Reflections on the psychological transition from startup founder to professional career growth, emphasizing humility and solution-oriented conduct.
+> **How to use it:** Use as a guide for navigating career transitions and maintaining a growth mindset.
+> **Informs:** Professional conduct and self-reflection.
 
 # Career & Startup Mindset
 
@@ -20,3 +26,7 @@ created: 2026-05-14
 ---
 - **Subject**: [[Startup & Side Projects]], [[Personal Insights & Reflections]]
 - **Sources**: `raw/obsidian/input/myself/`, `raw/obsidian/startup/Webeing.md`
+
+## 🔗 Connections
+- [[../index|Master Index]]
+- [[Startup Insights]]

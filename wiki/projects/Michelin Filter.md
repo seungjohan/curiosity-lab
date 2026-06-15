@@ -1,10 +1,16 @@
 ---
+category: system
 type: research
 topic: [Food, Data, Dining]
 status: active
 industry: Food Tech
 created: 2026-05-14
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** A specialized filtering strategy to find high-quality, authentic, and "reasonable" fine dining by cross-referencing global accolades with local community validation.
+> **How to use it:** Apply the three-tier strategy (Global ➔ Specialized ➔ Local) when scouting for new culinary research targets.
+> **Informs:** Culinary product thinking and travel intelligence.
 
 # Michelin Filter
 
@@ -44,8 +50,10 @@ A curated, data-driven list of fine dining restaurants filtered from premium sou
 ## Data Scope
 - **Fields**: Name, Address, Location, Price, Cuisine, Coordinates, Phone, URL, Website, Awards (Michelin Stars, Green Star, Wine List Award), Local Ratings (e.g., Ribbons, Soles, Points), Facilities.
 
-## Related
+## 🔗 Connections
+- [[../index|Master Index]]
 - [[Favorite Foods]]
+- [[../cooking/selected-restaurants.md|Selected Restaurants Database]] (Generated from ingestion)
 
 ---
 - **Subject**: [[Startup & Side Projects]]

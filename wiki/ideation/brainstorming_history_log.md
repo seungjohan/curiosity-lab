@@ -1,10 +1,16 @@
 ---
+category: system
 type: log
 topic: [Activity, History, Wiki]
 status: active
 industry: N/A
 created: 2026-05-14
 ---
+
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Tracking the evolution of ideas and system changes provides a historical record of the decision-making process.
+> **How to use it:** Review this log to understand the context of previous architectural or ideation shifts.
+> **Informs:** Future system refinements and documentation organization.
 
 # Operation Log
 
@@ -112,3 +118,6 @@ Append-only record of wiki operations (Ingest, Query, Health Check).
 - **Details:**
   1. **Simplifying the flow (ELI10):** Explained how the flow prevents coding without validation by inserting a short "Stop and Think" gate (creating a spec in `/wiki/projects/` with 3 forcing questions) before writing code in `/scripts/`.
   2. **Ideation graduation status:** Proposed keeping `wiki/ideation/ideation.md` as a central dashboard with statuses (`Researching` ➔ `Validated` ➔ `Coding`) and links to connect everything.
+
+## 🔗 Connections
+- [[../index|Master Index]]

@@ -2,6 +2,11 @@
 category: resume
 ---
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** Personal and creative projects provide the "proof in the pudding" for product thinking applied to real-world (and artistic) problems.
+> **How to use it:** Highlight side projects like AI music experiments or custom tools to demonstrate technical curiosity beyond official JDs.
+> **Informs:** Resume project portfolio.
+
 # 🚀 Resume Section: Projects
 
 ## 🏗 Current Data
@@ -13,3 +18,6 @@ category: resume
 
 ## 🛠 Reconstruction (Proposed)
 - *Drafting area for project showcases*
+
+## 🔗 Connections
+- [[../index|Master Index]]

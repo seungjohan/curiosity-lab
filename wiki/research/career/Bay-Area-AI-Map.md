@@ -14,6 +14,11 @@ about: Deep-dive list of 30+ San Francisco Bay Area AI leaders focusing on Physi
 ---
 # USA AI Map: San Francisco Bay Area
 
+> [!IMPORTANT] Key Takeaway
+> **Why this matters:** The Bay Area remains the global epicenter for Physical and Agentic AI, concentrating foundational infrastructure and talent.
+> **How to use it:** Reference this map to identify key incumbents and potential partners in the Robotics and Agentic automation sectors.
+> **Informs:** [[Global-AI-Index]], [[USA-AI-Map]]
+
 ## ⚡ Physical AI & Infrastructure
 - [[Bear-Robotics]] (Robotics / Hospitality)
 - [[Twelve-Labs]] (Video Infrastructure)
