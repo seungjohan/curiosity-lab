@@ -21,5 +21,5 @@ Thai cuisine is celebrated for its vibrant colors, aromatic herbs, and the delib
 - **Som Tum:** Green papaya salad.
 
 ## 🔗 Connections
-- [[wiki/vocabulary/cooking.md|Cooking Vocabulary]]
+- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
 - [[index|Culinary Master Index]]

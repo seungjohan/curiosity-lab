@@ -6,7 +6,7 @@
 
 **Architecture:** 
 - New folder `wiki/planting/` for category content.
-- New vocabulary file `wiki/vocabulary/planting.md`.
+- New vocabulary file `wiki/planting/vocabulary.md`.
 - Updated master index `wiki/index.md` and system log `wiki/log.md`.
 
 **Tech Stack:** Markdown (Knowledge OS)
@@ -16,7 +16,7 @@
 ### Task 1: Create Planting Vocabulary
 
 **Files:**
-- Create: `wiki/vocabulary/planting.md`
+- Create: `wiki/planting/vocabulary.md`
 
 - [ ] **Step 1: Write the vocabulary file**
 
@@ -38,13 +38,13 @@ This page consolidates terms related to botany, gardening, and plant life cycles
 
 ## 🔗 Connections
 - [[wiki/planting/index.md|Planting Index]]
-- [[wiki/vocabulary/cooking.md|Cooking Vocabulary]]
+- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
 ```
 
 - [ ] **Step 2: Commit**
 
 ```bash
-git add wiki/vocabulary/planting.md
+git add wiki/planting/vocabulary.md
 git commit -m "feat: add planting vocabulary page"
 ```
 
@@ -67,7 +67,7 @@ category: planting
 Research and notes on botany, gardening, and plant life cycles.
 
 ## 📖 Vocabulary & Fundamentals
-- [[wiki/vocabulary/planting.md|Planting Vocabulary]]
+- [[wiki/planting/vocabulary.md|Planting Vocabulary]]
 
 ## 🔗 Connections
 - [[wiki/index.md|Main Index]]

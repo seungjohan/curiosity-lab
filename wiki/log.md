@@ -77,7 +77,7 @@ category: system
 | 2026-06-04 | ADDED | `wiki/vibecoding/karpathy-llm-wiki.md` | Added correct Karpathy reference: "LLM-Wiki Pattern" (GitHub Gist). |
 | 2026-06-04 | INITIALIZE | `wiki/personal/` | Created directory for personal website, blog, and portfolio development. |
 | 2026-06-04 | ADDED | `wiki/personal/references.md` | Created structured references list for website inspiration. |
-| 2026-06-05 | INITIALIZE | `wiki/vocabulary/index.md` | Consolidated all multilingual culinary terms into a single master list. |
+| 2026-06-05 | INITIALIZE | `wiki/cooking/vocabulary.md` | Consolidated all multilingual culinary terms into a single master list. |
 | 2026-06-05 | UPDATED | `wiki/cooking/bouillabaisse.md` | Updated vocabulary links to point to the master list. |
 | 2026-06-05 | UPDATED | `wiki/cooking/paella.md` | Added Socarrat link to master vocabulary list. |
 | 2026-06-05 | REMOVED | `page1.html` | Removed unnecessary temporary HTML file. |
@@ -93,23 +93,23 @@ category: system
 | 2026-06-06 | INITIALIZE | `wiki/cooking/baking/index.md` | Created sub-index for baking-related research. |
 | 2026-06-07 | LINT | `wiki/` | Conducted comprehensive health check and standardized headers/takeaways. |
 | 2026-06-07 | INGEST | `wiki/cooking/restaurants/` | Ingested 200 top restaurants (World's 50 Best + Michelin 3-Star). |
-| 2026-06-07 | ADDED | `wiki/vocabulary/cooking.md` | Added Pâté and Coq au Vin to French vocabulary. |
+| 2026-06-07 | ADDED | `wiki/cooking/vocabulary.md` | Added Pâté and Coq au Vin to French vocabulary. |
 | 2026-06-07 | ADDED | `wiki/cooking/coq-au-vin.md` | Created deep-dive page for classic French chicken stew. |
 | 2026-06-07 | UPDATED | `wiki/cooking/france.md` | Linked Coq au Vin in signature dishes. |
 | 2026-06-09 | ADDED | `planting` | Added `planting` category and vocabulary. |
 | 2026-06-10 | UPDATE | `raw/guia_repsol_full.csv` | Scraped full Guia Repsol 2026 list (808 restaurants) and updated scraper script. |
 | 2026-06-10 | REFACTOR | `wiki/cooking/selected-restaurants.md` | Refactored to focus on data sources and added direct links to raw CSV data (Michelin, 50 Best, Repsol, Steak 101). |
-| 2026-06-11 | UPDATED | `wiki/vocabulary/cooking.md` | Added 'Tapas' to Spanish vocabulary. |
-| 2026-06-13 | UPDATED | `wiki/vocabulary/cooking.md` | Added 'Maillard Reaction' and 'Searing' to English vocabulary. |
+| 2026-06-11 | UPDATED | `wiki/cooking/vocabulary.md` | Added 'Tapas' to Spanish vocabulary. |
+| 2026-06-13 | UPDATED | `wiki/cooking/vocabulary.md` | Added 'Maillard Reaction' and 'Searing' to English vocabulary. |
 | 2026-06-09 | EXPAND | `wiki/cooking/` | Integrated World's 101 Best Steak Restaurants and Guia Repsol; created Selected Restaurants master list. |
-| 2026-06-14 | UPDATED | `wiki/vocabulary/cooking.md` | Added 'Éclair', 'Filetage', and 'Gremolata' to culinary terms; added Key Takeaway block. |
-| 2026-06-15 | UPDATED | `wiki/vocabulary/cooking.md` | Added 'しまずし (Shimazushi)' to Japanese vocabulary. |
+| 2026-06-14 | UPDATED | `wiki/cooking/vocabulary.md` | Added 'Éclair', 'Filetage', and 'Gremolata' to culinary terms; added Key Takeaway block. |
+| 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added 'しまずし (Shimazushi)' to Japanese vocabulary. |
 | 2026-06-15 | ADDED | `wiki/cooking/thailand.md` | Created Thailand country page with signature dishes like Chim Chum. |
 | 2026-06-15 | UPDATED | `wiki/cooking/index.md` | Added Thailand to the Culinary Master Index. |
-| 2026-06-15 | UPDATED | `wiki/vocabulary/cooking.md` | Added Thai section and 'Chim chum' vocabulary. |
-| 2026-06-15 | UPDATED | `wiki/vocabulary/cooking.md` | Added 'ホルモン (Horumon)' to Japanese vocabulary. |
-| 2026-06-15 | UPDATED | `wiki/vocabulary/cooking.md` | Added Motsunabe, Yakiniku, both types of Kaiseki, and Donburi to Japanese vocabulary. |
-| 2026-06-15 | UPDATED | `wiki/vocabulary/cooking.md` | Added Mexican section and 'Taquería' vocabulary. |
+| 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added Thai section and 'Chim chum' vocabulary. |
+| 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added 'ホルモン (Horumon)' to Japanese vocabulary. |
+| 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added Motsunabe, Yakiniku, both types of Kaiseki, and Donburi to Japanese vocabulary. |
+| 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added Mexican section and 'Taquería' vocabulary. |
 | 2026-06-15 | DECISION | Workspace Integration | Discussed merging Research and Brainstorming vaults, deleted redundant python virtual environments, and outlined the unified workflow logic. Details appended below. |
 
 ## 📜 Workspace Consolidation Discussion Logs

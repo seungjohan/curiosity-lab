@@ -1,7 +1,7 @@
 # Design Spec: Cooking Vocabulary Expansion (Steaks)
 
 ## 1. Purpose
-Expand the `wiki/vocabulary/cooking.md` file to include premium meat terms from Spain and Italy, bridging regional specialties with general culinary knowledge.
+Expand the `wiki/cooking/vocabulary.md` file to include premium meat terms from Spain and Italy, bridging regional specialties with general culinary knowledge.
 
 ## 2. Content Changes
 
@@ -18,12 +18,12 @@ Update the Italian vocabulary table to include:
   - *Example:* "Bistecca alla Fiorentina is best shared among friends in Florence."
 
 ## 3. Implementation Plan
-1.  **Edit** `wiki/vocabulary/cooking.md`:
+1.  **Edit** `wiki/cooking/vocabulary.md`:
     - Insert **Txuleta** into the Spanish table.
     - Replace the placeholder in the Italian table with **Bistecca** and **Bistecca alla Fiorentina**.
 2.  **Update** `wiki/log.md`: Record the addition of Spanish and Italian steak terms.
 
 ## 4. Success Criteria
-- [ ] `wiki/vocabulary/cooking.md` updated without breaking table formatting.
+- [ ] `wiki/cooking/vocabulary.md` updated without breaking table formatting.
 - [ ] Definitions are clear and examples provided.
 - [ ] Log entry added.

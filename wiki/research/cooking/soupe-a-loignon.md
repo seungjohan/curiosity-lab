@@ -21,7 +21,7 @@ A classic French soup based on meat stock and onions, typically served gratinée
 
 ## 🔗 Connections
 - [[wiki/cooking/france.md|France Cuisine]]
-- [[wiki/vocabulary/cooking.md|Cooking Vocabulary]]
+- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
 
 ## 📚 References
 | Title | Media | URL |

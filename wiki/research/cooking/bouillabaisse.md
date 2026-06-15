@@ -20,11 +20,11 @@ Bouillabaisse is a traditional Provençal fish stew originating from the port ci
 ### 1. The Essence (Fumet/Stock)
 - **Small Rockfish**: Mandatory for gelatinous body.
 - **Aromatics**: Leeks, fennel, garlic, tomato paste.
-- **The Infusion**: Saffron, orange zest, and [[wiki/vocabulary/cooking.md#French|Pernod]].
+- **The Infusion**: Saffron, orange zest, and [[wiki/cooking/vocabulary.md#French|Pernod]].
 
 ### 2. The Poaching (Precision Assembly)
 - **Noble Fish**: Rascasse (Scorpion Fish), St. Pierre (John Dory), Lotte (Monkfish).
-- **Technique**: [[wiki/vocabulary/cooking.md#French|Sauté]] aromatics before deglazing. Each fish is poached at its ideal temperature.
+- **Technique**: [[wiki/cooking/vocabulary.md#French|Sauté]] aromatics before deglazing. Each fish is poached at its ideal temperature.
 - **Bouquet Garni**: A bundle of herbs used for flavoring.
 
 ### 3. The Embellishments
@@ -32,13 +32,13 @@ Bouillabaisse is a traditional Provençal fish stew originating from the port ci
 - **Croutons**: Sourdough rubbed with garlic.
 
 ## 📖 Culinary Vocabulary
-- **[[wiki/vocabulary/cooking.md#French|Sauté]]**: To cook food quickly in a minimal amount of fat over relatively high heat.
-- **[[wiki/vocabulary/cooking.md#French|Bouquet Garni]]**: A bundle of herbs (usually parsley, thyme, and bay leaf) tied together.
-- **[[wiki/vocabulary/cooking.md#French|Pernod]]**: An anise-flavored liqueur used for finishing the broth.
+- **[[wiki/cooking/vocabulary.md#French|Sauté]]**: To cook food quickly in a minimal amount of fat over relatively high heat.
+- **[[wiki/cooking/vocabulary.md#French|Bouquet Garni]]**: A bundle of herbs (usually parsley, thyme, and bay leaf) tied together.
+- **[[wiki/cooking/vocabulary.md#French|Pernod]]**: An anise-flavored liqueur used for finishing the broth.
 
 ## 🔗 Connections
 - [[wiki/cooking/france.md|France Cuisine]]
-- [[wiki/vocabulary/cooking.md|Cooking Vocabulary]]
+- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
 
 ## 📚 References
 | Title | Media | URL |

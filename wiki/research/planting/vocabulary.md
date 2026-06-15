@@ -15,4 +15,4 @@ This page consolidates terms related to botany, gardening, and plant life cycles
 
 ## 🔗 Connections
 - [[wiki/planting/index.md|Planting Index]]
-- [[wiki/vocabulary/cooking.md|Cooking Vocabulary]]
+- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]

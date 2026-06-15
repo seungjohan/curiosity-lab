@@ -22,4 +22,4 @@ Coq au Vin is a classic French stew where chicken is braised with red wine (trad
 
 ## 🔗 Connections
 - [[wiki/cooking/france.md|France: La Fondation de la Technique]]
-- [[wiki/vocabulary/cooking.md|Cooking Vocabulary]]
+- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]

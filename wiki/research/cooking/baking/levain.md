@@ -21,7 +21,7 @@ A natural leavening agent made of flour and water, fermented by wild yeast and l
 
 ## 🔗 Connections
 - [[wiki/cooking/baking/baguette.md|Baguette]]
-- [[wiki/vocabulary/cooking.md|Cooking Vocabulary]]
+- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
 
 ## 📚 References
 | Title | Media | URL |

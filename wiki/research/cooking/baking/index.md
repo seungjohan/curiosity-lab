@@ -20,4 +20,4 @@ Research and deep dives into the science and art of baking.
 
 ## 🔗 Connections
 - [[wiki/cooking/index.md|Culinary Arts: Master Index]]
-- [[wiki/vocabulary/cooking.md|Cooking Vocabulary]]
+- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]

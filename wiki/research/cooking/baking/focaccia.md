@@ -22,7 +22,7 @@ A flat leavened Italian oven-baked bread, similar in style and texture to pizza 
 
 ## 🔗 Connections
 - [[wiki/cooking/italia.md|Italia Cuisine]]
-- [[wiki/vocabulary/cooking.md|Cooking Vocabulary]]
+- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
 
 ## 📚 References
 | Title | Media | URL |

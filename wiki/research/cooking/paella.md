@@ -16,11 +16,11 @@ tags: [cooking, Spain, Valencia, Rice]
 The definitive Spanish rice dish.
 
 ## 🥣 Key Features
-- **[[wiki/vocabulary/index.md#Spanish|Socarrat]]**: The prized caramelized crust at the bottom of the pan.
+- **[[wiki/cooking/vocabulary.md#Spanish|Socarrat]]**: The prized caramelized crust at the bottom of the pan.
 
 ## 🔗 Connections
 - [[wiki/cooking/españa.md|España Cuisine]]
-- [[wiki/vocabulary/index.md|Master Vocabulary List]]
+- [[wiki/cooking/vocabulary.md|Master Vocabulary List]]
 
 ## 📚 References
 | Title | Media | URL |

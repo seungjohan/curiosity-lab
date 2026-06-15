@@ -6,11 +6,11 @@ Introduce a new knowledge pillar for **Planting** to track botanical knowledge, 
 ## 2. Structural Changes
 - **New Category:** `planting`
 - **New Directory:** `wiki/planting/`
-- **New Vocabulary Page:** `wiki/vocabulary/planting.md`
+- **New Vocabulary Page:** `wiki/planting/vocabulary.md`
 - **Master Index Update:** Add "Planting & Horticulture" section to `wiki/index.md`.
 
 ## 3. Implementation Plan
-1. Create `wiki/vocabulary/planting.md` with the following initial terms:
+1. Create `wiki/planting/vocabulary.md` with the following initial terms:
    - **Wilt:** Loss of turgor pressure in plants.
    - **Fruiting:** Life cycle stage of producing fruit.
 2. Create `wiki/planting/index.md` as the category hub.
@@ -18,6 +18,6 @@ Introduce a new knowledge pillar for **Planting** to track botanical knowledge, 
 4. Update `wiki/log.md` to record the system expansion.
 
 ## 4. Success Criteria
-- [ ] `wiki/vocabulary/planting.md` exists and follows the standard schema.
+- [ ] `wiki/planting/vocabulary.md` exists and follows the standard schema.
 - [ ] `wiki/index.md` links to the new category.
 - [ ] No broken links or category property errors.
