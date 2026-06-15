@@ -1,54 +1,36 @@
-# Brainstorming Wiki Management Rules (Schema)
+# Agentic OS: Unified Research & Ideation Manual
 
-This project is a personal knowledge base for brainstorming startup and side project ideas. It follows the "LLM Wiki" pattern where the LLM (Gemini) maintains a persistent, interlinked collection of markdown files.
+This workspace is a combined engine for fact-based research (observing/mapping) and business ideation/prototyping (synthesizing/acting). It utilizes the GStack framework globally in Cursor/Gemini for execution tasks and Obsidian for visual organization.
 
-## Project Structure
+## 👤 User Profile & Workspace Purpose
+- **User Role:** Journalist, Researcher, and 0→1 Product PM/Developer.
+- **Research:** Fact-gathering, company profiling, culinary databases, industry indexing.
+- **Ideation & Prototyping:** Transforming research into startup concepts, PRDs, and tools.
 
-- `raw/`: Immutable raw source materials. This is where the user provides resources, data, or inspirations (market research, thoughts, history, etc.).
-- `wiki/`: Structured, interlinked knowledge base maintained by Gemini.
-  - `wiki/index.md`: Central Table of Contents, categorized.
-  - `wiki/Log.md`: Chronological log of all operations.
-  - `wiki/ideation.md`: Central hub for startup ideas, formatted as a table with properties (Industry, Competitors, Status, etc.).
-  - `wiki/research.md`: List of deep-dive research topics and market analysis.
-  - All other files are flat within `wiki/`.
+## 🔄 The Thinking Flow (Information Loop)
 
-## Evolution & Instruction Updates
-- **Global Orders**: Whenever the user provides a "global order" (e.g., a new rule, workflow change, or schema update), Gemini must immediately adjust and update this `GEMINI.md` file to reflect the change.
+The agent must maintain a continuous loop from observation to action:
 
-## Core Operations
+1. **Research (`wiki/research/{category}/`)**: Fact-gathering and structuring. Every note starts with a "Key Takeaway" callout.
+2. **Ideation (`wiki/ideation/`)**: List and catalog ideas in the central board (`wiki/ideation/ideation.md`).
+3. **Specs (`wiki/projects/`)**: Formulate specs/PRDs (using `template.md` to answer forcing questions) before writing code.
+4. **Execution (`scripts/`)**: Create Python scripts, scrapers, and execution logic here.
+5. **Log & Learnings (`wiki/log.md`)**: Track changes and outcomes.
 
-### 1. Data Entry
-- **Trigger**: User adds a file to `raw/` or provides new information.
-- **Workflow**:
-  1. Read the new data.
-  2. Summarize key insights and connect them to existing knowledge.
-  3. Create or update relevant pages in `wiki/`.
-  4. Use `[[WikiLink]]` for cross-references.
-  5. Update `wiki/index.md` with the new/updated pages.
-  6. Update `wiki/ideation.md` or `wiki/research.md` as appropriate.
-  7. Append an entry to `wiki/Log.md`.
+## 📁 System Structure
 
-### 2. Querying
-- **Trigger**: User asks a question or asks to "deep dive" into a topic.
-- **Workflow**:
-  1. Search `wiki/index.md` and relevant wiki pages.
-  2. Synthesize an answer, citing specific wiki pages or raw sources.
-  3. If the insight is valuable, offer to create a new wiki page for it (compounding knowledge).
+- `/raw/`: Immutable raw source materials (CSV, txt, etc.)
+- `/scripts/`: Execution scripts, parsers, and scrapers
+- `/docs/`: Specs and design documents
+- `/wiki/`: Processed knowledge base
+  - `/wiki/index.md`: Master index (categorized)
+  - `/wiki/log.md`: Main vault change log
+  - `/wiki/research/`: Hierarchical research folders (career, cooking, personal, planting, resume, system, travel, vibecoding, vocabulary)
+  - `/wiki/ideation/`: Active ideation lists and status boards
+  - `/wiki/projects/`: Product requirements (PRDs), specs, and project files
 
-### 3. Health Check
-- **Trigger**: Periodic maintenance or user request.
-- **Workflow**:
-  1. Check for broken `[[WikiLink]]`s.
-  2. Identify orphan pages (no inbound links).
-  3. Detect contradictions between old and new data.
-  4. Suggest new areas for exploration or data gaps to fill.
+## 🔗 Linking Philosophy
 
-## Conventions
-- **Flat Wiki**: No subdirectories inside `wiki/`.
-- **Linking**: Always use `[[Page Name]]` for internal references.
-- **Categorization**: Managed exclusively in `wiki/index.md`.
-- **Consistency**: Gemini is responsible for maintaining the integrity and interlinking of the wiki.
-- **Language**: All content must be in English.
-
-## Skill Usage
-- **Superpowers Skills**: In this directory, you are **AUTHORIZED** to use all "superpowers" skills (brainstorming, writing-plans, etc.) as they are highly relevant to the ideation and research workflows here. This overrides the workspace-level restriction.
+1. **Vertical Linking:** Every note in `/wiki/projects/` must include a `## 🔗 Connections` section pointing to the underlying research inside `/wiki/research/{category}/`.
+2. **Graduation:** Ideation boards (`ideation.md`) must link directly to the spec files in `/wiki/projects/`.
+3. **Paths:** Use relative paths (e.g., `[[../research/career/AI-Industry-Map-2026]]` or `[[../projects/Michelin-Filter]]`) to maintain vault compatibility.
