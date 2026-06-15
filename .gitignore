@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+venv/
+*_venv/
+.pytest_cache/
+.smart-env/
+.smtcmp_json_db
+.smtcmp_vector_db.tar.gz
+
+# Personal & Privacy (Prevents sensitive details from going public on GitHub)
+raw/resume/*
+.env
+.env.local
+.env.*
+!.env.example
+
+# Obsidian Workspace Settings (Ignores device-specific layouts/plugins)
+.obsidian/
+
+# OS & Temp Files
+.DS_Store
+*.log
+Basic root.md
