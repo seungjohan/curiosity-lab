@@ -23,6 +23,7 @@ This project focuses on building a personal blog and portfolio website, leveragi
 - [Sehyun Jeon](https://www.sehyunjeon.com)
 - [Keeyong Han](https://www.keeyonghan.com)
 - [Y Combinator](https://www.ycombinator.com)
+- [Kimchihill](https://kimchihill.com/2022/09/24/kr-cost-and-time-to-operate-kimchihill/)
 
 ## Tech Stack
 - **Framework**: React 18 + Vite
