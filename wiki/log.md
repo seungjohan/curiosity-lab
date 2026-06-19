@@ -122,6 +122,9 @@ L119- | 2026-06-16 | INITIALIZE | `wiki/research/language/` | Created language r
 L120- | 2026-06-15 | DECISION | Workspace Integration | Discussed merging Research and Brainstorming vaults, deleted redundant python virtual environments, and outlined the unified workflow logic. Details appended below. |
 | 2026-06-20 | BATCH | `wiki/` | Implemented `stage` property across all wiki files, ordered it first in frontmatter. |
 | 2026-06-20 | INITIALIZE | `AGENTS.md` | Established new repository-level instruction file, replacing legacy `AGENT.md`. |
+| 2026-06-20 | REMOVED | `wiki/research/cooking/restaurants/` | Deleted individual restaurant pages from the CSV ingestion to avoid vault and search bloat. |
+| 2026-06-20 | BATCH | `wiki/` | Standardized frontmatter properties across all wiki files to enforce strict order (`stage`, `category`, `tag`) and added the new `tag` property matching category folder names. |
+| 2026-06-20 | INITIALIZE | `DESIGN.md` | Established root-level Design & Linking Standards document defining MOC Hubs, relative paths, and annotated links. |
 
 
 ## 🔗 Connections
