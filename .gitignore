@@ -22,3 +22,5 @@ raw/resume/*
 *.log
 Basic root.md
 .aider*
+__pycache__/
+*.pyc
