@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: Conversational AI and on-device AI solutions for customer centers.
+country: South Korea
+hq: Seoul
 industry:
 - AICC
 - Enterprise AI
 scale: Pre-Unicorn
-hq: Seoul
-country: South Korea
 tags:
 - company
 - Infrastructure
 - EnterpriseAI
-about: Conversational AI and on-device AI solutions for customer centers.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Persona AI is the leader in "On-Device AX" (AI Transformation). They solve the privacy and cost problems of LLMs by using sLMs (Small Language Models) that run locally.

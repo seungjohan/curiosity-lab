@@ -1,5 +1,7 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 ---
 
 > [!IMPORTANT] Key Takeaway

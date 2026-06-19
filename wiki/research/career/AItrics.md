@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI-driven clinical decision support system for emergency medicine.
+country: South Korea
+hq: Seoul
 industry:
 - Healthcare
 - AI Diagnostics
 scale: Series B
-hq: Seoul
-country: South Korea
 tags:
 - company
 - VerticalAI
 - Healthcare
-about: AI-driven clinical decision support system for emergency medicine.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** AItrics is the "Life-Saving AI." Their **VitalCare** platform proves that AI can be a "Clinical Copilot" that predicts death and sepsis hours before they happen.

@@ -1,9 +1,16 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: France
 region: Marseille
+tags:
+- cooking
+- France
+- Marseille
+- Fish
+- Soup
 type: Dish
-tags: [cooking, France, Marseille, Fish, Soup]
 ---
 
 > [!IMPORTANT] Key Takeaway (Product & Creative Perspective)

@@ -1,7 +1,13 @@
 ---
+stage: research
 category: cooking
+tag: cooking
+tags:
+- cooking
+- baking
+- bread
+- pastry
 type: list
-tags: [cooking, baking, bread, pastry]
 ---
 
 > [!IMPORTANT] Key Takeaway (Product & Creative Perspective)

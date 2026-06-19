@@ -1,10 +1,12 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - MarqVision
+experience:
+- 5+ years
 industry:
 - Vertical AI
 - Legal Tech
@@ -16,24 +18,24 @@ location:
 - CA
 - Seoul
 - South Korea
-position:
-- Sr. PM (Brand Protection)
 pillar:
 - VerticalAI
-experience:
-- 5+ years
+position:
+- Sr. PM (Brand Protection)
 skills:
 - Computer Vision (CV)
 - IP Law / Anti-counterfeiting
 - Global B2B SaaS
 - Bilingual (Eng/Kor preferred)
-url: https://www.marqvision.com/careers
 tags:
 - career
 - apply
 - LegalTech
 - IP
 - PM
+type:
+- apply
+url: https://www.marqvision.com/careers
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** MarqVision is the world's most advanced AI for brand integrity. This role is about building the "automated enforcement" engine. It bridges Vision AI (detecting fakes) with Legal Tech (takedown automation).

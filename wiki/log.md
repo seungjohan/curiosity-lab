@@ -1,5 +1,7 @@
 ---
+stage: general
 category: system
+tag: system
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -116,7 +118,10 @@ category: system
 | 2026-06-15 | UPDATED | `wiki/cooking/vocabulary.md` | Added Motsunabe, Yakiniku, both types of Kaiseki, and Donburi to Japanese vocabulary. |
 L118- | 2026-06-16 | INITIALIZE | `wiki/research/music/` | Created music research section, subject index, and references list. |
 L119- | 2026-06-16 | INITIALIZE | `wiki/research/language/` | Created language research section and subject index. |
+| 2026-06-20 | UPDATED | `wiki/cooking/vocabulary.md` | Updated 'Sofrito' and added 'Salmorreta' to Spanish vocabulary; sorted the Spanish table alphabetically. |
 L120- | 2026-06-15 | DECISION | Workspace Integration | Discussed merging Research and Brainstorming vaults, deleted redundant python virtual environments, and outlined the unified workflow logic. Details appended below. |
+| 2026-06-20 | BATCH | `wiki/` | Implemented `stage` property across all wiki files, ordered it first in frontmatter. |
+| 2026-06-20 | INITIALIZE | `AGENTS.md` | Established new repository-level instruction file, replacing legacy `AGENT.md`. |
 
 
 ## 🔗 Connections

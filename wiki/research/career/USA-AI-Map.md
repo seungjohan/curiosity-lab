@@ -1,14 +1,16 @@
 ---
+stage: research
 category: career
-type: list
-scope: USA
+tag: career
+about: Deep-dive list of US-based AI leaders in Physical AI and Foundation Infrastructure.
 pillar: Cross-pillar
+scope: USA
 tags:
 - list
 - Map
 - USA
 - SiliconValley
-about: Deep-dive list of US-based AI leaders in Physical AI and Foundation Infrastructure.
+type: list
 ---
 # USA AI Map
 

@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: MLOps platform for managing data labeling and computer vision models.
+country: USA
+hq: San Mateo
 industry:
 - MLOps
 - Data Lifecycle
 scale: Pre-IPO
-hq: San Mateo
-country: USA
 tags:
 - company
 - VerticalAI
 - MLOps
-about: MLOps platform for managing data labeling and computer vision models.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Superb AI is the bridge to "Physical AI." Their 2026 move into "Zero-Shot" industrial models shows that the value in MLOps has shifted from "Labeling" to "Curation and Deployment."

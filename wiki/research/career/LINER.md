@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI-powered search and information curation platform.
+country: South Korea
+hq: Seoul
 industry:
 - AI Search
 - B2C Growth
 scale: Pre-Unicorn
-hq: Seoul
-country: South Korea
 tags:
 - company
 - VerticalAI
 - Search
-about: AI-powered search and information curation platform.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** LINER has successfully weaponized a 10-year data moat (user highlights) to beat GPT-4 in factual accuracy. They are the global #2 in AI search, proving that "curation" is a massive AI moat.

@@ -1,10 +1,12 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Bear Robotics
+experience:
+- 3-10 years
 industry:
 - Physical AI
 - Robotics
@@ -13,25 +15,25 @@ industry:
 location:
 - Seoul
 - Republic of Korea
-position:
-- Product Manager
 pillar:
 - PhysicalAI
-experience:
-- 3-10 years
+position:
+- Product Manager
 skills:
 - Data-driven decision making
 - PRD/Documentation
 - Business English
 - AI Tools
 - Robotics/Hardware (Preferred)
-url: https://bear-robotics.breezy.hr/p/8591c5ad6f58-product-manager-3-10-years
 tags:
 - career
 - apply
 - PhysicalAI
 - Robotics
 - PM
+type:
+- apply
+url: https://bear-robotics.breezy.hr/p/8591c5ad6f58-product-manager-3-10-years
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** This role is at the center of the LG-Bear Robotics integration, focusing on scaling autonomous mobile robots (AMRs) from hospitality to broader industrial sectors. It requires a "Product-as-an-Orchestrator" mindset, bridging hardware kinematic constraints with software intelligence.

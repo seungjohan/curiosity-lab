@@ -1,15 +1,17 @@
 ---
+stage: research
 category: career
-type: list
-scope: Vertical Industry (Healthcare)
+tag: career
+about: Analysis of the 2026 healthcare AI landscape, focusing on commercial shifts
+  and vertical domain mastery.
 pillar: VerticalAI
+scope: Vertical Industry (Healthcare)
 tags:
 - list
 - Trends
 - Healthcare
 - Biotech
-about: Analysis of the 2026 healthcare AI landscape, focusing on commercial shifts
-  and vertical domain mastery.
+type: list
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Healthcare AI is the ultimate test of "High-Stakes PMing." In 2026, the focus has shifted from diagnostic accuracy to **Operational Integration** and **Commercial Profitability**.

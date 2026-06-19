@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: An AI-native pharmaceutical company accelerating drug development through agentic
+  operations.
+country: USA
+hq: New York
 industry:
 - Vertical AI
 - Pharma
 scale: Scale-up
-hq: New York
-country: USA
 tags:
 - company
 - VerticalAI
 - PharmaAI
-about: An AI-native pharmaceutical company accelerating drug development through agentic
-  operations.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Formation Bio (formerly TrialSpark) is the proof that AI can disrupt the most bureaucratic industries. They are rebuilding the pharma stack from the ground up with AI agents.

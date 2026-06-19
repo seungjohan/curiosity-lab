@@ -1,5 +1,7 @@
 ---
+stage: cooking
 category: cooking
+tag: cooking
 ---
 
 > [!IMPORTANT] Key Takeaway

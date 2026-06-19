@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: Fabless AI chip company focusing on ultra-low latency inference.
+country: South Korea
+hq: Seoul
 industry:
 - AI Hardware
 - Semiconductors
 scale: Unicorn
-hq: Seoul
-country: South Korea
 tags:
 - company
 - Infrastructure
 - Semiconductors
-about: Fabless AI chip company focusing on ultra-low latency inference.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Rebellions is the "physical layer" of the Korean AI dream. Their merger with Sapeon and partnership with Arm/SK Hynix creates a vertical powerhouse that can challenge Nvidia in the "Inference" market.

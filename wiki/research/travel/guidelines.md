@@ -1,5 +1,7 @@
 ---
+stage: research
 category: system
+tag: travel
 ---
 
 > [!IMPORTANT] Key Takeaway

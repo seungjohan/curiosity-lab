@@ -1,8 +1,15 @@
 ---
+stage: research
 category: vibecoding
+tag: vibecoding
+about: A curated list of references, tools, and research informing the vibecoding
+  workflow.
+tags:
+- reference
+- ai
+- coding
+- vibecoding
 type: list
-tags: [reference, ai, coding, vibecoding]
-about: A curated list of references, tools, and research informing the vibecoding workflow.
 ---
 
 > [!IMPORTANT] Key Takeaway

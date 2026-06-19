@@ -1,6 +1,11 @@
 ---
+stage: research
 category: planting
-tags: [vocabulary, botany, planting]
+tag: planting
+tags:
+- vocabulary
+- botany
+- planting
 ---
 
 # 🌿 Planting Vocabulary
@@ -17,6 +22,7 @@ This page consolidates terms related to botany, gardening, and plant life cycles
 | :--- | :--- | :--- |
 | **Wilt** | Loss of turgor pressure in plants, causing them to go limp. | "The seedlings began to wilt in the direct sun." |
 | **Fruiting** | The phase where a plant produces fruit. | "The tomato plants are finally fruiting." |
+| **Prune** | (Verb) To cut away dead or unwanted parts of a plant, or to reduce and remove unnecessary elements from something. | "Prune the dead branches to encourage new growth." |
 
 ## 🔗 Connections
 - [[wiki/planting/index.md|Planting Index]]

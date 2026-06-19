@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI medical diagnostics platform for radiology and cardiology.
+country: South Korea
+hq: Seoul
 industry:
 - Healthcare
 - Medical Imaging
 scale: Public
-hq: Seoul
-country: South Korea
 tags:
 - company
 - VerticalAI
 - Healthcare
-about: AI medical diagnostics platform for radiology and cardiology.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** VUNO is the "Biosignal Pioneer." While others focused on images, VUNO won by predicting cardiac arrest (**DeepCARS**) using simple biosignals.

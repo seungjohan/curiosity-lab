@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: idea
-topic: [AI, Sports Tech, Photo Recognition]
-status: ideation
-industry: Sports Tech
+tag: projects
 created: 2026-06-02
+industry: Sports Tech
+status: ideation
+topic:
+- AI
+- Sports Tech
+- Photo Recognition
+type: idea
 ---
 
 > [!IMPORTANT] Key Takeaway

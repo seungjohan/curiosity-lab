@@ -1,8 +1,11 @@
 ---
+stage: research
 category: career
-type: list
-scope: Europe
+tag: career
+about: A comprehensive list of IT and AI companies in major European hubs that actively
+  sponsor working visas for Product Manager roles in 2026.
 pillar: Cross-pillar
+scope: Europe
 tags:
 - list
 - Recruitment
@@ -10,8 +13,7 @@ tags:
 - ProductManagement
 - Startups
 - Scaleups
-about: A comprehensive list of IT and AI companies in major European hubs that actively
-  sponsor working visas for Product Manager roles in 2026.
+type: list
 ---
 
 > [!IMPORTANT] Key Takeaway

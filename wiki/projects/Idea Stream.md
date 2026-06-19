@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: reflection
-topic: [Ideas, Philosophy, AI]
-status: active
-industry: N/A
+tag: projects
 created: 2026-05-15
+industry: N/A
+status: active
+topic:
+- Ideas
+- Philosophy
+- AI
+type: reflection
 ---
 
 > [!IMPORTANT] Key Takeaway

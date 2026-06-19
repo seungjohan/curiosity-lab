@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: Manna provides autonomous drone delivery services for food and medical supplies.
+country: Ireland
+hq: Dublin
 industry:
 - Physical AI
 - Logistics
 scale: Scale-up
-hq: Dublin
-country: Ireland
 tags:
 - company
 - PhysicalAI
 - Logistics
 - Drones
-about: Manna provides autonomous drone delivery services for food and medical supplies.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It solves the "last-mile" problem by moving delivery from 2D (roads) to 3D (air), drastically reducing costs and carbon footprint.

@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: LLM-based enterprise search and workflow automation solution.
+country: Japan
+hq: Tokyo
 industry:
 - Enterprise AI
 - Workflow Automation
 scale: Series B
-hq: Tokyo
-country: Japan
 tags:
 - company
 - AgenticAI
 - Workflow
-about: LLM-based enterprise search and workflow automation solution.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Allganize is the pioneer of "Zero-Labor" automation. They've successfully moved from "Chat" to "Agentic AI" that orchestrates entire workflows in high-security environments.

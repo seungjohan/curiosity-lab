@@ -1,10 +1,15 @@
 ---
+stage: ideation
 category: system
-type: log
-topic: [Activity, History, Wiki]
-status: active
-industry: N/A
+tag: ideation
 created: 2026-05-14
+industry: N/A
+status: active
+topic:
+- Activity
+- History
+- Wiki
+type: log
 ---
 
 > [!IMPORTANT] Key Takeaway

@@ -1,10 +1,15 @@
 ---
+stage: general
 category: system
-type: meta
-topic: [Wiki, LLM, Structure]
-status: active
-industry: N/A
+tag: system
 created: 2026-05-14
+industry: N/A
+status: active
+topic:
+- Wiki
+- LLM
+- Structure
+type: meta
 ---
 
 > [!IMPORTANT] Key Takeaway

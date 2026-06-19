@@ -1,14 +1,16 @@
 ---
+stage: research
 category: career
-type: list
-scope: United Kingdom
+tag: career
+about: Deep-dive list of London-based AI leaders across the three pillars.
 pillar: Cross-pillar
+scope: United Kingdom
 tags:
 - list
 - Map
 - UK
 - London
-about: Deep-dive list of London-based AI leaders across the three pillars.
+type: list
 ---
 # UK AI Map (London)
 

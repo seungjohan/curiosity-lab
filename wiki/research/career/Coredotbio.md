@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI platform for RNA-based drug discovery and biological data analysis.
+country: South Korea
+hq: Seoul
 industry:
 - Bio-Tech
 - Drug Discovery
 scale: Series A
-hq: Seoul
-country: South Korea
 tags:
 - company
 - VerticalAI
 - BioTech
-about: AI platform for RNA-based drug discovery and biological data analysis.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Coredotbio is shifting the biotech paradigm from "Molecule-centric" to "System-centric." They are building a "World Model" for biology to fix the 90% failure rate in drug development.

@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: idea
-topic: [AI, HR Tech, Team Building]
-status: ideation
-industry: HR Tech
+tag: projects
 created: 2026-06-02
+industry: HR Tech
+status: ideation
+topic:
+- AI
+- HR Tech
+- Team Building
+type: idea
 ---
 
 > [!IMPORTANT] Key Takeaway

@@ -1,8 +1,13 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: Korea
+tags:
+- cooking
+- Korea
+- Cuisine
 type: list
-tags: [cooking, Korea, Cuisine]
 ---
 
 > [!IMPORTANT] Key Takeaway

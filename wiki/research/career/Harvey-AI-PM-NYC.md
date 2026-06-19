@@ -1,34 +1,36 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Harvey AI
+experience:
+- Legal background + PM intuition
 industry:
 - Vertical AI
 - Legal Tech
 location:
 - New York
 - NY
-position:
-- Innovation Product Manager
 pillar:
 - VerticalAI
-experience:
-- Legal background + PM intuition
+position:
+- Innovation Product Manager
 skills:
 - Solutions Design
 - LLM Strategy
 - Stakeholder Management
 - Enterprise Deployment
-url: https://www.harvey.ai/careers
 tags:
 - career
 - apply
 - LegalTech
 - VerticalAI
 - PM
+type:
+- apply
+url: https://www.harvey.ai/careers
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Harvey is the benchmark for "Big Law" AI. This role is a hybrid of PM and Solutions Engineering. You aren't just building features; you are redesigning how the entire legal industry works. It’s a "Product-as-a-Service" model for the world’s most elite law firms.

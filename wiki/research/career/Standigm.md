@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI-powered drug discovery platform for identifying new drug candidates.
+country: South Korea
+hq: Seoul
 industry:
 - Drug Discovery
 - Bio-Tech
 scale: Series C
-hq: Seoul
-country: South Korea
 tags:
 - company
 - VerticalAI
 - BioTech
-about: AI-powered drug discovery platform for identifying new drug candidates.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Standigm is industrializing drug discovery. Their move from "Service" to "Pipeline" (Hybrid Model) shows how AI can double the success rate of Phase I clinical trials.

@@ -1,8 +1,13 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: Spain
+tags:
+- cooking
+- Spain
+- Cuisine
 type: list
-tags: [cooking, Spain, Cuisine]
 ---
 
 > [!IMPORTANT] Key Takeaway

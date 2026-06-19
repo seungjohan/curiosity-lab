@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: High-throughput LLM inference engine and serving platform.
+country: South Korea
+hq: Seoul
 industry:
 - LLM Serving
 - Infrastructure
 scale: Series A
-hq: Seoul
-country: South Korea
 tags:
 - company
 - Infrastructure
 - MLOps
-about: High-throughput LLM inference engine and serving platform.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** FriendliAI has solved the "Inference Tax." By pioneering **Continuous Batching**, they've turned raw compute into a high-margin utility, making 0→1 scaling affordable.

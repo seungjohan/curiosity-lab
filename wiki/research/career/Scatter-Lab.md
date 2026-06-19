@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: Conversational AI company behind the emotional AI agent 'Luda Lee'.
+country: South Korea
+hq: Seoul
 industry:
 - Social AI
 - Conversational AI
 scale: Series B
-hq: Seoul
-country: South Korea
 tags:
 - company
 - VerticalAI
 - SocialAI
-about: Conversational AI company behind the emotional AI agent 'Luda Lee'.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Scatter Lab is the ultimate "Emotional Intelligence" startup. They pivoted from a controversial chatbot to a community-driven "AI-Native Entertainment" platform (**Zeta**).

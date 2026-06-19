@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI-powered mobile apps including vFlat (scanning) and Vrew (video editing).
+country: South Korea
+hq: Seoul
 industry:
 - Video Editing
 - AI Productivity
 scale: Scale-up
-hq: Seoul
-country: South Korea
 tags:
 - company
 - VerticalAI
 - Productivity
-about: AI-powered mobile apps including vFlat (scanning) and Vrew (video editing).
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** VoyagerX represents the "Human-Centric AI" ideal. By making video editing as easy as editing text, they’ve unlocked the creator economy for millions.

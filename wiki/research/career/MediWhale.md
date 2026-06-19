@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: Non-invasive cardiovascular risk assessment through AI retina analysis.
+country: South Korea
+hq: Seoul
 industry:
 - Healthcare
 - AI Diagnostics
 scale: Series B
-hq: Seoul
-country: South Korea
 tags:
 - company
 - VerticalAI
 - Healthcare
-about: Non-invasive cardiovascular risk assessment through AI retina analysis.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** MediWhale is the master of "The Window." They turned a simple retina scan into a "Systemic Health Dashboard," replacing expensive Heart CTs.

@@ -1,8 +1,13 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: Thailand
+tags:
+- cooking
+- ThaiCuisine
+- StreetFood
 type: Dish
-tags: [cooking, ThaiCuisine, StreetFood]
 ---
 
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

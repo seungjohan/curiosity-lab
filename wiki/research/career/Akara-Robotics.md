@@ -1,20 +1,22 @@
 ---
+stage: research
 category: career
+tag: career
+about: Trinity College spin-out developing AI-powered robots for autonomous hospital
+  disinfection and clinical workflows.
+country: Ireland
+hq: Dublin
 industry:
 - Physical AI
 - Robotics
 - Healthcare
 scale: Scale-up
-hq: Dublin
-country: Ireland
 tags:
 - company
 - PhysicalAI
 - Healthcare
 - Robotics
 - Dublin
-about: Trinity College spin-out developing AI-powered robots for autonomous hospital
-  disinfection and clinical workflows.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Akara is a prime example of "Physical AI + Vertical Mastery." They solve a critical healthcare problem (disinfection) using autonomous robotics, proving that ROI in Physical AI comes from high-stakes vertical niches.

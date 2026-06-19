@@ -1,34 +1,36 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Wayve
+experience:
+- 10+ years
 industry:
 - Physical AI
 - Autonomous Vehicles
 location:
 - London
 - UK
-position:
-- Product Release Manager
 pillar:
 - PhysicalAI
-experience:
-- 10+ years
+position:
+- Product Release Manager
 skills:
 - Software Release Lifecycle
 - Automotive Safety Standards (ISO 26262)
 - Change Control Board (CCB)
 - Embodied AI
-url: https://wayve.ai/careers
 tags:
 - career
 - apply
 - PhysicalAI
 - AV
 - PM
+type:
+- apply
+url: https://wayve.ai/careers
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Wayve is the pioneer of "End-to-End Deep Learning" for autonomous driving. This role is the critical gatekeeper between AI research and real-world deployment. It’s not just about shipping software; it’s about the safety and reliability of Physical AI in open environments.

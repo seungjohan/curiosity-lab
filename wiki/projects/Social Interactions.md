@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: reflection
-topic: [Social, Communication, Mirror Effect]
-status: active
-industry: N/A
+tag: projects
 created: 2026-05-14
+industry: N/A
+status: active
+topic:
+- Social
+- Communication
+- Mirror Effect
+type: reflection
 ---
 
 > [!IMPORTANT] Key Takeaway

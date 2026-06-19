@@ -1,10 +1,14 @@
 ---
+stage: projects
 category: system
-type: research
-topic: [AI, Agentic Workflows]
-status: active
-industry: Technology
+tag: projects
 created: 2026-05-15
+industry: Technology
+status: active
+topic:
+- AI
+- Agentic Workflows
+type: research
 ---
 
 > [!IMPORTANT] Key Takeaway

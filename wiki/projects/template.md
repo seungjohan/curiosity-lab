@@ -1,7 +1,9 @@
 ---
+stage: projects
 category: projects
-status: active
+tag: projects
 created: 2026-06-15
+status: active
 ---
 
 > [!IMPORTANT] Key Takeaway

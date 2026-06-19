@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: resource
-topic: [Design, System, UI/UX]
-status: active
-industry: Technology
+tag: projects
 created: 2026-06-03
+industry: Technology
+status: active
+topic:
+- Design
+- System
+- UI/UX
+type: resource
 ---
 
 > [!IMPORTANT] Key Takeaway

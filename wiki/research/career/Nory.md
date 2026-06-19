@@ -1,18 +1,20 @@
 ---
+stage: research
 category: career
+tag: career
+about: Nory provides an AI-powered operating system for restaurants to manage labor
+  and waste.
+country: Ireland
+hq: Dublin
 industry:
 - Vertical AI
 - Hospitality
 scale: Scale-up
-hq: Dublin
-country: Ireland
 tags:
 - company
 - VerticalAI
 - Hospitality
 - Operations
-about: Nory provides an AI-powered operating system for restaurants to manage labor
-  and waste.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Hospitality has thin margins; Nory's AI optimizes the two biggest costs: people and food.

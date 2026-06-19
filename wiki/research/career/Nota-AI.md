@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: Lightweight AI model optimization and deployment platform for edge devices.
+country: South Korea
+hq: Seoul
 industry:
 - Edge AI
 - Model Optimization
 scale: Public
-hq: Seoul
-country: South Korea
 tags:
 - company
 - Infrastructure
 - EdgeAI
-about: Lightweight AI model optimization and deployment platform for edge devices.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Nota AI is the critical "enabler" for the Edge AI era. Their ability to compress LLMs and VLMs for hardware like Samsung's Exynos is a massive technical moat.

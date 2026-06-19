@@ -1,8 +1,15 @@
 ---
+stage: research
 category: personal
+tag: personal
+about: Curated references for personal website design, technical architecture, and
+  content strategy.
+tags:
+- reference
+- website
+- design
+- portfolio
 type: list
-tags: [reference, website, design, portfolio]
-about: Curated references for personal website design, technical architecture, and content strategy.
 ---
 
 > [!IMPORTANT] Key Takeaway

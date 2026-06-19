@@ -1,8 +1,13 @@
 ---
+stage: research
 category: cooking
-type: list
-tags: [list, cooking, CulinaryIndex]
+tag: cooking
 about: Master index for culinary research across multiple global cuisines.
+tags:
+- list
+- cooking
+- CulinaryIndex
+type: list
 ---
 
 > [!IMPORTANT] Key Takeaway

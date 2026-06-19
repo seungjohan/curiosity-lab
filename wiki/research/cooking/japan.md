@@ -1,8 +1,13 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: Japan
+tags:
+- cooking
+- Japan
+- Cuisine
 type: list
-tags: [cooking, Japan, Cuisine]
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -13,7 +18,10 @@ tags: [cooking, Japan, Cuisine]
 # 🇯🇵 Japanese Cuisine
 
 ## 🍲 Signature Dishes
-- *Empty - Awaiting entries*
+- **海鮮丼 (Kaisendon)**: A fresh seafood rice bowl. Consists of *Kaisen* (海鮮 - seafood) and *Don* (丼 - bowl). (KR: **카이센동**)
+
+## 🧪 Fundamental Concepts
+- **旨だし (Umadashi)**: "Delicious stock" or "savory dashi"; a flavorful broth used as a base in Japanese cooking to enhance umami. (KR: **감칠맛 나는 국물 / 맛있는 육수**)
 
 ## 🔗 Connections
 - [[wiki/cooking/index.md|Culinary Master Index]]

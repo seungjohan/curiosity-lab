@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI platform for automated counterfeit detection and IP protection.
+country: USA
+hq: Los Angeles
 industry:
 - IP Protection
 - Vision AI
 scale: Series B
-hq: Los Angeles
-country: USA
 tags:
 - company
 - VerticalAI
 - LegalTech
-about: AI platform for automated counterfeit detection and IP protection.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** MarqVision has turned IP protection from a "legal cost" into a "revenue growth lever." Their 2026 concept of the "AI Tax" on brands is a crucial insight for digital-first products.

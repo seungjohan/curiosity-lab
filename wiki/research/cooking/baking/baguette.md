@@ -1,8 +1,14 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: France
+tags:
+- cooking
+- baking
+- France
+- Bread
 type: Dish
-tags: [cooking, baking, France, Bread]
 ---
 
 > [!IMPORTANT] Key Takeaway (Product & Creative Perspective)

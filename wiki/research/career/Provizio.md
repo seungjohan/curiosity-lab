@@ -1,18 +1,20 @@
 ---
+stage: research
 category: career
+tag: career
+about: Provizio builds "accident-proof" technology using AI and radar for automotive
+  safety.
+country: Ireland
+hq: Dublin
 industry:
 - Physical AI
 - Auto
 scale: Scale-up
-hq: Dublin
-country: Ireland
 tags:
 - company
 - PhysicalAI
 - Auto
 - Safety
-about: Provizio builds "accident-proof" technology using AI and radar for automotive
-  safety.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It moves from "reactive" safety (airbags) to "predictive" safety (AI that sees through rain/fog to prevent crashes).

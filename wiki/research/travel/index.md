@@ -1,5 +1,7 @@
 ---
+stage: research
 category: system
+tag: travel
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -12,6 +14,7 @@ Welcome to your central travel planning system. This hub connects your restauran
 
 ## 🗺️ Travel Guidelines
 - [[guidelines|Voyage Guidelines & Checklist]] — Principles for planning and the pre-trip checklist.
+- [[vocabulary|Travel Vocabulary]] — Consolidated terms for accommodation, transport, and regional travel.
 
 ## 📍 Destinations
 - [[wiki/cooking/index.md|Culinary Master Index]] — Explore by cuisine before planning a trip.

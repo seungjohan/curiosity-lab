@@ -1,10 +1,12 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Formation Bio
+experience:
+- Leadership (Product/Pharma)
 industry:
 - Vertical AI
 - Pharma
@@ -14,24 +16,24 @@ location:
 - NY
 - Boston
 - MA
-position:
-- Product Area Lead
 pillar:
 - VerticalAI
-experience:
-- Leadership (Product/Pharma)
+position:
+- Product Area Lead
 skills:
 - Business Strategy
 - Agentic AI Workflows
 - GxP/Regulatory Awareness
 - Pharma Ops
-url: https://formationbio.com/careers
 tags:
 - career
 - apply
 - PharmaAI
 - VerticalAI
 - PM
+type:
+- apply
+url: https://formationbio.com/careers
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Formation Bio is the first "AI-native" pharma company. This isn't just about using AI for discovery; it’s about using AI to run the entire clinical trial lifecycle. This role is "Product-as-an-Operational-OS."

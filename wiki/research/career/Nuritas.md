@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: Nuritas uses AI to discover bioactive peptides for functional foods and therapeutics.
+country: Ireland
+hq: Dublin
 industry:
 - Vertical AI
 - Biotech
 scale: Scale-up
-hq: Dublin
-country: Ireland
 tags:
 - company
 - VerticalAI
 - Biotech
 - PeptideDiscovery
-about: Nuritas uses AI to discover bioactive peptides for functional foods and therapeutics.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It uses AI to mine the "dark matter" of nature—finding health-beneficial molecules that have been hidden in plain sight.

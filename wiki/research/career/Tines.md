@@ -1,20 +1,22 @@
 ---
+stage: research
 category: career
+tag: career
+about: Cybersecurity orchestration platform that has pivoted to autonomous agentic
+  workflows for incident response.
+country: Ireland
+hq: Dublin
 industry:
 - Agentic AI
 - Cybersecurity
 - Automation
 scale: Scale-up
-hq: Dublin
-country: Ireland
 tags:
 - company
 - AgenticAI
 - Cybersecurity
 - Automation
 - Dublin
-about: Cybersecurity orchestration platform that has pivoted to autonomous agentic
-  workflows for incident response.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Tines represents the transition from "no-code automation" to "Agentic Automation." In 2026, it's no longer just about building workflows, but about deploying agents that can reason through security threats.

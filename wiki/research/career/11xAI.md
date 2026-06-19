@@ -1,18 +1,20 @@
 ---
+stage: research
 category: career
+tag: career
+about: 11xAI develops autonomous digital workers, starting with 'Alice', an AI Sales
+  Development Representative.
+country: UK
+hq: London
 industry:
 - Agentic AI
 - Sales
 scale: Startup
-hq: London
-country: UK
 tags:
 - company
 - AgenticAI
 - Sales
 - Automation
-about: 11xAI develops autonomous digital workers, starting with 'Alice', an AI Sales
-  Development Representative.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** The first wave of Sales AI was "copilots"; 11xAI is building "replacement agents" that handle the entire outbound loop.

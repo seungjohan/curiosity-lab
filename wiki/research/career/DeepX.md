@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI semiconductor company developing high-efficiency NPU for edge devices.
+country: South Korea
+hq: Gyeonggi
 industry:
 - Edge NPU
 - AI Chips
 scale: Series C
-hq: Gyeonggi
-country: South Korea
 tags:
 - company
 - Infrastructure
 - Semiconductors
-about: AI semiconductor company developing high-efficiency NPU for edge devices.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** DeepX has solved the "Power-Performance" paradox for the edge. Their ability to run 100B parameter models on under 5W is the "holy grail" for robotics.

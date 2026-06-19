@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: project
-topic: [Project, Portfolio, Blog]
-status: active
-industry: Technology
+tag: projects
 created: 2026-06-02
+industry: Technology
+status: active
+topic:
+- Project
+- Portfolio
+- Blog
+type: project
 ---
 
 > [!IMPORTANT] Key Takeaway

@@ -1,8 +1,13 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: Italy
+tags:
+- cooking
+- Italy
+- Cuisine
 type: list
-tags: [cooking, Italy, Cuisine]
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -14,6 +19,9 @@ tags: [cooking, Italy, Cuisine]
 
 ## 🍲 Piatti Tipici
 - *Empty - Awaiting entries*
+
+## 🍅 Ingredienti Chiave
+- **San Marzano Pomodoro**: The gold standard for Italian tomatoes, grown in Sarno valley volcanic soil near Mount Vesuvius. Essential for authentic *Pizza Napoletana*. (KR: **산 마르자노 토마토**)
 
 ## 🔗 Connections
 - [[wiki/cooking/index.md|Culinary Master Index]]

@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI data platform specializing in high-fidelity training data for autonomous
+  driving.
+country: South Korea
+hq: Gyeonggi
 industry:
 - Data Ops
 - Autonomous Driving
 scale: Series B
-hq: Gyeonggi
-country: South Korea
 tags:
 - company
 - VerticalAI
 - DataOps
-about: AI data platform specializing in high-fidelity training data for autonomous
-  driving.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** AIMMO has successfully moved up the value chain from "Labeling" (commodity) to "DataOps" (infrastructure). They solve the 2026 bottleneck of "Edge Case Discovery" for autonomous driving.

@@ -1,34 +1,36 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Wrtn Technologies
+experience:
+- 3+ years
 industry:
 - B2C AI Portal
 - GenAI
 location:
 - Seoul
 - South Korea
-position:
-- Product Manager (B2C)
 pillar:
 - AgenticAI
-experience:
-- 3+ years
+position:
+- Product Manager (B2C)
 skills:
 - Growth Strategy
 - B2C Product Management
 - Data-driven Hypothesis Testing
 - PRD/Workflow Design
-url: https://www.wanted.co.kr/wd/214444
 tags:
 - career
 - apply
 - B2C
 - GenAI
 - PM
+type:
+- apply
+url: https://www.wanted.co.kr/wd/214444
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Wrtn is Korea's leading AI consumer portal. This role is about "scaling the habit." It requires a PM who can design addictive yet useful AI interactions (like the 'Crack' AI character service) and manage a high-velocity growth engine with 5M+ users.

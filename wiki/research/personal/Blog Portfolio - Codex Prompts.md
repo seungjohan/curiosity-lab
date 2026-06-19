@@ -1,10 +1,15 @@
 ---
+stage: research
 category: system
-type: resource
-topic: [Prompts, LLM, Development]
-status: active
-industry: Technology
+tag: personal
 created: 2026-06-02
+industry: Technology
+status: active
+topic:
+- Prompts
+- LLM
+- Development
+type: resource
 ---
 
 > [!IMPORTANT] Key Takeaway

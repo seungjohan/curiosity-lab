@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI semiconductor startup designing high-performance chips for data centers.
+country: South Korea
+hq: Seoul
 industry:
 - AI Chips
 - Infrastructure
 scale: Series C
-hq: Seoul
-country: South Korea
 tags:
 - company
 - Infrastructure
 - Semiconductors
-about: AI semiconductor startup designing high-performance chips for data centers.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** FuriosaAI is a masterclass in "High-Conviction Product Strategy." By rejecting an $800M Meta buyout to pursue an independent 2027 IPO, they are betting on the "Inference Gap."

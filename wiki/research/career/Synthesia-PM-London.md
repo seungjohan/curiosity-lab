@@ -1,34 +1,36 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Synthesia
+experience:
+- 7+ years
 industry:
 - Video AI
 - Creative Tech
 location:
 - London
 - UK
-position:
-- Principal Product Manager (Video Creation & Editing)
 pillar:
 - VerticalAI
-experience:
-- 7+ years
+position:
+- Principal Product Manager (Video Creation & Editing)
 skills:
 - Creative Tools Strategy
 - UX for Generative AI
 - Enterprise Scaling
 - Cross-functional Leadership
-url: https://www.synthesia.io/careers
 tags:
 - career
 - apply
 - VideoAI
 - CreativeTech
 - PM
+type:
+- apply
+url: https://www.synthesia.io/careers
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Synthesia is moving from "video generation" to "video production." This role is about designing the interface for the future of cinematography, where the barrier to entry is eliminated. For a composer/writer, this is the tool that makes your work visual with zero friction.

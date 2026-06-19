@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: reflection
-topic: [Music, Composition, Hobbies]
-status: active
-industry: N/A
+tag: projects
 created: 2026-05-14
+industry: N/A
+status: active
+topic:
+- Music
+- Composition
+- Hobbies
+type: reflection
 ---
 
 > [!IMPORTANT] Key Takeaway

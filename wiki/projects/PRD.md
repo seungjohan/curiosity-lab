@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: resource
-topic: [PRD, Product, Specification]
-status: active
-industry: Technology
+tag: projects
 created: 2026-06-03
+industry: Technology
+status: active
+topic:
+- PRD
+- Product
+- Specification
+type: resource
 ---
 
 > [!IMPORTANT] Key Takeaway

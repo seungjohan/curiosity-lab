@@ -1,9 +1,15 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: Italy
 region: Liguria
+tags:
+- cooking
+- baking
+- Italy
+- Bread
 type: Dish
-tags: [cooking, baking, Italy, Bread]
 ---
 
 > [!IMPORTANT] Key Takeaway (Product & Creative Perspective)
@@ -27,4 +33,4 @@ A flat leavened Italian oven-baked bread, similar in style and texture to pizza 
 ## 📚 References
 | Title | Media | URL |
 | :--- | :--- | :--- |
-| *(None yet)* | | |
+| How One of NYC's Best Bakeries Makes Focaccia \| Made to Order \| Bon Appétit | YouTube | https://www.youtube.com/watch?v=oPUux4h4Mf8 |

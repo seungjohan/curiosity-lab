@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI-powered language learning application with real-time speech recognition.
+country: USA
+hq: San Francisco
 industry:
 - EdTech
 - Language Learning
 scale: Series B+
-hq: San Francisco
-country: USA
 tags:
 - company
 - VerticalAI
 - EdTech
-about: AI-powered language learning application with real-time speech recognition.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Speak is the definitive case study for "Applied LLM UX." By partnering with OpenAI and focusing on the "Speaking" moat, they've turned a commodity LLM into a high-retention EdTech product.

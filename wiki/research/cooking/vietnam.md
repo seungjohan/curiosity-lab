@@ -1,8 +1,13 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: Vietnam
+tags:
+- cooking
+- Vietnam
+- Cuisine
 type: list
-tags: [cooking, Vietnam, Cuisine]
 ---
 
 > [!IMPORTANT] Key Takeaway

@@ -1,5 +1,7 @@
 ---
+stage: research
 category: vibecoding
+tag: vibecoding
 ---
 
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

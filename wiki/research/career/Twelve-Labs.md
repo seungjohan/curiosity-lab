@@ -1,19 +1,21 @@
 ---
+stage: research
 category: career
+tag: career
+about: Leader in multimodal video understanding, building infrastructure to make video
+  as searchable as text.
+country: USA
+hq: San Francisco, CA
 industry:
 - Video AI
 - Multimodal AI
 - Infrastructure
 scale: Scale-up
-hq: San Francisco, CA
-country: USA
 tags:
 - company
 - CreativeTech
 - VideoUnderstanding
 - Multimodal
-about: Leader in multimodal video understanding, building infrastructure to make video
-  as searchable as text.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Twelve Labs is the leader in "multimodal video understanding." As a composer and writer, this is the tech that will eventually allow AI to "score" video or "write" based on visual cues.

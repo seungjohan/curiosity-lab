@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: Jentic provides an AI integration layer for building complex, multi-agent workflows.
+country: Ireland
+hq: Dublin
 industry:
 - Agentic AI
 - Infrastructure
 scale: Startup
-hq: Dublin
-country: Ireland
 tags:
 - company
 - AgenticAI
 - Infrastructure
 - DeveloperTools
-about: Jentic provides an AI integration layer for building complex, multi-agent workflows.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It solves the "orchestration" problem—how to get different AI agents to talk to each other and external tools.

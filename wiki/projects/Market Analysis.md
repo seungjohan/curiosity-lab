@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: research
-topic: [Startups, Market, Analysis]
-status: active
-industry: Technology
+tag: projects
 created: 2026-05-14
+industry: Technology
+status: active
+topic:
+- Startups
+- Market
+- Analysis
+type: research
 ---
 
 > [!IMPORTANT] Key Takeaway

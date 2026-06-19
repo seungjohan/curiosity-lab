@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: Global leader in chat, voice, and video APIs for mobile and web apps.
+country: USA
+hq: San Mateo
 industry:
 - Comm. API
 - Messaging
 scale: Unicorn
-hq: San Mateo
-country: USA
 tags:
 - company
 - AgenticAI
 - Communications
-about: Global leader in chat, voice, and video APIs for mobile and web apps.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Sendbird is a masterclass in "Reinvention." They pivoted from a "Chat API" (plumbing) to an "AI CX Platform" (**Delight.ai**) to avoid commoditization.

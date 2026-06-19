@@ -1,10 +1,15 @@
 ---
+stage: ideation
 category: system
-type: index
-topic: [Startups, Ideas, Projects]
-status: active
-industry: Technology
+tag: ideation
 created: 2026-05-14
+industry: Technology
+status: active
+topic:
+- Startups
+- Ideas
+- Projects
+type: index
 ---
 
 > [!IMPORTANT] Key Takeaway

@@ -1,9 +1,15 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: Spain
 region: Valencia
+tags:
+- cooking
+- Spain
+- Valencia
+- Rice
 type: Dish
-tags: [cooking, Spain, Valencia, Rice]
 ---
 
 > [!IMPORTANT] Key Takeaway (Product & Creative Perspective)

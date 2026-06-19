@@ -1,34 +1,36 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Rogo AI
+experience:
+- 1-2 yrs Finance + 1-2 yrs PM
 industry:
 - Vertical AI
 - Finance
 location:
 - New York
 - NY
-position:
-- Product Manager
 pillar:
 - AgenticAI
-experience:
-- 1-2 yrs Finance + 1-2 yrs PM
+position:
+- Product Manager
 skills:
 - Financial Modeling
 - LLM Prompting
 - GTM Strategy
 - B2B Enterprise
-url: https://www.rogo.ai/careers
 tags:
 - career
 - apply
 - FinanceAI
 - AgenticAI
 - PM
+type:
+- apply
+url: https://www.rogo.ai/careers
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Rogo is building "Wall Street’s first true AI analyst." This role is about automating the grunt work of investment banking (memos, models, decks). It’s a "Vertical Agent" for the most demanding users in the world.

@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: Rezolve AI automates IT service desk workflows using autonomous agents.
+country: Ireland
+hq: Dublin
 industry:
 - Agentic AI
 - Service Desk
 scale: Scale-up
-hq: Dublin
-country: Ireland
 tags:
 - company
 - AgenticAI
 - ServiceDesk
 - ITAutomation
-about: Rezolve AI automates IT service desk workflows using autonomous agents.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It transforms IT support from a "ticket-based" system to an "instant-resolution" system using conversational agents.

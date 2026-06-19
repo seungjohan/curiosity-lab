@@ -1,34 +1,36 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Scatter Lab
+experience:
+- 3+ years
 industry:
 - Social AI
 - Generative Chatbots
 location:
 - Seoul
 - South Korea
-position:
-- Product Owner (Zeta)
 pillar:
 - AgenticAI
-experience:
-- 3+ years
+position:
+- Product Owner (Zeta)
 skills:
 - Problem Definition
 - Iterative Experimentation (Squad-based)
 - Full-stack Product Planning
 - AI UX Design
-url: https://scatterlab.co.kr/careers/
 tags:
 - career
 - apply
 - SocialAI
 - Zeta
 - PM
+type:
+- apply
+url: https://scatterlab.co.kr/careers/
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Scatter Lab is the pioneer of social AI in Korea. This role on 'Zeta' is about building a "Generative Narrative Platform" where users don't just consume, but co-create. It requires a PM who understands the emotional mechanics of AI interaction.

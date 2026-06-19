@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: Limbic provides AI-powered clinical assessment tools for mental health services.
+country: UK
+hq: London
 industry:
 - Vertical AI
 - Healthcare
 scale: Scale-up
-hq: London
-country: UK
 tags:
 - company
 - VerticalAI
 - Healthcare
 - MentalHealth
-about: Limbic provides AI-powered clinical assessment tools for mental health services.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It uses AI to solve the "access bottleneck" in mental health, triaging patients faster and more accurately.

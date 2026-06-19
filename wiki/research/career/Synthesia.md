@@ -1,19 +1,21 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI video generation platform specialized in hyper-realistic interactive avatars
+  for enterprise training and communication.
+country: UK
+hq: London
 industry:
 - Video AI
 - Creative Tech
 scale: Unicorn
-hq: London
-country: UK
 tags:
 - company
 - VerticalAI
 - CreativeTech
 - VideoAvatars
 - London
-about: AI video generation platform specialized in hyper-realistic interactive avatars
-  for enterprise training and communication.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Synthesia represents the "Vertical AI" moat for corporate communication. By 2026, they've moved from static video to "Interactive AI Avatars" that can act as real-time interfaces.

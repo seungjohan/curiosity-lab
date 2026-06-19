@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: AI model compression and optimization for efficient on-device deployment.
+country: South Korea
+hq: Seoul
 industry:
 - AI Compression
 - Model Efficiency
 scale: Series A
-hq: Seoul
-country: South Korea
 tags:
 - company
 - Infrastructure
 - MLOps
-about: AI model compression and optimization for efficient on-device deployment.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** SqueezeBits solves the "GenAI Trilemma" (Accuracy vs. Efficiency vs. Latency). Their **OwLite** toolkit allows LLMs to run on tiny edge chips without losing intelligence.

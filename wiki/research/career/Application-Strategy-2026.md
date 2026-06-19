@@ -1,5 +1,7 @@
 ---
+stage: research
 category: career
+tag: career
 ---
 
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

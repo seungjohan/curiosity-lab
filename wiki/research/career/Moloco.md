@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: Machine learning platform for performance-based mobile advertising.
+country: USA
+hq: Redwood City
 industry:
 - AdTech
 - Machine Learning
 scale: Unicorn
-hq: Redwood City
-country: USA
 tags:
 - company
 - VerticalAI
 - AdTech
-about: Machine learning platform for performance-based mobile advertising.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Moloco is the "Walled Garden" challenger. They prove that "Operational ML" (models that make money in real-time) is more valuable than general intelligence in the ad market.

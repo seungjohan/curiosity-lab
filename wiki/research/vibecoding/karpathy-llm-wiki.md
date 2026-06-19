@@ -1,7 +1,13 @@
 ---
+stage: research
 category: vibecoding
-tags: [reference, ai, knowledge-os, pattern]
+tag: vibecoding
 source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+tags:
+- reference
+- ai
+- knowledge-os
+- pattern
 ---
 
 > [!IMPORTANT] Key Takeaway

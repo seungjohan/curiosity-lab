@@ -1,18 +1,20 @@
 ---
+stage: research
 category: career
+tag: career
+about: Kitman Labs provides an Intelligence Platform for elite sports teams to optimize
+  performance and health.
+country: Ireland
+hq: Dublin
 industry:
 - Vertical AI
 - Sports
 scale: Scale-up
-hq: Dublin
-country: Ireland
 tags:
 - company
 - VerticalAI
 - Sports
 - DataScience
-about: Kitman Labs provides an Intelligence Platform for elite sports teams to optimize
-  performance and health.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It treats athletes as "complex machines" that can be optimized using high-resolution data and AI.

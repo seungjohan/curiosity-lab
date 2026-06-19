@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: CloudNC is automating CNC machining with AI to enable "one-click" manufacturing.
+country: UK
+hq: London
 industry:
 - Physical AI
 - Manufacturing
 scale: Scale-up
-hq: London
-country: UK
 tags:
 - company
 - PhysicalAI
 - Manufacturing
-about: CloudNC is automating CNC machining with AI to enable "one-click" manufacturing.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It bridges the gap between digital design and physical production, removing the "expert bottleneck" in machining.

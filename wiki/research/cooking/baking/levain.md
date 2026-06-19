@@ -1,8 +1,14 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: France
+tags:
+- cooking
+- baking
+- France
+- Fermentation
 type: Technique
-tags: [cooking, baking, France, Fermentation]
 ---
 
 > [!IMPORTANT] Key Takeaway (Product & Creative Perspective)

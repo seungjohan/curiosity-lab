@@ -1,5 +1,7 @@
 ---
+stage: research
 category: music
+tag: music
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -17,6 +19,7 @@ Yes, there are several excellent YouTube series and channels that specialize in 
 * **Song Exploder:** Based on the hit podcast, this series features artists dissecting their songs piece by piece. It provides a very intimate look at both the technical production side and the deeply personal emotional stories behind the songwriting process.
 * **Variety's 'Behind the Song':** The series you are currently watching, which focuses on both the creative journey and the industry perspective behind viral hits and Grammy-nominated tracks.
 * **Rolling Stone 'The Breakdown':** Rolling Stone often features artists discussing the writing of their most successful tracks, frequently touching on the specific moments or relationships that sparked the idea.
+* **Mix With The Masters:** A high-end series where legendary producers and mixing engineers (e.g., Chris Lord-Alge, Jack Antonoff) deconstruct their work, focusing on advanced mixing, engineering, and studio techniques.
 
 Below are some specific recommendations for videos that dive deep into the making of music:
 
@@ -25,9 +28,27 @@ Below are some specific recommendations for videos that dive deep into the makin
 | Media Title | Artist Name | Song Title | Media | URL |
 | :--- | :--- | :--- | :--- | :--- |
 | Sombr - Back to Friends \| Behind the Song | Sombr | Back to Friends | YouTube | https://www.youtube.com/watch?v=fm8olugxqr4 |
-| NewJeans (뉴진스) 'Ditto' Performance Video | NewJeans (뉴진스) | Ditto | YouTube | http://www.youtube.com/watch?v=lGKlIJsz7bM |
-| NewJeans (뉴진스) 'OMG' Official MV | NewJeans (뉴진스) | OMG | YouTube | http://www.youtube.com/watch?v=mylx_xpdrqM |
-| NewJeans (뉴진스) 'Ditto' Official MV (side B) | NewJeans (뉴진스) | Ditto | YouTube | http://www.youtube.com/watch?v=IU8BEMi8UyM |
+| Mix With The Masters | N/A | N/A | YouTube | https://www.youtube.com/@mixwiththemasters/videos |
+
+
+## 🎹 Producing
+| Media Title | Artist Name | Song Title | Media | URL |
+| :--- | :--- | :--- | :--- | :--- |
+| FINNEAS - For Cryin' Out Loud! (Deconstructed) | FINNEAS | For Cryin' Out Loud! | YouTube | https://www.youtube.com/watch?v=ZhlIrsgIlsc |
+
+## 🎧 Favourite Composers & Producers
+* **Ludwig Göransson**
+* **Newton**
+* **James Newton Howard**
+* **Hans Zimmer**
+* **Yehezkel Raz**
+* **Thomas Newman**
+
+## 🎸 Favourite Bands & Artists
+* **Arcade Fire**
+
+## 🎤 Singer-Songwriter
+* **Finneas** (Finneas O'Connell)
 
 ## 🔗 Connections
 - [[index.md|Music Research Index]]

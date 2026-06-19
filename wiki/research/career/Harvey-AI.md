@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: The leading generative AI platform for the legal industry, backed by OpenAI
+  and Sequoia.
+country: USA
+hq: San Francisco
 industry:
 - Vertical AI
 - Legal Tech
 scale: Scale-up (Unicorn)
-hq: San Francisco
-country: USA
 tags:
 - company
 - VerticalAI
 - LegalTech
-about: The leading generative AI platform for the legal industry, backed by OpenAI
-  and Sequoia.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Harvey is the "Vertical AI" success story for Legal. They didn't just build a chatbot; they built a platform that understands legal reasoning and enterprise governance.

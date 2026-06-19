@@ -1,10 +1,12 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Upstage
+experience:
+- 5+ years
 industry:
 - Enterprise AI
 - LLM
@@ -12,24 +14,24 @@ industry:
 location:
 - Seoul
 - South Korea
-position:
-- Solar Product Manager
 pillar:
 - AgenticAI
-experience:
-- 5+ years
+position:
+- Solar Product Manager
 skills:
 - LLM/VLM Strategy
 - Model Benchmarking
 - Product Lifecycle Management
 - AI Project Leadership
-url: https://www.upstage.ai/careers/solar-product-manager
 tags:
 - career
 - apply
 - LLM
 - EnterpriseAI
 - PM
+type:
+- apply
+url: https://www.upstage.ai/careers/solar-product-manager
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Upstage is pivoting from "AI transformation services" to a "Model-as-a-Product" company with Solar. This role is about managing the core asset—the Solar LLM—and ensuring its performance translates into enterprise value across diverse document AI use cases.

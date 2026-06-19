@@ -1,18 +1,20 @@
 ---
+stage: research
 category: career
+tag: career
+about: ElevenLabs is an AI audio research company that creates lifelike speech synthesis
+  and voice cloning.
+country: UK
+hq: London
 industry:
 - Vertical AI
 - Audio
 scale: Unicorn
-hq: London
-country: UK
 tags:
 - company
 - VerticalAI
 - Audio
 - VoiceAI
-about: ElevenLabs is an AI audio research company that creates lifelike speech synthesis
-  and voice cloning.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It has effectively "solved" the problem of robotic-sounding AI voices, enabling a new era of personalized audio content.

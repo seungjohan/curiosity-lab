@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: Building the reasoning engine for finance, allowing for automated analysis
+  of complex global assets.
+country: USA
+hq: New York
 industry:
 - Vertical AI
 - Finance
 scale: Scale-up
-hq: New York
-country: USA
 tags:
 - company
 - VerticalAI
 - FinanceAI
-about: Building the reasoning engine for finance, allowing for automated analysis
-  of complex global assets.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Hebbia is the "Bloomberg for the AI era." Their Matrix platform is a fundamental rethink of how financial analysts interact with data.

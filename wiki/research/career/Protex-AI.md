@@ -1,18 +1,20 @@
 ---
+stage: research
 category: career
+tag: career
+about: Protex AI uses computer vision to help EHS teams identify and prevent workplace
+  accidents.
+country: Ireland
+hq: Dublin
 industry:
 - Physical AI
 - Safety
 scale: Startup
-hq: Dublin
-country: Ireland
 tags:
 - company
 - PhysicalAI
 - Safety
 - ComputerVision
-about: Protex AI uses computer vision to help EHS teams identify and prevent workplace
-  accidents.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It turns standard CCTV into an "active safety officer" that identifies risky behavior before it leads to an injury.

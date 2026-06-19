@@ -1,5 +1,7 @@
 ---
+stage: research
 category: resume
+tag: resume
 ---
 
 > [!IMPORTANT] Key Takeaway

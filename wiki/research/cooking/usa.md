@@ -1,8 +1,13 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: USA
+tags:
+- cooking
+- USA
+- Cuisine
 type: list
-tags: [cooking, USA, Cuisine]
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -13,7 +18,7 @@ tags: [cooking, USA, Cuisine]
 # 🇺🇸 American Cuisine
 
 ## 🍲 Signature Dishes
-- *Empty - Awaiting entries*
+- **Cioppino**: A classic Italian-American seafood stew from San Francisco, traditionally made with the "catch of the day" (crab, clams, shrimp, etc.) in a rich tomato and wine broth. (KR: **치오피노**)
 
 ## 🔗 Connections
 - [[wiki/cooking/index.md|Culinary Master Index]]

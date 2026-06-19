@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: idea
-topic: [Sustainability, Food Waste, Startup]
-status: closed
-industry: Food Tech
+tag: projects
 created: 2026-05-14
+industry: Food Tech
+status: closed
+topic:
+- Sustainability
+- Food Waste
+- Startup
+type: idea
 ---
 
 > [!IMPORTANT] Key Takeaway

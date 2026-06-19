@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: Edge AI hardware and software for industrial applications.
+country: South Korea
+hq: Seoul
 industry:
 - Industrial NPU
 - Smart Factory
 scale: Series A
-hq: Seoul
-country: South Korea
 tags:
 - company
 - Infrastructure
 - Semiconductors
-about: Edge AI hardware and software for industrial applications.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Mobilint is the "Industrial NPU" leader. Their **ARIES** chip allows 14B parameter LLMs to run *entirely offline* on the factory floor.

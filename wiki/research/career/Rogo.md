@@ -1,17 +1,19 @@
 ---
+stage: research
 category: career
+tag: career
+about: Building "Wall Street's first true AI analyst" for high-stakes investment workflows.
+country: USA
+hq: New York
 industry:
 - Vertical AI
 - Finance
 scale: Startup
-hq: New York
-country: USA
 tags:
 - company
 - VerticalAI
 - FinanceAI
 - WallStreet
-about: Building "Wall Street's first true AI analyst" for high-stakes investment workflows.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Rogo is targeting the "Tier 1" investment banks and hedge funds. Their moat is not just the model, but the integration into the high-security, high-compliance "Wall Street" stack.

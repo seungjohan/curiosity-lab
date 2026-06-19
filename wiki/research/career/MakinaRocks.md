@@ -1,18 +1,20 @@
 ---
+stage: research
 category: career
+tag: career
+about: Industrial AI startup specializing in anomaly detection and process optimization.
+country: South Korea
+hq: Seoul
 industry:
 - Industrial AI
 - Manufacturing
 - Enterprise Software
 scale: Series B Scale-up
-hq: Seoul
-country: South Korea
 tags:
 - company
 - IndustrialAI
 - Manufacturing
 - MLOps
-about: Industrial AI startup specializing in anomaly detection and process optimization.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** MakinaRocks is the "Industrial Intelligence" layer. They solve the "Rework Tax" in manufacturing through anomaly detection and process optimization.

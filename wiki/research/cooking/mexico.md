@@ -1,8 +1,13 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: Mexico
+tags:
+- cooking
+- Mexico
+- Cuisine
 type: list
-tags: [cooking, Mexico, Cuisine]
 ---
 
 > [!IMPORTANT] Key Takeaway

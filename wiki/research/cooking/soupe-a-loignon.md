@@ -1,8 +1,14 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: France
+tags:
+- cooking
+- France
+- Soup
+- Onion
 type: Dish
-tags: [cooking, France, Soup, Onion]
 ---
 
 > [!IMPORTANT] Key Takeaway (Product & Creative Perspective)

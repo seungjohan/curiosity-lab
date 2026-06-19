@@ -1,5 +1,7 @@
 ---
+stage: research
 category: personal
+tag: personal
 ---
 
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)

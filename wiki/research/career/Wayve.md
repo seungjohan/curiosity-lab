@@ -1,19 +1,21 @@
 ---
+stage: research
 category: career
+tag: career
+about: Leader in embodied AI for autonomous driving, using end-to-end deep learning
+  without HD maps.
+country: UK
+hq: London
 industry:
 - Physical AI
 - Autonomous Vehicles
 scale: Series C (Unicorn)
-hq: London
-country: UK
 tags:
 - company
 - PhysicalAI
 - AV
 - DeepTech
 - London
-about: Leader in embodied AI for autonomous driving, using end-to-end deep learning
-  without HD maps.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Wayve is the "Physical AI" leader for the UK, paralleling Bear Robotics' navigation depth but at the scale of urban transport. Their "mapless" approach is a fundamental shift in how machines learn to move.

@@ -1,10 +1,12 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Twelve Labs
+experience:
+- 5+ years
 industry:
 - Video AI
 - Multimodal AI
@@ -14,24 +16,24 @@ location:
 - South Korea
 - San Francisco
 - CA
-position:
-- Lead Product Manager (Video Agent & Application)
 pillar:
 - Infrastructure
-experience:
-- 5+ years
+position:
+- Lead Product Manager (Video Agent & Application)
 skills:
 - AI/ML Product Strategy
 - Video Understanding
 - Data Operations
 - Multimodal AI
-url: https://jobs.ashbyhq.com/twelvelabs
 tags:
 - career
 - apply
 - VideoAI
 - Multimodal
 - PM
+type:
+- apply
+url: https://jobs.ashbyhq.com/twelvelabs
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** This role is pivotal for moving Twelve Labs from "foundation model infrastructure" to "agentic applications." It requires balancing deep technical research (video-language models) with user-facing application strategy, essentially defining the UX of video intelligence.

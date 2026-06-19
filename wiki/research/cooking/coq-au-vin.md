@@ -1,8 +1,14 @@
 ---
+stage: research
 category: cooking
+tag: cooking
 country: France
+tags:
+- cooking
+- France
+- Stew
+- Chicken
 type: Dish
-tags: [cooking, France, Stew, Chicken]
 ---
 
 > [!IMPORTANT] Key Takeaway

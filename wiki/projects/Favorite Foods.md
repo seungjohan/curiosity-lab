@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: cooking
-type: resource
-topic: [Food, Culinary, Personal]
-status: active
-industry: Food
+tag: projects
 created: 2026-05-28
+industry: Food
+status: active
+topic:
+- Food
+- Culinary
+- Personal
+type: resource
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -38,4 +43,4 @@ A curated registry of favorite dishes and flavors to reference when choosing res
 ## Japan
 | Food Name | Course | Core Component | Style | Vibe |
 | :--- | :--- | :--- | :--- | :--- |
-| | | | | |
+| **[[海鮮丼 (Kaisendon)]]** | Main Dish | Raw Seafood | Raw/Bowl | Fresh & Rich |

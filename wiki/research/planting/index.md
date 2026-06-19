@@ -1,5 +1,7 @@
 ---
+stage: research
 category: planting
+tag: planting
 ---
 
 # 🌿 Planting & Horticulture: Master Index

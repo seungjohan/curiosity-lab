@@ -1,18 +1,20 @@
 ---
+stage: research
 category: career
+tag: career
+about: Fetch.ai is a decentralized network for building and deploying autonomous AI
+  agents.
+country: UK
+hq: London
 industry:
 - Agentic AI
 - Decentralized
 scale: Scale-up
-hq: London
-country: UK
 tags:
 - company
 - AgenticAI
 - Decentralized
 - Web3
-about: Fetch.ai is a decentralized network for building and deploying autonomous AI
-  agents.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** It provides the infrastructure for an "Open Agentic Web" where agents from different providers can discover and transact with each other.

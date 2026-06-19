@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: research
-topic: [AI, Education, Cognitive Offloading]
-status: completed
-industry: Technology
+tag: projects
 created: 2026-05-15
+industry: Technology
+status: completed
+topic:
+- AI
+- Education
+- Cognitive Offloading
+type: research
 ---
 
 > [!IMPORTANT] Key Takeaway

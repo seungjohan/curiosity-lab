@@ -1,10 +1,12 @@
 ---
+stage: research
 category:
 - career
-type:
-- apply
+tag: career
 company:
 - Hebbia
+experience:
+- 3+ years
 industry:
 - Vertical AI
 - Finance
@@ -12,24 +14,24 @@ industry:
 location:
 - New York
 - NY
-position:
-- Product Manager
 pillar:
 - VerticalAI
-experience:
-- 3+ years
+position:
+- Product Manager
 skills:
 - LLM Optimization
 - Prompt Engineering
 - Technical Execution
 - B2B Product Lifecycle
-url: https://www.hebbia.ai/careers
 tags:
 - career
 - apply
 - FinanceAI
 - VerticalAI
 - PM
+type:
+- apply
+url: https://www.hebbia.ai/careers
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Hebbia is building the "user interface for AGI." This isn't just a search bar; it’s a platform for autonomous reasoning over massive datasets in finance and law. The 5-day on-site requirement in SoHo signals a "high-intensity, high-collaboration" culture.

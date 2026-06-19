@@ -1,15 +1,17 @@
 ---
+stage: research
 category: system
-type: list
-scope: Global AI Landscape
+tag: system
+about: High-level mapping of the 2026 AI industry focusing on the triple intersection
+  of Agentic, Physical, and Vertical AI.
 pillar: Cross-pillar
+scope: Global AI Landscape
 tags:
 - list
 - Map
 - Strategy
 - Intersections
-about: High-level mapping of the 2026 AI industry focusing on the triple intersection
-  of Agentic, Physical, and Vertical AI.
+type: list
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** The AI landscape has shifted from "Generative" to "Agentic & Physical." The most significant value creation now happens at the **intersections**—where digital agents control physical bodies or where vertical knowledge empowers autonomous execution.

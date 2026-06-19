@@ -1,10 +1,15 @@
 ---
+stage: projects
 category: system
-type: research
-topic: [Food, Data, Dining]
-status: active
-industry: Food Tech
+tag: projects
 created: 2026-05-14
+industry: Food Tech
+status: active
+topic:
+- Food
+- Data
+- Dining
+type: research
 ---
 
 > [!IMPORTANT] Key Takeaway

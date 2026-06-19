@@ -1,13 +1,15 @@
 ---
+stage: research
 category: career
-type: list
-scope: Global
+tag: career
+about: Master index of AI companies categorized by country and region.
 pillar: Cross-pillar
+scope: Global
 tags:
 - list
 - Map
 - GlobalStrategy
-about: Master index of AI companies categorized by country and region.
+type: list
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** Geographic distribution reveals regional "moats." Korea leads in AI semiconductors (Pillar 2), London in deep tech/embodied AI (Pillar 2/3), and Dublin in enterprise agentic workflows (Pillar 1).

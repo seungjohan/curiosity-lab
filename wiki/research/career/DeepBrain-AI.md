@@ -1,16 +1,18 @@
 ---
+stage: research
 category: career
+tag: career
+about: Real-time conversational AI video synthesis and virtual humans.
+country: South Korea
+hq: Seoul
 industry:
 - AI Humans
 - Creator Tools
 scale: Scale-up
-hq: Seoul
-country: South Korea
 tags:
 - company
 - AgenticAI
 - AIHumans
-about: Real-time conversational AI video synthesis and virtual humans.
 ---
 > [!IMPORTANT] Key Takeaway (from my product & creative perspective)
 > **Why this matters:** DeepBrain AI is moving from "Generative AI" (creating videos) to "Functional AI" (performing tasks). Their 2026 shift to "Agentic B2B Video Agents" is a massive move toward real-time interactive UI.
