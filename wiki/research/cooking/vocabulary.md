@@ -54,7 +54,7 @@ This page consolidates culinary terms across different languages.
 ## 🇬🇧 English
 | Word | Meaning | Example | etc |
 | :--- | :--- | :--- | :--- |
-| **Wilt** | To cause vegetables (like spinach) to become limp and lose their crispness through gentle heat. (KR: **야채 숨이 죽다**) | "Wilt the spinach in a pan with garlic." | |
+| **Wilt** | To cause vegetables (like spinach) to become limp and lose their crispness through gentle heat. (KR: **야채 숨이 죽다**) | "Wilt the spinach in a pan with garlic." | go limp: a more general, natural expression for vegetables losing their crisp texture. |
 | **Cook down** | To reduce the volume of an ingredient or liquid through boiling or simmering. | "Cook down the tomatoes until the sauce thickens." | |
 | **Deglazing** | Adding liquid (like wine or stock) to a hot pan to loosen the caramelized food bits (fond) stuck to the bottom. | "Deglazing the pan creates the base for a great sauce." | |
 | **Fond** | The browned, caramelized bits of food (usually meat or vegetables) that stick to the bottom of a pan after sautéing or roasting. | "The fond is where all the deep flavor lives." | |
@@ -78,6 +78,14 @@ This page consolidates culinary terms across different languages.
 | **Pelati** | Peeled tomatoes, typically high-quality canned plum tomatoes (like San Marzano). | "Start the sauce with a can of pelati." | |
 | **Gremolata** | A green condiment made of chopped parsley, lemon zest, and garlic. | Traditionally served with Ossobuco to cut through the richness of the veal. | |
 | **San Marzano Pomodoro** | A prized variety of plum tomatoes grown in the volcanic soil of Mount Vesuvius, Italy. (KR: **산 마르자노 토마토**) | Known for its thin skin, low acidity, and few seeds; essential for authentic Neapolitan pizza. | |
+
+### 🍝 Pasta
+| Word | Meaning | Example | etc |
+| :--- | :--- | :--- | :--- |
+| **Pasta alla Nerano** | An Italian pasta dish (typically spaghetti) from Nerano, Campania, made with fried zucchini, provolone del Monaco, and basil. | A classic dish from the Amalfi Coast. | |
+| **Pappardelle** | Broad, flat pasta noodles, typically served with rich, heavy meat sauces like wild boar ragù. | "The wide surface of pappardelle is perfect for capturing rich ragù." | |
+| **Rigatoni** | Large, tube-shaped pasta with ridges (rigate) on the outside, which help hold sauce. | "The hollow center and ridges of rigatoni hold sauce brilliantly." | |
+| **Linguine** | A type of pasta similar to fettuccine and trenette but elliptical in section rather than flat. | "Linguine is traditionally paired with seafood sauces like clams or pesto." | |
 
 ## 🇯🇵 Japanese
 | Word | Meaning | Example | etc |
@@ -112,3 +120,4 @@ This page consolidates culinary terms across different languages.
 
 ## 🔗 Connections
 - [[wiki/cooking/index.md|Master Culinary Index]]
+- [[../language/english.md|English Vocabulary]] — contains culinary terms like 'unleash', 'wilt', 'deglazing'.

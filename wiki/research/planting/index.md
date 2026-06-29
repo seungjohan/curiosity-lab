@@ -13,8 +13,31 @@ tag: planting
 
 Research and notes on botany, gardening, and plant life cycles.
 
-## 📖 Vocabulary & Fundamentals
-- [[wiki/planting/vocabulary.md|Planting Vocabulary]]
+## 📖 Current Planting
+### Herbs
+- Rosemary
+- Rocket (Arugula)
+- Dill
+- Parsley
+- Thyme
+- Coriander
+- Asparagus
+- Oregano
+- Basil
+
+### Others
+- Lemon
+- Watermelon
+- Cherry tomato
+- Tomato
+- Rose
+
+## 🎁 Wishlist
+- Olive tree
+- Sunflower
+- Fig
+- Bell pepper
+
 
 ## 🔗 Connections
 - [[wiki/index.md|Main Index]]

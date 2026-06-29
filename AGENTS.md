@@ -59,6 +59,94 @@ category: [career/stock market/cooking/system/etc]
 
 ## 🔗 Linking Philosophy
 
-1. **Horizontal Patterning:** Build a network of thinking, not isolated notes. Every new page must link to at least one existing page.
-2. **Vertical Linking:** Every note in `/wiki/projects/` must include a `## 🔗 Connections` section pointing to the underlying research inside `/wiki/research/{category}/`.
-3. **Paths:** Use relative paths (e.g., `[[../research/career/AI-Industry-Map-2026]]` or `[[../projects/Michelin-Filter]]`) to maintain vault compatibility.
+### Connection types
+
+Every page can hold five types of connections. The LLM finds and writes
+all of them on every ingest.
+
+| Type | Label | Meaning |
+|---|---|---|
+| 1 | `same-entity` | Both pages mention the same person, company, concept, or term |
+| 2 | `supports / contradicts` | One page's claim strengthens or challenges another's |
+| 3 | `feeds-into` | Research → Ideation → Spec (vertical chain) |
+| 4 | `analogical` | Different domains, same underlying pattern or structure |
+| 5 | `tension` | Two pages pull in opposite directions of value or direction |
+
+Types 4 and 5 are the priority — they produce unexpected insight (의외의 연결성).
+
+---
+
+### Two places connections live
+
+#### 1. Inline keyword links (body text)
+Wrap key terms in Obsidian links when a corresponding page exists.
+Link on first mention only. Use relative paths always.
+
+> "This mirrors how [[../research/biology/mycelium]] distributes nutrients..."
+
+#### 2. `## 🔗 Connections` section (bottom of every page)
+
+```markdown
+## 🔗 Connections
+
+### Same entity
+- [[../research/category/page]] — both discuss `X`
+
+### Supports / contradicts
+- [[../research/category/page]] — supports the claim that `Y`
+- [[../ideation/page]] — contradicts: argues against `Z`
+
+### Feeds into
+- [[../projects/page]] — this research grounds this spec
+
+### Analogical ✦
+- [[../research/other-domain/page]] — same pattern: both [shared structure]
+  > "X in [domain A] mirrors Y in [domain B] because [mechanism]"
+
+### Tension ✦
+- [[../ideation/page]] — pulls against: this argues for [opposite direction]
+```
+
+✦ = unexpected connections. Always attempt these. If none found, write:
+`- none identified yet`
+
+---
+
+### Ingest connection pass (run after every new source)
+
+**Step 1 — Types 1, 2, 3**
+Read `wiki/index.md`. For each page whose summary shares an entity,
+claim, or topic with the new source → open it, update its Connections
+section, add inline links where relevant.
+
+**Step 2 — Type 4 (analogical)**
+Scan index.md categories *other than* the current one.
+Ask: "What pattern or structure does this source share with pages
+in a completely different domain?"
+Write the shared mechanism explicitly — not just that they're similar.
+
+**Step 3 — Type 5 (tension)**
+Ask: "Which existing pages argue for the opposite direction or value?"
+Look especially across `wiki/research/` ↔ `wiki/ideation/` boundaries.
+
+**Step 4 — Backlinks**
+For every connection found, add a reciprocal entry in the
+target page's Connections section pointing back to the new page.
+
+---
+
+### Connection quality bar
+
+Only write a connection if you can complete this sentence:
+
+> "This connects to [[page]] because **[specific reason]**,
+> not just because they share the same topic."
+
+"Both are about product strategy" → too vague, skip.
+"Both describe how scarcity drives urgency in user decisions" → write it.
+
+---
+
+### Paths
+Use relative paths: `[[../research/career/AI-Industry-Map-2026]]`
+or `[[../projects/Michelin-Filter]]` to maintain vault compatibility.

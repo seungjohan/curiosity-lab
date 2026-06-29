@@ -15,6 +15,7 @@ Welcome to the music research hub. This section explores the intersection of com
 
 ## 📂 Categories
 - [[references|Music Research: References]] — Breakdown series, YouTube deconstructions, and production deep-dives.
+- [[vocabulary|Music Vocabulary]] — Technical terminology for composition and production.
 
 ## 🔗 Connections
 - [[../../index.md|Master Index]]
