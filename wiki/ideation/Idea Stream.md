@@ -1,15 +1,6 @@
 ---
-stage: projects
+stage: ideation
 category: system
-tag: projects
-created: 2026-05-15
-industry: N/A
-status: active
-topic:
-- Ideas
-- Philosophy
-- AI
-type: reflection
 ---
 
 > [!IMPORTANT] Key Takeaway

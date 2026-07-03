@@ -16,6 +16,7 @@ Welcome to your thinking system. This index is the map of your synthesized knowl
 ## 🌍 Culinary & Travel
 - [[wiki/cooking/index.md|Culinary Master Index]] — Global cuisines, techniques, and restaurant databases.
 - [[wiki/travel/index.md|Voyage OS: Travel Hub]] — Planning, guidelines, and trip-specific culinary intelligence.
+- [[wiki/research/travel/index.md|Travel Research: Master Index]] - Insights, destinations, and cultural analysis.
 
 ## 🚀 AI Strategy & Landscape
 - [[AI-Industry-Map-2026]] - Categorization and intersections of Agentic, Physical, and Vertical AI.

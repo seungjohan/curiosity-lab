@@ -1,15 +1,6 @@
 ---
-stage: projects
-category: system
-tag: projects
-created: 2026-05-14
-industry: Technology
-status: active
-topic:
-- Startups
-- Lessons
-- Wisdom
-type: research
+stage: research
+category: career
 ---
 
 > [!IMPORTANT] Key Takeaway

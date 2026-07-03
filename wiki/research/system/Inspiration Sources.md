@@ -1,15 +1,6 @@
 ---
-stage: projects
-category: system
-tag: projects
-created: 2026-05-15
-industry: Media
-status: active
-topic:
-- Inspiration
-- Business
-- Media
-type: resource
+stage: input
+category: inspiration
 ---
 
 > [!IMPORTANT] Key Takeaway

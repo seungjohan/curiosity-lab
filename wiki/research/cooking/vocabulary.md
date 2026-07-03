@@ -35,6 +35,8 @@ This page consolidates culinary terms across different languages.
 | **Chanterelle** | A wild mushroom with a distinctive funnel shape and fruity aroma, often compared to apricots. (KR: **꾀꼬리버섯**) | | |
 | **Quiche** | A savory, open-faced pastry crust dish with a filling of savory custard with cheese, meat, seafood, or vegetables. (KR: **키쉬**) | Classic example is Quiche Lorraine (bacon, eggs, cream). | |
 | **Confit** | A traditional French cooking method where meat (often duck) is slow-cooked in its own fat; also used for preserving fruits in sugar. (KR: **콩피**) | "Duck confit" (Confit de canard) is a staple of Gascony. | |
+| **Racler** | The French verb meaning "to scrape." | Used in the preparation of [[#🇫🇷 French|Raclette]]. | |
+| **Raclette** | A semi-hard cow's milk cheese that is melted, typically scraped over potatoes, pickles, and cured meats. (KR: **라클렛**) | Popular in French and Swiss Alpine cuisine. | Related: [[#🇫🇷 French|Racler]] (to scrape) |
 
 ## 🇪🇸 Spanish
 | Word | Meaning | Example | etc |

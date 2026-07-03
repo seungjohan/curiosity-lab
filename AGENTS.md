@@ -25,29 +25,31 @@ Every wiki file (Markdown/JSON) must include YAML frontmatter.
     - `wiki/projects/` -> `projects`
     - `wiki/cooking/` -> `cooking`
     - Others -> `general`
+    - Files representing raw inspiration -> `input`
 
 Example:
 ```markdown
 ---
-stage: research
-category: career
+stage: input
+category: inspiration
 ---
 ```
 
 ## 🔄 The Thinking Flow (Information Loop)
 
-1. **Research (`wiki/research/{category}/`)**: Fact-gathering and structuring. Every note starts with a "Key Takeaway" callout.
-2. **Ideation (`wiki/ideation/`)**: List and catalog ideas in the central board (`wiki/ideation/ideation.md`).
-3. **Specs (`wiki/projects/`)**: Formulate specs/PRDs (using `template.md`) before writing code.
-4. **Execution (`scripts/`)**: Create Python scripts, scrapers, and execution logic here.
-5. **Log & Learnings (`wiki/log.md`)**: Track changes and outcomes.
+1. **Input (`/raw/`)**: Capture raw influences (videos, articles, quotes, random ideas). This is the "Capture & Curate" phase.
+2. **Research (`wiki/research/{category}/`)**: Fact-gathering and structuring. Every note starts with a "Key Takeaway" callout.
+3. **Ideation (`wiki/ideation/`)**: List and catalog ideas in the central board (`wiki/ideation/ideation.md`).
+4. **Specs (`wiki/projects/`)**: Formulate specs/PRDs (using `template.md`) before writing code.
+5. **Execution (`scripts/`)**: Create Python scripts, scrapers, and execution logic here.
+6. **Log & Learnings (`wiki/log.md`)**: Track changes and outcomes.
 
 ## 📝 Page Schemas
 
 ### Standard Page
 ```markdown
 ---
-stage: [research/ideation/projects/cooking/general]
+stage: [input/research/ideation/projects/cooking/general]
 category: [career/stock market/cooking/system/etc]
 ---
 

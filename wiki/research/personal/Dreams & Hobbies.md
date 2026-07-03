@@ -1,15 +1,6 @@
 ---
-stage: projects
-category: system
-tag: projects
-created: 2026-05-14
-industry: N/A
-status: active
-topic:
-- Music
-- Composition
-- Hobbies
-type: reflection
+stage: research
+category: personal
 ---
 
 > [!IMPORTANT] Key Takeaway

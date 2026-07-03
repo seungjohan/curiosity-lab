@@ -1,15 +1,6 @@
 ---
-stage: projects
+stage: research
 category: cooking
-tag: projects
-created: 2026-05-28
-industry: Food
-status: active
-topic:
-- Food
-- Culinary
-- Personal
-type: resource
 ---
 
 > [!IMPORTANT] Key Takeaway
