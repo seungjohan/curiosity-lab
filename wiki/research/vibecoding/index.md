@@ -1,6 +1,7 @@
 ---
 stage: research
 category: vibecoding
+concepts: [abstraction-raises-altitude]
 tag: vibecoding
 ---
 
@@ -24,5 +25,12 @@ Vibecoding is the technical process of using LLMs and Agentic AI to generate sof
 - [[karpathy-llm-wiki]] — Andrej Karpathy's blueprint for a compounding Knowledge OS.
 
 ## 🔗 Connections
-- [[wiki/index.md|Master Index]]
-- [[Product-Management-0-to-1]]
+
+### ⬆ Pipeline
+- Related → [[../career/Product-Management-0-to-1|Product Management 0→1]]
+- Hub → [[../../index|Master Index]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **abstraction-raises-altitude** → [[../../projects/AI & Agentic Workflows]] (system), [[../../projects/AI in Education - Side Effects]] (system), [[../career/Product-Management-0-to-1]] (career)
+<!-- AUTO-CONCEPTS:END -->

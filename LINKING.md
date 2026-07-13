@@ -1,34 +1,121 @@
-# Knowledge OS: Design & Linking Standards
+# Knowledge OS: Linking Standard (Canonical)
 
-This document establishes the structural and connection standards for the curiosity-lab vault. It ensures the vault serves as a highly connected, easily navigable digital garden.
+> Single source of truth for how pages connect in curiosity-lab.
+> `AGENTS.md` points here; do not duplicate these rules elsewhere.
 
-## 1. Frontmatter Structure
-All wiki pages must begin with standard frontmatter in the following strict order:
-1. **stage**: Inferred by parent folder (research, ideation, projects, cooking, general).
-2. **category**: High-level subject domain (cooking, career, music, system, etc.).
-3. **tag**: String property matching the folder/category name for filtering.
+The vault connects along **two axes**. Every page can carry both.
 
-Example:
+```
+   VERTICAL AXIS — the pipeline (your spine)
+   Reference/Input ─▶ Research ─▶ Idea (ideation) ─▶ Project
+        │              │            │                  │
+        └──────────────┴─────┬──────┴──────────────────┘
+                             │
+   HORIZONTAL AXIS — concepts (the connective tissue)
+   page ─▶ [[concept]] ◀─ page      (crosses categories, finds common parts)
+```
+
+- **Vertical links are hand-written** — they encode *your* judgment about what feeds what.
+- **Horizontal links are auto-generated** — a script derives them from each page's `concepts:` frontmatter, so they never drift.
+
+---
+
+## 1. Frontmatter
+
+Strict order. `concepts` is optional but is what powers the horizontal axis.
+
 ```yaml
 ---
-stage: research
-category: cooking
-tag: cooking
-country: France
+stage: research          # research | ideation | projects | concept | general | input
+category: cooking        # subject domain (cooking, career, music, system, …)
+tag: cooking             # matches the category/folder for filtering
+concepts: [high-signal-filter, multi-signal-fusion]   # inline list; the atoms this page instances
 ---
 ```
 
-## 2. Horizontal (Intra-Stage) Connections: MOC Hubs
-* Peer-to-peer pages within the same stage (e.g., two research pages) should link to each other horizontally to form context-specific threads.
-* Each major category must maintain a **Map of Content (MOC)** index page (e.g., `wiki/research/cooking/index.md`) that serves as a central hub linking to all category pages.
+`stage` is inferred from the folder: `wiki/research/`→research, `wiki/ideation/`→ideation, `wiki/projects/`→projects, `wiki/concepts/`→concept, raw inspiration→input, else general.
 
-## 3. Vertical (Cross-Stage) Connections: Hybrid Pipeline
-To support the **Research ➔ Ideation ➔ Projects** workflow:
-* **Research notes** link forward to relevant ideation boards or project specs.
-* **Ideation notes** link back to originating research notes, and forward to promoted projects.
-* **Project specs** must have a `## 🔗 Connections` section linking back to BOTH parent ideation boards and relevant research notes.
+---
 
-## 4. Link Formatting Rules
-* **Relative Paths:** Always use relative links (e.g., `[[../research/cooking/france]]`) instead of naked filenames to guarantee link portability in Obsidian, VS Code, GitHub, and Python scripts.
-* **Annotated Links:** Under the `## 🔗 Connections` section of a file, every link must include a brief, one-sentence description explaining *why* it is connected.
-  * *Example:* `- [[../research/cooking/france]] — provides the technical foundation for the braising methods used here.`
+## 2. Vertical axis — the pipeline (hand-written)
+
+The workflow is **Reference → Research → Idea → Project**. Under `## 🔗 Connections`, keep a `### ⬆ Pipeline` block with directional, annotated links:
+
+```markdown
+### ⬆ Pipeline
+- Source ← [[../../raw/michelin_wine_list.csv]] — raw award data feeding this note
+- Feeds → [[../../projects/Michelin Filter]] — supplies the filter's ranking signals
+```
+
+Rules:
+- **Research** notes link *forward* to the ideas/projects they inform (`Feeds →`) and *back* to their raw source (`Source ←`).
+- **Idea** notes link *back* to originating research and *forward* to promoted projects.
+- **Project** specs link *back* to BOTH parent ideas and the research that grounds them.
+- Every link gets a one-sentence "why," and uses **relative paths** always (`[[../research/cooking/index]]`).
+
+---
+
+## 3. Horizontal axis — concepts (auto-generated)
+
+A **concept atom** is the underlying pattern/mechanism a page is an *example of* — not its topic. Two pages that share a concept **from different categories** are the valuable, non-obvious link (의외의 연결성).
+
+### Concept nodes
+Live in `wiki/concepts/`. One file per atom. Kept short:
+
+```markdown
+---
+stage: concept
+category: system
+axis: bits-vs-atoms      # optional: names a polarity for tension detection
+---
+
+# Abundance flips value
+When something floods to near-free, its opposite becomes the scarce premium.
+
+<!-- AUTO-INSTANCES:START -->
+<!-- filled by scripts/build_connections.py -->
+<!-- AUTO-INSTANCES:END -->
+```
+
+### On each page
+1. Add the atoms to `concepts:` in frontmatter.
+2. The script renders a delimited block inside `## 🔗 Connections`:
+
+```markdown
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **high-signal-filter** → [[../music/music-social-media]] (music), [[../../projects/Michelin Filter]] (system)
+<!-- AUTO-CONCEPTS:END -->
+```
+
+Never hand-edit between the `AUTO-` markers — rerun the script instead:
+`python scripts/build_connections.py`
+
+---
+
+## 4. Quality bar
+
+Only assign a concept (or write a vertical link) if you can finish:
+
+> "This connects because **[specific mechanism]**, not just because they share a topic."
+
+- "Both are about product strategy" → too vague, skip.
+- "Both reduce an overwhelming set to the few that matter via a distinctive key" → that's a concept.
+
+Keep the concept vocabulary **small and reused**. A concept with only one instance isn't a link yet — it's a candidate. A concept that keeps accumulating instances is a research theme ripe to graduate into an idea.
+
+---
+
+## 5. Scope: concept-tag by note quality, not by folder
+
+There is **one** research system; every category (including career) flows through the same loop. Whether a page gets concept tags depends on the *note*, not its folder:
+
+- **Concept-tag** any note that carries a **transferable insight** — a mechanism, pattern, or thesis that could recur in another domain. This includes ideas, projects, cross-domain research (cooking, music, planting, personal), and industry/trend notes in career (`AI-Industry-Map-2026`, `Creative-Tech-Trends`, `Edge-AI-Infrastructure-2026`).
+- **Skip** boilerplate **profile/database pages** — individual company profiles, vocabulary lists, raw reference tables. Linking ~90 near-identical company pages by shared concepts is noise; they stay organized by same-entity links and their MOC hubs (country maps, `AI-Industry-Map-2026`).
+
+Rule of thumb: *"If I recall this note six months from now, is it because of a reusable idea (tag it) or just a fact I looked up (don't)?"*
+
+---
+
+## 6. Logging
+All changes and prompts are logged in `wiki/log.md` (Change Log + Prompt Log). See `AGENTS.md`.

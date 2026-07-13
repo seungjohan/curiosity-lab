@@ -1,6 +1,7 @@
 ---
 stage: projects
 category: system
+concepts: [abstraction-raises-altitude]
 tag: projects
 created: 2026-05-15
 industry: Technology
@@ -32,4 +33,14 @@ Investigation into Large Language Models (LLMs), AI Agents, and the Model Contex
 - [2026-05-15] Initialized stub as part of wiki health check.
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+
+### ⬆ Pipeline
+- Hub → [[../index|Master Index]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **abstraction-raises-altitude** → [[AI in Education - Side Effects]] (system), [[../research/career/Product-Management-0-to-1]] (career), [[../research/vibecoding/index]] (vibecoding)
+<!-- AUTO-CONCEPTS:END -->
+
+### Tension ✦ (hand-picked)
+- [[../ideation/Return to Basics|Return to Basics]] — the physical-grounding counter-weight to purely digital agentic automation (`bits-vs-atoms`).

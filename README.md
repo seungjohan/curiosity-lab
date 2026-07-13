@@ -6,13 +6,16 @@ A personal Knowledge OS and execution engine for 0→1 Product Management, journ
 
 This system is designed to maintain a continuous loop from **Observation** (Research) to **Action** (Ideation & Execution). It leverages the **GStack** framework for execution via Cursor/Gemini and **Obsidian** for structured knowledge management and visual organization.
 
-## 🧠 The Information Loop
+## 🧠 The Loop
 
-1.  **Research** (`wiki/research/`): Gathering facts, company profiling, and industry indexing.
-2.  **Ideation** (`wiki/ideation/`): Transforming research into startup concepts and product opportunities.
-3.  **Specs** (`wiki/projects/`): Formulating PRDs and technical specs before implementation.
-4.  **Execution** (`scripts/`): Automated scrapers, parsers, and specialized tools.
-5.  **Log** (`wiki/log.md`): Continuous tracking of system evolution and learnings.
+One loop for everything I'm curious about — **Capture → Research → Synthesize → Ideate → Build → Reflect ↺**. Career is one research category among many (understanding the AI/job market to find the right fit); outputs are diverse — startup ideas, career decisions, and writing.
+
+1.  **Capture** (`raw/`): Immutable raw inputs — articles, videos, quotes, brain dumps.
+2.  **Research** (`wiki/research/`): Fact-gathering across every category (AI/career, cooking, music, language, planting, …).
+3.  **Synthesize** (`wiki/concepts/`): The bridge. Notes from different categories that share an underlying pattern meet here and become candidate ideas. This is where cross-domain insight is manufactured, not left to memory.
+4.  **Ideate** (`wiki/ideation/`): Candidates that earn it become tracked ideas; strong ones graduate to specs.
+5.  **Build** (`wiki/projects/` → `scripts/`): Specs/PRDs (past a "Stop and Think" gate), then execution.
+6.  **Reflect** (`wiki/log.md`): What building teaches flows *back* into research and ideation — closing the loop, not just archiving.
 
 ## 📁 System Structure
 
@@ -23,7 +26,7 @@ This system is designed to maintain a continuous loop from **Observation** (Rese
 
 ## 🛠 Operating Manual
 
-Detailed workflows, mandatory page schemas, and linking philosophies are defined in **[[AGENT.md]]**. Always refer to `AGENT.md` for foundational mandates.
+Detailed workflows, mandatory page schemas, and the linking standard are defined in **[AGENTS.md](AGENTS.md)** (the working manual) and **[LINKING.md](LINKING.md)** (the linking standard). Always refer to `AGENTS.md` for foundational mandates.
 
 ## 📚 Core References
 

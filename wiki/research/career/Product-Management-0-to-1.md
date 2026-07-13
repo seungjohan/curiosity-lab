@@ -1,6 +1,7 @@
 ---
 stage: research
 category: career
+concepts: [abstraction-raises-altitude]
 tag: career
 ---
 
@@ -24,6 +25,11 @@ PMing in the current AI landscape requires a mix of deep technical intuition (ha
 - **[[Sendbird]]:** Pivoting a mature product into an AI-first workforce platform.
 
 ## 🔗 Connections
-- [[AI-Startups-Korea-2026]]
-- [[Application-Strategy-2026]]
-- [[Twelve-Labs]]
+
+### ⬆ Pipeline
+- Related → [[AI-Startups-Korea-2026]], [[Application-Strategy-2026]], [[Twelve-Labs]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **abstraction-raises-altitude** → [[../../projects/AI & Agentic Workflows]] (system), [[../../projects/AI in Education - Side Effects]] (system), [[../vibecoding/index]] (vibecoding)
+<!-- AUTO-CONCEPTS:END -->

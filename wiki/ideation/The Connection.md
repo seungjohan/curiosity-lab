@@ -1,6 +1,8 @@
 ---
 stage: ideation
 category: system
+concepts: [multi-signal-fusion, interpretation-over-artifact, ai-as-enabler-not-replacer]
+lifecycle: researching
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -27,8 +29,17 @@ A team-building and synergy analysis platform that uses personality traits (MBTI
 - **Accuracy**: Quantifying "synergy" in a meaningful way.
 
 ## 🔗 Connections
-- [[../index|Master Index]]
-- [[ideation]]
+
+### ⬆ Pipeline
+- Back ← [[ideation]] — tracked on the active ideation board
+- Hub → [[../index|Master Index]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **multi-signal-fusion** → [[Triathlon Photo Finder]] (system), [[../projects/Michelin Filter]] (system), [[../research/cooking/selected-restaurants]] (cooking)
+- **interpretation-over-artifact** → [[Unified-Media-Insight-Capture-Tool]] (product), [[../research/career/Creative-Tech-Trends]] (career)
+- **ai-as-enabler-not-replacer** → [[Return to Basics]] (system)
+<!-- AUTO-CONCEPTS:END -->
 
 ---
 - **Subject**: [[Startup & Side Projects]]

@@ -1,6 +1,8 @@
 ---
 stage: ideation
 category: system
+concepts: [needle-in-haystack-retrieval, multi-signal-fusion]
+lifecycle: researching
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -30,8 +32,16 @@ An AI-powered tool to help athletes find their photos in large event galleries (
 - **Scraping**: Leveraging internet product images to improve training data.
 
 ## 🔗 Connections
-- [[../index|Master Index]]
-- [[ideation]]
+
+### ⬆ Pipeline
+- Back ← [[ideation]] — tracked on the active ideation board
+- Hub → [[../index|Master Index]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **needle-in-haystack-retrieval** → [[Unified-Media-Insight-Capture-Tool]] (product)
+- **multi-signal-fusion** → [[The Connection]] (system), [[../projects/Michelin Filter]] (system), [[../research/cooking/selected-restaurants]] (cooking)
+<!-- AUTO-CONCEPTS:END -->
 
 ---
 - **Subject**: [[Startup & Side Projects]]

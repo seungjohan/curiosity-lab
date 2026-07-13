@@ -1,6 +1,7 @@
 ---
 stage: projects
 category: system
+concepts: [abstraction-raises-altitude]
 tag: projects
 created: 2026-05-15
 industry: Technology
@@ -49,6 +50,12 @@ The integration of AI into education for teenagers has revealed several signific
 - *Youth Perceptions of AI in Schools*, RAND Corporation, 2025.
 
 ## 🔗 Connections
-- [[../index|Master Index]]
-- [[AI & Agentic Workflows]]
-- [[Social Interactions]]
+
+### ⬆ Pipeline
+- Related → [[AI & Agentic Workflows]], [[Social Interactions]]
+- Hub → [[../index|Master Index]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **abstraction-raises-altitude** → [[AI & Agentic Workflows]] (system), [[../research/career/Product-Management-0-to-1]] (career), [[../research/vibecoding/index]] (vibecoding)
+<!-- AUTO-CONCEPTS:END -->

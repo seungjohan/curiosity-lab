@@ -1,6 +1,7 @@
 ---
 stage: research
 category: career
+concepts: [interpretation-over-artifact]
 tag: career
 ---
 
@@ -24,7 +25,11 @@ Creative technology in 2026 is moving beyond simple "Text-to-Image" to **Agentic
 - Large Language Models that act as Socratic learning partners for writers ([[Riiid]]).
 
 ## 🔗 Connections
-- [[AI-Startups-Korea-2026]]
-- [[Twelve-Labs]]
-- [[VoyagerX]]
-- [[Scatter-Lab]]
+
+### ⬆ Pipeline
+- Related → [[AI-Startups-Korea-2026]], [[Twelve-Labs]], [[VoyagerX]], [[Scatter-Lab]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **interpretation-over-artifact** → [[../../ideation/The Connection]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product)
+<!-- AUTO-CONCEPTS:END -->

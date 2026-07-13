@@ -21,13 +21,26 @@ type: index
 
 A central hub for listing and categorizing startup and side project ideas.
 
-| Idea | Industry | Competitors | Status | One-liner |
+**Lifecycle:** `spark → researching → validated → building → shipped` · off-ramps `parked` / `killed` (both need a reason — see Graveyard).
+
+## 🟢 Active
+
+| Idea | Industry | Competitors | Lifecycle | One-liner |
 | :--- | :--- | :--- | :--- | :--- |
-| [[The Connection]] | HR Tech / AI | - | Ideation | MBTI & ML-based team building and synergy analysis. |
-| [[Triathlon Photo Finder]] | Sports Tech / AI | Our Symbol | Ideation | AI tool to find personal photos in event galleries using gear and bib number recognition. |
-| [[Michelin Filter]] | Food Tech / Data | - | Data Gathering | Curated fine dining filtered by global awards (Michelin Wine List) and local communities. |
-| [[Webeing]] | Sustainability / B2B2C | - | Closed | B2B2C food waste reduction platform (leftovers/near-expiry). |
-| Flexible Lit | Career / Networking | - | Backlog | Referral-focused career networking. |
+| [[The Connection]] | HR Tech / AI | - | researching | MBTI & ML-based team building and synergy analysis. |
+| [[Triathlon Photo Finder]] | Sports Tech / AI | Our Symbol | researching | AI tool to find personal photos in event galleries using gear and bib number recognition. |
+| [[Michelin Filter]] | Food Tech / Data | - | building | Curated fine dining filtered by global awards (Michelin Wine List) and local communities. |
+| [[Return to Basics]] | Food & Life / AI | - | researching | Exploring the physical anchors of eating, living, and clothing as premium grounding points in a hyper-digital AI era. |
+| [[Unified-Media-Insight-Capture-Tool]] | Productivity / Tooling | Onda, Snipd, Reader, Readwise | researching | Unified cross-media capture tool for moments of insight, not just media artifacts. |
+
+## 🪦 Graveyard & Parked
+
+Off-ramped ideas kept *with their reason* — the "why it stopped" is reusable learning (the Reflect step). Revisit when the parked trigger changes.
+
+| Idea | Industry | Lifecycle | Reason / Post-mortem |
+| :--- | :--- | :--- | :--- |
+| [[Webeing]] | Sustainability / B2B2C | killed | B2B2C food-waste platform (leftovers/near-expiry). _(Add post-mortem: what killed it — demand, unit economics, ops?)_ |
+| Flexible Lit | Career / Networking | parked | Referral-focused career networking. Parked as lower priority than current ideas. _(Revisit trigger: add one.)_ |
 
 ## 🔗 Connections
 - [[../index|Master Index]]
