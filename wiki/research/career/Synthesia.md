@@ -38,9 +38,19 @@ Synthesia is a London-based AI unicorn that leads the market in AI-driven video 
 
 ## 💼 Careers
 - **Principal Product Manager (Video Creation & Editing):** [[Synthesia-PM-London]] - Leading the vision for the core video platform.
-
 ## 🔗 Connections
-- [[AI-Industry-Map-2026]] - Key Pillar: Vertical AI / Creative Tech.
-- [[Twelve-Labs]] - Peer in multimodal video.
-- [[DeepBrain-AI]] - Direct competitor in AI avatars.
-- [[Synthesia-PM-London]] - Active Principal PM role in London.
+
+### Same entity
+- none identified yet
+
+### Supports / contradicts
+- [[ElevenLabs]] — supports: complements as part of the "Generative Media Stack"
+
+### Feeds into
+- [[AI-Industry-Map-2026]] — this research grounds this map
+
+### Analogical ✦
+- [[../cooking/index]] — same pattern: both describe "The Future of Interface" through complex composition of modular, pre-processed components (like ingredients)
+
+### Tension ✦
+- none identified yet

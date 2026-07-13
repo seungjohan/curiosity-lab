@@ -13,12 +13,14 @@ category: system
 ## 🔗 Connections
 - [[../index|Master Index]]
 - [[../ideation/ideation|Ideation Board]]
+- [[Return to Basics]]
 
 
 This is a dedicated space for raw thoughts, "brain dumps," and throwing out initial ideas before they are structured into formal research or startup projects.
 
-## [[2026-05-15]] - Return to Fundamentals
+## [[2026-05-15]] - Return to Fundamentals (Graduated)
 
+- **Graduated to**: [[Return to Basics]]
 - **The Premise**: As AI develops faster and better, the "fundamental and basic things" will become increasingly important.
 - **Key Pillars**: Farming (eating), Clothes, Accommodations (shelter).
 - **Rationale**: A possible shift back to "Atoms" as "Bits" become hyper-abundant and automated. The physical reality of human existence is the ultimate ground truth.

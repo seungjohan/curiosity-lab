@@ -25,16 +25,18 @@ Below are some specific recommendations for videos that dive deep into the makin
 
 ## 🔗 Reference Table
 
-| Media Title | Artist Name | Song Title | Media | URL |
-| :--- | :--- | :--- | :--- | :--- |
-| Sombr - Back to Friends \| Behind the Song | Sombr | Back to Friends | YouTube | https://www.youtube.com/watch?v=fm8olugxqr4 |
-| Mix With The Masters | N/A | N/A | YouTube | https://www.youtube.com/@mixwiththemasters/videos |
+| Media Title | Artist Name | Song Title | Media | Channel Name | URL |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Sombr - Back to Friends \| Behind the Song | Sombr | Back to Friends | YouTube | Genius | https://www.youtube.com/watch?v=fm8olugxqr4 |
+| How EJAE Wrote The Biggest Songs for KPop Demon Hunters | EJAE | N/A | YouTube | EJAE | https://youtu.be/dsZCa4FQmkw?si=wjW9qKAGV8Cas0rg |
+| Mix With The Masters | N/A | N/A | YouTube | Mix With The Masters | https://www.youtube.com/@mixwiththemasters/videos |
+| How EJAE and Mark Sonnenblick Created Oscar-Winning Song "Golden" | EJAE, Mark Sonnenblick | Golden | YouTube | Vanity Fair | https://youtu.be/FxEX_GWwE7M?si=4eWbLKUZz3-ZuhR8 |
 
 
 ## 🎹 Producing
-| Media Title | Artist Name | Song Title | Media | URL |
-| :--- | :--- | :--- | :--- | :--- |
-| FINNEAS - For Cryin' Out Loud! (Deconstructed) | FINNEAS | For Cryin' Out Loud! | YouTube | https://www.youtube.com/watch?v=ZhlIrsgIlsc |
+| Media Title | Artist Name | Song Title | Media | Channel Name | URL |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FINNEAS - For Cryin' Out Loud! (Deconstructed) | FINNEAS | For Cryin' Out Loud! | YouTube | FINNEAS | https://www.youtube.com/watch?v=ZhlIrsgIlsc |
 
 ## 🎧 Favourite Composers & Producers
 * **Ludwig Göransson**

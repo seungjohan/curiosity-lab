@@ -16,7 +16,7 @@ Research and notes on botany, gardening, and plant life cycles.
 ## 📖 Current Planting
 ### Herbs
 - Rosemary
-- Rocket (Arugula)
+- Rocket (Arugula, Roquette)
 - Dill
 - Parsley
 - Thyme
@@ -37,7 +37,9 @@ Research and notes on botany, gardening, and plant life cycles.
 - Sunflower
 - Fig
 - Bell pepper
+- Pistachio
 
 
 ## 🔗 Connections
-- [[wiki/index.md|Main Index]]
+- [[../../index|Main Index]]
+- [[../../ideation/Return to Basics|Return to Basics (Ideation)]] — planting and horticulture as part of returning to localized physical grounding

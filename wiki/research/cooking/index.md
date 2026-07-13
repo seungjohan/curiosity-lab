@@ -66,4 +66,5 @@ Explore the world through its flavors. This index organizes culinary research by
 
 ---
 ## 🔗 Connections
-- [[wiki/index.md]]
+- [[../../index|Main Index]]
+- [[../../ideation/Return to Basics|Return to Basics (Ideation)]] — food and culinary arts as a physical sensory ground truth of the human condition

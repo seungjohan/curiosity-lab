@@ -29,8 +29,19 @@ ElevenLabs is a London-based AI company specializing in natural-sounding speech 
 - **Text-to-Speech:** High emotional range and natural prosody.
 - **Speech-to-Speech:** Changing the speaker of an existing audio track while maintaining the original performance.
 - **Dubbing:** Automatically translating and re-voicing video content while keeping the original speaker's voice.
-
 ## 🔗 Connections
-- [[AI-Industry-Map-2026]]
-- [[UK-AI-Map]]
-- [[Synthesia]] (The video counterpart to ElevenLabs' audio)
+
+### Same entity
+- none identified yet
+
+### Supports / contradicts
+- [[Synthesia]] — supports: demonstrates the "AI-native media" trend
+
+### Feeds into
+- [[AI-Industry-Map-2026]] — this research grounds this map
+
+### Analogical ✦
+- [[../cooking/baking/levain]] — same pattern: both rely on "starter culture" (audio/video data) to generate high-quality, authentic output
+
+### Tension ✦
+- none identified yet
