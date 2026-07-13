@@ -32,7 +32,7 @@ Whenever you plan a new trip, follow this automated briefing process to get imme
 For the traveler who prioritizes the drinking experience alongside value-driven dining. This section identifies establishments that offer exceptional wine selections while maintaining a "Reasonable" (Tier 2-3) price point.
 
 ### Key Resource:
-- **[[michelin_wine_list.csv|Michelin Wine List Database]]**: A curated list of establishments recognized by Michelin for their superior wine programs.
+- **[[../../../raw/michelin_wine_list.csv|Michelin Wine List Database]]**: A curated list of establishments recognized by Michelin for their superior wine programs.
 
 ### Strategy:
 1.  **Cross-Reference:** When a briefing gives you a "Reasonable Version" list, check them against the wine list database.

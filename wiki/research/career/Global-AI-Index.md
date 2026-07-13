@@ -21,7 +21,7 @@ type: list
 This page organizes your Knowledge OS by country to help identify regional strengths and high-potential targets in specific markets.
 
 ## 📊 Portable Data Index
-- **CSV Index:** [[Global-AI-Companies-Index-2026.csv]] (Raw data for all researched companies).
+- **CSV Index:** [[../../../raw/Global-AI-Companies-Index-2026.csv|Global AI Companies Index 2026 (CSV)]] (Raw data for all researched companies).
 
 
 ## 🇰🇷 South Korea

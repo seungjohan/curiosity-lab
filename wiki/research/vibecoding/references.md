@@ -15,7 +15,7 @@ type: list
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** Keeping a structured list of "vibes" and technical blueprints allows for faster pattern recognition and retrieval of successful prompting strategies.
 > **How to use it:** Consult this list when starting a new project to find the right "vibe" or architectural pattern.
-> **Informs:** [[index]], [[karpathy-vibecoding]], and all future workflow pages.
+> **Informs:** [[index]], [[karpathy-llm-wiki]], and all future workflow pages.
 
 # 📚 Vibecoding: References & Resources
 

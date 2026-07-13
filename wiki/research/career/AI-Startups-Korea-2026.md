@@ -50,4 +50,4 @@ These companies win by applying AI to massive, high-fidelity datasets in regulat
 - [[Product-Management-0-to-1]]
 - [[Creative-Tech-Trends]]
 - [[Application-Strategy-2026]]
-- [[AI-Startups-Korea-Top30]]
+- [[../../../raw/AI-Startups-Korea-Top30.csv|AI Startups Korea Top 30 (CSV)]]

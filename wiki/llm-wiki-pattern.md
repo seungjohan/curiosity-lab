@@ -29,12 +29,12 @@ The **LLM Wiki Pattern** is a method for building personal knowledge bases where
 ## Architecture
 - **Raw Sources**: Immutable source documents.
 - **The Wiki**: Managed interlinked markdown files.
-- **The Schema**: Rules (like [[GEMINI]]) that define how the LLM maintains the wiki.
+- **The Schema**: Rules (like [[../AGENTS|AGENTS]]) that define how the LLM maintains the wiki.
 
 ## Key Files in this Project
 - [[index]] - Content-oriented catalog.
-- [[Log]] - Chronological record of operations.
-- [[brainstorming]] - Focused list for startup/project ideas.
+- [[log]] - Chronological record of operations.
+- [[ideation/ideation|Ideation]] - Focused list for startup/project ideas.
 
 ## References
 - Source: `llm-wiki.md`

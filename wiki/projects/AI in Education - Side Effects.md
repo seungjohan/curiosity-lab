@@ -42,7 +42,7 @@ The integration of AI into education for teenagers has revealed several signific
 ## Links to Existing Knowledge
 - Related to: [[AI & Agentic Workflows]] (Cognitive offloading vs. augmentation)
 - Related to: [[Social Interactions]] (Erosion of human-to-human connection)
-- Related to: [[research]] (Deep-dives into modern trends)
+- Related to: [[../ideation/research_board|Research Board]] (Deep-dives into modern trends)
 
 ## References
 - *The Generative AI Paradox*, Wharton/UPenn (Bastani et al.), Aug 2024.

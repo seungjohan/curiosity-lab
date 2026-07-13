@@ -25,7 +25,7 @@ This project focuses on building a personal blog and portfolio website, leveragi
 - [[../index|Master Index]]
 - [[PRD]] — Product Requirements Document (v4.1)
 - [[Design]] — Design System and Philosophy
-- [[Blog Portfolio - Figma Prompts.json]] — Chronological history of prompts used for Figma/Prototyping.
+- [[../../raw/Blog Portfolio - Figma Prompts.json|Blog Portfolio - Figma Prompts]] — Chronological history of prompts used for Figma/Prototyping.
 
 ## References
 - [MJ Kang Portfolio](https://mj-kang.com)
@@ -64,5 +64,5 @@ The project evolved through 32+ iterations of prompts, focusing on:
 5. **Final Polish**: Reverting Home to a YC-inspired minimal style and optimizing for mobile.
 
 ## Log
-- 2026-06-03: Documentation organized into [[PRD]], [[Design]], and [[Blog Portfolio - Figma Prompts.json]]. Updated project hub.
+- 2026-06-03: Documentation organized into [[PRD]], [[Design]], and [[../../raw/Blog Portfolio - Figma Prompts.json|Blog Portfolio - Figma Prompts]]. Updated project hub.
 - 2026-06-02: Project initiated, references organized.

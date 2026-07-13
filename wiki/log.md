@@ -155,6 +155,8 @@ L120- | 2026-06-15 | DECISION | Workspace Integration | Discussed merging Resear
 | 2026-07-13 | FEATURE | `AGENTS.md`, `template.md`, `wiki/ideation/ideation.md`, idea notes | Added the idea **lifecycle** (`spark→researching→validated→building→shipped`; off-ramps `parked`/`killed` require a `lifecycle_reason`). Board split into Active + reasoned Graveyard; tagged 5 idea/project notes. |
 | 2026-07-13 | LINT | `scripts/build_connections.py`, `README.md` | Overall lint pass before commit: fixed frontmatter parser to strip inline `#` comments (was mis-reading `concepts: []` comment char-by-char); regenerated links clean (7 concepts, 21 tags, idempotent); fixed stale `README` link `AGENT.md`→`AGENTS.md`. Broken-link scan: 58 unresolved are pre-existing stubs/examples, none newly introduced. |
 | 2026-07-13 | ADDED | `wiki/ideation/Startup & Side Projects.md`, `wiki/research/personal/Personal Insights & Reflections.md` | Created the two missing subject-hub MOCs that 13 notes pointed at via dangling `Subject:` links; wired spokes. Unresolved wikilinks 58→44. |
+| 2026-07-13 | FIX | `wiki/ (7 files)` | Repointed stale links to renamed/moved targets (`karpathy-vibecoding`→`karpathy-llm-wiki`; `GEMINI`/`Log`/`brainstorming`→current; data files→`raw/`; `research`→`research_board`). Left historical log narrative and date notes untouched. Unresolved 44→37. |
+| 2026-07-13 | ADDED | `wiki/maintenance.md` | Created link-health + content-backlog note from the unresolved-link scan (pages worth writing, listed as plain text to avoid new dangling links). |
 
 # 💬 Prompt Log
 
