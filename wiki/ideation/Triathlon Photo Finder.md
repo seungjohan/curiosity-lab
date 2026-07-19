@@ -39,8 +39,8 @@ An AI-powered tool to help athletes find their photos in large event galleries (
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **needle-in-haystack-retrieval** → [[Unified-Media-Insight-Capture-Tool]] (product)
-- **multi-signal-fusion** → [[The Connection]] (system), [[../projects/Michelin Filter]] (system), [[../research/cooking/selected-restaurants]] (cooking)
+- **needle-in-haystack-retrieval** → [[Advance Dating Planner]] (system), [[Unified-Media-Insight-Capture-Tool]] (product)
+- **multi-signal-fusion** → [[Advance Dating Planner]] (system), [[The Connection]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../research/cooking/selected-restaurants]] (cooking)
 <!-- AUTO-CONCEPTS:END -->
 
 ---

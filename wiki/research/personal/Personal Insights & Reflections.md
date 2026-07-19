@@ -21,6 +21,9 @@ The subject hub for personal reflection notes. The pages below all declare this 
 - [[Social Interactions]] — patterns and learnings in social dynamics.
 - [[Dreams & Hobbies]] — the interests and aspirations that fuel the rest.
 
+## Aspirations
+- [[Bucket List]] — a living list of things to do, learn, and become.
+
 ## 🔗 Connections
 - [[index|Personal Index]]
 - [[../../index|Master Index]]

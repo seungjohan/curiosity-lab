@@ -11,8 +11,10 @@ Combining several individually-weak signals into one confident decision or ident
 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
+- [[../ideation/Advance Dating Planner]] (system)
 - [[../ideation/The Connection]] (system)
 - [[../ideation/Triathlon Photo Finder]] (system)
+- [[../ideation/Wine Value Advisor]] (system)
 - [[../projects/Michelin Filter]] (system)
 - [[../research/cooking/selected-restaurants]] (cooking)
 <!-- AUTO-INSTANCES:END -->

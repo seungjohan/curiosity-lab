@@ -42,7 +42,7 @@ Most tools serve specific niches (text, audio, or podcasts). There is no single 
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **needle-in-haystack-retrieval** → [[Triathlon Photo Finder]] (system)
+- **needle-in-haystack-retrieval** → [[Advance Dating Planner]] (system), [[Triathlon Photo Finder]] (system)
 - **abundance-flips-value** → [[Return to Basics]] (system), [[../projects/Michelin Filter]] (system)
 - **interpretation-over-artifact** → [[The Connection]] (system), [[../research/career/Creative-Tech-Trends]] (career)
 <!-- AUTO-CONCEPTS:END -->

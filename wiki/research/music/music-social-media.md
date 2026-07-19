@@ -36,7 +36,7 @@ While there is no direct "Instagram of Music" that dominates the market, several
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **high-signal-filter** → [[../../projects/Michelin Filter]] (system), [[../cooking/selected-restaurants]] (cooking)
+- **high-signal-filter** → [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../cooking/selected-restaurants]] (cooking)
 <!-- AUTO-CONCEPTS:END -->
 
 ### Analogical ✦ (hand-picked)

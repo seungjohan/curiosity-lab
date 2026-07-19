@@ -39,6 +39,9 @@ This category tracks the development of my personal online presence, focusing on
 - [[references]] — Curated list of inspiration, tools, and technical guides.
 
 ## 🔗 Connections
+- [[Imagination]] — the what-if hub, looping [[../../stream|Stream]] ↔ [[Bucket List]]
+- [[Bucket List]] — things to do, learn, and become
+- [[Dreams & Hobbies]] — interests that feed both
 - [[wiki/index.md|Master Index]]
 - [[Product-Management-0-to-1]]
 - [[narrative_strategy]]

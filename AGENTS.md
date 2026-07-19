@@ -10,6 +10,7 @@ This workspace is a combined engine for fact-based research (observing/mapping) 
 - `/docs/`: Specs and design documents
 - `/wiki/`: Processed knowledge base
   - `/wiki/index.md`: Master index (categorized)
+  - `/wiki/stream.md`: Capture — the user's raw thought dumps, append-only, newest first (see "Connect pass")
   - `/wiki/log.md`: Main vault change log **and** prompt history (Prompt Log section)
   - `/wiki/research/`: Hierarchical research folders (career, cooking, etc.)
   - `/wiki/ideation/`: Active ideation lists and status boards
@@ -42,7 +43,7 @@ One unified loop for everything the user is curious about. **Career is a researc
 
 **Capture → Research → Synthesize → Ideate → Build → Reflect ↺**
 
-1. **Capture (`/raw/`)**: Immutable raw influences (videos, articles, quotes, brain dumps).
+1. **Capture (`wiki/stream.md`, `/raw/`)**: `stream.md` is the front door for the user's own raw, unorganized thoughts on any topic — append-only, newest first, **zero structure required of the user**. `/raw/` holds immutable external source material (videos, articles, quotes, datasets).
 2. **Research (`wiki/research/{category}/`)**: Fact-gathering and structuring, any category. Every note starts with a "Key Takeaway" callout.
 3. **Synthesize (`wiki/concepts/`)**: The bridge from Research to Ideation. Tag each note with the concept atoms it instances; notes from *different categories* sharing an atom are the raw material for new ideas. This stage is where cross-domain insight is produced deliberately instead of by memory. See `LINKING.md`.
 4. **Ideate (`wiki/ideation/`)**: Candidates graduate onto the board (`ideation.md`) with a status; strong ones move to specs.
@@ -57,7 +58,7 @@ Every idea/project note carries a **`lifecycle:`** frontmatter field (distinct f
 
 | lifecycle | meaning |
 |---|---|
-| `spark` | raw capture, still in `Idea Stream` |
+| `spark` | raw capture, still an entry in `wiki/stream.md` |
 | `researching` | actively gathering evidence |
 | `validated` | passed the "Stop and Think" forcing-question gate |
 | `building` | spec/PRD or code underway |
@@ -66,6 +67,29 @@ Every idea/project note carries a **`lifecycle:`** frontmatter field (distinct f
 | `killed` | abandoned — **requires `lifecycle_reason:`** (the post-mortem) |
 
 **The kill/park reason is the Reflect step made concrete.** A killed idea without a reason is wasted learning; the *why it died* is the reusable, cross-domain insight. All `parked`/`killed` ideas are listed with their reason in the Graveyard section of `wiki/ideation/ideation.md`.
+
+### Connect pass (`wiki/stream.md`)
+
+`stream.md` is an **append-only log of freeform entries**, newest first, and intentionally the one page with **no standards applied to the user's input**. Entries are random thoughts, short diary notes, ideas, complaints/blame, questions — anything, any length, any topic, any mood. The user dumps raw and unorganized by design: **never ask them to categorize, tag, tidy, or justify an entry.** Structuring is the agent's job, done later, on request ("connect pass").
+
+**Entry shape** — `## YYYY-MM-DD <kind emoji> <gist>`, a status line, freeform body, then `---`. The `##` headings are the index: Obsidian's Outline panel turns them into a clickable list, so the gist in the heading is what makes the log scannable. **No table** — a table taxes writing (no Enter, `|` breaks rows) to buy scanning that the Outline panel already gives free, and this page exists to make writing frictionless.
+
+**Division of labour:** the user writes the **date heading + body**. The agent adds the **kind emoji, status, and `Connects:` line**. If the user pastes a thought into chat, the agent writes the entry — don't send them to the file.
+
+When asked for a connect pass, for each entry marked `🌱 raw`:
+
+1. **Read it charitably.** A fragment, a bad mood, or an unfinished sentence is valid input, not an error. Never edit, rewrite, correct, or "clean up" the user's words — the raw text is the record. Add to the heading and the `Connects:` line only.
+2. **Set the kind emoji** (💭 random · 📔 diary · 💡 idea · 😤 blame · ❓ question), and sharpen the heading gist only if the user left it blank. **😤 blame entries are prime idea material** — a complaint is a problem statement with the emotion still attached, and friction the user hit personally is exactly the kind worth solving. Mine them for latent ideas; don't dismiss them as venting.
+3. **Search the vault for real relationships** — related research notes, existing ideas, and concept atoms in `wiki/concepts/`. Prefer connections the user is *unlikely to have noticed themselves* (a cooking note sharing an atom with a music note); that surprise is the whole value.
+4. **Add a `**Connects:**` line** with wikilinks. Apply the same quality bar as all linking: only link if you can finish *"connects because **[specific mechanism]**"* — not just a shared topic. **An entry with no honest connection gets none.** A fabricated link is worse than an empty one, because it poisons the graph the user is learning to trust.
+5. **Flip `🌱 raw` → `🔗 connected`.** Leave a genuinely inert entry as `🪦 dropped` rather than forcing a link.
+6. **Surface candidates.** Report which entries recur or attract many links — those are graduation candidates. Recommend; don't graduate unasked.
+
+**If the stream outgrows one file** (filtering by kind/date becomes the real need, not just scanning): the upgrade is one file per thought under `wiki/stream/` with `kind:`/`lifecycle:` frontmatter, and a Dataview `TABLE` block in `stream.md` rendering the view. Dataview is installed and the user has used this pattern before. Graduation then costs nothing — the thought file *becomes* the idea note by gaining `concepts:`. **Don't pre-build this**; the single file is correct until the volume justifies the machinery.
+
+**Graduating an entry:** create the note in `wiki/ideation/` with `concepts:` + `lifecycle: spark`, add it to the board, then set the entry's status line to `🎓 → [[the new note]]`. **Never delete the original entry** — it is the origin record of the idea.
+
+Raw entries carry **no `concepts:` frontmatter** (`LINKING.md` §5: tag transferable insight, not raw capture). Graduation is how a thought earns its concepts. `stream.md` itself is therefore never processed by `scripts/build_connections.py`.
 
 ## 📝 Page Schemas
 

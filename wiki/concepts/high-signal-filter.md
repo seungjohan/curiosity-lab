@@ -11,6 +11,7 @@ Curating or ranking to surface the *few high-quality items* out of a saturated, 
 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
+- [[../ideation/Wine Value Advisor]] (system)
 - [[../projects/Michelin Filter]] (system)
 - [[../research/cooking/selected-restaurants]] (cooking)
 - [[../research/music/music-social-media]] (music)

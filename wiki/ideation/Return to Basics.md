@@ -56,7 +56,7 @@ The more complex and digital the world becomes, the stronger the human counter-f
 ## 🔗 Connections
 
 ### ⬆ Pipeline
-- Back ← [[Idea Stream]] — expands the initial return-to-basics entry from `2026-05-15`
+- Back ← [[../stream|Stream]] — expands the initial return-to-basics entry from `2026-05-15`
 - Back ← [[ideation]] — tracked on the active ideation board
 - Draws on → [[../research/cooking/index]] — food as a physical sensory ground truth
 - Draws on → [[../research/planting/index]] — gardening and growing real ingredients

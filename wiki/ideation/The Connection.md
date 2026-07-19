@@ -36,7 +36,7 @@ A team-building and synergy analysis platform that uses personality traits (MBTI
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **multi-signal-fusion** → [[Triathlon Photo Finder]] (system), [[../projects/Michelin Filter]] (system), [[../research/cooking/selected-restaurants]] (cooking)
+- **multi-signal-fusion** → [[Advance Dating Planner]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../research/cooking/selected-restaurants]] (cooking)
 - **interpretation-over-artifact** → [[Unified-Media-Insight-Capture-Tool]] (product), [[../research/career/Creative-Tech-Trends]] (career)
 - **ai-as-enabler-not-replacer** → [[Return to Basics]] (system)
 <!-- AUTO-CONCEPTS:END -->

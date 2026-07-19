@@ -46,9 +46,9 @@ Append-only record of wiki operations (Ingest, Query, Health Check).
 - Linked [[Favorite Foods]] with [[Michelin Filter]].
 
 ## [2026-05-15] Idea Stream Initialization
-- Created [[Idea Stream]] as a dedicated space for capturing raw thoughts and evolving ideas.
+- Created [[../stream|Idea Stream]] as a dedicated space for capturing raw thoughts and evolving ideas.
 - Initial entry: "Return to Fundamentals" (Farming, Food, Clothing, Shelter) in the AI age.
-- Integrated [[Idea Stream]] into [[index]].
+- Integrated [[../stream|Idea Stream]] into [[index]].
 
 ## [2026-05-15] Inspiration Sources Setup
 - Created [[Inspiration Sources]] to document primary media and organizational influences (BizCafe, EO Global, Y Combinator).

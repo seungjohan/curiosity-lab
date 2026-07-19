@@ -62,6 +62,7 @@ This page consolidates culinary terms across different languages.
 | **Fond** | The browned, caramelized bits of food (usually meat or vegetables) that stick to the bottom of a pan after sautéing or roasting. | "The fond is where all the deep flavor lives." | |
 | **Simmering** | Cooking food in liquid at a temperature just below the boiling point (around 85°C to 95°C). | "Keep the soup at a gentle simmer for an hour." | |
 | **Rusk** | A hard, dry biscuit or twice-baked bread, often used as a binder or base for pâté. | "The pâté was served with a side of crisp rusks." | |
+| **Binder** | An ingredient (e.g. eggs, breadcrumbs, flour, rusk) added to a mixture to hold it together and give it structure. | "Eggs act as a binder in the meatball mixture." | See also: [[#🇬🇧 English\|Rusk]] |
 | **Maillard Reaction** | A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor. | "The Maillard reaction is responsible for the deep savory taste of a seared steak." | |
 | **Searing** | A technique used in which the surface of the food is cooked at high temperature until a caramelized crust forms. | "Searing the roast before braising locks in the flavor." | |
 | **Cider** | An alcoholic drink made from the fermented juice of apples. | "Hard cider is popular across many English-speaking regions." | |

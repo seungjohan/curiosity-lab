@@ -42,8 +42,8 @@ A curated, data-driven list of fine dining restaurants filtered from premium sou
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **high-signal-filter** → [[../research/cooking/selected-restaurants]] (cooking), [[../research/music/music-social-media]] (music)
-- **multi-signal-fusion** → [[../ideation/The Connection]] (system), [[../ideation/Triathlon Photo Finder]] (system), [[../research/cooking/selected-restaurants]] (cooking)
+- **high-signal-filter** → [[../ideation/Wine Value Advisor]] (system), [[../research/cooking/selected-restaurants]] (cooking), [[../research/music/music-social-media]] (music)
+- **multi-signal-fusion** → [[../ideation/Advance Dating Planner]] (system), [[../ideation/The Connection]] (system), [[../ideation/Triathlon Photo Finder]] (system), [[../ideation/Wine Value Advisor]] (system), [[../research/cooking/selected-restaurants]] (cooking)
 - **abundance-flips-value** → [[../ideation/Return to Basics]] (system), [[../ideation/Unified-Media-Insight-Capture-Tool]] (product)
 <!-- AUTO-CONCEPTS:END -->
 
