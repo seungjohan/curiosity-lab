@@ -32,5 +32,5 @@ Vibecoding is the technical process of using LLMs and Agentic AI to generate sof
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **abstraction-raises-altitude** → [[../../projects/AI & Agentic Workflows]] (system), [[../../projects/AI in Education - Side Effects]] (system), [[../career/Product-Management-0-to-1]] (career)
+- **abstraction-raises-altitude** → [[../../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[../../projects/AI & Agentic Workflows]] (system), [[../../projects/AI in Education - Side Effects]] (system), [[../career/Product-Management-0-to-1]] (career), [[../system/connecting_the_dot]] (system)
 <!-- AUTO-CONCEPTS:END -->

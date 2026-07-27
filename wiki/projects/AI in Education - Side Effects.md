@@ -57,5 +57,5 @@ The integration of AI into education for teenagers has revealed several signific
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **abstraction-raises-altitude** → [[AI & Agentic Workflows]] (system), [[../research/career/Product-Management-0-to-1]] (career), [[../research/vibecoding/index]] (vibecoding)
+- **abstraction-raises-altitude** → [[../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[AI & Agentic Workflows]] (system), [[../research/career/Product-Management-0-to-1]] (career), [[../research/system/connecting_the_dot]] (system), [[../research/vibecoding/index]] (vibecoding)
 <!-- AUTO-CONCEPTS:END -->

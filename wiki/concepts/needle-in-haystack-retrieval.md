@@ -13,9 +13,10 @@ Related to but distinct from [[high-signal-filter]]: filtering surfaces *quality
 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
-- [[../ideation/Advance Dating Planner]] (system)
+- [[../ideation/Advance Planner]] (system)
 - [[../ideation/Triathlon Photo Finder]] (system)
 - [[../ideation/Unified-Media-Insight-Capture-Tool]] (product)
+- [[../research/system/graphrag-connection-engine]] (system)
 <!-- AUTO-INSTANCES:END -->
 
 ## 🔗 Connections

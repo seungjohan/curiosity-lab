@@ -48,6 +48,10 @@ Since exact restaurant lists aren't available, estimate a fair price for a given
 ### Wine estimator (Part 2) — not yet gathered
 - Public wine retail/marketplace price data (e.g. Wine-Searcher, Vivino, big-box retailers) to build the fair-price baseline. *(To source.)*
 
+## 📚 References
+- [YouTube — wine pricing/value (video)](https://www.youtube.com/watch?v=hxxMY1mVpKA) — reference for how wine value/pricing is judged.
+- [Wine Spectator](https://www.winespectator.com/) — wine ratings/scores and the Restaurant Wine List Awards (Award of Excellence, Best of Award of Excellence, Grand Award). Doubles as a possible restaurant-filter signal (Part 1) alongside Michelin's "Interesting Wine List" and a wine-quality reference for the estimator (Part 2).
+
 ## 🔗 Connections
 
 ### ⬆ Pipeline
@@ -57,6 +61,6 @@ Since exact restaurant lists aren't available, estimate a fair price for a given
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **multi-signal-fusion** → [[Advance Dating Planner]] (system), [[The Connection]] (system), [[Triathlon Photo Finder]] (system), [[../projects/Michelin Filter]] (system), [[../research/cooking/selected-restaurants]] (cooking)
-- **high-signal-filter** → [[../projects/Michelin Filter]] (system), [[../research/cooking/selected-restaurants]] (cooking), [[../research/music/music-social-media]] (music)
+- **multi-signal-fusion** → [[Advance Planner]] (system), [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Taste Detector]] (system), [[The Connection]] (system), [[Triathlon Photo Finder]] (system), [[../projects/Michelin Filter]] (system), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graphrag-connection-engine]] (system)
+- **high-signal-filter** → [[Company Fit Finder - Where to Work]] (system), [[../projects/Michelin Filter]] (system), [[../research/cooking/selected-restaurants]] (cooking), [[../research/music/music-social-media]] (music)
 <!-- AUTO-CONCEPTS:END -->

@@ -28,25 +28,25 @@ This page organizes your Knowledge OS by country to help identify regional stren
 *The hub for AI Semiconductors and Vertical B2B.*
 - **Map:** [[South-Korea-AI-Map]]
 - **Key Pillars:** Physical AI (NPU), Agentic AI (B2B), Vertical AI (Healthcare).
-- **Featured:** [[Upstage]], [[Rebellions]], [[Wrtn-Technologies]], [[Lunit]].
+- **Featured:** Upstage, Rebellions, Wrtn-Technologies, Lunit.
 
 ## 🇬🇧 United Kingdom (London Focus)
 *The global capital for Deep Tech and Embodied AI.*
 - **Map:** [[UK-AI-Map]]
 - **Key Pillars:** Physical AI (Autonomous Transport), Creative Tech (Video AI).
-- **Featured:** [[Wayve]], [[Synthesia]], [[Twelve-Labs]] (R&D).
+- **Featured:** Wayve, Synthesia, Twelve-Labs (R&D).
 
 ## 🇮🇪 Ireland (Dublin Focus)
 *The European hub for Enterprise Agentic AI and Specialized Robotics.*
 - **Map:** [[Ireland-AI-Map]]
 - **Key Pillars:** Agentic AI (Cybersecurity/Automation), Healthcare Robotics.
-- **Featured:** [[Tines]], [[Akara-Robotics]].
+- **Featured:** Tines, Akara-Robotics.
 
 ## 🇺🇸 United States
 *The origin of General Purpose AI and Multimodal Infrastructure.*
 - **Map:** [[USA-AI-Map]]
 - **Key Pillars:** Foundation Models, Multimodal Search.
-- **Featured:** [[Twelve-Labs]] (HQ), [[Bear-Robotics]] (HQ).
+- **Featured:** Twelve-Labs (HQ), Bear-Robotics (HQ).
 
 ---
 

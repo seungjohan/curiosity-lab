@@ -14,6 +14,7 @@ When something floods to abundant and near-free, its *opposite* becomes the scar
 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
+- [[../ideation/Company Fit Finder - Where to Work]] (system)
 - [[../ideation/Return to Basics]] (system)
 - [[../ideation/Unified-Media-Insight-Capture-Tool]] (product)
 - [[../projects/Michelin Filter]] (system)

@@ -20,11 +20,11 @@ type: list
 > **Informs:** [[Global-AI-Index]]
 
 ## ⚡ Physical AI & Infrastructure
-- [[Akara-Robotics]] (Hospital Disinfection Robots)
-- [[Manna-Drone-Delivery]] (Autonomous Logistics)
-- [[Provizio]] (Predictive Auto Safety)
-- [[Ubotica]] (Orbital AI / Space Edge)
-- [[Protex-AI]] (Workplace Safety CV)
+- Akara-Robotics (Hospital Disinfection Robots)
+- Manna-Drone-Delivery (Autonomous Logistics)
+- Provizio (Predictive Auto Safety)
+- Ubotica (Orbital AI / Space Edge)
+- Protex-AI (Workplace Safety CV)
 - **Cubic Telecom** (Connected Vehicle Data)
 - **Taoglas** (IoT & Edge AI Antennas)
 - **Davra** (Industrial IoT Platform)
@@ -32,10 +32,10 @@ type: list
 - **Sytorus** (Data Privacy & AI Compliance)
 
 ## 🤖 Agentic AI & Automation
-- [[Tines]] (Security & Ops Orchestration)
-- [[Jentic]] (Agent Orchestration Layer)
-- [[Rezolve-AI]] (Autonomous Service Desk)
-- [[Numra]] (Agentic FinOps & Accounting)
+- Tines (Security & Ops Orchestration)
+- Jentic (Agent Orchestration Layer)
+- Rezolve-AI (Autonomous Service Desk)
+- Numra (Agentic FinOps & Accounting)
 - **Inspeq AI** (AI Safety & Agent Guardrails)
 - **Rekord** (Credit Decisioning Agents)
 - **DevAlly** (Accessibility Compliance Agents)
@@ -44,9 +44,9 @@ type: list
 - **Boxever** (Personalization AI - acquired by Sitecore)
 
 ## 🏥 Vertical AI & Specialized Domain
-- [[Nuritas]] (Peptide Discovery)
-- [[Kitman-Labs]] (Elite Sports Intelligence)
-- [[Nory]] (Hospitality OS)
+- Nuritas (Peptide Discovery)
+- Kitman-Labs (Elite Sports Intelligence)
+- Nory (Hospitality OS)
 - **Otel AI** (Hospitality Guest Agents)
 - **Meta-Flux** (Disease Simulation)
 - **GridBeyond** (Smart Energy Management)

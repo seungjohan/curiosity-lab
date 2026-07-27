@@ -28,6 +28,26 @@ That's your whole job. **I add the kind emoji, the status, and the `Connects:` l
 
 ---
 
+## 2026-07-22 💡 check my mental health before it breaks
+🎓 → [[ideation/Been There|Been There]]
+
+It's much easier now to transfer my life into data via AI. And people burn out *regularly* — not because they neglect themselves, but because there are so many triggers, and the timing differs by age and life stage: getting married, starting a job, losing one, having a baby. Everyone faces them, just off-schedule.
+
+So: check my mental health regularly, to prepare for the unexpected burnout. But trustworthy advice is hard to get. Idea — open it up so people list their life, and you get advice from someone who *already faced the same issue* — a senior of that issue. A bridge between people. Not sure how to select/verify who has the right to advise. And it doesn't have to be crisis-only — the unexpected can land anytime, so it's for ordinary life too.
+
+**Connects:** [[concepts/ai-as-enabler-not-replacer|ai-as-enabler-not-replacer]] — AI reads the signal, humans give the advice · [[concepts/multi-signal-fusion|multi-signal-fusion]] — life-as-data → burnout read · ↓ *something stuck below the neck* (a **literal physical** sensation, not a metaphor — noted separately below, not folded into this idea)
+
+---
+
+## 2026-07-21 📔 something stuck below the neck
+🌱
+
+These days I feel something constantly stuck — in my stomach, or just below the neck. I don't know what it is. It's getting worse. It happens too often, and takes pretty long to fully go down.
+
+> [!note] This is literal, not figurative — an actual physical sensation, and worsening over time. A persistent, progressing physical feeling of something stuck around the throat/chest/stomach is worth getting checked by a doctor rather than self-interpreting (globus sensation, reflux, and other causes are all things a clinician can rule in or out).
+
+---
+
 ## 2026-05-15 💡 Return to Fundamentals
 🎓 → [[ideation/Return to Basics|Return to Basics]]
 

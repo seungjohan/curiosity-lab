@@ -37,5 +37,5 @@ tag: career
 
 ## 🔗 Connections
 - [[AI-Startups-Korea-2026]]
-- [[Twelve-Labs]]
-- [[Wrtn-Technologies]]
+- Twelve-Labs
+- Wrtn-Technologies

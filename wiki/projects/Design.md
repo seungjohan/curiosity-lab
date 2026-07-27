@@ -15,7 +15,7 @@ type: resource
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** Detailed design system for Seungjo Han's personal website, emphasizing editorial minimalism, typographic restraint, and calm interaction.
 > **How to use it:** Follow these standards when developing new pages or components for the portfolio site.
-> **Informs:** [[PRD|Website PRD]]
+> **Informs:** [[seungjohan.com_prd|Website PRD]]
 
 # DESIGN.md — Seungjo Han Personal Website
 **Owner:** Seungjo Han (한승조)
@@ -94,4 +94,4 @@ transition={{ duration: 0.7–0.8, ease: [0.22, 1, 0.36, 1] }}
 
 ## 🔗 Connections
 - [[../index|Master Index]]
-- [[Personal Blog & Portfolio]]
+- [[seungjohan.com]]

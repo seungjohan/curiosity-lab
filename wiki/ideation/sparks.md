@@ -18,6 +18,8 @@ Quick ideas, newest first. Just the level of "oh, this could be a thing" — no 
 
 | Spark | Core Keyword | Date | Status |
 | :--- | :--- | :--- | :--- |
+| **Topic time-archive** — a service/app that archives things (news, economy, books, tech news…) in time order under a chosen topic. Reading a topic's entries chronologically lets you grasp its 시대적 흐름 — how the story evolved over time, not just the latest snapshot. → promoted to [[Chronicle - Personal Topic Timeline]] | Chronological topic archive | 2026-07-24 | ⬆ |
+| **Airport dead time** — nearly everyone wastes the hours before and after a flight (early check-in buffers, layovers, post-landing limbo). A service that turns that idle waiting time into something useful or enjoyable — tailored to how long you have and where you are. | Travel dead time | 2026-07-21 | 🌱 |
 | **Programmable smell** — synthesize any scent by combining molecules on demand. Smell is our most sensitive/emotional sense, so a "scent engine" could plug into gaming, movies, forensic evidence, perfume, and more. | Scent synthesis | 2026-07-19 | 🌱 |
 
 ---

@@ -25,25 +25,25 @@ The Korean AI ecosystem is currently defined by a "Sovereign AI" push and a glob
 
 ### 1. 🤖 Agentic AI & Consumer Portals
 Companies in this category are moving beyond simple chatbots toward autonomous agents that can execute multi-step tasks.
-- **Leaders:** [[Wrtn-Technologies]] (B2C), [[Upstage]] (Enterprise), [[Sendbird]] (CX), [[Allganize]] (Workflow).
+- **Leaders:** Wrtn-Technologies (B2C), Upstage (Enterprise), Sendbird (CX), Allganize (Workflow).
 - **PM Focus:** Designing "Execution UX"—where AI handles the boring parts of the job autonomously.
 
 ### 2. ⚡ Physical AI & Infrastructure
 The "Inference Gap" is the new battlefield. While Nvidia dominates training, Korean hardware and optimization startups are winning the efficiency war for deployment.
-- **Semiconductors:** [[Rebellions]], [[FuriosaAI]], [[DeepX]], [[Mobilint]].
-- **Optimization:** [[Nota-AI]], [[SqueezeBits]], [[FriendliAI]].
+- **Semiconductors:** Rebellions, FuriosaAI, DeepX, Mobilint.
+- **Optimization:** Nota-AI, SqueezeBits, FriendliAI.
 - **PM Focus:** Understanding the economics of "Cost-per-Inference" and hardware-aware software design.
 
 ### 3. 🎯 Vertical Domain Mastery (High Moat)
 These companies win by applying AI to massive, high-fidelity datasets in regulated or complex industries.
-- **Healthcare:** [[Lunit]], [[VUNO]], [[AItrics]], [[MediWhale]], [[Standigm]], [[Coredotbio]].
-- **Industrial/Auto:** [[MakinaRocks]], [[Superb-AI]], [[AIMMO]].
-- **Creative/Social:** [[Twelve-Labs]], [[VoyagerX]], [[Scatter-Lab]], [[LINER]], [[Speak]], [[Riiid]].
+- **Healthcare:** Lunit, VUNO, AItrics, MediWhale, Standigm, Coredotbio.
+- **Industrial/Auto:** MakinaRocks, Superb-AI, AIMMO.
+- **Creative/Social:** Twelve-Labs, VoyagerX, Scatter-Lab, LINER, Speak, Riiid.
 - **PM Focus:** Domain expertise. You must understand the "Regulatory Moat" or the "Industrial Workflow" better than the AI does.
 
 ## 🚀 2026 Market Trends
 - **The "Inference Tax" Era:** Companies are now focused on ROI. If an AI doesn't save 30%+ in costs or time, it’s being cut.
-- **On-Device Proliferation:** The shift toward Small Language Models (sLM) running locally (led by [[Persona-AI]] and [[SqueezeBits]]) is enabling "Privacy-First" AI.
+- **On-Device Proliferation:** The shift toward Small Language Models (sLM) running locally (led by Persona-AI and SqueezeBits) is enabling "Privacy-First" AI.
 - **Global-First Strategy:** Almost every startup in the Top 30 now generates 50%+ of revenue outside Korea (US, Japan, Middle East).
 
 ## 🔗 Connections

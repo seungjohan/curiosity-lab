@@ -11,8 +11,12 @@ Treating the user's *meaning, relationship, or reaction* as the primary object o
 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
+- [[../ideation/Chronicle - Personal Topic Timeline]] (product)
+- [[../ideation/Company Fit Finder - Where to Work]] (system)
+- [[../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system)
 - [[../ideation/The Connection]] (system)
 - [[../ideation/Unified-Media-Insight-Capture-Tool]] (product)
+- [[../projects/prd/Chronicle_prd]] (product)
 - [[../research/career/Creative-Tech-Trends]] (career)
 <!-- AUTO-INSTANCES:END -->
 

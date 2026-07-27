@@ -21,27 +21,27 @@ type: list
 # South Korea AI Map
 
 ## 🤖 Pillar 1: Agentic AI
-- [[Wrtn-Technologies]]
-- [[Upstage]]
-- [[Sendbird]]
-- [[Allganize]]
-- [[Scatter-Lab]]
-- [[LINER]]
+- Wrtn-Technologies
+- Upstage
+- Sendbird
+- Allganize
+- Scatter-Lab
+- LINER
 
 ## ⚡ Pillar 2: Physical AI & Infrastructure
-- [[Rebellions]]
-- [[FuriosaAI]]
-- [[DeepX]]
-- [[Mobilint]]
-- [[Nota-AI]]
-- [[SqueezeBits]]
+- Rebellions
+- FuriosaAI
+- DeepX
+- Mobilint
+- Nota-AI
+- SqueezeBits
 
 ## 🎯 Pillar 3: Vertical Domain Mastery
-- [[Lunit]]
-- [[VUNO]]
-- [[AItrics]]
-- [[MakinaRocks]]
-- [[Standigm]]
+- Lunit
+- VUNO
+- AItrics
+- MakinaRocks
+- Standigm
 
 ## 🔗 Connections
 - [[Global-AI-Index]]

@@ -52,6 +52,8 @@ The more complex and digital the world becomes, the stronger the human counter-f
 
 ## References
 - [진짜 부자들 특: 명품 안삼, 건강 챙김 by BZCF | 비즈까페 Community Post](https://www.youtube.com/post/UgkxAiHi_NH9cJi8F6CXmgy2UEHU0J28Xzl_)
+- [불안할 때 해야하는 질문 (젠슨 황) — BZCF | 비즈까페](https://youtube.com/shorts/zXdo7bq3Y1I) — Short: the question to ask yourself when you feel anxious, via Jensen Huang.
+- [Jensen Huang on Vision, Risk, and the GPU | Only In America — Hoover Institution](https://youtu.be/ZEL0EAVtCTY?t=1829) — interview with NVIDIA's founder on vision and risk (linked at ~30:29).
 
 ## 🔗 Connections
 
@@ -64,8 +66,8 @@ The more complex and digital the world becomes, the stronger the human counter-f
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **abundance-flips-value** → [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system)
-- **ai-as-enabler-not-replacer** → [[The Connection]] (system)
+- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system)
+- **ai-as-enabler-not-replacer** → [[Been There]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[The Connection]] (system)
 <!-- AUTO-CONCEPTS:END -->
 
 ### Analogical ✦ (hand-picked)

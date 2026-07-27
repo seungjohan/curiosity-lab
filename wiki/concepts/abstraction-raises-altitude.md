@@ -14,9 +14,11 @@ When a tool abstracts away the low-level work, human attention and value move *u
 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
+- [[../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system)
 - [[../projects/AI & Agentic Workflows]] (system)
 - [[../projects/AI in Education - Side Effects]] (system)
 - [[../research/career/Product-Management-0-to-1]] (career)
+- [[../research/system/connecting_the_dot]] (system)
 - [[../research/vibecoding/index]] (vibecoding)
 <!-- AUTO-INSTANCES:END -->
 

@@ -106,6 +106,6 @@ The following raw data files contain the full scraped lists for each community:
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **high-signal-filter** → [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../music/music-social-media]] (music)
-- **multi-signal-fusion** → [[../../ideation/Advance Dating Planner]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system)
+- **high-signal-filter** → [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../music/music-social-media]] (music)
+- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/prd/Chronicle_prd]] (product), [[../system/connecting_the_dot]] (system), [[../system/graphrag-connection-engine]] (system)
 <!-- AUTO-CONCEPTS:END -->

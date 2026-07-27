@@ -20,10 +20,10 @@ type: list
 > **Informs:** [[Global-AI-Index]]
 
 ## ⚡ Physical AI & Infrastructure
-- [[Wayve]] (Embodied AI for AV)
-- [[CloudNC]] (Autonomous Manufacturing)
-- [[LabGenius]] (Robotic Drug Discovery)
-- [[PhysicsX]] (AI Engineering Simulation)
+- Wayve (Embodied AI for AV)
+- CloudNC (Autonomous Manufacturing)
+- LabGenius (Robotic Drug Discovery)
+- PhysicsX (AI Engineering Simulation)
 - **Oxa** (Autonomous Vehicle Software)
 - **SLAMcore** (Spatial Intelligence for Robots)
 - **Dogtooth Technologies** (Agricultural Robotics)
@@ -32,9 +32,9 @@ type: list
 - **Hadean** (Distributed Spatial Computing)
 
 ## 🤖 Agentic AI & Automation
-- [[11xAI]] (Autonomous Sales SDRs)
-- [[GradientLabs]] (Autonomous Customer Ops)
-- [[Fetch-ai]] (Decentralized AI Agents)
+- 11xAI (Autonomous Sales SDRs)
+- GradientLabs (Autonomous Customer Ops)
+- Fetch-ai (Decentralized AI Agents)
 - **Tessl** (AI-native Software Development)
 - **Thought Machine** (AI Core Banking)
 - **Onfido** (AI Identity Verification)
@@ -44,12 +44,12 @@ type: list
 - **Humanloop** (LLM Ops & Agent Evaluation)
 
 ## 🏥 Vertical AI & Specialized Domain
-- [[Synthesia]] (AI Video Avatars)
-- [[Twelve-Labs]] (Multimodal Video Understanding)
-- [[Quantexa]] (Decision Intelligence)
-- [[Tractable]] (Computer Vision for Insurance)
-- [[Limbic]] (Mental Health AI Triage)
-- [[ElevenLabs]] (AI Audio & Voice Synthesis)
+- Synthesia (AI Video Avatars)
+- Twelve-Labs (Multimodal Video Understanding)
+- Quantexa (Decision Intelligence)
+- Tractable (Computer Vision for Insurance)
+- Limbic (Mental Health AI Triage)
+- ElevenLabs (AI Audio & Voice Synthesis)
 - **Robin AI** (Legal Tech / Contract AI)
 - **Isomorphic Labs** (AI Drug Discovery)
 - **Stability AI** (Generative Media)

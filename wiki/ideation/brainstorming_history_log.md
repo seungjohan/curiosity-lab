@@ -28,14 +28,14 @@ Append-only record of wiki operations (Ingest, Query, Health Check).
 - Appended Q&A logs at the bottom of the file.
 
 ## [2026-06-03] Personal Blog & Portfolio Documentation Organization
-- Organized documentation into separate files: [[PRD]], [[Design]], and [[Blog Portfolio - Figma Prompts.json]].
-- Updated [[Personal Blog & Portfolio]] to act as the central hub.
+- Organized documentation into separate files: [[seungjohan.com_prd|PRD]], [[Design]], and [[Blog Portfolio - Figma Prompts.json]].
+- Updated [[seungjohan.com]] to act as the central hub.
 - Integrated links into the [[index]].
 
 ## [2026-06-02] Personal Blog & Portfolio Initiation
-- Created [[Personal Blog & Portfolio]] wiki page.
+- Created [[seungjohan.com]] wiki page.
 - Organized references from MJ Kang, Unan Palms, Alessandra Krick, and Sehyun Jeon.
-- Integrated [[Personal Blog & Portfolio]] into [[index]] under Active Ideas.
+- Integrated [[seungjohan.com]] into [[index]] under Active Ideas.
 - Started brainstorming session using Visual Companion.
 
 ## [2026-05-28] Favorite Foods & Michelin Data

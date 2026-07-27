@@ -22,8 +22,8 @@ type: list
 > **Informs:** [[Global-AI-Index]], [[USA-AI-Map]]
 
 ## ⚡ Physical AI & Infrastructure
-- [[Bear-Robotics]] (Robotics / Hospitality)
-- [[Twelve-Labs]] (Video Infrastructure)
+- Bear-Robotics (Robotics / Hospitality)
+- Twelve-Labs (Video Infrastructure)
 - **World Labs** (Spatial Intelligence / 3D)
 - **Physical Intelligence** (Universal Robot Foundation Models)
 - **Figure AI** (Humanoid Robotics)
@@ -46,9 +46,9 @@ type: list
 - **Observe.AI** (Autonomous Voice Agents)
 
 ## 🎯 Vertical AI & Specialized Domain
-- [[Harvey-AI]] (Legal AI / M&A Due Diligence)
-- [[Speak]] (AI Language Tutoring)
-- [[Moloco]] (AdTech / Operational ML)
+- Harvey-AI (Legal AI / M&A Due Diligence)
+- Speak (AI Language Tutoring)
+- Moloco (AdTech / Operational ML)
 - **Innovaccer** (Healthcare Data Activation)
 - **Insitro** (Biotech / Drug Discovery)
 - **Eightfold** (Talent Intelligence / HR)

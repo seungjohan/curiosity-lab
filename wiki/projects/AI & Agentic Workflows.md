@@ -39,7 +39,7 @@ Investigation into Large Language Models (LLMs), AI Agents, and the Model Contex
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **abstraction-raises-altitude** → [[AI in Education - Side Effects]] (system), [[../research/career/Product-Management-0-to-1]] (career), [[../research/vibecoding/index]] (vibecoding)
+- **abstraction-raises-altitude** → [[../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[AI in Education - Side Effects]] (system), [[../research/career/Product-Management-0-to-1]] (career), [[../research/system/connecting_the_dot]] (system), [[../research/vibecoding/index]] (vibecoding)
 <!-- AUTO-CONCEPTS:END -->
 
 ### Tension ✦ (hand-picked)

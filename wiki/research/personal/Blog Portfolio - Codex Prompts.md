@@ -15,7 +15,7 @@ type: resource
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** Tracking the exact prompts used for development ensures reproducibility and provides a "prompt history" for future AI-driven projects.
 > **How to use it:** Reference when debugging UI components or when seeking to replicate specific design patterns in new projects.
-> **Informs:** [[Personal Blog & Portfolio]]
+> **Informs:** [[seungjohan.com]]
 
 # Blog Portfolio - Codex Prompts
 
@@ -23,4 +23,4 @@ type: resource
 
 ## 🔗 Connections
 - [[../index|Master Index]]
-- [[Personal Blog & Portfolio]]
+- [[seungjohan.com]]

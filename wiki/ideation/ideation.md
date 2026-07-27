@@ -35,7 +35,12 @@ A central hub for listing and categorizing startup and side project ideas.
 | [[wiki/ideation/Return to Basics\|Return to Basics]] | Food & Life / AI | - | researching | Exploring the physical anchors of eating, living, and clothing as premium grounding points in a hyper-digital AI era. |
 | [[wiki/ideation/Unified-Media-Insight-Capture-Tool\|Unified-Media-Insight-Capture-Tool]] | Productivity / Tooling | Onda, Snipd, Reader, Readwise | researching | Unified cross-media capture tool for moments of insight, not just media artifacts. |
 | [[wiki/ideation/Wine Value Advisor\|Wine Value Advisor]] | Food Tech / Data | Wine-Searcher, Vivino | researching | Judge whether a restaurant wine is fair-priced via public retail data; filter by Michelin's "Interesting Wine List". |
-| [[wiki/ideation/Advance Dating Planner\|Advance Dating Planner]] | Lifestyle / Travel | - | researching | Plan dates/trips ahead by fusing local events, hotspots, and personal taste — surfacing the right timing. |
+| [[wiki/ideation/Advance Planner\|Advance Planner]] | Lifestyle / Travel | - | researching | Root platform: save your taste + a location, get relational recommendations & timely notifications (no manual checking). Sub-projects: Travel Planner, Dating Planner. |
+| [[wiki/ideation/Taste Detector\|Taste Detector]] | Consumer / AI | - | spark | Infer a person's taste from their digital footprint (subscriptions, YouTube, Instagram follows, reading/booking) — a profile that powers recommendations and matching. |
+| [[wiki/ideation/Been There\|Been There]] | Health Tech / AI | - | spark | Regular AI mental-health check-in (life-as-data) + a bridge to peer advice from someone who already survived your specific life-stage issue. |
+| [[wiki/ideation/Company Fit Finder - Where to Work\|Company Compass]] | Career / HR Tech | LinkedIn, Glassdoor, Crunchbase, levels.fyi | spark | Fit engine: read a company's real character from its footprint, match it to who you are, and surface the few high-fit companies with a way in. |
+| [[wiki/ideation/Finding What You Like - Rekindling Passion & Curiosity\|North Star]] | Wellbeing / Personal Growth / AI | - | researching | For people who feel flat and interested in nothing: rediscover what you *like* through gentle, near-free micro-trials — not another "find your purpose" quiz. |
+| [[wiki/ideation/Chronicle - Personal Topic Timeline\|Chronicle]] | Productivity / Tooling | Timeline (defunct), Instapaper, Readwise, Are.na | researching | Archive any topic by time through your own frame: paste a URL → auto title/keywords/summary, category pages, hashtags, scoped search — read a subject's 연대기 and analyze the trend. |
 
 ## 🪦 Graveyard & Parked
 

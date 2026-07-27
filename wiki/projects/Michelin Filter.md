@@ -42,9 +42,9 @@ A curated, data-driven list of fine dining restaurants filtered from premium sou
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **high-signal-filter** → [[../ideation/Wine Value Advisor]] (system), [[../research/cooking/selected-restaurants]] (cooking), [[../research/music/music-social-media]] (music)
-- **multi-signal-fusion** → [[../ideation/Advance Dating Planner]] (system), [[../ideation/The Connection]] (system), [[../ideation/Triathlon Photo Finder]] (system), [[../ideation/Wine Value Advisor]] (system), [[../research/cooking/selected-restaurants]] (cooking)
-- **abundance-flips-value** → [[../ideation/Return to Basics]] (system), [[../ideation/Unified-Media-Insight-Capture-Tool]] (product)
+- **high-signal-filter** → [[../ideation/Company Fit Finder - Where to Work]] (system), [[../ideation/Wine Value Advisor]] (system), [[../research/cooking/selected-restaurants]] (cooking), [[../research/music/music-social-media]] (music)
+- **multi-signal-fusion** → [[../ideation/Advance Planner]] (system), [[../ideation/Been There]] (system), [[../ideation/Chronicle - Personal Topic Timeline]] (product), [[../ideation/Company Fit Finder - Where to Work]] (system), [[../ideation/Taste Detector]] (system), [[../ideation/The Connection]] (system), [[../ideation/Triathlon Photo Finder]] (system), [[../ideation/Wine Value Advisor]] (system), [[prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graphrag-connection-engine]] (system)
+- **abundance-flips-value** → [[../ideation/Company Fit Finder - Where to Work]] (system), [[../ideation/Return to Basics]] (system), [[../ideation/Unified-Media-Insight-Capture-Tool]] (product)
 <!-- AUTO-CONCEPTS:END -->
 
 ---

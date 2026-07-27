@@ -22,6 +22,7 @@ The reusable "idea-LEGO" of the vault. A page names the atoms it instances in fr
 | [[ai-as-enabler-not-replacer]] | AI optimizes a human/natural process vs substituting it | augment-vs-replace |
 | [[interpretation-over-artifact]] | The user's meaning is the asset, not the raw source | — |
 | [[abstraction-raises-altitude]] | Automating low-level work moves focus up to high-level intent | leverage-vs-atrophy |
+| [[bridging-structural-holes]] | Value comes from brokering the gap between distant clusters, not deepening one | bridge-vs-deepen |
 
 ## Adding a concept
 Create a new node only for a genuinely reusable pattern that already has (or will soon have) 2+ instances. A one-instance concept is a *candidate*, not a link. Keep the vocabulary small.

@@ -54,7 +54,7 @@ See [../LINKING.md](../LINKING.md) for how pages connect, and [../AGENTS.md](../
 
 Fact-gathering and deep dives, organized by category. Career is one category among the rest — its purpose is to understand the AI/startup landscape and find the right company and role.
 
-- **AI industry & career** — [AI-Industry-Map-2026](research/system/AI-Industry-Map-2026.md) (agentic · physical · vertical AI), regional maps via [Global-AI-Index](research/career/Global-AI-Index.md), and strategy in [Application-Strategy-2026](research/career/Application-Strategy-2026.md) · [Job-Search-Status-2026](research/career/Job-Search-Status-2026.md) · [Product-Management-0-to-1](research/career/Product-Management-0-to-1.md). Platforms: [Wanted](https://www.wanted.co.kr/), [Remember](https://remember.co.kr/), [Jumpit](https://www.jumpit.co.kr/).
+- **AI industry & career** — [AI-Industry-Map-2026](research/system/AI-Industry-Map-2026.md) (agentic · physical · vertical AI), regional maps via [Global-AI-Index](research/career/Global-AI-Index.md), and strategy in [Application-Strategy-2026](research/career/Application-Strategy-2026.md) · [Job-Search-Next-Step](research/career/Job-Search-Next-Step.md) · [Product-Management-0-to-1](research/career/Product-Management-0-to-1.md). Platforms: [Wanted](https://www.wanted.co.kr/), [Remember](https://remember.co.kr/), [Jumpit](https://www.jumpit.co.kr/).
 - **Cooking** — [Culinary Index](research/cooking/index.md) · [Selected Restaurants](research/cooking/selected-restaurants.md)
 - **Music** — [Music Research Index](research/music/index.md)
 - **Language** — [Language Research Index](research/language/index.md)

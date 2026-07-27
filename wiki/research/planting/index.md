@@ -38,6 +38,8 @@ Research and notes on botany, gardening, and plant life cycles.
 - Fig
 - Bell pepper
 - Pistachio
+- Hazelnut
+- Pine nut
 
 
 ## 🔗 Connections
