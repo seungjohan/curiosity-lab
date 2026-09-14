@@ -59,6 +59,30 @@ A single HTML file, ~300KB, no build step, no server, no dependencies beyond a w
 - **내 주변 — typed location, not GPS.** Browser geolocation is blocked on `file://`, which kills it for an emailed file. Instead a **528-entry gazetteer is embedded in the page**: 119 hand-written landmarks (with KR/ES/PT/EN aliases), all 283 restaurant names, and ~180 street names auto-derived from the address column by averaging the coordinates of every restaurant on that street. Typing "시아두", "sagrada", "Ramiro" or a pasted `38.71, -9.14` all resolve offline; anything else falls back to a Nominatim lookup bounded to the Iberian viewbox.
 - **Synonym search index.** Hidden per-card keyword expansion covering Korean spelling variants, the original-language term, and English (빠에야/파에야/paella/arroz; 뿔뽀/pulpo/polvo/octopus; 크로케타/크로켓/고로케/croquete).
 
+## Detail Fields per Restaurant
+
+What each card tries to carry beyond a name and a pin — and how much of it actually got filled.
+
+| Field | Where it came from | Coverage |
+| :--- | :--- | :--- |
+| **Signature dishes** (up to 3) | Personal saves: hand-written. Others: pulled from Google reviews | Personal 45/45 · Michelin/Repsol 81/81 · local guide **44/157** |
+| **Average price per person** | Source CSVs where they had one (`€45`). Otherwise Google's 1–4 price level mapped to €12 / €22 / €35 / €60 (`~€35`) | 105 researched. The `~` is the only thing marking an estimate — keep it |
+| **Price detail + source** | Price research (`raw/extracts/prices.tsv`: average, detail, source) | 105 |
+| **One-line description** (Korean) | Written from the Michelin/Repsol descriptions | Michelin/Repsol 65 · local guide **23/157** |
+| **Cuisine type** (Korean) | English cuisine labels translated (`ko.py`) | Most venues |
+| **Awards** | Michelin stars, Green Star, Repsol Soles, World's 50 Best rank, Steak 101 rank, notable wine list | Michelin/Repsol layer only |
+| **Guide history** | Boa Cama Boa Mesa editions, years, listing type | Local guide layer |
+| **Google rating + review count** | Google Places lookups | 251/283 |
+| **Closing day** | Google Places | 251/283 |
+| **Address, coordinates, phone** | Source CSVs + Google Places | Coordinates feed the 내 주변 tab |
+| **Personal note** | Own saves | 45 |
+| **Map link** | Google place ID + name | Tap-to-open deep link |
+
+**Gaps:**
+- **Local guide dishes:** 113 empty — `Main_Menu` held cuisine types, not dishes. Left blank rather than invented.
+- **Local guide one-liners:** 134 empty.
+- **Lost Lisbon/Porto prices:** ~70 researched prices sat in a scratchpad and were never merged.
+
 ## Two Failures Worth Keeping
 
 **The dish field wasn't in the search index.** Dishes were added, then the user searched "빠에야" and got one hit. Two separate bugs stacked: `data-q` was built from name + category + address + note + badges and **never included the dish**, and the data itself said "파에야" in some rows and "쌀 요리" in others. The instinct was to add more dishes; the actual fix was indexing the field and adding a synonym layer. *A field the search doesn't read is not data — it's decoration.*
@@ -76,9 +100,10 @@ A single HTML file, ~300KB, no build step, no server, no dependencies beyond a w
 | File | Rows | What it holds |
 | :--- | ---: | :--- |
 | [[../../raw/extracts/restaurants-final.csv\|restaurants-final.csv]] | 238 | **The merged set the guide renders** — 45 personal saves + 81 Michelin/Repsol + 157 Boa Cama Boa Mesa, zero overlap between layers. `Avg_Price_EUR` filled for 105 |
-| `scripts/trip_guide/` | — | `ko.py` (Korean rewrite), `syn.py` (search synonym layer), `README.md` |
+| `scripts/trip_guide/` | — | Full build pipeline: `build2.py`, `page.py`, `enrich.json` (251 Places lookups), `mine_coords.json`, `mine_dish.py`, `notes_guide.py`, `spots.py`, `add2.py`, `ko.py`, `syn.py`, `README.md` |
+| `scripts/trip_guide/여행_맛집_지도.html` | 283 | **The shipped guide** — the file sent to the friend |
 
-⚠️ **`scripts/trip_guide/enrich.json` is referenced in the ENRICHED log entry but is not on disk** — the Google Places enrichment (251/283 venues, dishes for 173) currently has no saved source. Re-running Places lookups would cost API calls that have already been spent.
+✅ **`scripts/trip_guide/enrich.json` recovered (2026-09-14)** — restored with the rest of the build files and the rendered `여행_맛집_지도.html`. 251 entries, matching the ENRICHED log count, so the Google Places lookups don't need re-running.
 
 ⚠️ **113 of the 157 local-guide rows have no signature dish.** The `Main_Menu` column in the Boa Cama Boa Mesa source holds *cuisine genre* ("Creative"), not dishes, and only for 8 rows. Left blank deliberately rather than filled with invented orders.
 

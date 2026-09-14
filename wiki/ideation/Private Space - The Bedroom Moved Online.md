@@ -272,6 +272,8 @@ So the door question may have been the wrong question, or at least premature. **
 - [App Store — 발자취 by Nyeok.Co](https://apps.apple.com/kr/app/id6792431474) — the serverless, solo-built walking app this session started from.
 - [YouTube — 때껄룩 ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ](https://www.youtube.com/@takealook.) *(1.86M subs)* — proof a playlist curator needs consistency, not fame.
 - [YouTube — 리플레이 LEEPLAY](https://www.youtube.com/@leeplay.official) *(868K subs)* — *"사진을 찍었던 순간에 생각나는 음악"*: photo, memory, mood, playlist. This idea, already running as a channel.
+- [Melon — 멜론 DJ](https://www.melon.com/dj/today/djtoday_list.htm) — Melon's feature for users to share their own playlists with others, like Spotify. A Korean incumbent already has list sharing built in, so sharing alone isn't the gap.
+- [Spotify](https://open.spotify.com/) — my read: its algorithm tailors to a user's taste well, and making a playlist public is easy. This is the bar a companion product has to sit beside, not beat (see *"the same algorithm with the human left in"* above).
 
 ## 🔗 Connections
 
