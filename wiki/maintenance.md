@@ -29,6 +29,19 @@ Generated 2026-07-13 from a vault-wide unresolved-wikilink scan. See [[../LINKIN
 **Vibecoding workflow sub-pages** — from [[research/vibecoding/index]]
 - workflow-prompting · workflow-generation · workflow-refinement · workflow-orchestration
 
+## 🔴 Open — links to a note that was deliberately deleted
+
+**`research/career/Finding-Dream-Services`** — 5 references, from [[ideation/Company Fit Finder - Where to Work]] (3) and [[ideation/Finding What You Like - Rekindling Passion & Curiosity]] (2), both citing it as `Seed ←`. The file was removed in commit `2ca404d` along with the ~80 company-profile notes. **Not auto-fixed:** both notes describe it as the research they were *promoted and narrowed from*, so the text is historically true and there is no surviving note to repoint to. Decide which you want — restore it from `git show 2ca404d^:wiki/research/career/Finding-Dream-Services.md`, repoint the links at [[research/career/Job-Search-Next-Step]], or rewrite the two `Seed ←` lines to name the deletion. Related: the same commit removed the "80+ hand-built company deep-dives" that [[ideation/Company Fit Finder - Where to Work]] cites as its proof and starter dataset.
+
+**URLs written as wikilinks** — 5 in [[ideation/Unified-Media-Insight-Capture-Tool]] (`[[https://read.readwise.io/]]` and four more). Obsidian renders these as broken *internal* links; they want to be `[label](url)` markdown links. Cosmetic, left alone pending your call.
+
+## ✅ Stale links fixed (2026-08-16)
+Vault-wide scan during an ingest + lint pass. 87 links repointed; the vault went from **10 connected components and 9 orphan notes to 1 component, 0 orphans**.
+- **66 vault-absolute `[[wiki/...]]` links → relative paths** (LINKING.md §2 requires relative). Most were pre-reorg `[[wiki/cooking/...]]` targets left behind when cooking moved under `research/` — that one stale prefix was what orphaned all 7 recipe notes.
+- **14 `[[../index|Master Index]]` links** in depth-2 research notes resolved to a nonexistent `wiki/research/index` → `[[../../index]]`. (The same link is *correct* from `ideation/` and `projects/`, which is why it survived earlier scans.)
+- `[[../cooking/baking/index]]` → `[[../research/cooking/baking/index]]` in [[ideation/Return to Basics]]; two `raw/` CSV links in [[research/cooking/selected-restaurants]] were one directory short; four `file://` links there pointed at `~/Obsidian/research/raw`, a path that does not exist.
+- **`[Personal Blog & Portfolio](projects/Personal Blog & Portfolio.md)`** in [[index]] — stale since the file was renamed to `seungjohan.com.md` in `2ca404d`.
+
 ## ✅ Stale links fixed (2026-07-13)
 - `karpathy-vibecoding` → `karpathy-llm-wiki` (deleted file)
 - `GEMINI` → `AGENTS`, `Log` → `log`, `brainstorming` → `ideation` (renamed; in [[llm-wiki-pattern]])

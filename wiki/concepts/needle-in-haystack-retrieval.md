@@ -16,6 +16,7 @@ Related to but distinct from [[high-signal-filter]]: filtering surfaces *quality
 - [[../ideation/Advance Planner]] (system)
 - [[../ideation/Triathlon Photo Finder]] (system)
 - [[../ideation/Unified-Media-Insight-Capture-Tool]] (product)
+- [[../projects/Trip Guide - Shareable Restaurant Map]] (travel)
 - [[../research/system/graphrag-connection-engine]] (system)
 <!-- AUTO-INSTANCES:END -->
 

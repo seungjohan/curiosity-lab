@@ -1,0 +1,239 @@
+City,Name,Michelin_Award,Main_Menu,Google_Category,Avg_Price_EUR,Maps_Url
+Barcelona,Al Kostat,,,Restaurant,45,https://www.google.com/maps/search/?api=1&query=Al%20Kostat%2C%20Ronda%20de%20Sant%20Antoni%2041%2C%20Barcelona%2C%2008011%2C%20Spain
+Barcelona,Amar Barcelona,Selected,Contemporary,Restaurant,145,https://www.google.com/maps/search/?api=1&query=Amar%20Barcelona%2C%20Gran%20Via%20de%20les%20Corts%20Catalanes%20668%2C%20Barcelona%2C%2008010%2C%20Spain
+Barcelona,AÜC,Selected,Regional Cuisine,Bar,35,https://www.google.com/maps/search/?api=1&query=A%C3%9CC%2C%20Pla%C3%A7a%20del%20Camp%207%2C%20Barcelona%2C%2008022%2C%20Spain
+Barcelona,AÜRT,,,Fine dining restaurant,145,https://www.google.com/maps/search/?api=1&query=A%C3%9CRT%2C%20Passeig%20del%20Taulat%20262-264%2C%20Barcelona%2C%2008019%2C%20Spain
+Barcelona,Avenir,Bib Gourmand,Contemporary,Restaurant,35,https://www.google.com/maps/search/?api=1&query=Avenir%2C%20Carrer%20de%20l%27Avenir%2072%2C%20Barcelona%2C%2008021%2C%20Spain
+Barcelona,Bacaro,Bib Gourmand,Italian,Italian restaurant,35,https://www.google.com/maps/search/?api=1&query=Bacaro%2C%20Jerusalem%206%2C%20Barcelona%2C%2008001%2C%20Spain
+Barcelona,Bardeni-Caldeni,Bib Gourmand,Meats and Grills,Restaurant,45,https://www.google.com/maps/search/?api=1&query=Bardeni-Caldeni%2C%20Valencia%20454%2C%20Barcelona%2C%2008013%2C%20Spain
+Barcelona,Batea,Selected,Seafood,Restaurant,55,https://www.google.com/maps/search/?api=1&query=Batea%2C%20Gran%20Via%20de%20Les%20Corts%20Catalanes%20605%2C%20Barcelona%2C%2008007%2C%20Spain
+Barcelona,Berbena,Bib Gourmand,Creative,Restaurant,50,https://www.google.com/maps/search/?api=1&query=Berbena%2C%20Minerva%206%2C%20Barcelona%2C%2008006%2C%20Spain
+Barcelona,Besta,Selected,Farm to table,Restaurant,78,https://www.google.com/maps/search/?api=1&query=Besta%2C%20Aribau%20106%2C%20Barcelona%2C%2008036%2C%20Spain
+Barcelona,Brabo,,,Restaurant,105,https://www.google.com/maps/search/?api=1&query=Brabo%2C%20Carrer%20de%20S%C3%A8neca%2028%2C%20Barcelona%2C%2008006%2C%20Spain
+Barcelona,Ca l'Isidre,,,Restaurant,80,https://www.google.com/maps/search/?api=1&query=Ca%20l%27Isidre%2C%20Carrer%20de%20les%20Flors%2012%2C%20Barcelona%2C%2008001%2C%20Spain
+Barcelona,Can Bo,Selected,Modern Cuisine,Restaurant,50,https://www.google.com/maps/search/?api=1&query=Can%20Bo%2C%20Via%20Laietana%2030%2C%20Barcelona%2C%2008003%2C%20Spain
+Barcelona,Capet,Selected,Seasonal Cuisine,Restaurant,75,https://www.google.com/maps/search/?api=1&query=Capet%2C%20Cometa%205%2C%20Barcelona%2C%2008002%2C%20Spain
+Barcelona,Carnal Steak House,,,Steak house,70,https://www.google.com/maps/search/?api=1&query=Carnal%20Steak%20House%2C%20Carrer%20d%27Enric%20Granados%2052%2C%20Barcelona%2C%2008008%2C%20Spain
+Barcelona,Compartir Barcelona,Selected,Mediterranean Cuisine,Restaurant,100,https://www.google.com/maps/search/?api=1&query=Compartir%20Barcelona%2C%20Valencia%20225%2C%20Barcelona%2C%2008007%2C%20Spain
+Barcelona,Coure,,,Mediterranean restaurant,50,https://www.google.com/maps/search/?api=1&query=Coure%2C%20Passatge%20de%20Marimon%2020%2C%20Barcelona%2C%2008021%2C%20Spain
+Barcelona,Cruix,Bib Gourmand,Contemporary,Restaurant,58,https://www.google.com/maps/search/?api=1&query=Cruix%2C%20Enten%C3%A7a%2057%2C%20Barcelona%2C%2008015%2C%20Spain
+Barcelona,Deliri,Selected,Contemporary,Restaurant,60,https://www.google.com/maps/search/?api=1&query=Deliri%2C%20C%C3%B2rsega%20242%2C%20Barcelona%2C%2008036%2C%20Spain
+Barcelona,DIREKTE,Selected,Fusion,Restaurant,82,https://www.google.com/maps/search/?api=1&query=DIREKTE%2C%20Par%C3%ADs%20200%2C%20Barcelona%2C%2008008%2C%20Spain
+Barcelona,Dos Pebrots,Selected,Mediterranean Cuisine,Mediterranean restaurant,70,https://www.google.com/maps/search/?api=1&query=Dos%20Pebrots%2C%20Doctor%20Dou%2019%2C%20Barcelona%2C%2008001%2C%20Spain
+Barcelona,Eldelmar - Hermanos Torres,Selected,Traditional Cuisine,Mediterranean restaurant,75,https://www.google.com/maps/search/?api=1&query=Eldelmar%20-%20Hermanos%20Torres%2C%20Moll%20del%20Gregal%203%2C%20Barcelona%2C%2008005%2C%20Spain
+Barcelona,Els Pescadors,,,Mediterranean restaurant,60,https://www.google.com/maps/search/?api=1&query=Els%20Pescadors%2C%20Pla%C3%A7a%20de%20Prim%201%2C%20Barcelona%2C%2008005%2C%20Spain
+Barcelona,Espacio UMA,,,Restaurant,125,https://www.google.com/maps/search/?api=1&query=Espacio%20UMA%2C%20Carrer%20de%20Mallorca%20275%2C%20Barcelona%2C%2008008%2C%20Spain
+Barcelona,Estimar,Selected,Seafood,Mediterranean restaurant,100,https://www.google.com/maps/search/?api=1&query=Estimar%2C%20Sant%20Antoni%20dels%20Sombrerers%203%2C%20Barcelona%2C%2008003%2C%20Spain
+Barcelona,Glug,Bib Gourmand,Creative,Restaurant,35,https://www.google.com/maps/search/?api=1&query=Glug%2C%20Viladomat%20289%2C%20Barcelona%2C%2008029%2C%20Spain
+Barcelona,Granja Elena,,,Restaurant,55,https://www.google.com/maps/search/?api=1&query=Granja%20Elena%2C%20Passeig%20de%20la%20Zona%20Franca%20228%2C%20Barcelona%2C%2008038%2C%20Spain
+Barcelona,Gresca,,,Restaurant,50,https://www.google.com/maps/search/?api=1&query=Gresca%2C%20Carrer%20de%20Proven%C3%A7a%20230%2C%20Barcelona%2C%2008036%2C%20Spain
+Barcelona,Jardín del Alma,,,Restaurant,40,https://www.google.com/maps/search/?api=1&query=Jard%C3%ADn%20del%20Alma%2C%20Carrer%20de%20Mallorca%20269%2C%20Barcelona%2C%2008008%2C%20Spain
+Barcelona,La Forquilla,Selected,Creative,Mediterranean restaurant,77,https://www.google.com/maps/search/?api=1&query=La%20Forquilla%2C%20Arag%C3%B3%20152%2C%20Barcelona%2C%2008011%2C%20Spain
+Barcelona,L'Antiquari Gastronòmic,Selected,Creative,Restaurant,75,https://www.google.com/maps/search/?api=1&query=L%27Antiquari%20Gastron%C3%B2mic%2C%20Carrer%20de%20Nept%C3%BA%204%2C%20Barcelona%2C%2008006%2C%20Spain
+Barcelona,La Taverna del Clínic,Selected,Traditional Cuisine,Galician restaurant,55,https://www.google.com/maps/search/?api=1&query=La%20Taverna%20del%20Cl%C3%ADnic%2C%20Rossell%C3%B3%20155%2C%20Barcelona%2C%2008036%2C%20Spain
+Barcelona,Leña Barcelona,Selected,Meats and Grills,Steak house,70,https://www.google.com/maps/search/?api=1&query=Le%C3%B1a%20Barcelona%2C%20Pla%C3%A7a%20de%20Pius%20XII%204%2C%20Barcelona%2C%2008028%2C%20Spain
+Barcelona,Nairod,Selected,Farm to table,Restaurant,65,https://www.google.com/maps/search/?api=1&query=Nairod%2C%20Aribau%20141%2C%20Barcelona%2C%2008036%2C%20Spain
+Barcelona,Nectari,Selected,Modern Cuisine,Mediterranean restaurant,86,https://www.google.com/maps/search/?api=1&query=Nectari%2C%20Val%C3%A8ncia%2028%2C%20Barcelona%2C%2008015%2C%20Spain
+Barcelona,Olivos Comida y Vinos,,,Restaurant,100,https://www.google.com/maps/search/?api=1&query=Olivos%20Comida%20y%20Vinos%2C%20Carrer%20de%20Galileu%20159%2C%20Barcelona%2C%20Spain
+Barcelona,Oníric,Bib Gourmand,Fusion,Restaurant,48,https://www.google.com/maps/search/?api=1&query=On%C3%ADric%2C%20Rabassa%2037%2C%20Barcelona%2C%2008024%2C%20Spain
+Barcelona,Osmosis,Selected,Creative,Mediterranean restaurant,70,https://www.google.com/maps/search/?api=1&query=Osmosis%2C%20Aribau%20100%2C%20Barcelona%2C%2008036%2C%20Spain
+Barcelona,Petit Comité Gaig,,,Catalonian restaurant,70,https://www.google.com/maps/search/?api=1&query=Petit%20Comit%C3%A9%20Gaig%2C%20Passatge%20de%20la%20Concepci%C3%B3%2013%2C%20Barcelona%2C%2008008%2C%20Spain
+Barcelona,Pur,Selected,Farm to table,Restaurant,130,https://www.google.com/maps/search/?api=1&query=Pur%2C%20Passatge%20de%20la%20Concepci%C3%B3%2011%2C%20Barcelona%2C%2008008%2C%20Spain
+Barcelona,RíasKru,Selected,Seafood,Seafood restaurant,90,https://www.google.com/maps/search/?api=1&query=R%C3%ADasKru%2C%20Lleida%207%2C%20Barcelona%2C%2008004%2C%20Spain
+Barcelona,Roig Robí,,,Restaurant,68,https://www.google.com/maps/search/?api=1&query=Roig%20Rob%C3%AD%2C%20Carrer%20de%20S%C3%A8neca%2020%2C%20Barcelona%2C%2008006%2C%20Spain
+Barcelona,Saó,Bib Gourmand,Creative,Restaurant,60,https://www.google.com/maps/search/?api=1&query=Sa%C3%B3%2C%20Cesare%20Cant%C3%B9%202%2C%20Barcelona%2C%2008023%2C%20Spain
+Barcelona,Sato i Tanaka,,,Japanese restaurant,50,https://www.google.com/maps/search/?api=1&query=Sato%20i%20Tanaka%2C%20Carrer%20del%20Bruc%2079%2C%20Barcelona%2C%2008009%2C%20Spain
+Barcelona,Solc,Selected,Mediterranean Cuisine,Catalonian restaurant,50,https://www.google.com/maps/search/?api=1&query=Solc%2C%20Paseo%20de%20Gr%C3%A0cia%2068%2C%20Barcelona%2C%2008007%2C%20Spain
+Barcelona,Suculent,Selected,Contemporary,Restaurant,60,https://www.google.com/maps/search/?api=1&query=Suculent%2C%20Rambla%20del%20Raval%2045%2C%20Barcelona%2C%2008001%2C%20Spain
+Barcelona,Taberna Noroeste,Selected,Contemporary,Galician restaurant,80,https://www.google.com/maps/search/?api=1&query=Taberna%20Noroeste%2C%20Radas%2067%2C%20Barcelona%2C%2008004%2C%20Spain
+Barcelona,Ten's,Selected,Modern Cuisine,Tapas bar,40,https://www.google.com/maps/search/?api=1&query=Ten%27s%2C%20Avenida%20Marqu%C3%A9s%20de%20l%27Argentera%2011%2C%20Barcelona%2C%2008003%2C%20Spain
+Barcelona,Tram-Tram,Selected,Contemporary,Family restaurant,50,https://www.google.com/maps/search/?api=1&query=Tram-Tram%2C%20Major%20de%20Sarri%C3%A0%20121%2C%20Barcelona%2C%2008017%2C%20Spain
+Barcelona,Tunateca Balfegó,Selected,Fusion,Restaurant,75,https://www.google.com/maps/search/?api=1&query=Tunateca%20Balfeg%C3%B3%2C%20Avenida%20Diagonal%20439%2C%20Barcelona%2C%2008036%2C%20Spain
+Barcelona,Ultramarinos Marín,Selected,Farm to table,Restaurant,45,https://www.google.com/maps/search/?api=1&query=Ultramarinos%20Mar%C3%ADn%2C%20Balmes%20187%2C%20Barcelona%2C%2008006%2C%20Spain
+Barcelona,Virens,Selected,Contemporary,Health food restaurant,85,https://www.google.com/maps/search/?api=1&query=Virens%2C%20Gran%20Via%20de%20Les%20Corts%20Catalanes%20619%2C%20Barcelona%2C%2008007%2C%20Spain
+Barcelona,Windsor,Selected,Modern Cuisine,Catalonian restaurant,60,https://www.google.com/maps/search/?api=1&query=Windsor%2C%20C%C3%B2rsega%20286%2C%20Barcelona%2C%2008008%2C%20Spain
+Barcelona,Xavier Pellicer,Selected,Creative,Health food restaurant,85,https://www.google.com/maps/search/?api=1&query=Xavier%20Pellicer%2C%20Proven%C3%A7a%20310%2C%20Barcelona%2C%2008037%2C%20Spain
+Barcelona,Xemei,,,Venetian restaurant,45,https://www.google.com/maps/search/?api=1&query=Xemei%2C%20Passeig%20de%20l%27Exposici%C3%B3%2085%2C%20Barcelona%2C%2008004%2C%20Spain
+Barcelona,Xerta,Selected,Creative,Mediterranean restaurant,80,https://www.google.com/maps/search/?api=1&query=Xerta%2C%20C%C3%B2rsega%20289%2C%20Barcelona%2C%2008008%2C%20Spain
+Lisbon,100 Maneiras,Selected,Creative,Fine dining restaurant,160,https://www.google.com/maps/search/?api=1&query=100%20Maneiras%2C%20Rua%20do%20Teixeira%2039%2C%20Lisbon%2C%201200-459%2C%20Portugal
+Lisbon,1300 Taberna,,,,,https://www.google.com/maps/search/?api=1&query=1300%20Taberna%2C%20Lisboa%2C%20Portugal
+Lisbon,A Cevicheria,,,Restaurant,42,https://www.google.com/maps/search/?api=1&query=A%20Cevicheria%2C%20Lisboa%2C%20Portugal
+Lisbon,Adega da Tia Matilde,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Adega%20da%20Tia%20Matilde%2C%20Lisboa%2C%20Portugal
+Lisbon,Al Garage,,,Italian restaurant,,https://www.google.com/maps/search/?api=1&query=Al%20Garage%2C%20Lisboa%2C%20Portugal
+Lisbon,Alma,,,Restaurant,145,https://www.google.com/maps/search/?api=1&query=Alma%2C%20Lisboa%2C%20Portugal
+Lisbon,Ânfora,,,,,https://www.google.com/maps/search/?api=1&query=%C3%82nfora%2C%20Lisboa%2C%20Portugal
+Lisbon,Aqui Há Peixe,,,Seafood restaurant,,https://www.google.com/maps/search/?api=1&query=Aqui%20H%C3%A1%20Peixe%2C%20Lisboa%2C%20Portugal
+Lisbon,Ararate,,,Armenian restaurant,,https://www.google.com/maps/search/?api=1&query=Ararate%2C%20Lisboa%2C%20Portugal
+Lisbon,BAHR,Selected,Portuguese,Restaurant,55,https://www.google.com/maps/search/?api=1&query=BAHR%2C%20Pra%C3%A7a%20Lu%C3%ADs%20De%20Cam%C3%B5es%202%2C%20Lisbon%2C%201200-243%2C%20Portugal
+Lisbon,Bastardo,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Bastardo%2C%20Lisboa%2C%20Portugal
+Lisbon,Belcanto,,,Portuguese restaurant,295,https://www.google.com/maps/search/?api=1&query=Belcanto%2C%20Lisboa%2C%20Portugal
+Lisbon,Bistro 100 Maneiras,,,European restaurant,,https://www.google.com/maps/search/?api=1&query=Bistro%20100%20Maneiras%2C%20Lisboa%2C%20Portugal
+Lisbon,Bistrô4,,,Bistro,,https://www.google.com/maps/search/?api=1&query=Bistr%C3%B44%2C%20Lisboa%2C%20Portugal
+Lisbon,Boi-Cavalo,,,,,https://www.google.com/maps/search/?api=1&query=Boi-Cavalo%2C%20Lisboa%2C%20Portugal
+Lisbon,Bonsai Restaurante Japonês,,,,,https://www.google.com/maps/search/?api=1&query=Bonsai%20Restaurante%20Japon%C3%AAs%2C%20Lisboa%2C%20Portugal
+Lisbon,Café de São Bento,,,Steak house,,https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20S%C3%A3o%20Bento%2C%20Lisboa%2C%20Portugal
+Lisbon,Café Garrett by Ohana,,,,,https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Garrett%20by%20Ohana%2C%20Lisboa%2C%20Portugal
+Lisbon,Café Portugal,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Portugal%2C%20Lisboa%2C%20Portugal
+Lisbon,Café Príncipe Real,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Pr%C3%ADncipe%20Real%2C%20Lisboa%2C%20Portugal
+Lisbon,Canalha,Bib Gourmand,Farm to table,Restaurant,35,https://www.google.com/maps/search/?api=1&query=Canalha%2C%20Rua%20da%20Junqueira%20207%2C%20Lisbon%2C%201300-338%2C%20Portugal
+Lisbon,Cantinho do Avillez,,,Restaurant,34,https://www.google.com/maps/search/?api=1&query=Cantinho%20do%20Avillez%2C%20Lisboa%2C%20Portugal
+Lisbon,Carnal,Bib Gourmand,Mexican,Mexican restaurant,45,https://www.google.com/maps/search/?api=1&query=Carnal%2C%20Rua%20da%20Misericordia%2078%2C%20Lisbon%2C%201200%20273%2C%20Portugal
+Lisbon,Casa de Pasto,,,,,https://www.google.com/maps/search/?api=1&query=Casa%20de%20Pasto%2C%20Lisboa%2C%20Portugal
+Lisbon,Cave 23,,,,,https://www.google.com/maps/search/?api=1&query=Cave%2023%2C%20Lisboa%2C%20Portugal
+Lisbon,Ceia,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Ceia%2C%20Lisboa%2C%20Portugal
+Lisbon,Cervejaria Liberdade,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Cervejaria%20Liberdade%2C%20Lisboa%2C%20Portugal
+Lisbon,Cervejaria Ramiro,,,Seafood restaurant,,https://www.google.com/maps/search/?api=1&query=Cervejaria%20Ramiro%2C%20Lisboa%2C%20Portugal
+Lisbon,Chapitô à Mesa,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Chapit%C3%B4%20%C3%A0%20Mesa%2C%20Lisboa%2C%20Portugal
+Lisbon,Chutnify,,,Indian restaurant,,https://www.google.com/maps/search/Chutnify%20restaurante%20Lisboa/?hl=en
+Lisbon,Come Prima,,,Italian restaurant,,https://www.google.com/maps/search/?api=1&query=Come%20Prima%2C%20Lisboa%2C%20Portugal
+Lisbon,Comida de Santo,,,Brazilian restaurant,,https://www.google.com/maps/search/?api=1&query=Comida%20de%20Santo%2C%20Lisboa%2C%20Portugal
+Lisbon,Cura,,,Portuguese restaurant,120,https://www.google.com/maps/search/?api=1&query=Cura%2C%20Lisboa%2C%20Portugal
+Lisbon,D'Bacalhau,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=D%27Bacalhau%2C%20Lisboa%2C%20Portugal
+Lisbon,Dom Feijão,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Dom%20Feij%C3%A3o%2C%20Lisboa%2C%20Portugal
+Lisbon,DownUnder by Justin Jennings,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=DownUnder%20by%20Justin%20Jennings%2C%20Lisboa%2C%20Portugal
+Lisbon,Eleven,,,Mediterranean restaurant,95,https://www.google.com/maps/search/?api=1&query=Eleven%2C%20Lisboa%2C%20Portugal
+Lisbon,Eneko Lisboa,,,,,https://www.google.com/maps/search/?api=1&query=Eneko%20Lisboa%2C%20Lisboa%2C%20Portugal
+Lisbon,EPUR,,,Fine dining restaurant,,https://www.google.com/maps/search/?api=1&query=EPUR%2C%20Lisboa%2C%20Portugal
+Lisbon,Estórias na Casa da Comida,,,Event venue,,https://www.google.com/maps/search/?api=1&query=Est%C3%B3rias%20na%20Casa%20da%20Comida%2C%20Lisboa%2C%20Portugal
+Lisbon,Feitoria,,,Fine dining restaurant,150,https://www.google.com/maps/search/?api=1&query=Feitoria%2C%20Lisboa%2C%20Portugal
+Lisbon,Fifty Seconds,,,Fine dining restaurant,205,https://www.google.com/maps/search/?api=1&query=Fifty%20Seconds%2C%20Lisboa%2C%20Portugal
+Lisbon,Gambrinus,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Gambrinus%2C%20Lisboa%2C%20Portugal
+Lisbon,Geographia,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Geographia%2C%20Lisboa%2C%20Portugal
+Lisbon,Il Mercato,,,Italian restaurant,,https://www.google.com/maps/search/?api=1&query=Il%20Mercato%2C%20Lisboa%2C%20Portugal
+Lisbon,Infame,,,Fusion restaurant,,https://www.google.com/maps/search/?api=1&query=Infame%2C%20Lisboa%2C%20Portugal
+Lisbon,Jesus é Goês,,,Goan restaurant,,https://www.google.com/maps/search/?api=1&query=Jesus%20%C3%A9%20Go%C3%AAs%2C%20Lisboa%2C%20Portugal
+Lisbon,JNcQUOI ASIA,,,Asian restaurant,,https://www.google.com/maps/search/?api=1&query=JNcQUOI%20ASIA%2C%20Lisboa%2C%20Portugal
+Lisbon,JNcQUOI Avenida,,,Restaurant,85,https://www.google.com/maps/search/?api=1&query=JNcQUOI%20Avenida%2C%20Lisboa%2C%20Portugal
+Lisbon,JNĉQUOI Fish,Selected,Seafood,Restaurant,69,https://www.google.com/maps/search/?api=1&query=JN%C4%89QUOI%20Fish%2C%20Av.%20da%20Liberdade%2C%20189%2C%20Lisbon%2C%201250-096%2C%20Portugal
+Lisbon,Kanazawa,,,Japanese restaurant,100,https://www.google.com/maps/search/?api=1&query=Kanazawa%2C%20Lisboa%2C%20Portugal
+Lisbon,Lapa,,,Restaurant,,https://www.google.com/maps/search/Lapa%20restaurante%20Lisboa/?hl=en
+Lisbon,LOCO,,,Fine dining restaurant,160,https://www.google.com/maps/search/?api=1&query=LOCO%2C%20Lisboa%2C%20Portugal
+Lisbon,"Marlene,",,,Fine dining restaurant,130,https://www.google.com/maps/search/?api=1&query=Marlene%2C%2C%20Lisboa%2C%20Portugal
+Lisbon,Memória,,,Italian restaurant,,https://www.google.com/maps/search/?api=1&query=Mem%C3%B3ria%2C%20Lisboa%2C%20Portugal
+Lisbon,Mesón Andaluz,,,Spanish restaurant,,https://www.google.com/maps/search/?api=1&query=Mes%C3%B3n%20Andaluz%2C%20Lisboa%2C%20Portugal
+Lisbon,Mezze Portugal by Pão a Pão,,,Middle Eastern restaurant,,https://www.google.com/maps/search/?api=1&query=Mezze%20Portugal%20by%20P%C3%A3o%20a%20P%C3%A3o%2C%20Lisboa%2C%20Portugal
+Lisbon,Miss Jappa,,,Japanese restaurant,,https://www.google.com/maps/search/?api=1&query=Miss%20Jappa%2C%20Lisboa%2C%20Portugal
+Lisbon,Mwana Pwo,,,,,https://www.google.com/maps/search/?api=1&query=Mwana%20Pwo%2C%20Lisboa%2C%20Portugal
+Lisbon,Nunes Real Marisqueira,,,Seafood restaurant,55,https://www.google.com/maps/search/?api=1&query=Nunes%20Real%20Marisqueira%2C%20Lisboa%2C%20Portugal
+Lisbon,O Boteco,,,Steak house,,https://www.google.com/maps/search/?api=1&query=O%20Boteco%2C%20Lisboa%2C%20Portugal
+Lisbon,O Cantinho do Aziz,,,African restaurant,,https://www.google.com/maps/search/?api=1&query=O%20Cantinho%20do%20Aziz%2C%20Lisboa%2C%20Portugal
+Lisbon,Ofício - Wine & Dining Room,Bib Gourmand,Traditional Cuisine,Restaurant,45,https://www.google.com/maps/search/?api=1&query=Of%C3%ADcio%20-%20Wine%20%26%20Dining%20Room%2C%20Rua%20Nova%20da%20Trindade%2011%2C%20Lisbon%2C%201200-301%2C%20Portugal
+Lisbon,O Frade,Selected,Regional Cuisine,Restaurant,32,https://www.google.com/maps/search/?api=1&query=O%20Frade%2C%20Cal%C3%A7ada%20da%20Ajuda%2014%2C%20Lisbon%2C%201300-006%2C%20Portugal
+Lisbon,Olivier Avenida,,,Restaurant,,https://www.google.com/maps/search/Olivier%20Avenida%20restaurante%20Lisboa/?hl=en
+Lisbon,O Magano,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=O%20Magano%2C%20Lisboa%2C%20Portugal
+Lisbon,O Nobre,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=O%20Nobre%2C%20Lisboa%2C%20Portugal
+Lisbon,Open Brasserie Mediterrânica,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Open%20Brasserie%20Mediterr%C3%A2nica%2C%20Lisboa%2C%20Portugal
+Lisbon,Os Tibetanos,,,Vegetarian restaurant,,https://www.google.com/maps/search/?api=1&query=Os%20Tibetanos%2C%20Lisboa%2C%20Portugal
+Lisbon,O Talho,Selected,Meats and Grills,Restaurant,55,https://www.google.com/maps/search/?api=1&query=O%20Talho%2C%20Rua%20Carlos%20Testa%201%2C%20Lisbon%2C%201050-046%2C%20Portugal
+Lisbon,Pabe,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Pabe%2C%20Lisboa%2C%20Portugal
+Lisbon,Paço da Rainha,,,,,https://www.google.com/maps/search/?api=1&query=Pa%C3%A7o%20da%20Rainha%2C%20Lisboa%2C%20Portugal
+Lisbon,Panorama,,,,,https://www.google.com/maps/search/?api=1&query=Panorama%2C%20Lisboa%2C%20Portugal
+Lisbon,Pap'açorda,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Pap%27a%C3%A7orda%2C%20Lisboa%2C%20Portugal
+Lisbon,Peixaria da Esquina,,,,,https://www.google.com/maps/search/?api=1&query=Peixaria%20da%20Esquina%2C%20Lisboa%2C%20Portugal
+Lisbon,Pigmeu,Bib Gourmand,Portuguese,Restaurant,42,https://www.google.com/maps/search/?api=1&query=Pigmeu%2C%20Rua%20do%204%20De%20Infantaria%2068%2C%20Lisbon%2C%201350-274%2C%20Portugal
+Lisbon,Plano,Selected,Contemporary,Restaurant,95,https://www.google.com/maps/search/?api=1&query=Plano%2C%20Rua%20da%20Bela%20Vista%20%C3%A0%20Gra%C3%A7a%20126%2C%20Lisbon%2C%201170-075%2C%20Portugal
+Lisbon,Populi,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Populi%2C%20Lisboa%2C%20Portugal
+Lisbon,Prado,,,Restaurant,32,https://www.google.com/maps/search/?api=1&query=Prado%2C%20Lisboa%2C%20Portugal
+Lisbon,Praia no Parque,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Praia%20no%20Parque%2C%20Lisboa%2C%20Portugal
+Lisbon,Quanjude,,,,,https://www.google.com/maps/search/?api=1&query=Quanjude%2C%20Lisboa%2C%20Portugal
+Lisbon,Rabo d'Pêxe,,,,,https://www.google.com/maps/search/?api=1&query=Rabo%20d%27P%C3%AAxe%2C%20Lisboa%2C%20Portugal
+Lisbon,RIB - Beef & Wine,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=RIB%20-%20Beef%20%26%20Wine%2C%20Lisboa%2C%20Portugal
+Lisbon,Sabores de Goa,,,Goan restaurant,,https://www.google.com/maps/search/?api=1&query=Sabores%20de%20Goa%2C%20Lisboa%2C%20Portugal
+Lisbon,Sala de Corte,,,Steak house,,https://www.google.com/maps/search/?api=1&query=Sala%20de%20Corte%2C%20Lisboa%2C%20Portugal
+Lisbon,Sála de João Sá,,,Fine dining restaurant,155,https://www.google.com/maps/search/?api=1&query=S%C3%A1la%20de%20Jo%C3%A3o%20S%C3%A1%2C%20Lisboa%2C%20Portugal
+Lisbon,Salsa e Coentros,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Salsa%20e%20Coentros%2C%20Lisboa%2C%20Portugal
+Lisbon,Santa Joana,Selected,Contemporary,Restaurant,38,https://www.google.com/maps/search/?api=1&query=Santa%20Joana%2C%20Rua%20de%20Santa%20Marta%2061B%2C%20Lisbon%2C%201059-002%2C%20Portugal
+Lisbon,Sea Me Peixaria Moderna,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Sea%20Me%20Peixaria%20Moderna%2C%20Lisboa%2C%20Portugal
+Lisbon,Seen Lisboa,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Seen%20Lisboa%2C%20Lisboa%2C%20Portugal
+Lisbon,Selllva,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Selllva%2C%20Lisboa%2C%20Portugal
+Lisbon,SEM,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=SEM%2C%20Lisboa%2C%20Portugal
+Lisbon,Sem Dúvida,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Sem%20D%C3%BAvida%2C%20Lisboa%2C%20Portugal
+Lisbon,Soão - Taberna Asiática,,,Pan-Asian restaurant,,https://www.google.com/maps/search/?api=1&query=So%C3%A3o%20-%20Taberna%20Asi%C3%A1tica%2C%20Lisboa%2C%20Portugal
+Lisbon,Solar dos Nunes,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Solar%20dos%20Nunes%2C%20Lisboa%2C%20Portugal
+Lisbon,Solar dos Presuntos,,,Restaurant,55,https://www.google.com/maps/search/?api=1&query=Solar%20dos%20Presuntos%2C%20Lisboa%2C%20Portugal
+Lisbon,Sommelier Lisbon,,,,,https://www.google.com/maps/search/?api=1&query=Sommelier%20Lisbon%2C%20Lisboa%2C%20Portugal
+Lisbon,Suba,Selected,Contemporary,Restaurant,95,https://www.google.com/maps/search/?api=1&query=Suba%2C%20Tv.%20da%20Portuguesa%2053%2C%20Lisbon%2C%201200-401%2C%20Portugal
+Lisbon,Taberna - Bairro do Avillez,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Taberna%20-%20Bairro%20do%20Avillez%2C%20Lisboa%2C%20Portugal
+Lisbon,Taberna da Rua das Flores,,,Bistro,,https://www.google.com/maps/search/?api=1&query=Taberna%20da%20Rua%20das%20Flores%2C%20Lisboa%2C%20Portugal
+Lisbon,Taberna do Calhau,,,,,https://www.google.com/maps/search/?api=1&query=Taberna%20do%20Calhau%2C%20Lisboa%2C%20Portugal
+Lisbon,Taberna Sal Grosso,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Taberna%20Sal%20Grosso%2C%20Lisboa%2C%20Portugal
+Lisbon,Tágide,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=T%C3%A1gide%2C%20Lisboa%2C%20Portugal
+Lisbon,Tasca da Esquina,,,European restaurant,,https://www.google.com/maps/search/?api=1&query=Tasca%20da%20Esquina%2C%20Lisboa%2C%20Portugal
+Lisbon,Terraço BAHR,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Terra%C3%A7o%20BAHR%2C%20Lisboa%2C%20Portugal
+Lisbon,Terroir,Selected,Modern Cuisine,Restaurant,95,https://www.google.com/maps/search/?api=1&query=Terroir%2C%20Rua%20da%20Madalena%2C%20271%2C%20Lisbon%2C%201100-321%2C%20Portugal
+Lisbon,The Old House,,,Chinese restaurant,,https://www.google.com/maps/search/?api=1&query=The%20Old%20House%2C%20Lisboa%2C%20Portugal
+Lisbon,Valle Flôr,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Valle%20Fl%C3%B4r%2C%20Lisboa%2C%20Portugal
+Lisbon,Varanda,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Varanda%2C%20Lisboa%2C%20Portugal
+Lisbon,Via Graça,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Via%20Gra%C3%A7a%2C%20Lisboa%2C%20Portugal
+Lisbon,Viva Lisboa,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Viva%20Lisboa%2C%20Lisboa%2C%20Portugal
+Lisbon,Volver de Carne y Alma,,,Argentinian restaurant,,https://www.google.com/maps/search/?api=1&query=Volver%20de%20Carne%20y%20Alma%2C%20Lisboa%2C%20Portugal
+Lisbon,Yakuza by Olivier,,,Japanese restaurant,,https://www.google.com/maps/search/?api=1&query=Yakuza%20by%20Olivier%2C%20Lisboa%2C%20Portugal
+Lisbon,Zunzum Gastrobar,Bib Gourmand,Contemporary,Restaurant,45,https://www.google.com/maps/search/?api=1&query=Zunzum%20Gastrobar%2C%20Avenida%20Infante%20D.%20Henrique.%20Doca%20do%20Jardim%20do%20Tabaco%2C%20Lisbon%2C%201100-651%2C%20Portugal
+Porto,1858 BB Gourmet Criativo,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=1858%20BB%20Gourmet%20Criativo%2C%20Porto%2C%20Portugal
+Porto,A Cozinha do Manel,,,Restaurant,28,https://www.google.com/maps/search/?api=1&query=A%20Cozinha%20do%20Manel%2C%20Porto%2C%20Portugal
+Porto,Adega de São Nicolau,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Adega%20de%20S%C3%A3o%20Nicolau%2C%20Porto%2C%20Portugal
+Porto,Almeja,Selected,Contemporary,Fine dining restaurant,50,https://www.google.com/maps/search/?api=1&query=Almeja%2C%20Rua%20Fernandes%20Tom%C3%A1s%20819%2C%20Porto%2C%204000-219%2C%20Portugal
+Porto,Antiqvvm,,,Fine dining restaurant,200,https://www.google.com/maps/search/?api=1&query=Antiqvvm%2C%20Porto%2C%20Portugal
+Porto,Antunes,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Antunes%2C%20Porto%2C%20Portugal
+Porto,Apego,Selected,Creative,Restaurant,75,https://www.google.com/maps/search/?api=1&query=Apego%2C%20Rua%20de%20Santa%20Catarina%201198%2C%20Porto%2C%204000-457%2C%20Portugal
+Porto,Astória,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Ast%C3%B3ria%2C%20Porto%2C%20Portugal
+Porto,Atrevo,Selected,Contemporary,Restaurant,55,https://www.google.com/maps/search/?api=1&query=Atrevo%2C%20Rua%20de%20Morgado%20de%20Mateus%2051%2C%20Porto%2C%204000-334%2C%20Portugal
+Porto,Belos Aires,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Belos%20Aires%2C%20Porto%2C%20Portugal
+Porto,BH Foz,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=BH%20Foz%2C%20Porto%2C%20Portugal
+Porto,Bistrô Severo,Selected,Traditional Cuisine,Restaurant,45,https://www.google.com/maps/search/?api=1&query=Bistr%C3%B4%20Severo%2C%20Rua%20De%20Ricardo%20Severo%20141%2C%20Porto%2C%204050-515%2C%20Portugal
+Porto,Boa-Bao,,,Pan-Asian restaurant,,https://www.google.com/maps/search/?api=1&query=Boa-Bao%2C%20Porto%2C%20Portugal
+Porto,Cafeína,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Cafe%C3%ADna%2C%20Porto%2C%20Portugal
+Porto,Camilo,Selected,Contemporary,Restaurant,45,https://www.google.com/maps/search/?api=1&query=Camilo%2C%20Rua%20do%20Almada%2C%20378%2C%20Porto%2C%204050-033%2C%20Portugal
+Porto,Cantina 32,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Cantina%2032%2C%20Porto%2C%20Portugal
+Porto,Cantinho do Avillez,,,Portuguese restaurant,34,https://www.google.com/maps/search/?api=1&query=Cantinho%20do%20Avillez%2C%20Porto%2C%20Portugal
+Porto,Casa de Pasto da Palmeira,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Casa%20de%20Pasto%20da%20Palmeira%2C%20Porto%2C%20Portugal
+Porto,Casa D'oro,,,Italian restaurant,,https://www.google.com/maps/search/?api=1&query=Casa%20D%27oro%2C%20Porto%2C%20Portugal
+Porto,Casa Nanda,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Casa%20Nanda%2C%20Porto%2C%20Portugal
+Porto,Casario,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Casario%2C%20Porto%2C%20Portugal
+Porto,Cervejaria Brasão Aliados,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Cervejaria%20Bras%C3%A3o%20Aliados%2C%20Porto%2C%20Portugal
+Porto,Cozinha das Flores,Selected,Modern Cuisine,Restaurant,45,https://www.google.com/maps/search/?api=1&query=Cozinha%20das%20Flores%2C%20Largo%20S%C3%A3o%20Domingos%2062%2C%20Porto%2C%204050-545%2C%20Portugal
+Porto,Cruel,,,,,https://www.google.com/maps/search/Cruel%20restaurante%20Porto/?hl=en
+Porto,Digby,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Digby%2C%20Porto%2C%20Portugal
+Porto,DOP,,,Fine dining restaurant,75,https://www.google.com/maps/search/?api=1&query=DOP%2C%20Porto%2C%20Portugal
+Porto,Élebê,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=%C3%89leb%C3%AA%2C%20Porto%2C%20Portugal
+Porto,Elemento,Selected,Modern Cuisine,Restaurant,95,https://www.google.com/maps/search/?api=1&query=Elemento%2C%20Rua%20do%20Almada%2051%2C%20Porto%2C%204050-036%2C%20Portugal
+Porto,Euskalduna Studio,,,Fine dining restaurant,160,https://www.google.com/maps/search/?api=1&query=Euskalduna%20Studio%2C%20Porto%2C%20Portugal
+Porto,Fauno,Selected,Contemporary,Restaurant,65,https://www.google.com/maps/search/?api=1&query=Fauno%2C%20Rua%20Estreita%20de%20L%C3%B3ios%205%2C%20Porto%2C%204050-244%2C%20Portugal
+Porto,Flor de Lis,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Flor%20de%20Lis%2C%20Porto%2C%20Portugal
+Porto,Flow Restaurant & Bar,,,Fusion restaurant,,https://www.google.com/maps/search/?api=1&query=Flow%20Restaurant%20%26%20Bar%2C%20Porto%2C%20Portugal
+Porto,Frida - Cocina Mestiza,,,Mexican restaurant,,https://www.google.com/maps/search/?api=1&query=Frida%20-%20Cocina%20Mestiza%2C%20Porto%2C%20Portugal
+Porto,Galeria do Largo,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Galeria%20do%20Largo%2C%20Porto%2C%20Portugal
+Porto,Ichiban,,,,,https://www.google.com/maps/search/?api=1&query=Ichiban%2C%20Porto%2C%20Portugal
+Porto,In Diferente,,,Fine dining restaurant,110,https://www.google.com/maps/search/?api=1&query=In%20Diferente%2C%20Porto%2C%20Portugal
+Porto,Le Monument,,,Fine dining restaurant,,https://www.google.com/maps/search/?api=1&query=Le%20Monument%2C%20Porto%2C%20Portugal
+Porto,Liz,Selected,Contemporary,Restaurant,80,https://www.google.com/maps/search/?api=1&query=Liz%2C%20Rua%20de%20Mota%20Pinto%20170%2C%20Porto%2C%204100-354%2C%20Portugal
+Porto,Mistu,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Mistu%2C%20Porto%2C%20Portugal
+Porto,Mito,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Mito%2C%20Porto%2C%20Portugal
+Porto,Mundo,,,,,https://www.google.com/maps/search/?api=1&query=Mundo%2C%20Porto%2C%20Portugal
+Porto,MUU Steakhouse,,,Steak house,,https://www.google.com/maps/search/?api=1&query=MUU%20Steakhouse%2C%20Porto%2C%20Portugal
+Porto,O Buraco,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=O%20Buraco%2C%20Porto%2C%20Portugal
+Porto,ODE Porto Wine House,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=ODE%20Porto%20Wine%20House%2C%20Porto%2C%20Portugal
+Porto,Oficina,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Oficina%2C%20Porto%2C%20Portugal
+Porto,OMA,Bib Gourmand,Contemporary,Restaurant,70,https://www.google.com/maps/search/?api=1&query=OMA%2C%20Rua%20De%20Oliveira%20Monteiro%2C%20183%2C%20Porto%2C%204050-442%2C%20Portugal
+Porto,O Paparico,,,,100,https://www.google.com/maps/search/?api=1&query=O%20Paparico%2C%20Porto%2C%20Portugal
+Porto,O Rápido,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=O%20R%C3%A1pido%2C%20Porto%2C%20Portugal
+Porto,Páteo das Flores,,,,,https://www.google.com/maps/search/?api=1&query=P%C3%A1teo%20das%20Flores%2C%20Porto%2C%20Portugal
+Porto,Pátio 44,Bib Gourmand,Traditional Cuisine,Restaurant,27,https://www.google.com/maps/search/?api=1&query=P%C3%A1tio%2044%2C%20Passeio%20De%20S%C3%A3o%20L%C3%A1zaro%2C%2044%2C%20Porto%2C%204000%20508%2C%20Portugal
+Porto,Pedro Lemos,,,Fine dining restaurant,110,https://www.google.com/maps/search/?api=1&query=Pedro%20Lemos%2C%20Porto%2C%20Portugal
+Porto,Pisca,,,,,https://www.google.com/maps/search/Pisca%20restaurante%20Porto/?hl=en
+Porto,Portarossa,,,Italian restaurant,,https://www.google.com/maps/search/?api=1&query=Portarossa%2C%20Porto%2C%20Portugal
+Porto,Porto Novo,,,Restaurant,,https://www.google.com/maps/search/Porto%20Novo%20restaurante%20Porto/?hl=en
+Porto,Portucale,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Portucale%2C%20Porto%2C%20Portugal
+Porto,Puro 4050,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Puro%204050%2C%20Porto%2C%20Portugal
+Porto,Real Indiana,,,Indian restaurant,,https://www.google.com/maps/search/?api=1&query=Real%20Indiana%2C%20Porto%2C%20Portugal
+Porto,Reitoria,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Reitoria%2C%20Porto%2C%20Portugal
+Porto,Rib Beef & Wine Porto,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Rib%20Beef%20%26%20Wine%20Porto%2C%20Porto%2C%20Portugal
+Porto,Sagardi,,,Basque restaurant,,https://www.google.com/maps/search/?api=1&query=Sagardi%2C%20Porto%2C%20Portugal
+Porto,SHIKO - Tasca Japonesa,,,Japanese restaurant,,https://www.google.com/maps/search/?api=1&query=SHIKO%20-%20Tasca%20Japonesa%2C%20Porto%2C%20Portugal
+Porto,Taberna dos Mercadores,,,Portuguese restaurant,,https://www.google.com/maps/search/?api=1&query=Taberna%20dos%20Mercadores%2C%20Porto%2C%20Portugal
+Porto,Terra,,,Sushi restaurant,,https://www.google.com/maps/search/?api=1&query=Terra%2C%20Porto%2C%20Portugal
+Porto,Tia Orlanda,,,African restaurant,,https://www.google.com/maps/search/?api=1&query=Tia%20Orlanda%2C%20Porto%2C%20Portugal
+Porto,Torreão,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Torre%C3%A3o%2C%20Porto%2C%20Portugal
+Porto,Traça,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Tra%C3%A7a%2C%20Porto%2C%20Portugal
+Porto,Trattoria 179 - BH Concept,,,Restaurant,,https://www.google.com/maps/search/?api=1&query=Trattoria%20179%20-%20BH%20Concept%2C%20Porto%2C%20Portugal
+Porto,Wish Restaurante & Sushi,,,Fine dining restaurant,,https://www.google.com/maps/search/?api=1&query=Wish%20Restaurante%20%26%20Sushi%2C%20Porto%2C%20Portugal

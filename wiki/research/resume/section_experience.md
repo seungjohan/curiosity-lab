@@ -27,4 +27,4 @@ tag: resume
 - *Drafting area for high-impact bullet points*
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]

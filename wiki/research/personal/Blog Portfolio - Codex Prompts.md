@@ -22,5 +22,5 @@ type: resource
 (Placeholder for Codex prompts provided by the user)
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 - [[seungjohan.com]]

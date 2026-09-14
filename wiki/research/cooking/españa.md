@@ -22,4 +22,4 @@ type: list
 - **Fideuà**: A seafood dish similar to paella but using noodles, representing a creative "fork" of a traditional architecture.
 
 ## 🔗 Connections
-- [[wiki/cooking/index.md|Culinary Master Index]]
+- [[index|Culinary Master Index]]

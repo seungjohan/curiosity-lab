@@ -73,7 +73,7 @@ Several cultures already build in **structured time to wander and rediscover wha
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[The Connection]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career)
+- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[The Connection]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
 - **ai-as-enabler-not-replacer** → [[Been There]] (system), [[Return to Basics]] (system), [[The Connection]] (system)
 - **abstraction-raises-altitude** → [[../projects/AI & Agentic Workflows]] (system), [[../projects/AI in Education - Side Effects]] (system), [[../research/career/Product-Management-0-to-1]] (career), [[../research/system/connecting_the_dot]] (system), [[../research/vibecoding/index]] (vibecoding)
 <!-- AUTO-CONCEPTS:END -->

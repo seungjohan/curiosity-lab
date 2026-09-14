@@ -59,7 +59,7 @@ Explore the world through its flavors. This index organizes culinary research by
 - [[middle-east|Middle East : The Cradle of Flavors]]
 
 ## 🥖 Baking & Pastry
-- [[wiki/cooking/baking/index.md|Baking: Master Index]] — Breads, fermentation, and oven techniques.
+- [[baking/index|Baking: Master Index]] — Breads, fermentation, and oven techniques.
 
 ## 📖 Recipe Inspiration
 - [[recipe-references|Recipe References]] — Categorized database of dishes, techniques, and ingredients from web sources.

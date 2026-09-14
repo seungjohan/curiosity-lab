@@ -11,7 +11,7 @@ category: cooking
 # Favorite Foods
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 - [[Michelin Filter]]
 
 

@@ -24,6 +24,6 @@ category: personal
 - **Sources**: `raw/obsidian/input/myself/Small Talk with Strangers.md`, `raw/obsidian/input/myself/Reflections on Human Relationships.md`
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 - [[Relationship Lessons]]
 - [[Self-Reflection]]

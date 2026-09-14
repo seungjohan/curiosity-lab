@@ -20,10 +20,10 @@ type: list
 Research and deep dives into the science and art of baking.
 
 ## 🍞 Breads
-- **[[wiki/cooking/baking/baguette.md|Baguette]]**: iconic French long bread; a study in crust-to-crumb ratios.
-- **[[wiki/cooking/baking/focaccia.md|Focaccia]]**: high-hydration Italian bread; designed for surface-level flavor delivery.
-- **[[wiki/cooking/baking/levain.md|Levain (Sourdough Starter)]]**: the biological infrastructure of artisanal baking.
+- **[[baguette|Baguette]]**: iconic French long bread; a study in crust-to-crumb ratios.
+- **[[focaccia|Focaccia]]**: high-hydration Italian bread; designed for surface-level flavor delivery.
+- **[[levain|Levain (Sourdough Starter)]]**: the biological infrastructure of artisanal baking.
 
 ## 🔗 Connections
-- [[wiki/cooking/index.md|Culinary Arts: Master Index]]
-- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
+- [[../index|Culinary Arts: Master Index]]
+- [[../vocabulary|Cooking Vocabulary]]

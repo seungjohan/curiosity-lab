@@ -21,6 +21,12 @@ type: resource
 
 # PRD — Chronicle (v1: Archive + Lightweight Linking)
 
+> [!WARNING] Superseded by [[Constellate_prd|Constellate PRD]] (2026-09-04)
+> The product absorbed this one and grew: macOS desktop instead of web PWA, SQLite instead of IndexedDB,
+> a reading surface with highlights, media types as first-class, trend promoted from Phase 2 to v1 core,
+> and Projects as a second container. **This document is still live as a source** — its design system (§6.1),
+> component inventory (§6.3), seed content (§6.6) and linking engine (§7) are inherited unchanged by v2.
+
 ## Product Details
 | | |
 |---|---|
@@ -321,6 +327,6 @@ Personal-use signals (v1 is for one user — measure usefulness, not scale):
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product), [[../../research/career/Creative-Tech-Trends]] (career)
-- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../Michelin Filter]] (system), [[../../research/cooking/selected-restaurants]] (cooking), [[../../research/system/connecting_the_dot]] (system), [[../../research/system/graphrag-connection-engine]] (system)
+- **interpretation-over-artifact** → [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[../../ideation/Keep in Touch - Relationship Chronicle]] (system), [[../../ideation/Private Space - The Bedroom Moved Online]] (music), [[../../ideation/The Connection]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product), [[Constellate_prd]] (product), [[../../research/career/Creative-Tech-Trends]] (career), [[../../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../Michelin Filter]] (system), [[../Trip Guide - Shareable Restaurant Map]] (travel), [[../../research/cooking/selected-restaurants]] (cooking), [[../../research/system/connecting_the_dot]] (system), [[../../research/system/graph-theory-foundations]] (system), [[../../research/system/graphrag-connection-engine]] (system)
 <!-- AUTO-CONCEPTS:END -->

@@ -42,6 +42,6 @@ This category tracks the development of my personal online presence, focusing on
 - [[Imagination]] — the what-if hub, looping [[../../stream|Stream]] ↔ [[Bucket List]]
 - [[Bucket List]] — things to do, learn, and become
 - [[Dreams & Hobbies]] — interests that feed both
-- [[wiki/index.md|Master Index]]
+- [[../../index|Master Index]]
 - [[Product-Management-0-to-1]]
 - [[narrative_strategy]]

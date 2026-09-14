@@ -34,4 +34,4 @@ This table tracks inspiration sites and technical resources for the personal web
 
 ## 🔗 Connections
 - [[index]]
-- [[wiki/vibecoding/karpathy-llm-wiki|LLM-Wiki Pattern]]
+- [[../vibecoding/karpathy-llm-wiki|LLM-Wiki Pattern]]

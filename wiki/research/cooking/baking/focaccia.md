@@ -27,8 +27,8 @@ A flat leavened Italian oven-baked bread, similar in style and texture to pizza 
 - **Brine (Samoia)**: A mixture of water, olive oil, and salt poured over the dough before baking for maximum moisture and flavor.
 
 ## 🔗 Connections
-- [[wiki/cooking/italia.md|Italia Cuisine]]
-- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
+- [[../italia|Italia Cuisine]]
+- [[../vocabulary|Cooking Vocabulary]]
 
 ## 📚 References
 | Title | Media | URL |

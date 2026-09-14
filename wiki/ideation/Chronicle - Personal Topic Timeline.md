@@ -2,7 +2,7 @@
 stage: ideation
 category: product
 concepts: [interpretation-over-artifact, multi-signal-fusion]
-lifecycle: researching
+lifecycle: building
 ---
 
 > [!IMPORTANT] Key Takeaway
@@ -93,13 +93,14 @@ Ship the archive first as a solid wedge; the analysis (the real differentiator) 
 - Back ← [[sparks|✨ Spark List]] — promoted from the `Topic time-archive` spark (2026-07-24)
 - Back ← [[ideation]] — tracked on the active ideation board
 - Spec → [[../projects/prd/Chronicle_prd|Chronicle PRD]] — v1 (the archive) product requirements
+- Spec → [[../projects/prd/Constellate_prd|Constellate PRD]] — the current spec: archive · read · trend · projects (supersedes v1)
 - Sibling → [[Unified-Media-Insight-Capture-Tool]] — the moment-of-insight capture cousin; this one archives whole media chronologically
 - Hub → [[../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[Company Fit Finder - Where to Work]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[The Connection]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career)
-- **multi-signal-fusion** → [[Advance Planner]] (system), [[Been There]] (system), [[Company Fit Finder - Where to Work]] (system), [[Taste Detector]] (system), [[The Connection]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graphrag-connection-engine]] (system)
+- **interpretation-over-artifact** → [[Company Fit Finder - Where to Work]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[The Connection]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **multi-signal-fusion** → [[Advance Planner]] (system), [[Been There]] (system), [[Company Fit Finder - Where to Work]] (system), [[Taste Detector]] (system), [[The Connection]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system)
 <!-- AUTO-CONCEPTS:END -->
 
 ### Tension ✦ (hand-picked)

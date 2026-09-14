@@ -2,6 +2,7 @@
 stage: research
 category: vibecoding
 tag: vibecoding
+concepts: [interpretation-over-artifact]
 source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 tags:
 - reference
@@ -32,6 +33,14 @@ Karpathy proposes a pattern for personal knowledge management where an LLM maint
 - **Discipline:** The LLM must follow strict schemas to ensure the wiki remains a coherent "operating system" for thoughts.
 
 ## 🔗 Connections
-- [[index]]
-- [[references]]
-- [[wiki/index.md|Knowledge OS Master Index]]
+
+### ⬆ Pipeline
+- Informs → [[llm-wiki-pattern]] — this Gist is the blueprint; that page is the vault's own implementation of the pattern
+- Related → [[references|Vibecoding References]]
+- Hub → [[index|Vibecoding Index]]
+- Hub → [[../../index|Knowledge OS Master Index]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **interpretation-over-artifact** → [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[../../ideation/Keep in Touch - Relationship Chronicle]] (system), [[../../ideation/Private Space - The Bedroom Moved Online]] (music), [[../../ideation/The Connection]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product), [[../../projects/prd/Chronicle_prd]] (product), [[../../projects/prd/Constellate_prd]] (product), [[../career/Creative-Tech-Trends]] (career)
+<!-- AUTO-CONCEPTS:END -->

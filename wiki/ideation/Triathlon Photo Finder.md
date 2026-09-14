@@ -39,8 +39,8 @@ An AI-powered tool to help athletes find their photos in large event galleries (
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **needle-in-haystack-retrieval** → [[Advance Planner]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../research/system/graphrag-connection-engine]] (system)
-- **multi-signal-fusion** → [[Advance Planner]] (system), [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Taste Detector]] (system), [[The Connection]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graphrag-connection-engine]] (system)
+- **needle-in-haystack-retrieval** → [[Advance Planner]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../research/system/graphrag-connection-engine]] (system)
+- **multi-signal-fusion** → [[Advance Planner]] (system), [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Taste Detector]] (system), [[The Connection]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system)
 <!-- AUTO-CONCEPTS:END -->
 
 ---

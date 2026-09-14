@@ -27,11 +27,11 @@ Bouillabaisse is a traditional Provençal fish stew originating from the port ci
 ### 1. The Essence (Fumet/Stock)
 - **Small Rockfish**: Mandatory for gelatinous body.
 - **Aromatics**: Leeks, fennel, garlic, tomato paste.
-- **The Infusion**: Saffron, orange zest, and [[wiki/cooking/vocabulary.md#French|Pernod]].
+- **The Infusion**: Saffron, orange zest, and [[vocabulary#French|Pernod]].
 
 ### 2. The Poaching (Precision Assembly)
 - **Noble Fish**: Rascasse (Scorpion Fish), St. Pierre (John Dory), Lotte (Monkfish).
-- **Technique**: [[wiki/cooking/vocabulary.md#French|Sauté]] aromatics before deglazing. Each fish is poached at its ideal temperature.
+- **Technique**: [[vocabulary#French|Sauté]] aromatics before deglazing. Each fish is poached at its ideal temperature.
 - **Bouquet Garni**: A bundle of herbs used for flavoring.
 
 ### 3. The Embellishments
@@ -39,13 +39,13 @@ Bouillabaisse is a traditional Provençal fish stew originating from the port ci
 - **Croutons**: Sourdough rubbed with garlic.
 
 ## 📖 Culinary Vocabulary
-- **[[wiki/cooking/vocabulary.md#French|Sauté]]**: To cook food quickly in a minimal amount of fat over relatively high heat.
-- **[[wiki/cooking/vocabulary.md#French|Bouquet Garni]]**: A bundle of herbs (usually parsley, thyme, and bay leaf) tied together.
-- **[[wiki/cooking/vocabulary.md#French|Pernod]]**: An anise-flavored liqueur used for finishing the broth.
+- **[[vocabulary#French|Sauté]]**: To cook food quickly in a minimal amount of fat over relatively high heat.
+- **[[vocabulary#French|Bouquet Garni]]**: A bundle of herbs (usually parsley, thyme, and bay leaf) tied together.
+- **[[vocabulary#French|Pernod]]**: An anise-flavored liqueur used for finishing the broth.
 
 ## 🔗 Connections
-- [[wiki/cooking/france.md|France Cuisine]]
-- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
+- [[france|France Cuisine]]
+- [[vocabulary|Cooking Vocabulary]]
 
 ## 📚 References
 | Title | Media | URL |

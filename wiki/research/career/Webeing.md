@@ -36,6 +36,6 @@ A B2B2C food e-commerce platform (2020.01 - 2021.06) focused on reducing food wa
 - **Source**: `raw/obsidian/startup/Webeing.md`
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 - [[Startup Insights]]
 - [[ideation]]

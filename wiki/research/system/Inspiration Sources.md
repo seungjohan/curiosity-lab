@@ -11,7 +11,7 @@ category: inspiration
 # Inspiration Sources
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 
 
 A curated list of media channels, organizations, and platforms that provide inspiration for startup ideas, business strategy, and personal growth.

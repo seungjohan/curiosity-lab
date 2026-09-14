@@ -15,9 +15,12 @@ When something floods to abundant and near-free, its *opposite* becomes the scar
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
 - [[../ideation/Company Fit Finder - Where to Work]] (system)
+- [[../ideation/Private Space - The Bedroom Moved Online]] (music)
 - [[../ideation/Return to Basics]] (system)
 - [[../ideation/Unified-Media-Insight-Capture-Tool]] (product)
 - [[../projects/Michelin Filter]] (system)
+- [[../research/cooking/coq-au-vin]] (cooking)
+- [[../research/cooking/soupe-a-loignon]] (cooking)
 <!-- AUTO-INSTANCES:END -->
 
 ## 🔗 Connections

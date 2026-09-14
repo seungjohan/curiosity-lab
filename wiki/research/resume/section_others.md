@@ -24,4 +24,4 @@ tag: resume
 - *Drafting area for skills and interests*
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]

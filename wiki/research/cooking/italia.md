@@ -18,7 +18,7 @@ type: list
 # 🇮🇹 Cucina Italiana
 
 ## 🍲 Piatti Tipici
-- *Empty - Awaiting entries*
+- **Polpette**: Italian meatballs (sing. *polpetta*), typically beef and/or pork bound with bread soaked in milk, Parmigiano, egg, and parsley — the milk-soaked bread is what keeps them soft rather than dense. Served as a *secondo* on their own or braised in tomato sauce (*polpette al sugo*), and traditionally **not** served on top of pasta — spaghetti and meatballs is an Italian-American invention. Meatless versions are common in the South, especially *polpette di melanzane* (eggplant). (KR: **폴페테**)
 
 ## 🍝 Pasta
 - **Fresh Pasta**: Pasta made with fresh dough, typically containing eggs and flour, known for its soft, tender texture and shorter cooking time compared to dried pasta.
@@ -33,4 +33,4 @@ type: list
 - **San Marzano Pomodoro**: The gold standard for Italian tomatoes, grown in Sarno valley volcanic soil near Mount Vesuvius. Essential for authentic *Pizza Napoletana*.
 
 ## 🔗 Connections
-- [[wiki/cooking/index.md|Culinary Master Index]]
+- [[index|Culinary Master Index]]

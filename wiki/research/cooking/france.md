@@ -18,12 +18,18 @@ type: list
 # 🇫🇷 Cuisine Française
 
 ## 🍲 Plats Signature
-- **[[wiki/cooking/bouillabaisse.md|Bouillabaisse]]** : Une soupe de poisson complexe de Marseille, incarnant le terroir régional et la précision de l'assemblage.
-- **[[wiki/cooking/soupe-a-loignon.md|Soupe à l’oignon]]** : Une étude sur la caramélisation—transformer un ingrédient simple en une expérience profonde et savoureuse.
-- **[[wiki/cooking/coq-au-vin.md|Coq au Vin]]** : Une leçon de braisage et d'extraction de saveurs à travers le vin et le temps.
+- **[[bouillabaisse|Bouillabaisse]]** : Une soupe de poisson complexe de Marseille, incarnant le terroir régional et la précision de l'assemblage.
+- **[[soupe-a-loignon|Soupe à l’oignon]]** : Une étude sur la caramélisation—transformer un ingrédient simple en une expérience profonde et savoureuse.
+- **[[coq-au-vin|Coq au Vin]]** : Une leçon de braisage et d'extraction de saveurs à travers le vin et le temps.
 - **Bœuf Bourguignon** : Une leçon de choses dans l'extraction lente des saveurs (braisage) et la "fusion" de la viande, du vin et des aromates.
 - **Quiche Lorraine** : Une tarte salée classique composée d'une crème prise, de lardons et d'œufs. (KR: **키쉬 로렌**)
+- **Sole Meunière** : Une sole farinée puis poêlée au beurre, servie avec ce même beurre monté en *noisette*, citron et persil — la farine fait la croûte, et la sauce se fait dans la poêle. (KR: **솔 뫼니에르**)
 - **Confit de Canard** : Cuisse de canard cuite lentement dans sa propre graisse, un exemple parfait de conservation par le gras. (KR: **오리 콩피**)
+- **Cassoulet** : Un ragoût de haricots blancs du Languedoc, longuement mijoté avec couenne, saucisse de Toulouse et confit de canard, puis cuit au four dans une *cassole* en terre cuite — le plat porte le nom de son récipient. (KR: **카술레**)
+
+
+## 🥗 Entrées & Crudités
+- **Carottes râpées** : Carottes crues râpées, assaisonnées d'une vinaigrette moutardée au citron ou au vinaigre, avec du persil. Servie froide en entrée — bistro, cantine, traiteur. L'une des *crudités* classiques de l'assiette, avec le céleri rémoulade et la betterave. (KR: **당근 라페**)
 
 ## 🍄 Ingrédients Clés (Wild Mushrooms)
 - **Les Cèpes (Porcini)** : Champignons sauvages charnus, essentiels à la cuisine d'automne française. (KR: **포르치니 버섯**)
@@ -31,4 +37,4 @@ type: list
 - **Les Girolles / Chanterelles** : Champignons sauvages dorés au parfum d'abricot. (KR: **꾀꼬리버섯 / 지롤**)
 
 ## 🔗 Connections
-- [[wiki/cooking/index.md|Culinary Master Index]]
+- [[index|Culinary Master Index]]

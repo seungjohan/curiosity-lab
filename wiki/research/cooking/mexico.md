@@ -18,7 +18,7 @@ type: list
 # 🇲🇽 Mexican Cuisine
 
 ## 🍲 Signature Dishes
-- *Empty - Awaiting entries*
+- **Tacos al Pastor**: Pork marinated in dried chiles and achiote, stacked on a vertical spit (*trompo*) and shaved onto small tortillas with pineapple, onion and cilantro. The spit is **not** indigenous — it is Lebanese shawarma, brought to Puebla by immigrants in the early 20th century and rebuilt around pork and Mexican chiles. A clean example of a technique crossing a border while the flavour stays local. (KR: **알 파스토르**)
 
 ## 🔗 Connections
-- [[wiki/cooking/index.md|Culinary Master Index]]
+- [[index|Culinary Master Index]]

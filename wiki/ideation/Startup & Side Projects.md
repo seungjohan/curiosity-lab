@@ -18,6 +18,7 @@ The subject hub for startup and side-project work. The notes below all declare t
 - [[The Connection]] — MBTI + Graph ML team-synergy analysis.
 - [[Triathlon Photo Finder]] — find your event photos via gear/bib recognition.
 - [[Return to Basics]] — physical "atoms" as premium anchors in an AI era.
+- [[Keep in Touch - Relationship Chronicle]] — CRM pointed at your own career: one thread per contact above the channels, so mentors and network don't drift.
 
 ## 🛠 Projects
 - [[../projects/Michelin Filter|Michelin Filter]] — reasonable fine dining, filtered from global + local signals.

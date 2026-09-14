@@ -22,11 +22,11 @@ type: Dish
 The definitive Spanish rice dish.
 
 ## 🥣 Key Features
-- **[[wiki/cooking/vocabulary.md#Spanish|Socarrat]]**: The prized caramelized crust at the bottom of the pan.
+- **[[vocabulary#Spanish|Socarrat]]**: The prized caramelized crust at the bottom of the pan.
 
 ## 🔗 Connections
-- [[wiki/cooking/españa.md|España Cuisine]]
-- [[wiki/cooking/vocabulary.md|Master Vocabulary List]]
+- [[españa|España Cuisine]]
+- [[vocabulary|Master Vocabulary List]]
 
 ## 📚 References
 | Title | Media | URL |

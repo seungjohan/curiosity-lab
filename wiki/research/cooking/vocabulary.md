@@ -20,9 +20,9 @@ This page consolidates culinary terms across different languages.
 ## 🇫🇷 French
 | Word | Meaning | Example | etc |
 | :--- | :--- | :--- | :--- |
-| **Sauté** | To cook food quickly in a minimal amount of fat over relatively high heat. | Used in [[wiki/cooking/bouillabaisse.md|Bouillabaisse]] | |
-| **Bouquet Garni** | A bundle of herbs (usually parsley, thyme, and bay leaf) tied together. | Used in [[wiki/cooking/bouillabaisse.md|Bouillabaisse]] | |
-| **Pernod** | An anise-flavored liqueur used for finishing the broth. | Used in [[wiki/cooking/bouillabaisse.md|Bouillabaisse]] | |
+| **Sauté** | To cook food quickly in a minimal amount of fat over relatively high heat. | Used in [[bouillabaisse|Bouillabaisse]] | |
+| **Bouquet Garni** | A bundle of aromatic herbs tied with kitchen twine (or wrapped in a leek leaf), simmered in a stock, soup or braise to infuse it, then **lifted out and discarded before serving**. Classic core: parsley stems, thyme, bay leaf. (KR: **부케 가르니**) | Used in [[bouillabaisse\|Bouillabaisse]], and in the overnight red-wine marinade for [[coq-au-vin\|Coq au Vin]]. | The whole point is *removability* — it flavours without leaving debris in the dish. A **sachet d'épices** is the same trick for loose spices (peppercorns, cloves), tied in muslin instead of twine. |
+| **Pernod** | An anise-flavored liqueur used for finishing the broth. | Used in [[bouillabaisse|Bouillabaisse]] | |
 | **Déglacer** | The French term for deglazing; adding liquid to a hot pan to release browned food bits. | "Déglacer la poêle avec du vin blanc." | |
 | **Pâté** | A mixture of cooked ground meat and fat minced into a spreadable paste. | Common as an appetizer or in charcuterie. | |
 | **Coq au Vin** | "Rooster in wine"; a classic French stew where chicken is braised with wine, lardons, and mushrooms. | A cornerstone of French country cooking. | |
@@ -33,10 +33,16 @@ This page consolidates culinary terms across different languages.
 | **Cèpes** | Porcini mushrooms; highly prized wild mushrooms with a meaty texture and earthy flavor. (KR: **포르치니 버섯**) | Often used in risottos or sautéed with garlic and parsley. | |
 | **Girolle** | The French name for the golden chanterelle mushroom. (KR: **꾀꼬리버섯 / 지롤**) | Known for its delicate, fruity aroma. | |
 | **Chanterelle** | A wild mushroom with a distinctive funnel shape and fruity aroma, often compared to apricots. (KR: **꾀꼬리버섯**) | | |
-| **Quiche** | A savory, open-faced pastry crust dish with a filling of savory custard with cheese, meat, seafood, or vegetables. (KR: **키쉬**) | Classic example is Quiche Lorraine (bacon, eggs, cream). | |
+| **Quiche** | An open-faced savoury tart: a shortcrust shell (*pâte brisée*) filled with **appareil** — a custard of eggs and cream, plus whatever it carries — and baked until only *just* set. The shell is blind-baked first so the base stays crisp under the wet filling. (KR: **키쉬**) | Used in [[france\|France]]. Classic: *Quiche Lorraine* — lardons, eggs, cream. | The word is **German, not French** — from the Lorraine/Alsatian dialect *Küeche* (< *Kuchen*, cake), the region having been German-speaking. And a true Lorraine has **no cheese at all**; add gruyère and it becomes a *quiche vosgienne*. |
 | **Confit** | A traditional French cooking method where meat (often duck) is slow-cooked in its own fat; also used for preserving fruits in sugar. (KR: **콩피**) | "Duck confit" (Confit de canard) is a staple of Gascony. | |
 | **Racler** | The French verb meaning "to scrape." | Used in the preparation of [[#🇫🇷 French|Raclette]]. | |
 | **Raclette** | A semi-hard cow's milk cheese that is melted, typically scraped over potatoes, pickles, and cured meats. (KR: **라클렛**) | Popular in French and Swiss Alpine cuisine. | Related: [[#🇫🇷 French|Racler]] (to scrape) |
+| **Fricassée** | A white braise: meat (classically chicken) is cooked in butter *without letting it colour*, then simmered in stock and finished with cream and egg yolk. (KR: **프리카세**) | "Fricassée de poulet à l'ancienne" — chicken with pearl onions and mushrooms in a white sauce. | Sits between a sauté and a brown braise like [[coq-au-vin\|Coq au Vin]]; the no-colour rule is what makes it a fricassée. |
+| **Tuile** | A thin, crisp wafer biscuit, draped over a rolling pin while still hot so it sets in a curve. (KR: **튀일**) | *Tuiles aux amandes* served with ice cream or mousse; savoury versions (parmesan, squid ink) are used as plating garnish. | From *tuile* = roof tile — the curve is the name. |
+| **Concasser** | To crush or chop **coarsely** — a deliberately rough cut, not a fine dice. Most often met as *tomates concassées*: tomatoes blanched, peeled, seeded, then roughly chopped. (KR: **콩카세**) | "Concasser les tomates avant de les ajouter au fond." The rough cut is the point — the pieces collapse into the sauce instead of surviving as cubes. | From Latin *conquassare*, "to shake violently" (same root as *quash*). Related: [[#🇮🇹 Italian\|Pelati]] is the canned shortcut for the same result. |
+| **Meunière** | "Miller's-wife" style: fish — classically Dover sole — dredged in flour, pan-fried in butter, then served with that same butter cooked on to *beurre noisette* and sharpened with lemon and parsley. (KR: **뫼니에르**) | Used in [[france\|France]]. *Sole meunière* is the canonical dish; the same treatment carries trout, skate, or a veal escalope. | The flour is the entire mechanism, and the name admits it — the miller's wife has flour to hand. It sets a crust, stops the flesh sticking, and the traces shed into the pan brown alongside the butter's milk solids ([[#🇬🇧 English\|Maillard Reaction]]). The sauce is made *from* the cooking fat, not added to it. |
+| **Cassoulet** | A slow-baked bean stew from Languedoc: white haricots (*lingots*, or Tarbais beans) cooked down for hours with pork rind, *saucisse de Toulouse* and duck or goose [[#🇫🇷 French\|Confit]], until the surface sets into a crust. (KR: **카술레**) | Used in [[france\|France]]. Three towns claim it — Castelnaudary, Carcassonne and Toulouse — each swapping the meat while the beans stay fixed. | Named for the ***cassole***, the glazed earthenware dish it bakes in: the vessel names the dish, the same move as [[#🇫🇷 French\|Tuile]] (roof tile). The crust that forms on top is broken and stirred back in as it cooks — how many times is a point of local doctrine (seven is the number usually claimed). |
+| **Carottes râpées** | Grated raw carrot dressed in a sharp mustard vinaigrette with lemon or vinegar and parsley — a fixture of the bistro *entrée*, the school canteen and the *traiteur* counter, eaten cold. (KR: **당근 라페**) | Used in [[france\|France]]. One of the standard *crudités*, served on an *assiette de crudités* beside céleri rémoulade and grated beetroot. | *Râpées* means simply "grated" — **the cut names the dish**, exactly as *racler* names [[#🇫🇷 French\|Raclette]]. Watch the false friend: French *crudités* are **dressed raw-vegetable salads**, not the Anglo plate of raw sticks with dip. |
 
 ## 🇪🇸 Spanish
 | Word | Meaning | Example | etc |
@@ -48,9 +54,9 @@ This page consolidates culinary terms across different languages.
 | **Pimientos del Padrón** | Small Spanish green peppers, typically fried in olive oil and salted. | "Some are hot, some are not." | |
 | **Salmorreta** | A concentrated garlic, tomato, and ñora pepper sofrito originating from Alicante, Spain. | It is the secret flavor base for authentic Mediterranean seafood dishes, imparting a signature rich color and deep umami profile to rice dishes and fideuàs. | |
 | **Sidra** | Spanish cider, particularly famous in Asturias and the Basque Country; traditionally poured from a height (escanciar). | "Sidra is a staple of Northern Spanish culinary culture." | |
-| **Socarrat** | The caramelized crust of rice that forms on the bottom of the pan. | Used in [[wiki/cooking/paella.md|Paella]] | |
+| **Socarrat** | The caramelized crust of rice that forms on the bottom of the pan. | Used in [[paella|Paella]] | |
 | **Sofrito** | An aromatic vegetable and herb purée or sauce used as a flavor foundation in Spanish, Caribbean, and Latin American cooking. | Typically sautéed in hot oil at the beginning of a recipe, it acts as a flavorful base for rice dishes, stews, beans, and meats. | |
-| **Tapas** | Small savory dishes, snacks, or appetizers in Spanish cuisine, often served with drinks. | Common in [[wiki/cooking/españa.md|Spain]]. | |
+| **Tapas** | Small savory dishes, snacks, or appetizers in Spanish cuisine, often served with drinks. | Common in [[españa|Spain]]. | |
 | **Teardrop Peas** | Also known as 'tear peas' (Guisante Lágrima); extremely delicate, seasonal peas from the Basque coast. | "Teardrop peas are often called 'green caviar'." | |
 
 ## 🇬🇧 English
@@ -69,18 +75,22 @@ This page consolidates culinary terms across different languages.
 | **Morel** | A highly sought-after wild mushroom with a distinctive honeycomb-like appearance and nutty flavor. (KR: **모렐 / 곰보버섯**) | Often found in spring; pairs well with cream and asparagus. | |
 | **Morchella** | The scientific name (genus) for morels. (KR: **모렐 / 곰보버섯**) | | |
 | **Cioppino** | A tomato-based seafood stew originating in San Francisco, developed by Italian immigrant fishermen. (KR: **치오피노**) | Typically includes the "catch of the day," such as Dungeness crab, clams, shrimp, and scallops. | |
+| **Rim** | The outer edge of a glass, bowl, or plate; as a verb, to coat that edge with something. (KR: **잔 테두리 / 가장자리**) | "Wipe the rim clean before serving." A standard plating rule is to leave the rim of the plate untouched. | See also: [[#🇬🇧 English\|Rimming]] |
+| **Rimming** | Coating the rim of a glass with salt, sugar, or spice: wet the edge (usually with a citrus wedge), then roll it in the coating. (KR: **리밍**) | Salt on a Margarita, sugar on a Sidecar or Lemon Drop, Tajín on a Paloma or Michelada. | Half-rimming — coating only one side — lets the drinker choose each sip. See also: [[#🇬🇧 English\|Rim]] |
+| **Allocation** | In the wine trade, a fixed quantity of a scarce wine a producer *assigns* to a given buyer — importer, retailer, restaurant, or a private customer on a mailing list. Demand exceeds supply, so the bottle is allotted rather than simply sold. (KR: **얼로케이션 / 배정 물량**) | "We only get a six-bottle allocation of that Burgundy a year." Cult Burgundy and Napa houses (DRC, Screaming Eagle) sell almost entirely this way: you join a waiting list, and you keep your place by continuing to buy. | The list *is* the product — allocation turns a one-off purchase into a relationship, and reselling your allotment is the fastest way to lose it. It also breaks price comparison: for an allocated bottle the release price and the secondary-market price are unrelated numbers, a live edge case for [[../../ideation/Wine Value Advisor\|Wine Value Advisor]]. |
 
 ## 🇮🇹 Italian
 | Word | Meaning | Example | etc |
 | :--- | :--- | :--- | :--- |
 | **Scarpetta** | The tradition of using a small piece of bread to mop up the remaining sauce on a plate (literally "little shoe"). | "Fare la scarpetta" after finishing a pasta dish. | |
-| **Passata** | Sieve or strained tomatoes; a smooth tomato puree used as a base for sauces. | Used in [[wiki/cooking/recipe-references.md#spaghetti-al-pomodoro\|Spaghetti al pomodoro]]. | |
+| **Passata** | Sieve or strained tomatoes; a smooth tomato puree used as a base for sauces. | Used in [[recipe-references#spaghetti-al-pomodoro\|Spaghetti al pomodoro]]. | |
 | **Sugo** | Sauce, often referring to a cooked tomato-based sauce or a meat sauce. | "Sugo di pomodoro" or "Sugo di carne." | |
 | **Salsa** | The general term for sauce (can be raw or cooked). | "Salsa di pomodoro" (Tomato sauce). | |
 | **Ragù** | A rich, meat-based sauce typically slow-cooked and served with pasta. | "Ragù alla Bolognese." | |
 | **Pelati** | Peeled tomatoes, typically high-quality canned plum tomatoes (like San Marzano). | "Start the sauce with a can of pelati." | |
 | **Gremolata** | A green condiment made of chopped parsley, lemon zest, and garlic. | Traditionally served with Ossobuco to cut through the richness of the veal. | |
-| **San Marzano Pomodoro** | A prized variety of plum tomatoes grown in the volcanic soil of Mount Vesuvius, Italy. (KR: **산 마르자노 토마토**) | Known for its thin skin, low acidity, and few seeds; essential for authentic Neapolitan pizza. | |
+| **San Marzano Pomodoro** | An elongated plum tomato — thick flesh, few seeds, little water, thin skin, low acidity — grown in the volcanic soil of the *Agro Sarnese-Nocerino* below Vesuvius. The low water content is the practical point: it cooks down to sauce without a long reduction. (KR: **산 마르자노 토마토**) | Used in [[italia\|Italia]]. The specified tomato for authentic *Pizza Napoletana*, and always sold as [[#🇮🇹 Italian\|Pelati]] — the DOP rules require it be peeled and tinned whole. | **The name on the tin is not the guarantee.** "San Marzano" is also a seed variety anyone may grow anywhere, so most tins carrying the name are not the protected article. The real one reads *Pomodoro S. Marzano dell'Agro Sarnese-Nocerino DOP*, shows the consortium seal and a tin number, and is whole and peeled — never diced or puréed. |
+| **Polpette** | Italian meatballs (sing. *polpetta*), bound with milk-soaked bread, Parmigiano, and egg; served as a *secondo* or braised in sauce (*polpette al sugo*), not on pasta. (KR: **폴페테**) | Used in [[italia\|Italia]]. Meatless variants like *polpette di melanzane* are common in the South. | From *polpa* (pulp/flesh) → a small ball of minced meat |
 
 ### 🍝 Pasta
 | Word | Meaning | Example | etc |
@@ -115,14 +125,15 @@ This page consolidates culinary terms across different languages.
 ## 🇹🇭 Thai
 | Word | Meaning | Example | etc |
 | :--- | :--- | :--- | :--- |
-| **Chim Chum** | A traditional Thai street food hot pot cooked in a clay pot; refers to the "dipping" (chim) and "dropping" (chum) of ingredients into the herbal broth. (KR: **찜쭘**) | Used in [[wiki/cooking/thailand.md|Thailand]]. | |
+| **Chim Chum** | A traditional Thai street food hot pot cooked in a clay pot; refers to the "dipping" (chim) and "dropping" (chum) of ingredients into the herbal broth. (KR: **찜쭘**) | Used in [[thailand|Thailand]]. | |
 | **Moo Ping (หมูปิ้ง)** | Thai grilled pork skewers marinated in a sweet and savory sauce and grilled over charcoal. (KR: **무삥**) | A popular street food snack in Thailand. | Moo (무): Pork, Ping (삥): Grilled |
 
 ## 🇲🇽 Mexican
 | Word | Meaning | Example | etc |
 | :--- | :--- | :--- | :--- |
+| **Al Pastor** | Pork marinated in dried chiles and achiote, stacked on a vertical spit (*trompo*) and shaved straight onto small tortillas — typically with pineapple, onion and cilantro. (KR: **알 파스토르**) | Used in [[mexico\|Mexico]]. The house staple of any [[#🇲🇽 Mexican\|Taquería]]. | Literally "shepherd style." The **technique is Lebanese** — shawarma spit-roasting brought to Puebla by immigrants in the early 20th century — with lamb swapped for pork and the seasoning made Mexican. A borrowed method, a local flavour. |
 | **Taquería** | A Mexican restaurant specializing in tacos, often found as street stalls or small storefronts. (KR: **타케리아**) | "Let's find a local taquería for lunch." | |
 
 ## 🔗 Connections
-- [[wiki/cooking/index.md|Master Culinary Index]]
+- [[index|Master Culinary Index]]
 - [[../language/english.md|English Vocabulary]] — contains culinary terms like 'unleash', 'wilt', 'deglazing'.

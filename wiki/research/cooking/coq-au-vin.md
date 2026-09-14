@@ -2,6 +2,7 @@
 stage: research
 category: cooking
 tag: cooking
+concepts: [abundance-flips-value]
 country: France
 tags:
 - cooking
@@ -27,5 +28,13 @@ Coq au Vin is a classic French stew where chicken is braised with red wine (trad
 - **The Sauce:** Thickened either by reduction or a roux/beurre manié, the sauce should be glossy and deep burgundy in color.
 
 ## 🔗 Connections
-- [[wiki/cooking/france.md|France: La Fondation de la Technique]]
-- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
+
+### ⬆ Pipeline
+- Part of → [[france|France: La Fondation de la Technique]] — the national cuisine this dish belongs to
+- Related → [[vocabulary|Cooking Vocabulary]]
+- Hub → [[index|Culinary Index]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **abundance-flips-value** → [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Private Space - The Bedroom Moved Online]] (music), [[../../ideation/Return to Basics]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product), [[../../projects/Michelin Filter]] (system), [[soupe-a-loignon]] (cooking)
+<!-- AUTO-CONCEPTS:END -->

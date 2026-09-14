@@ -20,9 +20,11 @@ Combining several individually-weak signals into one confident decision or ident
 - [[../ideation/Triathlon Photo Finder]] (system)
 - [[../ideation/Wine Value Advisor]] (system)
 - [[../projects/Michelin Filter]] (system)
+- [[../projects/Trip Guide - Shareable Restaurant Map]] (travel)
 - [[../projects/prd/Chronicle_prd]] (product)
 - [[../research/cooking/selected-restaurants]] (cooking)
 - [[../research/system/connecting_the_dot]] (system)
+- [[../research/system/graph-theory-foundations]] (system)
 - [[../research/system/graphrag-connection-engine]] (system)
 <!-- AUTO-INSTANCES:END -->
 

@@ -1,0 +1,40 @@
+Name,Address,City,Tier,Price_EUR,Price_Basis,Cuisine,Michelin,Details
+Belcanto,"Rua Serpa Pinto 10A, Lisbon, 1200-026, Portugal",Lisboa,Garfo de Platina,295,tasting menu,Creative,2 Stars,Menu de Degustação Belcanto €295
+Casa de Chá da Boa Nova,"Avenida da Liberdade, 1681, Leça da Palmeira, 4450-718, Portugal",Matosinhos,Garfo de Platina,250,à la carte avg,Modern Cuisine,2 Stars,"TheFork avg €250; ""Cantos"" menu of 6 / 12 / 21 moments"
+Ocean,"Rua Anneliese Pohl - Alporchinhos, Porches, 8400-450, Portugal",Lagoa,Garfo de Platina,250,tasting menu,Creative,2 Stars,tasting €220-275 (13 moments €210 + €140 pairing in earlier listings)
+The Yeatman,"Rua do Choupelo 250, Vila Nova de Gaia, 4400-088, Portugal",Vila Nova de Gaia,Garfo de Platina,290,tasting menu,—,not in Michelin scrape,"""Origins"" tasting from ~€290 (US$337 via Relais & Châteaux); set lunch ~€40"
+Vista Restaurante,"Avenida Tomás Cabreira, Praia da Rocha, Portimão, 8500-802, Portugal",Portimão,Garfo de Platina,200,tasting menu,—,not in Michelin scrape,tasting €200; vegan €175; chef's menu €110 (+€55 pairing)
+A Cozinha por António Loureiro,"Largo do Serralho 4, Guimarães, 4800-472, Portugal",Guimarães,Garfo de Ouro,130,tasting menu,—,not in Michelin scrape,"""Equilíbrio"" €100 (6 moments) / €130 (10); pairing from €55; à la carte avg €52"
+Antiqvvm,"Rua de Entre Quintas 220, Porto, 4050-240, Portugal",Porto,Garfo de Ouro,200,tasting menu,Creative,2 Stars,"""Ensaios Sensoriais"" €200 (8 courses); vegetarian ""Orgânico"" €145"
+Euskalduna Studio,"Rua Santo Ildefonso 404, Porto, 4000-466, Portugal",Porto,Garfo de Ouro,160,tasting menu,Modern Cuisine,1 Star,tasting €160 (10 moments); pairings €65 non-alc to €250
+Feitoria,"Doca do Bom Sucesso, Lisbon, 1400-038, Portugal",Lisboa,Garfo de Ouro,150,tasting menu,Modern Cuisine,1 Star,tasting €150-180; vegetarian 6-moment €115; pairing €80
+Fifty Seconds,"Cais das Naus, Lisbon, 1990-173, Portugal",Lisboa,Garfo de Ouro,205,tasting menu,Creative,2 Stars,"""Fauna e Flora"" €195 (10) / €215 (12) / €235 (14); avg €205"
+Fortaleza do Guincho,"Estrada do Guincho 2413, Cascais, 2750-642, Portugal",Cascais,Garfo de Ouro,190,tasting menu,Modern Cuisine,1 Star,degustação €190 excl. drinks (€295 with pairing); menus €125-165; TheFork avg €168
+G Restaurante,"Estrada Turismo, Pousada de São Bartolomeu, Bragança, 5300-271, Portugal",Bragança,Garfo de Ouro,80,à la carte avg,—,not in Michelin scrape,"avg €80 pp; three tasting menus (seasonal, vegetarian, artist-themed) or à la carte; tasting €130 for two"
+Il Gallo d'Oro,"Estrada Monumental 147, Funchal, 9004-532, Portugal",Funchal,Garfo de Ouro,295,tasting menu,Modern Cuisine,2 Stars,"""11 Momentos"" €295; TheFork avg €150; earlier menus €130-245"
+JNcQUOI Avenida,"Avenida da Liberdade 182-184, Lisboa, 1250-096, Portugal",Lisboa,Garfo de Ouro,85,à la carte avg,—,not in Michelin scrape,avg €50-100 pp depending on room (main vs DeliBar)
+Mesa de Lemos,"Quinta de Lemos - Passos de Silgueiros, Silgueiros, 3500-541, Portugal",Viseu,Garfo de Ouro,120,tasting menu,Creative,1 Star,menus €35 / €75 / €120; pairing from €15
+Ó Balcão,"Rua Pedro de Santarém 73, Santarém, 2000-223, Portugal",Santarém,Garfo de Ouro,70,à la carte avg,Modern Cuisine,1 Star,avg €70 excl. drinks; Ribatejo Gastronómico 10 moments or 6-dish Experiência
+Pedro Lemos,"Rua do Ouro 258, Porto, 4150-554, Portugal",Porto,Garfo de Ouro,110,à la carte avg,Contemporary,1 Star,TheFork avg €110; Michelin €€€€; 3/5/7-course seasonal menus
+Solar dos Presuntos,"Rua das Portas de Santo Antão 150, Lisboa, 1150-269, Portugal",Lisboa,Garfo de Ouro,55,à la carte avg,—,not in Michelin scrape,"avg €38-70 pp; traditional Portuguese, open since 1974"
+Vila Joya,"Estrada da Galé, Albufeira, 8200-416, Portugal",Albufeira,Garfo de Ouro,290,tasting menu,Modern Cuisine,2 Stars,"""Chef's Favorites"" 13 courses €290 excl. drinks; Signature lunch €290"
+3 Pipos,"Rua de Santo Amaro 966, Tonda, 3460-479, Portugal",Tondela,Garfo de Prata,30,à la carte avg,Regional Cuisine,Bib Gourmand,"€20-25 pp typical, up to €40; Michelin €€ / Bib Gourmand"
+A Carvalheira,"Rua do Eido Velho 73, Ponte de Lima, 4990-620, Portugal",Ponte de Lima,Garfo de Prata,45,à la carte avg,Traditional Cuisine,Selected,avg €45-50 pp; arroz de sarrabulho €35
+A Cozinha do Paço,"Paço do Morgado de Oliveira, Estrada M527 - Km10, Évora, 7000-016, Portugal",Évora,Garfo de Prata,135,tasting menu,Creative,1 Star,"Clássicos 6 moments + 5 wines €135; up to ""O Enxarrama"" €285 (9 moments + 7 wines)"
+A Lúria,"Rua da Alegria 34, Portela de São Pedro, Tomar, 2300-182, Portugal",Tomar,Garfo de Prata,30,à la carte avg,—,not in Michelin scrape,avg €25; lamprey with house wine ~€50 pp
+Alameda Restaurante,"Rua da Polícia de Segurança Pública 10, Faro, 8000-408, Portugal",Faro,Garfo de Prata,115,tasting menu,—,not in Michelin scrape,"9-moment degustação €115; vegetarian €89; à la carte avg €30, mains €22.50-44"
+Canalha,"Rua da Junqueira 207, Lisbon, 1300-338, Portugal",Lisboa,Garfo de Prata,35,à la carte avg,Farm to table,Bib Gourmand,avg €35; Michelin €€; blackboard daily specials
+Casinha Velha,"Rua Professores Portelas 23, Leiria, 2415-534, Portugal",Leiria,Garfo de Prata,40,à la carte avg,"Portuguese, Traditional Cuisine",Selected Restaurants,"avg €35-45 pp; 3,500-reference wine cellar"
+Cozinha da Terra,"Largo da Herdade 8, Louredo, Paredes, Portugal",Paredes,Garfo de Prata,32,à la carte avg,—,not in Michelin scrape,avg €30; ~€37.50 pp a meal; dinner €20-25
+Cozinha das Flores,"Largo São Domingos 62, Porto, 4050-545, Portugal",Porto,Garfo de Prata,45,à la carte avg,Modern Cuisine,Selected,avg €41; 3-course lunch €35
+Desarma,"Rua das Maravilhas 74, Funchal, 9000-177, Portugal",Funchal,Garfo de Prata,185,tasting menu,Contemporary,1 Star,€155 (6) / €185 (9) / €275 (12); Chef's Table €350
+Garagem 33,"Rua do Moinho 17, Soutelo, Vila Verde, 4730-577, Portugal",Vila Verde,Garfo de Prata,32,à la carte avg,—,not in Michelin scrape,~€32 pp depending on drinks; wood-fired Minho cooking
+Loco,"Rua dos Navegantes 53 B, Lisbon, 1200-731, Portugal",Lisboa,Garfo de Prata,160,tasting menu,Modern Cuisine,1 Star,avg €160; 16-moment surprise menu; +0% pairing €220
+Maré – José Avillez,"Av. Nossa Senhora do Cabo, 9000, Cascais, 2750-374, Portugal",Cascais,Garfo de Prata,60,à la carte avg,Seafood,Selected,avg €60 excl. drinks
+Marlene,"Avenida Infante D. Henrique. Doca do Jardim do Tabaco, Lisbon, 1100-651, Portugal",Lisboa,Garfo de Prata,130,tasting menu,Modern Cuisine,1 Star,Menu 9 Momentos €130; 12 Momentos €170
+Nunes Real Marisqueira,"Rua Bartolomeu Dias 172, Belém, Lisboa, Portugal",Lisboa,Garfo de Prata,55,à la carte avg,—,not in Michelin scrape,avg €35 listed; reports €60-90 pp; shellfish by weight
+O Forno de Jales,"Rua do Brasil 5, Vreia de Jales, Vila Pouca de Aguiar, 5450-345, Portugal",Vila Real,Garfo de Prata,46,à la carte avg,—,not in Michelin scrape,"avg €46; lunch €35-40, dinner €50+ · NOTE: Vila Pouca de Aguiar (guide lists Vila Real)"
+O Gaveto,"Rua Roberto Ivens 826, Matosinhos, 4450-279, Portugal",Matosinhos,Garfo de Prata,32,à la carte avg,—,not in Michelin scrape,avg €30-35 pp; shellfish by weight pushes higher
+Rei dos Leitões,"Avenida da Restauração 17, Mealhada, 3050 -382, Portugal",Mealhada,Garfo de Prata,40,à la carte avg,Traditional Cuisine,Selected Restaurants,"avg €30-50 pp; Bairrada suckling pig, open since 1947"
+Restaurante Noélia,"Avenida Ria Formosa 2, Cabanas de Tavira, 8800-591, Portugal",Tavira,Garfo de Prata,40,à la carte avg,—,not in Michelin scrape,avg €35-45 pp (~€40 with wine) · NOTE: Cabanas de Tavira (guide lists Tavira)
+S. Gião,"Rua Comendador Joaquim Almeida Freitas 56, Moreira de Cónegos, 4815-270, Portugal",Guimarães,Garfo de Prata,45,à la carte avg,Traditional Cuisine,Selected,Repsol avg €50; other sources €40-45 pp · NOTE: Moreira de Cónegos (guide lists Guimarães)

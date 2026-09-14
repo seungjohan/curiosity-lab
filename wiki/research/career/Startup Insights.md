@@ -20,7 +20,7 @@ category: career
 - **Solo Entrepreneurship**: Example of a developer in Bali launching 23 products and reaching $100k/month.
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 - [[Webeing]]
 - [[ideation]]
 

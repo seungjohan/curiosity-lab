@@ -24,4 +24,4 @@ type: list
 - **旨だし (Umadashi)**: "Delicious stock" or "savory dashi"; a flavorful broth used as a base in Japanese cooking to enhance umami. (KR: **감칠맛 나는 국물 / 맛있는 육수**)
 
 ## 🔗 Connections
-- [[wiki/cooking/index.md|Culinary Master Index]]
+- [[index|Culinary Master Index]]

@@ -25,5 +25,5 @@ This page consolidates terms related to botany, gardening, and plant life cycles
 | **Prune** | (Verb) To cut away dead or unwanted parts of a plant, or to reduce and remove unnecessary elements from something. | "Prune the dead branches to encourage new growth." |
 
 ## 🔗 Connections
-- [[wiki/planting/index.md|Planting Index]]
-- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
+- [[index|Planting Index]]
+- [[../cooking/vocabulary|Cooking Vocabulary]]

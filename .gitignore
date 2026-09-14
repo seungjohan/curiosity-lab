@@ -7,6 +7,10 @@ venv/
 .smtcmp_json_db
 .smtcmp_vector_db.tar.gz
 
+# Connection proposer (generated; regenerate with scripts/propose_connections.py)
+.connection-cards/
+wiki/_proposals.md
+
 # Personal & Privacy (Prevents sensitive details from going public on GitHub)
 raw/resume/*
 .env

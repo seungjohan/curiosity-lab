@@ -1,78 +1,119 @@
-import os
-import re
-import yaml
+"""
+Structural tests for the vault.
+
+Rules come from linking.config.json, not from hardcoded strings, so this file
+is portable: point the config at another vault and these tests still apply.
+
+Stdlib only — no PyYAML. Frontmatter is parsed by scripts/wiki_lib.py, the
+same parser the generators use, so tests and generators can never disagree.
+"""
+import subprocess
+import sys
 from pathlib import Path
 
-WIKI_DIR = Path("wiki")
+REPO = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO / "scripts"))
 
-def get_frontmatter(content):
-    match = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
-    if not match:
-        return None, content
-    raw_yaml = match.group(1)
-    body = content[match.end():]
-    try:
-        data = yaml.safe_load(raw_yaml)
-        return data, body
-    except yaml.YAMLError:
-        return None, content
+from wiki_lib import load_config, parse_frontmatter  # noqa: E402
 
-def test_restaurants_deleted():
-    """Verify that the restaurants folder and its markdown files are deleted."""
-    rest_dir = WIKI_DIR / "research" / "cooking" / "restaurants"
-    assert not rest_dir.exists(), "wiki/research/cooking/restaurants directory should be deleted"
+cfg = load_config(REPO / "scripts")
 
-def test_frontmatter_rules():
-    """Verify all wiki files follow frontmatter constraints: stage first, category second, tag third."""
-    assert WIKI_DIR.exists(), "wiki directory must exist"
-    
-    # Exclude system/temporary directories or paths
-    md_files = [p for p in WIKI_DIR.rglob("*.md") if "restaurants" not in p.parts]
-    
-    for filepath in md_files:
-        content = filepath.read_text(encoding="utf-8")
-        data, _ = get_frontmatter(content)
-        
-        # Files must have frontmatter
-        assert data is not None, f"File {filepath} must contain valid YAML frontmatter"
-        
-        # Verify order of properties
-        keys = list(data.keys())
-        assert len(keys) >= 3, f"File {filepath} must have at least stage, category, and tag properties"
-        assert keys[0] == "stage", f"File {filepath}: first key must be 'stage', got '{keys[0]}'"
-        assert keys[1] == "category", f"File {filepath}: second key must be 'category', got '{keys[1]}'"
-        assert keys[2] == "tag", f"File {filepath}: third key must be 'tag', got '{keys[2]}'"
-        
-        # Verify tag matches folder/category name rules
-        expected_tag = None
-        parts = filepath.relative_to(WIKI_DIR).parts
-        
-        if len(parts) >= 2 and parts[0] == "research":
-            # wiki/research/{subfolder}/...
-            expected_tag = parts[1]
-        elif len(parts) >= 1 and parts[0] == "cooking":
-            # wiki/cooking/...
-            expected_tag = "cooking"
-        elif len(parts) >= 1 and parts[0] == "projects":
-            # wiki/projects/...
-            expected_tag = "projects"
-        elif len(parts) >= 1 and parts[0] == "ideation":
-            # wiki/ideation/...
-            expected_tag = "ideation"
-        else:
-            # Root wiki files
-            expected_tag = "system"
-            
-        assert data["tag"] == expected_tag, f"File {filepath}: expected tag '{expected_tag}', got '{data['tag']}'"
 
-def test_design_md_exists():
-    """Verify root-level DESIGN.md exists and contains expected sections."""
-    design_file = Path("DESIGN.md")
-    assert design_file.exists(), "Root-level DESIGN.md must exist"
-    
-    content = design_file.read_text(encoding="utf-8")
-    assert "# Knowledge OS: Design & Linking Standards" in content, "DESIGN.md must have standard title header"
-    assert "Horizontal (Intra-Stage) Connections: MOC Hubs" in content, "DESIGN.md must document MOC Hubs"
-    assert "Vertical (Cross-Stage) Connections: Hybrid Pipeline" in content, "DESIGN.md must document hybrid workflow connections"
-    assert "Relative Paths" in content, "DESIGN.md must document relative paths"
-    assert "Annotated Links" in content, "DESIGN.md must document annotated links"
+def test_wiki_exists():
+    assert cfg.wiki.is_dir(), f"wiki directory must exist at {cfg.wiki}"
+    assert cfg.notes(), "wiki must contain at least one managed note"
+
+
+def test_required_frontmatter_keys_come_first():
+    """Every managed note opens with the required keys, in order.
+
+    `tag` is deliberately NOT required: it is a semantic filter label that
+    only 85 of 119 notes carry. Requiring it was the old rule and the vault
+    moved on; `concepts` and `axis` legitimately take third position.
+    """
+    problems = []
+    for path in cfg.notes():
+        fm = parse_frontmatter(path.read_text(encoding="utf-8"))
+        rel = cfg.relpath(path)
+        if not fm:
+            problems.append(f"{rel}: no YAML frontmatter")
+            continue
+        head = list(fm.keys())[:len(cfg.frontmatter_required)]
+        if head != cfg.frontmatter_required:
+            problems.append(
+                f"{rel}: must start with {cfg.frontmatter_required}, got {head}")
+    assert not problems, "frontmatter problems:\n  " + "\n  ".join(problems)
+
+
+def test_tag_matches_folder_or_declared_override():
+    """When present, `tag` mirrors the folder unless config declares otherwise."""
+    problems = []
+    for path in cfg.notes(include_concepts=False):
+        fm = parse_frontmatter(path.read_text(encoding="utf-8"))
+        if "tag" not in fm:
+            continue
+        expected = cfg.expected_tag(path)
+        if fm["tag"] != expected:
+            problems.append(
+                f"{cfg.relpath(path)}: tag={fm['tag']!r}, expected {expected!r} "
+                "(add to tag_overrides in linking.config.json if intentional)")
+    assert not problems, "tag problems:\n  " + "\n  ".join(problems)
+
+
+def test_declared_tag_overrides_still_exist():
+    """An override for a note that has been moved or renamed is dead config."""
+    missing = [rel for rel in cfg.tag_overrides if not (cfg.wiki / rel).is_file()]
+    assert not missing, f"tag_overrides point at missing notes: {missing}"
+
+
+def test_private_paths_exist_and_are_nonempty():
+    """The privacy allowlist must name real directories.
+
+    A typo here would silently make a private folder public to the LLM pass,
+    so this is a security test, not a tidiness one.
+    """
+    for rel in cfg.private_paths:
+        d = cfg.wiki / rel
+        assert d.is_dir(), f"private_paths names {rel!r}, which is not a directory"
+        assert list(d.rglob("*.md")), f"private path {rel!r} contains no notes"
+
+
+def test_every_referenced_concept_has_a_node():
+    """A `concepts:` value with no node in wiki/concepts/ is a broken link."""
+    known = {p.stem for p in cfg.concepts_dir.glob("*.md") if p.stem != "index"}
+    referenced = set()
+    for path in cfg.notes(include_concepts=False):
+        fm = parse_frontmatter(path.read_text(encoding="utf-8"))
+        referenced.update(fm.get("concepts", []))
+    assert not (referenced - known), f"concepts with no node: {sorted(referenced - known)}"
+
+
+def test_concept_nodes_are_instanced_or_declared_candidates():
+    """Every concept node carries the auto-instances block the builder fills."""
+    start, end = cfg.instances_markers
+    for node in cfg.concepts_dir.glob("*.md"):
+        if node.stem == "index":
+            continue
+        text = node.read_text(encoding="utf-8")
+        assert start in text and end in text, (
+            f"{node.name} is missing the AUTO-INSTANCES markers; "
+            "run python scripts/build_connections.py")
+
+
+def test_generated_links_are_up_to_date():
+    """`build_connections.py --check` must be clean — no uncommitted drift."""
+    result = subprocess.run(
+        [sys.executable, str(REPO / "scripts" / "build_connections.py"), "--check"],
+        capture_output=True, text=True, cwd=REPO)
+    assert result.returncode == 0, (
+        "generated links are stale; run python scripts/build_connections.py\n"
+        + result.stdout + result.stderr)
+
+
+def test_linking_standard_is_documented():
+    """LINKING.md is the canonical standard; DESIGN.md was folded into it."""
+    linking = REPO / "LINKING.md"
+    assert linking.is_file(), "LINKING.md must exist — it is the canonical standard"
+    content = linking.read_text(encoding="utf-8")
+    for heading in ("Frontmatter", "Vertical axis", "Horizontal axis", "Quality bar"):
+        assert heading in content, f"LINKING.md must document '{heading}'"

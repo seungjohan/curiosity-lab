@@ -29,6 +29,6 @@ category: personal
 - **Sources**: `raw/obsidian/input/myself/`, `raw/obsidian/input/person/`
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 - [[Self-Reflection]]
 - [[Social Interactions]]

@@ -21,4 +21,4 @@ type: list
 - *Empty - Awaiting entries*
 
 ## 🔗 Connections
-- [[wiki/cooking/index.md|Culinary Master Index]]
+- [[index|Culinary Master Index]]

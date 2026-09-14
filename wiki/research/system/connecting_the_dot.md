@@ -51,6 +51,8 @@ The four foundations say *what* to do. Network science says *how to compute it* 
 | **Betweenness centrality** | The "broker" nodes bridging clusters | Burt's finding, computed: my most idea-rich notes |
 | **Embedding similarity** (cosine over vectors) | Semantic closeness, even with no shared words | Already computed by Smart Connections, sitting in `.smart-env/` |
 
+The foundational layer under all of this — **BFS, DFS, DSU** for connectivity, components, orphans, and shortest paths — is its own deep-dive: [[graph-theory-foundations|Graph Theory Foundations]], which runs today on my real graph (`scripts/graph_analysis.py`) and already found 10 orphan notes.
+
 ### The key insight: collection vs. connection
 > **Vector embeddings capture similarity but not explicit relationships; a knowledge graph captures relationships but can't infer unseen ones. They are complementary.**
 
@@ -80,13 +82,15 @@ Everything here serves one flip:
 
 ### ⬆ Pipeline
 - Deep-dives → [[graphrag-connection-engine|GraphRAG & the Connection Engine]] — the technical engine behind "proposer, not renderer"
+- Deep-dives → [[graph-theory-foundations|Graph Theory Foundations]] — the classical BFS/DFS/DSU layer under the whole system, runnable today
+- Challenged by → [[two-kinds-of-connection|Two Kinds of Connection]] — argues this page's "abstraction ladder" only finds *analogy*; a second kind (Nike·Nintendo, coupled through a hidden variable) needs a different engine
 - Informs → [[../../../LINKING.md|LINKING standard]] — the atom-writing rules here should be folded in
 - Feeds → [[../../ideation/The Connection|The Connection]] — same math (brokerage, community detection) applied to *people* instead of notes
 - Hub → [[../../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **bridging-structural-holes** → [[../../ideation/The Connection]] (system), [[graphrag-connection-engine]] (system)
+- **bridging-structural-holes** → [[../../ideation/The Connection]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[two-kinds-of-connection]] (system)
 - **abstraction-raises-altitude** → [[../../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[../../projects/AI & Agentic Workflows]] (system), [[../../projects/AI in Education - Side Effects]] (system), [[../career/Product-Management-0-to-1]] (career), [[../vibecoding/index]] (vibecoding)
-- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[graphrag-connection-engine]] (system)
+- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system)
 <!-- AUTO-CONCEPTS:END -->

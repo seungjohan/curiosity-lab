@@ -25,7 +25,7 @@ category: personal
 - **The Power of Small Talk**: It's not just "noise"—it's a way to generate positive energy and connect with the world.
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 - [[Relationship Lessons]]
 - [[Social Interactions]]
 

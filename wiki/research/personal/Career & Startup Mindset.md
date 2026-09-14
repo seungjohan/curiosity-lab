@@ -24,5 +24,5 @@ category: personal
 - **Sources**: `raw/obsidian/input/myself/`, `raw/obsidian/startup/Webeing.md`
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 - [[Startup Insights]]

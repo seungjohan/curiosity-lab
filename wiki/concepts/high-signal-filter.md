@@ -14,6 +14,8 @@ Curating or ranking to surface the *few high-quality items* out of a saturated, 
 - [[../ideation/Company Fit Finder - Where to Work]] (system)
 - [[../ideation/Wine Value Advisor]] (system)
 - [[../projects/Michelin Filter]] (system)
+- [[../projects/Trip Guide - Shareable Restaurant Map]] (travel)
+- [[../projects/prd/Constellate_prd]] (product)
 - [[../research/cooking/selected-restaurants]] (cooking)
 - [[../research/music/music-social-media]] (music)
 <!-- AUTO-INSTANCES:END -->

@@ -2,6 +2,7 @@
 stage: research
 category: system
 tag: system
+concepts: [bridging-structural-holes]
 about: High-level mapping of the 2026 AI industry focusing on the triple intersection
   of Agentic, Physical, and Vertical AI.
 pillar: Cross-pillar
@@ -77,6 +78,13 @@ The ultimate goal: **Self-Healing, Self-Managing Ecosystems.**
 - **Scenario:** A factory where **Vertical AI** (MakinaRocks) detects a fault, **Agentic AI** (Upstage) plans the repair and orders parts, and **Physical AI** (Bear Robotics/Humanoids) executes the repair.
 
 ## 🔗 Connections
-- [[AI-Startups-Korea-2026]] - The regional players in this map.
-- [[Edge-AI-Infrastructure-2026]] - The hardware enabling the "Physical" pillar.
-- [[Product-Management-0-to-1]] - Strategies for managing products at these high-complexity intersections.
+
+### ⬆ Pipeline
+- Related → [[AI-Startups-Korea-2026]] — the regional players in this map
+- Related → [[Edge-AI-Infrastructure-2026]] — the hardware enabling the "Physical" pillar
+- Feeds → [[Product-Management-0-to-1]] — strategies for managing products at these high-complexity intersections
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **bridging-structural-holes** → [[../../ideation/The Connection]] (system), [[../../projects/prd/Constellate_prd]] (product), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[two-kinds-of-connection]] (system)
+<!-- AUTO-CONCEPTS:END -->

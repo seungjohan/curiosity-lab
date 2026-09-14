@@ -11,7 +11,7 @@ category: personal
 # Dreams & Hobbies
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]
 
 
 ## Music & Composing

@@ -1,0 +1,77 @@
+{
+  "_comment": "Template. Copy to your project root as linking.config.json and edit. The scripts read this and contain no project-specific strings.",
+
+  "_wiki_dir": "Folder holding your notes, relative to this file.",
+  "wiki_dir": "wiki",
+  "concepts_dir": "wiki/concepts",
+
+  "_private_paths": "REQUIRED IF ANY NOTES ARE SENSITIVE. Relative to wiki_dir. Notes under these paths are never sent to an LLM or hosted API. They are still scored, using local vectors only.",
+  "private_paths": [],
+
+  "_exclude_paths": "Generated or bookkeeping files the linker, linter and tests ignore.",
+  "exclude_paths": [
+    "_proposals.md",
+    "_proposal-decisions.md"
+  ],
+
+  "_required_sections": "Headings your linter requires in every note. Set to {} to disable.",
+  "required_sections": {
+    "key_takeaway": "> [!IMPORTANT] Key Takeaway",
+    "connections": "## 🔗 Connections"
+  },
+
+  "_frontmatter_required": "Keys that must appear first, in this order, in every note.",
+  "frontmatter_required": ["stage", "category"],
+
+  "_tag_overrides": "Notes whose tag deliberately differs from its folder. Path relative to wiki_dir -> tag.",
+  "tag_overrides": {},
+
+  "_tag_map": "Folder -> expected tag. '*' matches one segment; value '$1' means 'use the matched segment'.",
+  "tag_map": {
+    "research/*": "$1",
+    "projects": "projects",
+    "ideation": "ideation"
+  },
+  "tag_default": "system",
+
+  "markers": {
+    "concepts": ["<!-- AUTO-CONCEPTS:START -->", "<!-- AUTO-CONCEPTS:END -->"],
+    "instances": ["<!-- AUTO-INSTANCES:START -->", "<!-- AUTO-INSTANCES:END -->"]
+  },
+
+  "proposer": {
+    "_smart_env_dir": "Optional. Obsidian Smart Connections vector store, used for topic similarity and for scoring private notes without a network call. Leave as-is if you do not use the plugin; the proposer will tell you what is missing.",
+    "smart_env_dir": ".smart-env/multi",
+
+    "cards_dir": ".connection-cards",
+    "proposals_file": "wiki/_proposals.md",
+    "decisions_file": "wiki/_proposal-decisions.md",
+
+    "_mechanism_floor": "Minimum raw cosine between two mechanism abstractions. Raise for fewer, stronger proposals.",
+    "mechanism_floor": 0.55,
+    "top_n": 25,
+
+    "_exclude_globs": "Boilerplate pages that carry no transferable mechanism. Matched against the path relative to wiki_dir.",
+    "exclude_globs": [
+      "*/index.md",
+      "index.md",
+      "*vocabulary*",
+      "*references*"
+    ],
+
+    "_max_appearances_per_note": "Stops one hub note filling the whole list.",
+    "max_appearances_per_note": 2,
+
+    "llm": {
+      "provider": "gemini",
+      "model": "gemini-2.0-flash",
+      "api_key_env": "GEMINI_API_KEY"
+    },
+    "embedding": {
+      "provider": "gemini",
+      "model": "gemini-embedding-001",
+      "api_key_env": "GEMINI_API_KEY",
+      "dimensions": 768
+    }
+  }
+}

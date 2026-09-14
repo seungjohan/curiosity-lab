@@ -2,6 +2,7 @@
 stage: research
 category: cooking
 tag: cooking
+concepts: [abundance-flips-value]
 country: France
 tags:
 - cooking
@@ -26,8 +27,16 @@ A classic French soup based on meat stock and onions, typically served gratinée
 - **Gratinée**: The crust of melted Gruyère or Comté cheese.
 
 ## 🔗 Connections
-- [[wiki/cooking/france.md|France Cuisine]]
-- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
+
+### ⬆ Pipeline
+- Part of → [[france|France Cuisine]] — the national cuisine this dish belongs to
+- Related → [[vocabulary|Cooking Vocabulary]]
+- Hub → [[index|Culinary Index]]
+
+<!-- AUTO-CONCEPTS:START -->
+### 🔀 Concepts (auto-generated — do not edit)
+- **abundance-flips-value** → [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Private Space - The Bedroom Moved Online]] (music), [[../../ideation/Return to Basics]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product), [[../../projects/Michelin Filter]] (system), [[coq-au-vin]] (cooking)
+<!-- AUTO-CONCEPTS:END -->
 
 ## 📚 References
 | Title | Media | URL |

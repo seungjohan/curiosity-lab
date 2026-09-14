@@ -40,7 +40,7 @@ So: check my mental health regularly, to prepare for the unexpected burnout. But
 ---
 
 ## 2026-07-21 📔 something stuck below the neck
-🌱
+🪦 dropped — deliberately. No honest connection in the vault, and this one belongs with a doctor rather than the idea graph.
 
 These days I feel something constantly stuck — in my stomach, or just below the neck. I don't know what it is. It's getting worse. It happens too often, and takes pretty long to fully go down.
 

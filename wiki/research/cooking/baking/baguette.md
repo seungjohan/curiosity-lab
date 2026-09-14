@@ -26,8 +26,8 @@ The iconic French long bread, defined by its crisp crust and holes in the crumb.
 - **Vapeur**: Adding steam to the oven to create the characteristic shine and crispness of the crust.
 
 ## 🔗 Connections
-- [[wiki/cooking/france.md|France Cuisine]]
-- [[wiki/cooking/baking/levain.md|Levain]]
+- [[../france|France Cuisine]]
+- [[levain|Levain]]
 
 ## 📚 References
 | Title | Media | URL |

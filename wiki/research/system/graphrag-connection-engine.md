@@ -94,12 +94,14 @@ So the same page-linking research that improves the vault *is* the technical fou
 
 ### ⬆ Pipeline
 - Back ← [[connecting_the_dot|Connecting the Dots]] — the theory this engine implements
+- Pairs with → [[graph-theory-foundations|Graph Theory Foundations]] — the symbolic (BFS/DFS/DSU) half of the neuro-symbolic pairing this page's LLM methods form
+- Blind spot → [[two-kinds-of-connection|Two Kinds of Connection]] — this engine finds *analogy* only; it is structurally blind to hidden-shared-variable links (Nike·Nintendo)
 - Feeds → [[../../ideation/The Connection|The Connection]] — supplies its technical roadmap (community detection, PageRank, link prediction)
 - Related → [[../../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **bridging-structural-holes** → [[../../ideation/The Connection]] (system), [[connecting_the_dot]] (system)
-- **needle-in-haystack-retrieval** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product)
-- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[connecting_the_dot]] (system)
+- **bridging-structural-holes** → [[../../ideation/The Connection]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[two-kinds-of-connection]] (system)
+- **needle-in-haystack-retrieval** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel)
+- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system)
 <!-- AUTO-CONCEPTS:END -->

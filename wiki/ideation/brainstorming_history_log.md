@@ -21,6 +21,15 @@ type: log
 
 Append-only record of wiki operations (Ingest, Query, Health Check).
 
+## [2026-08-21] Private Space — Playlist as a Room
+- Started from [발자취](https://apps.apple.com/kr/app/id6792431474) (Nyeok.Co) — solo-built, free, **serverless** walking app that fills in every 행정동 you've walked on a national dot map.
+- Broke it into four stealable properties (ambient input / finite board / solo economics / domain). User chose **solo economics**, then overrode it two turns later by choosing a social network. The trade is recorded rather than smoothed over.
+- Thesis landed: **private space has moved online** — playlist, AI prompts, home screen, Obsidian vault, camera roll, YouTube subscriptions are curated for an audience of one, and none of them has a product.
+- Scoped six candidate rooms down to **room #1 = the playlist**; payload fixed as **mood / feeling / message**, not a track list.
+- Created [[Private Space - The Bedroom Moved Online]]; promoted the `Music-first gallery / creation SNS` spark (2026-08-09) to ⬆.
+- Connected to [[../research/music/music-social-media|Music-Focused Social Media Research]] — the room frame answers two of the three killers that note raised.
+- **Left open:** what governs access to a room, and whether a dedicated playlist-sharing service already exists (landscape section deliberately marked unverified).
+
 ## [2026-06-15] Workspace Integration & Alignment
 - Discussed merging brainstorming and research repositories.
 - Resolved global GStack location strategy.

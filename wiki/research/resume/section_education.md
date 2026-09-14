@@ -26,4 +26,4 @@ tag: resume
 - *Drafting area for the new education section*
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]

@@ -22,4 +22,4 @@ tag: resume
 - *Drafting area for project showcases*
 
 ## 🔗 Connections
-- [[../index|Master Index]]
+- [[../../index|Master Index]]

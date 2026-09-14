@@ -1,0 +1,82 @@
+Name,Address,City,Tier,Price_EUR,Cuisine,Details
+Avenir,"Carrer de l'Avenir 72, Barcelona, 08021, Spain",Barcelona,Bib Gourmand,35,Contemporary,weekday lunch €32.95; pescatarian menu €82.50; avg €35
+Bacaro,"Jerusalem 6, Barcelona, 08001, Spain",Barcelona,Bib Gourmand,35,Italian,avg €30-35; €30-40 pp dinner
+Bardeni-Caldeni,"Valencia 454, Barcelona, 08013, Spain",Barcelona,Bib Gourmand,45,Meats and Grills,avg €45; tapas €4-12/item
+Berbena,"Minerva 6, Barcelona, 08006, Spain",Barcelona,Bib Gourmand,50,Creative,avg €40; recent reviews €60-80 pp
+Cruix,"Entença 57, Barcelona, 08015, Spain",Barcelona,Bib Gourmand,58,Contemporary,10-course €58; 14-course €82
+Glug,"Viladomat 289, Barcelona, 08029, Spain",Barcelona,Bib Gourmand,35,Creative,avg €35 (8 plates + wine); €30-50 pp
+Oníric,"Rabassa 37, Barcelona, 08024, Spain",Barcelona,Bib Gourmand,48,Fusion,Herrén lunch €26; Oníric €48; Somni €80
+Saó,"Cesare Cantù 2, Barcelona, 08023, Spain",Barcelona,Bib Gourmand,60,Creative,midday set €24.50; avg €60; menus €25-75
+Amar Barcelona,"Gran Via de les Corts Catalanes 668, Barcelona, 08010, Spain",Barcelona,MICHELIN Selected,145,Contemporary,"tasting ""Amar Lentamente"" €145; lunch €55/€75/€95 · Repsol 1 Sol, notable wine list"
+AÜC,"Plaça del Camp 7, Barcelona, 08022, Spain",Barcelona,MICHELIN Selected,35,Regional Cuisine,€30-40 pp
+Batea,"Gran Via de Les Corts Catalanes 605, Barcelona, 08007, Spain",Barcelona,MICHELIN Selected,55,Seafood,avg €50-55 excl. drinks; some report €60-70
+Besta,"Aribau 106, Barcelona, 08036, Spain",Barcelona,MICHELIN Selected,78,Farm to table,tasting 9-course €78; Festival 12-course €95 · Repsol 1 Sol
+Can Bo,"Via Laietana 30, Barcelona, 08003, Spain",Barcelona,MICHELIN Selected,50,Modern Cuisine,chef's tasting menu ~€50; wine pairing min €25
+Capet,"Cometa 5, Barcelona, 08002, Spain",Barcelona,MICHELIN Selected,75,Seasonal Cuisine,tasting €75 (5c) / €90 (8c); avg €70
+Compartir Barcelona,"Valencia 225, Barcelona, 08007, Spain",Barcelona,MICHELIN Selected,100,Mediterranean Cuisine,avg €100; tasting from €115
+Deliri,"Còrsega 242, Barcelona, 08036, Spain",Barcelona,MICHELIN Selected,60,Contemporary,avg €45; dinner reports €70-80 pp
+DIREKTE,"París 200, Barcelona, 08008, Spain",Barcelona,MICHELIN Selected,82,Fusion,7-course €45 / 10-course €56; long menu €82; dinner €90-100 pp · Repsol 1 Sol
+Dos Pebrots,"Doctor Dou 19, Barcelona, 08001, Spain",Barcelona,MICHELIN Selected,70,Mediterranean Cuisine,set menus €50 / €70 / €90; Festival €120; avg €80 · Repsol 1 Sol
+Eldelmar - Hermanos Torres,"Moll del Gregal 3, Barcelona, 08005, Spain",Barcelona,MICHELIN Selected,75,Traditional Cuisine,à la carte €€€; ~€65-70 pp; fish by weight pushes higher · Repsol 1 Sol
+Estimar,"Sant Antoni dels Sombrerers 3, Barcelona, 08003, Spain",Barcelona,MICHELIN Selected,100,Seafood,TheFork avg €120; other sources €80; prawns €75/plate · Repsol 2 Soles
+L'Antiquari Gastronòmic,"Carrer de Neptú 4, Barcelona, 08006, Spain",Barcelona,MICHELIN Selected,75,Creative,"15-course ""Astronòmic"" €75; pairing €45"
+La Forquilla,"Aragó 152, Barcelona, 08011, Spain",Barcelona,MICHELIN Selected,77,Creative,tasting €77 (earlier listings €49.50-62)
+La Taverna del Clínic,"Rosselló 155, Barcelona, 08036, Spain",Barcelona,MICHELIN Selected,55,Traditional Cuisine,avg €50-60; tapas under €20 each · Repsol 1 Sol
+Leña Barcelona,"Plaça de Pius XII 4, Barcelona, 08028, Spain",Barcelona,MICHELIN Selected,70,Meats and Grills,€70 pp grill menu; midday steak+fries €45; Experiencia Fuego €110 pp
+Nairod,"Aribau 141, Barcelona, 08036, Spain",Barcelona,MICHELIN Selected,65,Farm to table,tasting €65; short menu €57; avg €65 · Repsol 1 Sol
+Nectari,"València 28, Barcelona, 08015, Spain",Barcelona,MICHELIN Selected,86,Modern Cuisine,tasting €86; lunch menu €39 · Repsol 1 Sol
+Osmosis,"Aribau 100, Barcelona, 08036, Spain",Barcelona,MICHELIN Selected,70,Creative,tasting €70 (5c) / €80 (7c); weekday lunch €25-28
+Pur,"Passatge de la Concepció 11, Barcelona, 08008, Spain",Barcelona,MICHELIN Selected,130,Farm to table,Essence €129; Menu Especial €198; €100+ pp · Repsol 1 Sol
+RíasKru,"Lleida 7, Barcelona, 08004, Spain",Barcelona,MICHELIN Selected,90,Seafood,"avg €70; tasting €125; ~€120 pp with wine · Repsol 1 Sol, notable wine list"
+Solc,"Paseo de Gràcia 68, Barcelona, 08007, Spain",Barcelona,MICHELIN Selected,50,Mediterranean Cuisine,weekday tasting €35 (+€38 pairing); avg €50; €58 pp
+Suculent,"Rambla del Raval 45, Barcelona, 08001, Spain",Barcelona,MICHELIN Selected,60,Contemporary,avg €45; set menus €70 / €90 · Repsol 1 Sol
+Taberna Noroeste,"Radas 67, Barcelona, 08004, Spain",Barcelona,MICHELIN Selected,80,Contemporary,single surprise tasting menu €80; reports €90-100 pp
+Ten's,"Avenida Marqués de l'Argentera 11, Barcelona, 08003, Spain",Barcelona,MICHELIN Selected,40,Modern Cuisine,avg €40; tapas €3.90-8 each; tasting €65
+Tram-Tram,"Major de Sarrià 121, Barcelona, 08017, Spain",Barcelona,MICHELIN Selected,50,Contemporary,tasting €39; festival €70; lunch €30; avg €50 · Repsol 1 Sol
+Tunateca Balfegó,"Avenida Diagonal 439, Barcelona, 08036, Spain",Barcelona,MICHELIN Selected,75,Fusion,avg €55 à la carte; tasting menus €95 / €117
+Ultramarinos Marín,"Balmes 187, Barcelona, 08006, Spain",Barcelona,MICHELIN Selected,45,Farm to table,"listed avg €28; fish/meat by weight, reports up to €75 pp"
+Virens,"Gran Via de Les Corts Catalanes 619, Barcelona, 08007, Spain",Barcelona,MICHELIN Selected,85,Contemporary,Tierra y Mar tasting €85; seasonal lunch menu cheaper
+Windsor,"Còrsega 286, Barcelona, 08008, Spain",Barcelona,MICHELIN Selected,60,Modern Cuisine,"Barcelona Menu €55; Menú Catalunya €69; weekday €42; à la carte ~€70 · Repsol 1 Sol, notable wine list"
+Xavier Pellicer,"Provença 310, Barcelona, 08037, Spain",Barcelona,MICHELIN Selected,85,Creative,tasting €79; 5-course €85; 8-course €105 · Repsol 2 Soles
+Xerta,"Còrsega 289, Barcelona, 08008, Spain",Barcelona,MICHELIN Selected,80,Creative,seasonal lunch €55; regional €80; product €115 · Repsol 1 Sol
+Al Kostat,"Ronda de Sant Antoni 41, Barcelona, 08011, Spain",Barcelona,Repsol 1 Sol,45,—,avg €35; paella €36; reports up to €100 pp
+AÜRT,"Passeig del Taulat 262-264, Barcelona, 08019, Spain",Barcelona,Repsol 2 Soles,145,—,"tasting €145 (14-16 courses, incl. tax); older avg €95"
+Brabo,"Carrer de Sèneca 28, Barcelona, 08006, Spain",Barcelona,Repsol 1 Sol,105,—,Experiencia de Brabo 15-course €105 (water+coffee incl.)
+Ca l'Isidre,"Carrer de les Flors 12, Barcelona, 08001, Spain",Barcelona,Repsol 1 Sol,80,—,avg €75; midweek lunch €40; dinner €80-90 pp; mains €20-35
+Carnal Steak House,"Carrer d'Enric Granados 52, Barcelona, 08008, Spain",Barcelona,World's 101 Best Steak,70,—,~€70 pp; starters €28-29; Wagyu A5 120g €59
+Coure,"Passatge de Marimon 20, Barcelona, 08021, Spain",Barcelona,Repsol 2 Soles,50,—,tasting €50-55 (8 courses); seasonal dinner set €35
+Els Pescadors,"Plaça de Prim 1, Barcelona, 08005, Spain",Barcelona,Repsol 1 Sol,60,—,avg €50-60; more than €50 band
+Espacio UMA,"Carrer de Mallorca 275, Barcelona, 08008, Spain",Barcelona,Repsol 1 Sol,125,—,UMA Classic €125 (€140 chef's table); Grand Gourmet €186; pairings €68/€98
+Granja Elena,"Passeig de la Zona Franca 228, Barcelona, 08038, Spain",Barcelona,Repsol 1 Sol,55,—,avg €50; €60-70 pp reported; truffle scrambled eggs €29
+Gresca,"Carrer de Provença 230, Barcelona, 08036, Spain",Barcelona,Repsol 2 Soles,50,—,avg €42; tasting €45.70; à la carte €50-75 pp
+Jardín del Alma,"Carrer de Mallorca 269, Barcelona, 08008, Spain",Barcelona,Repsol 1 Sol,40,—,avg €30; dinner menu €65
+Olivos Comida y Vinos,"Carrer de Galileu 159, Barcelona, Spain",Barcelona,Repsol 1 Sol,100,—,"market menu €90; ""Inspiration"" €100-110"
+Petit Comité Gaig,"Passatge de la Concepció 13, Barcelona, 08008, Spain",Barcelona,Repsol 1 Sol,70,—,"avg €70; à la carte or ""Gran Ágape"" set menu"
+Roig Robí,"Carrer de Sèneca 20, Barcelona, 08006, Spain",Barcelona,Repsol 1 Sol,68,—,avg €60-75; set menu €68
+Sato i Tanaka,"Carrer del Bruc 79, Barcelona, 08009, Spain",Barcelona,Repsol 1 Sol,50,—,omakase €45-55; lunch €29 (short) / €35 (long)
+Xemei,"Passeig de l'Exposició 85, Barcelona, 08004, Spain",Barcelona,Repsol 1 Sol,45,—,avg €40; ~€50 pp with wine; lunch €20-30
+Canalha,"Rua da Junqueira 207, Lisbon, 1300-338, Portugal",Lisbon,Bib Gourmand,35,Farm to table,avg €35; Michelin €€; blackboard daily specials
+Carnal,"Rua da Misericordia 78, Lisbon, 1200 273, Portugal",Lisbon,Bib Gourmand,45,Mexican,Michelin €€; reports €50+ pp dinner
+Ofício - Wine & Dining Room,"Rua Nova da Trindade 11, Lisbon, 1200-301, Portugal",Lisbon,Bib Gourmand,45,Traditional Cuisine,sharing plates €10-18; ~€90 pp with wine
+Pigmeu,"Rua do 4 De Infantaria 68, Lisbon, 1350-274, Portugal",Lisbon,Bib Gourmand,42,Portuguese,€40-45 pp; set lunch €17; small plates from €4.80
+Zunzum Gastrobar,"Avenida Infante D. Henrique. Doca do Jardim do Tabaco, Lisbon, 1100-651, Portugal",Lisbon,Bib Gourmand,45,Contemporary,avg €45
+100 Maneiras,"Rua do Teixeira 39, Lisbon, 1200-459, Portugal",Lisbon,MICHELIN Selected,160,Creative,"The Story 17 moments €160; ""Short Story"" €130; vegetarian ""Echoes of 100"" €125"
+BAHR,"Praça Luís De Camões 2, Lisbon, 1200-243, Portugal",Lisbon,MICHELIN Selected,55,Portuguese,"Michelin €€€; evening à la carte; informal lunch ""executive menu"" (items €15-18.50)"
+JNĉQUOI Fish,"Av. da Liberdade, 189, Lisbon, 1250-096, Portugal",Lisbon,MICHELIN Selected,69,Seafood,"avg €69; à la carte only, fish by weight"
+O Frade,"Calçada da Ajuda 14, Lisbon, 1300-006, Portugal",Lisbon,MICHELIN Selected,32,Regional Cuisine,avg €25-35; small Alentejo menu
+O Talho,"Rua Carlos Testa 1, Lisbon, 1050-046, Portugal",Lisbon,MICHELIN Selected,55,Meats and Grills,"Michelin €€€; tartare €29.80, oxtail €31.20, croquettes €9.80"
+Plano,"Rua da Bela Vista à Graça 126, Lisbon, 1170-075, Portugal",Lisbon,MICHELIN Selected,95,Contemporary,Menu Origens (7 moments) €95; 10-moment menu higher
+Santa Joana,"Rua de Santa Marta 61B, Lisbon, 1059-002, Portugal",Lisbon,MICHELIN Selected,38,Contemporary,avg €38; sharing format
+Suba,"Tv. da Portuguesa 53, Lisbon, 1200-401, Portugal",Lisbon,MICHELIN Selected,95,Contemporary,"4-course €80; 5-course and 8-course ""Full Experience"" higher"
+Terroir,"Rua da Madalena, 271, Lisbon, 1100-321, Portugal",Lisbon,MICHELIN Selected,95,Modern Cuisine,5 moments €95; 8 moments €115; lunch menu €27.50; pairings €55/€75
+OMA,"Rua De Oliveira Monteiro, 183, Porto, 4050-442, Portugal",Porto,Bib Gourmand,70,Contemporary,"tasting €60-87 (""Viagem IDA e volta"" €87); executive lunch €16; pairing €40"
+Pátio 44,"Passeio De São Lázaro, 44, Porto, 4000 508, Portugal",Porto,Bib Gourmand,27,Traditional Cuisine,avg €25-30; Michelin single-€ tier
+Almeja,"Rua Fernandes Tomás 819, Porto, 4000-219, Portugal",Porto,MICHELIN Selected,50,Contemporary,10-course tasting ~€55; avg €45; weekday Bolhão/Trindade menus cheaper
+Apego,"Rua de Santa Catarina 1198, Porto, 4000-457, Portugal",Porto,MICHELIN Selected,75,Creative,"Apego 5-course €65; ""Desapego"" 7-course €90; pairing €35; avg €80"
+Atrevo,"Rua de Morgado de Mateus 51, Porto, 4000-334, Portugal",Porto,MICHELIN Selected,55,Contemporary,Menu Atrevido 6-course €65; à la carte avg €35
+Bistrô Severo,"Rua De Ricardo Severo 141, Porto, 4050-515, Portugal",Porto,MICHELIN Selected,45,Traditional Cuisine,NO PRICE PUBLISHED - estimated from Michelin €€ band; 2 or 3-course executive lunch
+Camilo,"Rua do Almada, 378, Porto, 4050-033, Portugal",Porto,MICHELIN Selected,45,Contemporary,avg €35; reports €50+ pp dinner; wine by glass €9
+Cozinha das Flores,"Largo São Domingos 62, Porto, 4050-545, Portugal",Porto,MICHELIN Selected,45,Modern Cuisine,avg €41; 3-course lunch €35
+Elemento,"Rua do Almada 51, Porto, 4050-036, Portugal",Porto,MICHELIN Selected,95,Modern Cuisine,8-moment wood-fire tasting €95 · notable wine list
+Fauno,"Rua Estreita de Lóios 5, Porto, 4050-244, Portugal",Porto,MICHELIN Selected,65,Contemporary,7-course tasting €60-70; lunch €45; pairing €30-40
+Liz,"Rua de Mota Pinto 170, Porto, 4100-354, Portugal",Porto,MICHELIN Selected,80,Contemporary,9-moment surprise tasting €75-85; pairing €40

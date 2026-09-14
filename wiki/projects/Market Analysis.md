@@ -30,6 +30,9 @@ type: research
 - **Snowflake**: Data warehousing.
 
 ## Useful Products & Tools
+
+> Migrating → [[../research/products|Products & Services I Like]]. That page is the live shelf, with a required *"what I'd steal"* column; these bare bullets stay here until each one earns a real reason.
+
 - **Design**: Creatie AI.
 - **Coding**: Warp, Airtable.
 - **Presentation**: Napkin AI, Gamma AI.

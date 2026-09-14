@@ -19,6 +19,19 @@ The more complex and digital the world becomes, the stronger the human counter-f
 
 ---
 
+## 💭 Reflection: It Started as Anxiety, and the First Answer Was Therapy
+Written up, this page reads like a macro thesis — abundance, atoms, premium value. That isn't where it came from. It came from anxiety. Mine. The [불안할 때 해야하는 질문](https://youtube.com/shorts/zXdo7bq3Y1I) short sitting in the references below isn't a stray link; it's the actual seed, and I should stop pretending the page began with an argument about scarcity.
+
+And the first thing I reached for wasn't cooking or planting or wool. It was **therapy**. That was the honest first answer — the direct one, the one an outsider would give in a second.
+
+I didn't pursue it, and the reason is cultural rather than intellectual. In Korea, walking into 정신과 still costs something a Western framing doesn't price in: the worry about a record that follows you, the assumption that you only go when you're already broken, the default of 참는 것 as the mature response. The direct route exists on paper and is closed in practice for a lot of people, including me. So the first answer is the one most people around me can't actually take.
+
+Which is, I think, why the mind slides to *this* instead — cook something real, grow something, put your hands on a physical material, get off the screen. It's what people reach for when the direct route is shut. I want to be careful about what I'm claiming there. Grounding is not treatment, and dressing up an access problem as a lifestyle thesis would be the dishonest version of this page. But the substitution is real and worth naming, because it means "return to basics" may be less a prediction about the AI era than a description of how anxiety gets handled where a proper channel is missing.
+
+**I have no idea yet.** No product, no wedge, not even a shape. I'm recording it because if I don't, I'll come back in six months, read the pillars and the premium-value argument, and forget that the reason I care about any of it is that I was anxious and the obvious answer was one I couldn't use. The nearest thing in the vault is [[Been There]] — route people to a peer who already survived the exact thing, precisely because the credentialed route is hard to walk into. Same origin, arrived at from the other side.
+
+---
+
 ## The Core Pillars of Living: AI-Era Transformations
 
 ### 1. Eating (Food & Micro-Agriculture)
@@ -26,7 +39,7 @@ The more complex and digital the world becomes, the stronger the human counter-f
 - **AI's Role as an Enabler, Not a Replacer**: Instead of using AI to design laboratory-synthesized chemical foods, AI should optimize natural biological processes:
   - **Soil-to-Table Optimization**: AI-driven micro-agriculture analyzing soil microbiomes, seed health, and local weather patterns to grow hyper-nutrient-rich, heirloom crops.
   - **Precision Nutrition**: AI telemetry mapping individual biology to recommend unprocessed, seasonal ingredients and traditional recipes (e.g., leveraging [[../research/cooking/index|Culinary Research]]).
-- **Connection to Nature**: A renewed interest in home planting, growing herbs like rosemary, thyme, or basil (see [[../research/planting/index|Planting & Horticulture]]), and artisanal food craft like baking (see [[../cooking/baking/index|Baking Master Index]]).
+- **Connection to Nature**: A renewed interest in home planting, growing herbs like rosemary, thyme, or basil (see [[../research/planting/index|Planting & Horticulture]]), and artisanal food craft like baking (see [[../research/cooking/baking/index|Baking Master Index]]).
 
 ### 2. Living (Shelter, Space, & Community)
 - **The Shift**: Moving away from isolated screen-based domestic setups to home environments designed as natural, sensory-rich sanctuaries.
@@ -52,8 +65,9 @@ The more complex and digital the world becomes, the stronger the human counter-f
 
 ## References
 - [진짜 부자들 특: 명품 안삼, 건강 챙김 by BZCF | 비즈까페 Community Post](https://www.youtube.com/post/UgkxAiHi_NH9cJi8F6CXmgy2UEHU0J28Xzl_)
-- [불안할 때 해야하는 질문 (젠슨 황) — BZCF | 비즈까페](https://youtube.com/shorts/zXdo7bq3Y1I) — Short: the question to ask yourself when you feel anxious, via Jensen Huang.
 - [Jensen Huang on Vision, Risk, and the GPU | Only In America — Hoover Institution](https://youtu.be/ZEL0EAVtCTY?t=1829) — interview with NVIDIA's founder on vision and risk (linked at ~30:29).
+  - [불안할 때 해야하는 질문 (젠슨 황) — BZCF | 비즈까페](https://youtube.com/shorts/zXdo7bq3Y1I) — Short: the question to ask yourself when you feel anxious, via Jensen Huang.
+
 
 ## 🔗 Connections
 
@@ -63,10 +77,11 @@ The more complex and digital the world becomes, the stronger the human counter-f
 - Draws on → [[../research/cooking/index]] — food as a physical sensory ground truth
 - Draws on → [[../research/planting/index]] — gardening and growing real ingredients
 - Feeds → [[../projects/Michelin Filter]] — culinary exploration meets physical-first curation
+- Shares an origin with → [[Been There]] — both start from "the direct mental-health route is hard to walk into"; that one answers with a peer, this one with physical grounding
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system)
+- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system), [[../research/cooking/coq-au-vin]] (cooking), [[../research/cooking/soupe-a-loignon]] (cooking)
 - **ai-as-enabler-not-replacer** → [[Been There]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[The Connection]] (system)
 <!-- AUTO-CONCEPTS:END -->
 

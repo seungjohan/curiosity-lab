@@ -26,8 +26,8 @@ A natural leavening agent made of flour and water, fermented by wild yeast and l
 - **Peak Maturity**: The point at which the starter is most active and ready for baking.
 
 ## 🔗 Connections
-- [[wiki/cooking/baking/baguette.md|Baguette]]
-- [[wiki/cooking/vocabulary.md|Cooking Vocabulary]]
+- [[baguette|Baguette]]
+- [[../vocabulary|Cooking Vocabulary]]
 
 ## 📚 References
 | Title | Media | URL |

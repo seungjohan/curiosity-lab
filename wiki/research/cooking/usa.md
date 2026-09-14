@@ -21,4 +21,4 @@ type: list
 - **Cioppino**: A classic Italian-American seafood stew from San Francisco, traditionally made with the "catch of the day" (crab, clams, shrimp, etc.) in a rich tomato and wine broth. (KR: **치오피노**)
 
 ## 🔗 Connections
-- [[wiki/cooking/index.md|Culinary Master Index]]
+- [[index|Culinary Master Index]]
