@@ -101,6 +101,15 @@ Founded 2015 by Manuel Carreras Fisas. **The structural twin of [[#🌏 Local Co
 *   **Scraped Data:** [[../../../raw/guides/macarfi_spain.csv|1,964 restaurants across 16 provinces]] — names and provinces only; prices and addresses not yet captured.
 *   ⚠️ The founder's claim that Macarfi agrees with chefs' own view of their restaurant "90% of the time" is **self-reported**, with no independent validation.
 
+### 15. 黑珍珠餐厅指南 (Black Pearl Restaurant Guide, 흑진주 가이드)
+Published by **Meituan/Dianping (美团点评)**, first released in Shanghai on **16 January 2018** as, in its own framing, China's first guide to define a "Chinese cuisine standard" — explicitly pitched as "中国人自己的美食榜" (China's own food ranking) rather than an adaptation of Michelin's French-rooted methodology. Restaurants are anonymously visited, scored, and selected by a panel of food critics ("美食专家") across three axes: **烹饪水平** (culinary skill), **餐厅水准/体验感受** (dining experience), and **传承创新** (heritage & innovation) — blending universal criteria (taste, ingredient pairing, ambiance) with China-specific ones (cultural heritage, creative fusion) and consumption-upgrade criteria (ingredient quality, health/wellness).
+*   **Focus:** A domestically-authored quality standard for Chinese cuisine specifically, aiming at regional and heritage cooking that an inspector corps trained on European technique is often accused of under-serving.
+*   **Rating system:** Three diamond (钻) tiers, framed by social occasion rather than an abstract scale — 一钻 ("worth eating with friends"), 二钻 ("worth eating on an anniversary"), 三钻 ("worth eating once in a lifetime" — the highest tier).
+*   **Why it matters here:** it is the closest Chinese analogue to Michelin in this list, but judged and published entirely domestically — a useful local-standard check where Michelin's China coverage (Shanghai, Beijing, Guangzhou, HK/Macau) is comparatively thin. Related: [[../../projects/Michelin Filter|Michelin Filter]].
+*   **Scope:** Grown every year since the 2018 debut (330 restaurants: 28 three-diamond, 85 two-diamond, 217 one-diamond). Latest edition with a full global count: **2025 (8th year, published 6 Jan 2025 in Nanchang) — 370 restaurants across 34 cities worldwide** (20+ mainland/HK/Macau/Taipei cities plus overseas stops such as Tokyo, Singapore and Bangkok; Paris and New York were paused from 2021 due to COVID and not confirmed since). The **2026 edition** (published 16 Jan 2026) added Nantong, Qingdao, Shijiazhuang and Shenyang, grew Hong Kong to 39 restaurants (4 newly one-diamond), reached 263 mainland restaurants across 32 cities in 18 provinces, and held its first overseas launch event in Singapore (April 2026) — no confirmed global total yet for that edition.
+*   **Scraped Data:** not yet captured — annual lists are published via the Meituan and Dianping apps; no standalone public CSV/API found in this pass.
+*   ⚠️ **Judge and marketplace share a parent company.** Meituan/Dianping also operates China's dominant paid restaurant-discovery and review platform, so — unlike Michelin's structurally unrelated tire-company origin — the guide's publisher has a direct commercial stake in the same restaurants' visibility. This is a structural observation drawn while researching this entry, **not a documented conflict-of-interest finding**: an English-language and Chinese-language search for independent criticism turned up nothing beyond Meituan's own press releases and state-media coverage (the primary source used here, Baidu Baike, draws on the same coverage).
+
 ## 💰 The Value Tier — finding "reasonable", not just "good"
 Every source above answers *how good*. Only a few answer *how much*, and they are the ones that matter for [[../../projects/Michelin Filter|Michelin Filter]]'s core word, **"reasonable"**.
 
@@ -129,7 +138,7 @@ Every source above answers *how good*. Only a few answer *how much*, and they ar
 | **UK** | AA Restaurant Guide / Good Food Guide | Rosettes |
 | **Portugal** | Guia Boa Cama Boa Mesa (Expresso) / Prémios Mesa Marcada / O Melhor Pastel de Nata | Garfos & Chaves (Platina·Ouro·Prata) / Top 10 jury vote / Blind-tasting winner |
 | **USA** | Eater 38 / James Beard Awards / Texas Monthly (BBQ) | Regional "Classics" & Heat Maps / Top 50 BBQ |
-| **China** | Dianping (Must-Eat List) / Black Pearl Guide | Diamonds (Black Pearl) |
+| **China** | Dianping (Must-Eat List) / [[#15. 黑珍珠餐厅指南 (Black Pearl Restaurant Guide, 흑진주 가이드)\|Black Pearl Guide]] | Diamonds (Black Pearl) |
 | **Mexico** | Guía México Gastronómico | Annual "250 Best" List |
 | **Peru** | SUMMUM | Top Rankings by Category |
 | **Thailand** | Wongnai | Users' Choice Awards |

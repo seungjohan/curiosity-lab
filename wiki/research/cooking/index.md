@@ -19,35 +19,8 @@ type: list
 
 Explore the world through its flavors. This index organizes culinary research by country and region.
 
-## 🇫🇷 France
-- [[france|France : La Fondation de la Technique]]
-
-## 🇮🇹 Italia
-- [[italia|Italia : L'Eleganza degli Ingredienti]]
-
-## 🇪🇸 España
-- [[españa|España : Innovación Modular]]
-
-## 🇯🇵 Japan
-- [[japan|Japan : ミニマリズムの本質]]
-
-## 🇨🇳 China
-- [[china|China : 复杂性的掌控]]
-
-## 🇰🇷 Korea
-- [[korea|Korea : 시스템과 발효의 미학]]
-
-## 🇻🇳 Vietnam
-- [[vietnam|Vietnam : Nghệ thuật của sự Cân bằng]]
-
-## 🇲🇽 Mexico
-- [[mexico|Mexico : Bases por Capas]]
-
-## 🇺🇸 America (USA)
-- [[usa|USA: The Melting Pot Iteration]]
-
-## 🇹🇭 Thailand
-- [[thailand|Thailand : The Balance of 5 Flavors]]
+## 🍽️ Restaurant & Dining Research
+- [[selected-restaurants|Selected Restaurant Sources]] — the primary culinary communities and guides used to identify exceptional restaurants globally, feeding [[../../projects/Michelin Filter|Michelin Filter]].
 
 ## 🌎 South America
 - [[south-america|South America : Terroir and Tradition]]
@@ -57,12 +30,6 @@ Explore the world through its flavors. This index organizes culinary research by
 
 ## 🥙 Middle East
 - [[middle-east|Middle East : The Cradle of Flavors]]
-
-## 🥖 Baking & Pastry
-- [[baking/index|Baking: Master Index]] — Breads, fermentation, and oven techniques.
-
-## 📖 Recipe Inspiration
-- [[recipe-references|Recipe References]] — Categorized database of dishes, techniques, and ingredients from web sources.
 
 ---
 ## 🔗 Connections
