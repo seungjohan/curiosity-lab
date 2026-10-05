@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-install.py — copy the linking system into another project.
+install.py — copy the linking algorithm into another project.
 
 Copies only the portable files: the config-driven scripts, a config template,
 and the structural tests. Nothing vault-specific comes along — no concept
 nodes, no notes, no tag maps.
 
 Usage:
-    python skills/linking-system/install.py /path/to/other-project
-    python skills/linking-system/install.py /path/to/other-project --force
-    python skills/linking-system/install.py --list
+    python skills/linking-algorithm/install.py /path/to/other-project
+    python skills/linking-algorithm/install.py /path/to/other-project --force
+    python skills/linking-algorithm/install.py --list
 """
 from __future__ import annotations
 
@@ -33,7 +33,7 @@ PORTABLE = [
     ("setup.cfg", "setup.cfg"),
 ]
 
-TEMPLATE = ("skills/linking-system/linking.config.template.json",
+TEMPLATE = ("skills/linking-algorithm/linking.config.template.json",
             "linking.config.json")
 
 GITIGNORE_LINES = [

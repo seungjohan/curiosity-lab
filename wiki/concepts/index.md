@@ -5,7 +5,7 @@ tag: concepts
 ---
 
 > [!IMPORTANT] Key Takeaway
-> **Why this matters:** Concept atoms are the horizontal axis of the linking system — reusable underlying patterns that connect pages across different categories, surfacing non-obvious insight (의외의 연결성).
+> **Why this matters:** Concept atoms are the horizontal axis of the linking algorithm — reusable underlying patterns that connect pages across different categories, surfacing non-obvious insight (의외의 연결성).
 > **How to use it:** When ingesting a page, tag it with the atoms it instances (`concepts:` frontmatter). Run `scripts/build_connections.py` to render the links.
 > **Informs:** Cross-domain ideation and research → idea promotion.
 

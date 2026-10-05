@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-wiki_lib.py — shared helpers for the linking system.
+wiki_lib.py — shared helpers for the linking algorithm.
 
 Everything vault-specific lives in linking.config.json, never in code. Copy
 this file plus the scripts that import it into another project, drop a config
@@ -37,7 +37,7 @@ def find_config(start: Path | None = None) -> Path:
             return candidate
     raise FileNotFoundError(
         f"{CONFIG_NAME} not found above {here}. "
-        "Copy the template from skills/linking-system/ and edit it."
+        "Copy the template from skills/linking-algorithm/ and edit it."
     )
 
 

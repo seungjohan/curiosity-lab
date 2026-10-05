@@ -81,7 +81,7 @@ silently skips them.
 symlink to `AGENTS.md`. Symlink = one file, can't drift. Separate file = room
 for Claude-specific instructions that Gemini and Cursor don't see. Undecided.
 
-**Finding 2 — `skills/linking-system/SKILL.md:38-53` duplicates
+**Finding 2 — `skills/linking-algorithm/SKILL.md:38-53` duplicates
 `LINKING.md:58-105`** (the two-axis diagram and the quality bar, near-verbatim).
 `LINKING.md:4` explicitly forbids this: "do not duplicate these rules
 elsewhere." Replace the SKILL.md copy with a pointer.

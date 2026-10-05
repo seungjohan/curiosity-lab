@@ -1,5 +1,5 @@
 {
-  "_comment": "Vault-specific settings for the linking system. Copy this file into another project and edit it; the scripts in scripts/ read it and contain no vault-specific strings. See skills/linking-system/SKILL.md.",
+  "_comment": "Vault-specific settings for the linking algorithm. Copy this file into another project and edit it; the scripts in scripts/ read it and contain no vault-specific strings. See skills/linking-algorithm/SKILL.md.",
 
   "wiki_dir": "wiki",
   "concepts_dir": "wiki/concepts",

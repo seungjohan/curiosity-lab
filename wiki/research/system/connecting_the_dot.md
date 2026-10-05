@@ -14,7 +14,7 @@ type: deep-dive
 
 # Connecting the Dots
 
-The vault's premise, stated plainly: **research from unrelated domains, colliding on a shared underlying pattern, is where new ideas come from.** I built a two-axis linking system (vertical pipeline + horizontal concept atoms) on instinct. This page is the deep dive into the actual field behind that instinct — because it turns out I reinvented four established bodies of work, and each one hands me something concrete.
+The vault's premise, stated plainly: **research from unrelated domains, colliding on a shared underlying pattern, is where new ideas come from.** I built a two-axis linking algorithm (vertical pipeline + horizontal concept atoms) on instinct. This page is the deep dive into the actual field behind that instinct — because it turns out I reinvented four established bodies of work, and each one hands me something concrete.
 
 ## The core question
 
