@@ -58,18 +58,21 @@ enables: ["[[germ theory]]"]           # what this made possible (down)
 competes_for: ["[[free time]]"]        # what it fought others for (the minus)
 ```
 
-Kinds: led to (A enables what causes B) · common cause · competition · same mechanism (Kind 1
-concept) · shared thread · complement. Era, people and place add weight only: "both about Europe"
-fails the quality bar. Context-only leads need two shared names and are flagged.
+**Adapt the structure, not just add a script.** Each Kind 2 sub-type got its own field, so the
+vault itself can say how two notes meet:
 
-Extra outputs fitted to the vault's habits: storylines (notes chained by enables → causes across
-subjects), names in 3+ subjects ("secretly one story"), spellings to merge (`[[17th century]]` ⇄
-`[[1600s]]`), open questions a note may touch.
+- the note footer has typed columns: ⬅ led here via · ➡ led on via · 🌱 same cause · ⚔ both
+  fought for · also shares (Dataview, always on);
+- the third thing gets a **node page** (a template) that lists notes by their role toward it:
+  what it caused, what made it possible, who fought over it. The bridge made visible;
+- every bond names its kind, so who finds which kind of connection can be counted;
+- the index gains *One cause, many subjects* and *Fought over across subjects*.
 
-Left out, on purpose: an LLM writing fields (notes are the owner's words), signs on everything
-(one minus covers it), group summaries (not until there are many notes).
+The script (`bond_leads.py`) ranks for a bond pass: kinds weighted, rare nodes first, a lead inside
+one subject at half, era/people/place weight only, plus storylines, spellings to merge and open
+questions a note may touch.
 
-Code: `dendrite/scripts/bond_leads.py`, 13 tests, mutation-checked. It prints; it never writes.
+Code: `dendrite/scripts/bond_leads.py`, 14 tests; templates `dendrite.md`, `node.md`. It prints; it never writes a note.
 
 ## Worked example 3: Dayweb (days and moments)
 
@@ -81,22 +84,28 @@ Code: `dendrite/scripts/bond_leads.py`, 13 tests, mutation-checked. It prints; i
 | Already linked | topic pages (every day of one subject), so a shared topic halves a day link and never makes one alone |
 | Test set | the owner's `~` / `≠` day pairs: PRD §7 waits on this before any semantic tier |
 
-The day links come from shared words (unchanged gate) and are re-ranked by the two halvings. On
-882 days the same 1,458 links stayed, re-ranked: 280 changed, links inside one week 438 → 247,
-links between days no topic joins 485 → 670.
+**The third thing is time itself.** Every subject draws on the same limited budget of days, so
+the meeting kinds are read from how topics move through months (monthly share of active days):
 
-Moments carry signs the owner writes: echo +1, tension −1. Two moments tied to one third take the
-product (Heider's balance), proposing `~` or `≠`. A split vote proposes nothing. Three or more
-moments joined by echoes become a line to name (the owner names threads).
+- **trades off with**: one takes more of my days when the other takes less (the minus on a
+  calendar). Only steady habits are compared (6+ shared months, each on in a quarter of them):
+  without that, 191 pairs, mostly topics that merely happened apart; with it, 62;
+- **rises with** · **began after** (the week before its first day) · **busiest** (Kleinberg) ·
+  **gone quiet**: on each topic page, typed;
+- **in the flow** on each day note: a topic's first day, its return after 30+ days, its busiest
+  stretch (549 of 882 days);
+- day-to-day links: words decide; the same week, or a topic both share, counts half (280 of
+  1,458 re-ranked; inside a week 438 → 247);
+- moments: echo +1, tension −1, two moments tied to one third take the product (Heider's
+  balance) to propose `~` or `≠`; 3+ echoes become a line to name; the owner's own echoes are
+  the test.
 
-Over time (no text needed): **gone quiet** (on a topic in the last 90 days, none in the last 14),
-**bursts** (Kleinberg over active days per month), **where a topic came from** (what else was
-active in the week before it began, the flow's up side read from dates).
+The vault's LINKING.md was rewritten as its own (it had been the study vault's copy).
 
 Left out, on purpose: any LLM on text (myself-lab and Day One are private), summaries
 (interpretation is myself-lab's job).
 
-Code: `dayweb/scripts/day_links.py` (+ `analyze_days.py` uses its ranking), 13 tests,
+Code: `dayweb/scripts/day_links.py`, used by `analyze_days.py` and `build_topics.py`, 16 tests,
 mutation-checked. Output: `topics/_leads.md`, gitignored; counts only on screen.
 
 ## Checklist for a new project
@@ -104,6 +113,8 @@ mutation-checked. Output: `topics/_leads.md`, gitignored; counts only on screen.
 - [ ] Answer the five questions in the project's own agent file.
 - [ ] Decide the flow fields from what the resource already carries; add only what is missing
       (usually direction).
+- [ ] Put the kinds into the project's own structure (footers, hub pages, typed links), not
+      only into a report. A script beside the vault is not an adaptation.
 - [ ] Name every kind with a sentence a person can check.
 - [ ] Rarity weighting and a hub cut; deterministic ties.
 - [ ] Count-half for links that don't cross the project's distance.
