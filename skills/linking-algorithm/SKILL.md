@@ -19,7 +19,7 @@ The skill has two parts:
 
 | | What it is | Where it runs |
 |---|---|---|
-| **Part 1: the algorithm** | Thinking flows and where they meet: the reasoning, the kinds, the scoring, and how to adapt it to a project's own resources | Constellate (`algorithm/pipeline/`), Dendrite (`scripts/bond_leads.py`), Dayweb (`scripts/day_links.py`) |
+| **Part 1: the algorithm** | Thinking flows and where they meet: the reasoning, the kinds, the scoring, and how to adapt it to a project's own resources. **`core/flowlink.py`** is the latest version in one stdlib file, held to Constellate's own output, with a time layer | Constellate (`algorithm/pipeline/`, and the app's `src/lib/flows.ts`), Dendrite and Dayweb (each runs a copy of `core/flowlink.py`) |
 | **Part 2: the vault toolkit** | Two-axis note linking plus the surprise proposer, as portable scripts | curiosity-lab, installable with `install.py` |
 
 Read [references/thinking-flows.md](references/thinking-flows.md) for the full algorithm and
@@ -97,7 +97,26 @@ what the owner approves, after a snapshot.
 - **The owner's own links are the test** (golden pairs), never pairs the algorithm proposed.
 - **Save dates are not the world.** Use publication dates for trends.
 
+### The core, and time
+
+`core/flowlink.py` is Part 1 as code: canonical names, shared and consensus edges, signed reach,
+rarity and hubs, meeting kinds, verdicts, groups, bridges, storylines, bursts. `test_flowlink.py`
+checks it against Constellate's pipeline on 1,188 meetings, so a project running it runs *the*
+algorithm, not a look-alike. Copy `core/flowlink.py`, `flowlink_parity.json` and `test_flowlink.py`
+into the project's `scripts/`; the project writes only an adapter that turns its resources into
+flows.
+
+The core adds a **time layer** Constellate didn't need (it reads dates only for trends): a flow
+may carry `when` (a day, a year, `1600s`, `44 BC`), and then a cause must come before its effect
+(otherwise the meeting is *hindsight*: weight, never a reason), and `years_apart` lets each
+project weigh distance in time its own way. Where a project is indexed by date, this is where it
+differs most.
+
 ### Adapting it to a project
+
+**Keep the project's main idea.** The algorithm improves how a project links; it never changes
+what the project is for or who writes what. Write the main idea down first and check every
+adaptation against it.
 
 The algorithm is the same everywhere; what changes is **who may write a flow**, **what
 "distant" means**, and **what has to stay private**. Ask these five questions first:
@@ -115,7 +134,8 @@ The algorithm is the same everywhere; what changes is **who may write a flow**, 
 | Resource | saved web page, video, post | study note | day of activity; moments in it |
 | Flow written by | Gemini at capture, Claude on request | the bond pass, as `causes` / `enables` / `competes_for` | the owner only: topic labels and `←` `~` `≠` |
 | The minus | works against, rivals | `competes_for` | `≠` tension, and signs multiplied |
-| Distance | market flow (topic) | subject | time (a link inside a week counts half) |
+| Distance | market flow (topic) | subject, and historical time (one moment ≤ 50 years) | time (near days left out; same date last month/year ×1.5) |
+| Time rule | dates only for trends | a cause before its effect; common cause and complement are reasons inside one historical moment; studied long ago ×1.25 | "may feed" runs forward and lands within 30 days |
 | Already linked | Related panel | 🔗 Bonds | topic pages |
 | Test set | golden pairs | bonds `found by: me` | the owner's `~` / `≠` pairs |
 | Output | the Related panel, named kinds | ranked bond leads, never written | *Same things* lines and `topics/_leads.md`, never a moment |

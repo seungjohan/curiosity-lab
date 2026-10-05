@@ -4,6 +4,19 @@ The algorithm (thinking-flows.md) is one idea: write down what each resource tou
 where they touch the same thing, and name how. Every project that adopts it has to answer five
 questions first, because the answers change the code more than any weight does.
 
+## First: keep the main idea
+
+Before any of this, write down what the project is *for* and who writes what, and hold every
+change against it. The algorithm improves how a project links; it is never the point of the
+project. Dendrite stays a study log that bonds different subjects in my words; Dayweb stays a
+vault of my moments that records structure and never interprets.
+
+## Run the core, adapt the flows
+
+Since N311 every project runs the same core, `core/flowlink.py` (tested against Constellate's
+output), and writes only an adapter: what a flow is made of, who may write it, and how time
+weighs. A re-implementation drifts from the algorithm the moment the algorithm improves.
+
 ## The five questions
 
 1. **What is one resource?** The unit that gets a flow. Not always the obvious one: in a day
@@ -108,8 +121,19 @@ Left out, on purpose: any LLM on text (myself-lab and Day One are private), summ
 Code: `dayweb/scripts/day_links.py`, used by `analyze_days.py` and `build_topics.py`, 16 tests,
 mutation-checked. Output: `topics/_leads.md`, gitignored; counts only on screen.
 
+## Where dates matter more (N311)
+
+| | Dendrite | Dayweb |
+|---|---|---|
+| Time it knows | `year`/`era` (when the events happened), `date` (when studied) | the day itself |
+| A cause before its effect | yes: backwards "led to" is hindsight | yes: "may feed" runs forward only |
+| How distance in time weighs | one historical moment (≤ 50 years) makes common cause and complement reasons, ×1.25; studied 90+ days apart ×1.25 | near days (≤ 7) left out; "may feed" within 30 days; same date last month/year ×1.5 |
+| Date index shown | Timeline (by `year`), Studied this week back then, storyline in historical order | On this date, In the flow, Through my labels, Often follows / followed by |
+
 ## Checklist for a new project
 
+- [ ] Write the project's main idea first; every change is checked against it.
+- [ ] Copy the core (`core/flowlink.py` and its test); write only the adapter.
 - [ ] Answer the five questions in the project's own agent file.
 - [ ] Decide the flow fields from what the resource already carries; add only what is missing
       (usually direction).
