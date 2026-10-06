@@ -141,6 +141,8 @@ mutation-checked. Output: `topics/_leads.md`, gitignored; counts only on screen.
 
 - [ ] Write the project's main idea first; every change is checked against it.
 - [ ] Copy the core (`core/flowlink.py` and its test); write only the adapter.
+- [ ] No app? Then the links must live in the pages: a regenerable block in every page and in the template, refreshed after each new page (Dendrite `bond_leads.py --write`, Dayweb `relink.py`).
+- [ ] Keep a linking log in the project, so its history can be followed up there.
 - [ ] Answer the five questions in the project's own agent file.
 - [ ] Decide the flow fields from what the resource already carries; add only what is missing
       (usually direction).
