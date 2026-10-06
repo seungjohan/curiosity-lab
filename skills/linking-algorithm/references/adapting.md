@@ -121,6 +121,13 @@ Left out, on purpose: any LLM on text (myself-lab and Day One are private), summ
 Code: `dayweb/scripts/day_links.py`, used by `analyze_days.py` and `build_topics.py`, 16 tests,
 mutation-checked. Output: `topics/_leads.md`, gitignored; counts only on screen.
 
+## The role of the date differs by project (N314)
+
+| | Constellate | Dendrite | Dayweb |
+|---|---|---|---|
+| What leads | what the resource is about | **what I studied** (each log a dot) | **time** (each day a dot) |
+| Role of the date | trends inside a market flow | a nudge: cause before effect, one historical moment ×1.1, studied long ago ×1.1 | the direction of the search: *grew from* walks each day back through its strongest earlier links; growth lines carry a topic forward |
+
 ## Where dates matter more (N311)
 
 | | Dendrite | Dayweb |
