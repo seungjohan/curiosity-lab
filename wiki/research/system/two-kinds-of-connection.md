@@ -11,7 +11,7 @@ status: open
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** The connections that actually excite me (Nike vs Nintendo, Covid → travel/dining) are **not** the kind the engine finds. The engine finds *analogy* (same shape, different domain). Those examples are a different animal: two things wired to the same **hidden variable**. Chasing better analogy was chasing the wrong half.
 > **How to use it:** This is a **living note**, not a finished design — captured mid-brainstorm on 2026-08-06 so the thinking (and the open questions) aren't lost. Pick up from "Open questions" below.
-> **Informs:** [[connecting_the_dot|Connecting the Dots]], and whether the [[graphrag-connection-engine|proposer]] needs a *second* engine.
+> **Informs:** [[connecting_the_dot|Connecting the Dots — The Field]], and whether the [[graphrag-connection-engine|proposer]] needs a *second* engine.
 
 # Two Kinds of Connection
 
@@ -95,11 +95,12 @@ Sketch of a second engine: give each note a small **causal card** — `{consumes
 ## 🔗 Connections
 
 ### ⬆ Pipeline
-- Back ← [[connecting_the_dot|Connecting the Dots]] — the parent; this note argues its "abstraction ladder" only covers Kind 1
+- Back ← [[connecting_the_dot|Connecting the Dots — The Field]] — the parent; this note argues its "abstraction ladder" only covers Kind 1
 - Pairs with → [[graphrag-connection-engine|GraphRAG & the Connection Engine]] — the similarity engine that is blind to Kind 2
+- Feeds → [[linking-algorithms-survey|Linking Algorithms — a Survey]] — the methods that already exist for each kind; Kind 2 turns out to be Swanson's ABC model
 - Hub → [[../../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **bridging-structural-holes** → [[../../ideation/The Connection]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system)
+- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system)
 <!-- AUTO-CONCEPTS:END -->

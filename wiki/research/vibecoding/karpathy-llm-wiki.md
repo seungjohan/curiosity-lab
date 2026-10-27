@@ -36,11 +36,12 @@ Karpathy proposes a pattern for personal knowledge management where an LLM maint
 
 ### ⬆ Pipeline
 - Informs → [[llm-wiki-pattern]] — this Gist is the blueprint; that page is the vault's own implementation of the pattern
+- Informs → [[../../ideation/Show Your Way - Instagram for Personal Methods|Show Your Way]]: evidence that a person's *way of using AI* is shareable, copyable content
 - Related → [[references|Vibecoding References]]
 - Hub → [[index|Vibecoding Index]]
 - Hub → [[../../index|Knowledge OS Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[../../ideation/Keep in Touch - Relationship Chronicle]] (system), [[../../ideation/Private Space - The Bedroom Moved Online]] (music), [[../../ideation/The Connection]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product), [[../../projects/prd/Chronicle_prd]] (product), [[../../projects/prd/Constellate_prd]] (product), [[../career/Creative-Tech-Trends]] (career)
+- **interpretation-over-artifact** → [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Connecting the Dots]] (system), [[../../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[../../ideation/Keep in Touch - Relationship Chronicle]] (system), [[../../ideation/Meeting Line - Before, During, After]] (product), [[../../ideation/Private Space - The Bedroom Moved Online]] (music), [[../../ideation/Show Your Way - Instagram for Personal Methods]] (consumer), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product), [[../../projects/prd/Chronicle_prd]] (product), [[../../projects/prd/Constellate_prd]] (product), [[../career/Creative-Tech-Trends]] (career)
 <!-- AUTO-CONCEPTS:END -->

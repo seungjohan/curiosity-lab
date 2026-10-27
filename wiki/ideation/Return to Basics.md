@@ -81,8 +81,8 @@ Which is, I think, why the mind slides to *this* instead — cook something real
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system), [[../research/cooking/coq-au-vin]] (cooking), [[../research/cooking/soupe-a-loignon]] (cooking)
-- **ai-as-enabler-not-replacer** → [[Been There]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[The Connection]] (system)
+- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system)
+- **ai-as-enabler-not-replacer** → [[Been There]] (system), [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system)
 <!-- AUTO-CONCEPTS:END -->
 
 ### Analogical ✦ (hand-picked)

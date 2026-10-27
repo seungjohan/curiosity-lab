@@ -10,9 +10,9 @@ type: deep-dive
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** "Connecting the dots" (의외의 연결성) is the whole reason this vault exists — but I'd been treating it as a *personal knack*. It's actually a well-studied field with named theories and runnable algorithms. Knowing the field turns a habit into a system.
 > **How to use it:** This is the map. Each foundation below tells me *how to write better concept atoms* and *what to compute* so the vault proposes connections instead of just storing mine.
-> **Informs:** [[graphrag-connection-engine|GraphRAG & the Connection Engine]] (the technical how), the vault's [[../../../LINKING.md|linking standard]], and the ideation [[../../ideation/The Connection|The Connection]].
+> **Informs:** [[graphrag-connection-engine|GraphRAG & the Connection Engine]] (the technical how), the vault's [[../../../LINKING.md|linking standard]], and the ideation [[../../ideation/Connecting the Dots#Applied to people|The Connection]].
 
-# Connecting the Dots
+# Connecting the Dots — The Field
 
 The vault's premise, stated plainly: **research from unrelated domains, colliding on a shared underlying pattern, is where new ideas come from.** I built a two-axis linking algorithm (vertical pipeline + horizontal concept atoms) on instinct. This page is the deep dive into the actual field behind that instinct — because it turns out I reinvented four established bodies of work, and each one hands me something concrete.
 
@@ -84,13 +84,14 @@ Everything here serves one flip:
 - Deep-dives → [[graphrag-connection-engine|GraphRAG & the Connection Engine]] — the technical engine behind "proposer, not renderer"
 - Deep-dives → [[graph-theory-foundations|Graph Theory Foundations]] — the classical BFS/DFS/DSU layer under the whole system, runnable today
 - Challenged by → [[two-kinds-of-connection|Two Kinds of Connection]] — argues this page's "abstraction ladder" only finds *analogy*; a second kind (Nike·Nintendo, coupled through a hidden variable) needs a different engine
+- Project hub → [[../../ideation/Connecting the Dots|Connecting the Dots]] — the project this field research grounds; main writing page
 - Informs → [[../../../LINKING.md|LINKING standard]] — the atom-writing rules here should be folded in
-- Feeds → [[../../ideation/The Connection|The Connection]] — same math (brokerage, community detection) applied to *people* instead of notes
+- Feeds → [[../../ideation/Connecting the Dots#Applied to people|The Connection]] — same math (brokerage, community detection) applied to *people* instead of notes
 - Hub → [[../../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **bridging-structural-holes** → [[../../ideation/The Connection]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[two-kinds-of-connection]] (system)
+- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system), [[two-kinds-of-connection]] (system)
 - **abstraction-raises-altitude** → [[../../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system), [[../../projects/AI & Agentic Workflows]] (system), [[../../projects/AI in Education - Side Effects]] (system), [[../career/Product-Management-0-to-1]] (career), [[../vibecoding/index]] (vibecoding)
-- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system)
+- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Connecting the Dots]] (system), [[../../ideation/Meeting Line - Before, During, After]] (product), [[../../ideation/Taste Detector]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system)
 <!-- AUTO-CONCEPTS:END -->

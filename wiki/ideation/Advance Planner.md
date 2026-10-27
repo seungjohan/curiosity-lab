@@ -21,6 +21,44 @@ The same engine specializes into **sub-projects** by context:
 - **Dating Planner** — planning a date somewhere; the right spot or event at the right time.
 - ...and other contexts the same taste-plus-location model can serve.
 
+## Core Loop — type a place, get everything
+**The default behavior of the Travel Planner.** The interest profile is saved once and always on; the user never re-states it. They type only a location (optionally dates), and the engine searches **every interest in the profile** for that place and returns **all the options** — spots, experiences, one-day classes, events, food.
+
+1. **Profile (saved, always on)** — cooking class, sports, music, busking, networking, parties, startup/IT, food, …
+2. **Input** — just a place: "Naples", or "Italy, 10 days, early October".
+3. **Search per interest × place × date** — one search lane per interest, run automatically.
+4. **Output** — every option grouped by interest; the user picks, and picks feed the itinerary and the [[#Journey Optimizer — save places, get the route|Journey Optimizer]].
+
+| Interest | What it finds for the place |
+| --- | --- |
+| **Signature food** | The dish the place is known for (vongole pasta in Naples) and where it's done best |
+| **Seasonal food** | What's in season *that month* (white truffle in Alba, October) |
+| **Cooking class** | One-day class for that local dish |
+| **Music / busking** | Live venues, busking spots, festivals on the dates |
+| **Sports** | Matches on the dates, pickup games, local sports culture |
+| **Startup / IT / networking** | Meetups, tech events, coworking hubs |
+| **Party** | Nightlife areas, events that week |
+
+**Data has three freshness tiers:** signature dishes are stable (collect once, store per place); seasonal food is a fixed month calendar (store once); events, matches and meetups change weekly (search live for each request).
+
+## Journey Optimizer — save places, get the route
+**Sub-project of the Travel Planner.** Save interests, places, restaurants and experiences in any order (several restaurants in Barcelona, Madrid and Valencia, a farm stay in Andalusia, something in Porto). It researches each one and plans the **most efficient journey**:
+
+1. **Cluster** — group pins into city/region bases.
+2. **Order** — find the shortest loop between bases; avoid backtracking.
+3. **Mode per leg** — compare train / flight / car on real door-to-door time and cost (rural pins, like an Andalusian farm, may need a car; plan where to drop it).
+4. **Nights per base** — sized by how many things are saved there (4 restaurants ≥ 2 dinners).
+5. **Day routes** — group by neighborhood inside each city.
+6. **Pin cost** — show what each pin costs the trip ("Porto: +1 flight, +1.5 days, for 1 item — drop it or add more?"). The trade-offs only the user can judge are the real product.
+
+**Dates: both modes.** Fixed dates → fit the best subset into the window. Open dates → say how many days the whole list needs. Same engine, set by the user's planning style.
+
+**Suggestions: open, as much as possible.** Beyond the saved list, freely suggest everything that fits taste along the route ("you're passing Valencia anyway — paella class, Albufera sunset"), marked as suggestions so saved pins stay distinct.
+
+**Ties back to timing:** the route fixes the dates, the dates trigger the booking-window alerts.
+
+**Build: files, not an app.** For personal use: one dump file per trip (`wiki/travel/{trip}.md`), an agent "plan pass" writes the `## Plan` section, optional map via the [[../../scripts/trip_guide/food-map.html|food-map]] pattern. Add a database (Dataview frontmatter first) only when filtering across trips becomes a real need; a scheduled agent can cover alerts later.
+
 ## How It Works
 1. **Save your profile** — tastes, interests, past experiences, constraints. You can type these in, or **import them from services you already use** (see below).
 2. **Set a location + time horizon** — current location, or a future destination and dates.
@@ -74,6 +112,6 @@ A strong fit is **frequent business travelers**: they cycle through unfamiliar c
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **multi-signal-fusion** → [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Taste Detector]] (system), [[The Connection]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system)
+- **multi-signal-fusion** → [[Atlas - One Map Over Every App]] (product), [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Meeting Line - Before, During, After]] (product), [[Taste Detector]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system), [[../research/system/linking-algorithms-survey]] (system)
 - **needle-in-haystack-retrieval** → [[Triathlon Photo Finder]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../research/system/graphrag-connection-engine]] (system)
 <!-- AUTO-CONCEPTS:END -->

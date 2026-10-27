@@ -46,7 +46,7 @@ Several cultures already build in **structured time to wander and rediscover wha
 **The gap North Star fills:** all of these need the right country, employer, or life-window — and none of them help the person who is *already numb* and can't self-start. North Star is the **personal, always-on, low-stakes version** — the "wander and find what you like" step without needing to be 16, quit your job, or emigrate.
 
 ## Directions Being Explored
-- **Interest Graph, not purpose ladder** — map the faint signals of what a person leans toward (borrowing [[The Connection]]'s graph approach) and let a *liking* emerge from the pattern, rather than demanding they declare a dream. Could bootstrap from [[Taste Detector]]'s footprint-read to beat the cold start.
+- **Interest Graph, not purpose ladder** — map the faint signals of what a person leans toward (borrowing [[Connecting the Dots#Applied to people|The Connection]]'s graph approach) and let a *liking* emerge from the pattern, rather than demanding they declare a dream. Could bootstrap from [[Taste Detector]]'s footprint-read to beat the cold start.
 - **Near-free micro-trials** — an agent that turns a flicker of interest into a **tiny, low-cost taste** you can try this week (an hour, not a career). Core loop: *notice a spark → try a small thing → did it feel alive?* — evidence over introspection.
 
 ## Why AI Changes This Now
@@ -67,13 +67,14 @@ Several cultures already build in **structured time to wander and rediscover wha
 - Seed ← [[../research/career/Finding-Dream-Services|Finding Dream Services]] — the landscape research this was promoted (and narrowed) from
 - Next → [[Company Fit Finder - Where to Work|Company Compass]] — find what you *like* here, then find *where to do it for work* there (personal → career)
 - Related → [[Taste Detector]] — footprint-read could seed North Star's cold start (what you already lean toward)
+- Related → [[Show Your Way - Instagram for Personal Methods|Show Your Way]]: borrowing someone else's shared method is a near-free way to try one thing
 - Related → [[Been There]] — the mental-health neighbor for when flatness tips into "no reason to live"
-- Related → [[The Connection]] — shares the interest-as-graph approach
+- Related → [[Connecting the Dots#Applied to people|The Connection]] — shares the interest-as-graph approach
 - Hub → [[../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[The Connection]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
-- **ai-as-enabler-not-replacer** → [[Been There]] (system), [[Return to Basics]] (system), [[The Connection]] (system)
+- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Meeting Line - Before, During, After]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **ai-as-enabler-not-replacer** → [[Been There]] (system), [[Connecting the Dots]] (system), [[Return to Basics]] (system)
 - **abstraction-raises-altitude** → [[../projects/AI & Agentic Workflows]] (system), [[../projects/AI in Education - Side Effects]] (system), [[../research/career/Product-Management-0-to-1]] (career), [[../research/system/connecting_the_dot]] (system), [[../research/vibecoding/index]] (vibecoding)
 <!-- AUTO-CONCEPTS:END -->

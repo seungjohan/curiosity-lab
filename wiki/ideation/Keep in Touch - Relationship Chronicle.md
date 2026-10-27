@@ -162,7 +162,7 @@ So the design question becomes **which vertical**, and the shortlist worth testi
 ### ⬆ Pipeline
 - Back ← [[sparks|✨ Spark List]] — working notes for the `Keep-in-touch log` spark (2026-07-31). **Deliberately not on the [[ideation|Ideation Board]]**: it's essentially CRM pointed at your own career, so it stays at spark stage until the "who keeps the log alive" problem has an answer.
 - Sibling → [[Chronicle - Personal Topic Timeline]] — the same chronicle idea pointed at topics rather than people
-- Related → [[The Connection]] — relationships as a graph; this one maintains the edges instead of discovering them
+- Related → [[Connecting the Dots#Applied to people|The Connection]] — relationships as a graph; this one maintains the edges instead of discovering them
 - Related → [[Company Fit Finder - Where to Work]] — the career-network layer this feeds; that one finds the company, this one keeps the people
 - Related → [[Taste Detector]] — hits the same platform data walls for auto-capture
 - Source → [[../research/inspiration|💡 Inspiration]] — the Uber-HR video behind the idea, and Pigment's verticalize-to-beat-giants argument
@@ -174,5 +174,5 @@ So the design question becomes **which vertical**, and the shortlist worth testi
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[The Connection]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Meeting Line - Before, During, After]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
 <!-- AUTO-CONCEPTS:END -->

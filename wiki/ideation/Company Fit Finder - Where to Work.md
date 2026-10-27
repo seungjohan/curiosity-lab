@@ -82,7 +82,7 @@ Selection isn't the finish line — *getting in* is. A wiser version of [[Return
 - **Data reliability**: reviews are biased and gameable; funding data is stale/private for early startups; de-biasing is the hard technical core.
 - **Data access & legality**: the richest sources (LinkedIn especially) fight scraping hard — legal exposure (*hiQ Labs v. LinkedIn*) plus brittle anti-bot. Durable access likely means user-authorized exports/APIs, not mass scraping.
 - **False precision in scoring**: numericalizing qualitative traits (culture, fit) risks confident-but-wrong scores; the standard must stay transparent and component-wise, or it becomes astrology with a dashboard.
-- **Defining "fit"**: quantifying person↔company match meaningfully (echoes [[The Connection]]'s synergy-quantification problem).
+- **Defining "fit"**: quantifying person↔company match meaningfully (echoes [[Connecting the Dots#Applied to people|The Connection]]'s synergy-quantification problem).
 - **Private-company opacity**: the most interesting early startups leave the thinnest public footprint — cold-start on the *company* side.
 - **Moat vs. incumbents**: LinkedIn, Glassdoor, Crunchbase, levels.fyi all own pieces; the defensible slice is *personal fit + approach*, not raw data.
 - **Trust**: a fit verdict people act on (a job is a big decision) has to earn deep trust and explain itself.
@@ -93,15 +93,15 @@ Selection isn't the finish line — *getting in* is. A wiser version of [[Return
 ### ⬆ Pipeline
 - Back ← [[ideation]] — tracked on the active ideation board
 - Related → [[Taste Detector]] — same signal-fusion engine, pointed at companies instead of people
-- Related → [[The Connection]] — person↔entity fit/synergy scoring
+- Related → [[Connecting the Dots#Applied to people|The Connection]] — person↔entity fit/synergy scoring
 - Related → [[../projects/Michelin Filter|Michelin Filter]] — sibling "trusted standard" play: score/curate quality on a defined standard
 - Seed ← [[../research/career/Finding-Dream-Services|Finding Dream Services]] — the career research that surfaced this
 - Hub → [[../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **multi-signal-fusion** → [[Advance Planner]] (system), [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Taste Detector]] (system), [[The Connection]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system)
+- **multi-signal-fusion** → [[Advance Planner]] (system), [[Atlas - One Map Over Every App]] (product), [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Connecting the Dots]] (system), [[Meeting Line - Before, During, After]] (product), [[Taste Detector]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system), [[../research/system/linking-algorithms-survey]] (system)
 - **high-signal-filter** → [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Constellate_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/music/music-social-media]] (music)
-- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[The Connection]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
-- **abundance-flips-value** → [[Private Space - The Bedroom Moved Online]] (music), [[Return to Basics]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system), [[../research/cooking/coq-au-vin]] (cooking), [[../research/cooking/soupe-a-loignon]] (cooking)
+- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Meeting Line - Before, During, After]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **abundance-flips-value** → [[Private Space - The Bedroom Moved Online]] (music), [[Return to Basics]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system)
 <!-- AUTO-CONCEPTS:END -->

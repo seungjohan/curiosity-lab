@@ -29,7 +29,7 @@ Usage:
     python scripts/graph_analysis.py --method bfs          # components via BFS
     python scripts/graph_analysis.py --method dfs          # components via DFS
     python scripts/graph_analysis.py --verify              # all three must agree
-    python scripts/graph_analysis.py --path "Wine Value Advisor" "The Connection"
+    python scripts/graph_analysis.py --path "Wine Value Advisor" "Connecting the Dots"
     python scripts/graph_analysis.py --hubs 15             # top notes by degree
 
 Stdlib only. Config + note enumeration come from wiki_lib / linking.config.json.

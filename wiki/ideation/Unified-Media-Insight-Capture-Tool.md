@@ -43,8 +43,8 @@ Most tools serve specific niches (text, audio, or podcasts). There is no single 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
 - **needle-in-haystack-retrieval** → [[Advance Planner]] (system), [[Triathlon Photo Finder]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../research/system/graphrag-connection-engine]] (system)
-- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[Return to Basics]] (system), [[../projects/Michelin Filter]] (system), [[../research/cooking/coq-au-vin]] (cooking), [[../research/cooking/soupe-a-loignon]] (cooking)
-- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[The Connection]] (system), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[Return to Basics]] (system), [[../projects/Michelin Filter]] (system)
+- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Meeting Line - Before, During, After]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
 <!-- AUTO-CONCEPTS:END -->
 
 ### Tension ✦

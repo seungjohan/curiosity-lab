@@ -9,12 +9,12 @@ type: deep-dive
 
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** Plain vector search finds notes *similar* to a query. GraphRAG finds how my notes *connect*, and can answer whole-corpus questions ("what themes recur across all my ideas?") that similarity search structurally cannot. That's the difference between a search box and a thinking partner.
-> **How to use it:** Two payoffs — (1) a concrete architecture for making this vault *propose* connections, and (2) a real technical backbone for [[../../ideation/The Connection|The Connection]], which is the same graph math applied to people.
-> **Informs:** [[connecting_the_dot|Connecting the Dots]] (the theory), [[../../ideation/The Connection|The Connection]] (the product).
+> **How to use it:** Two payoffs — (1) a concrete architecture for making this vault *propose* connections, and (2) a real technical backbone for [[../../ideation/Connecting the Dots#Applied to people|The Connection]], which is the same graph math applied to people.
+> **Informs:** [[connecting_the_dot|Connecting the Dots — The Field]] (the theory), [[../../ideation/Connecting the Dots#Applied to people|The Connection]] (the product).
 
 # GraphRAG & the Connection Engine
 
-The parent page [[connecting_the_dot|Connecting the Dots]] ends on one lever: *embeddings and graphs are complementary; fuse them.* **GraphRAG is that fusion, built and benchmarked.** This page goes deep on it, then applies it twice — to the vault, and to the idea [[../../ideation/The Connection|The Connection]].
+The parent page [[connecting_the_dot|Connecting the Dots — The Field]] ends on one lever: *embeddings and graphs are complementary; fuse them.* **GraphRAG is that fusion, built and benchmarked.** This page goes deep on it, then applies it twice — to the vault, and to the idea [[../../ideation/Connecting the Dots#Applied to people|The Connection]].
 
 ## Why plain RAG isn't enough
 
@@ -64,15 +64,15 @@ My vault is already a hand-built version of the GraphRAG index:
 | **Global search** | **— missing —** |
 
 The gap is **global search**: nothing in the vault answers "what themes recur across all my ideas?" or "which of my research threads are converging?" That's the highest-value thing GraphRAG would add. Practical path, cheapest first:
-1. **Structural-hole finder** (from [[connecting_the_dot|Connecting the Dots]]) — read the Smart Connections vectors, flag high-cosine / no-shared-concept / cross-category pairs as candidate links. Local, no LLM cost. *Start here.*
+1. **Structural-hole finder** (from [[connecting_the_dot|Connecting the Dots — The Field]]) — read the Smart Connections vectors, flag high-cosine / no-shared-concept / cross-category pairs as candidate links. Local, no LLM cost. *Start here.*
 2. **Community detection** via the [Graph Analysis plugin](https://github.com/SkepticMystic/graph-analysis) — see my real clusters and their boundaries, no code.
 3. **Global questions** — periodically run an LLM (me) map-reduce over concept nodes + MOCs to write a "state of the vault: converging themes" note. A poor-man's GraphRAG global search, and it feeds the Reflect stage of the loop.
 
 I do **not** need to stand up Microsoft GraphRAG's full pipeline at this scale — the value is in borrowing its *moves*, not its infrastructure.
 
-## Application B — GraphRAG *is* the backbone for [[../../ideation/The Connection|The Connection]]
+## Application B — GraphRAG *is* the backbone for [[../../ideation/Connecting the Dots#Applied to people|The Connection]]
 
-[[../../ideation/The Connection|The Connection]] wants to predict **1:N team synergy** from personality + social data. Its roadmap currently points only at Stanford CS224W in the abstract. GraphRAG's machinery gives it a concrete spine — because *a team is a graph of people*, and everything above transfers:
+[[../../ideation/Connecting the Dots#Applied to people|The Connection]] wants to predict **1:N team synergy** from personality + social data. Its roadmap currently points only at Stanford CS224W in the abstract. GraphRAG's machinery gives it a concrete spine — because *a team is a graph of people*, and everything above transfers:
 
 - **The graph:** people = nodes; shared traits, interactions, social ties = edges. (The Connection already plans to fuse survey + social data — that's edge construction.)
 - **Community detection (Leiden):** finds natural sub-teams and cliques — who actually clusters together.
@@ -93,15 +93,15 @@ So the same page-linking research that improves the vault *is* the technical fou
 ## 🔗 Connections
 
 ### ⬆ Pipeline
-- Back ← [[connecting_the_dot|Connecting the Dots]] — the theory this engine implements
+- Back ← [[connecting_the_dot|Connecting the Dots — The Field]] — the theory this engine implements
 - Pairs with → [[graph-theory-foundations|Graph Theory Foundations]] — the symbolic (BFS/DFS/DSU) half of the neuro-symbolic pairing this page's LLM methods form
 - Blind spot → [[two-kinds-of-connection|Two Kinds of Connection]] — this engine finds *analogy* only; it is structurally blind to hidden-shared-variable links (Nike·Nintendo)
-- Feeds → [[../../ideation/The Connection|The Connection]] — supplies its technical roadmap (community detection, PageRank, link prediction)
+- Feeds → [[../../ideation/Connecting the Dots#Applied to people|The Connection]] — supplies its technical roadmap (community detection, PageRank, link prediction)
 - Related → [[../../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **bridging-structural-holes** → [[../../ideation/The Connection]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[two-kinds-of-connection]] (system)
+- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[linking-algorithms-survey]] (system), [[two-kinds-of-connection]] (system)
 - **needle-in-haystack-retrieval** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Unified-Media-Insight-Capture-Tool]] (product), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel)
-- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system)
+- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Connecting the Dots]] (system), [[../../ideation/Meeting Line - Before, During, After]] (product), [[../../ideation/Taste Detector]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[linking-algorithms-survey]] (system)
 <!-- AUTO-CONCEPTS:END -->

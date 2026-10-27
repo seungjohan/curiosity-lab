@@ -8,7 +8,7 @@ lifecycle: spark
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** Burnout isn't a character flaw — it's triggered by life events everyone eventually hits (first job, layoff, marriage, a new baby, loss), just on different timelines. The people best equipped to advise you aren't credentialed strangers; they're the ones who already survived *your specific* moment.
 > **How to use it:** Two loops — (1) check your mental health *regularly*, before a crisis, by letting AI read your life-as-data; (2) when something surfaces, route you to a peer who's already been through it — a "senior" of that exact issue.
-> **Informs:** [[The Connection]] (people-to-people matching) and [[Taste Detector]] (the life-as-data profile that could power the check-in).
+> **Informs:** [[Connecting the Dots#Applied to people|The Connection]] (people-to-people matching) and [[Taste Detector]] (the life-as-data profile that could power the check-in).
 
 # Been There
 
@@ -32,7 +32,7 @@ The insight that widens it: **you don't have to be in crisis to use it.** Becaus
 ### 2. The Bridge (you → someone who's been there)
 - Match a person facing an issue with someone who already lived through *the same* one — new-parent exhaustion, a layoff, a caregiving stretch, an identity wobble after a big life change.
 - Value = **specific, earned experience**, not credentials. The advisor's qualification is that they *survived this exact thing*.
-- Reframes the product from "another wellness app" to a **human connection layer** — closer to [[The Connection]] than to a chatbot.
+- Reframes the product from "another wellness app" to a **human connection layer** — closer to [[Connecting the Dots#Applied to people|The Connection]] than to a chatbot.
 
 ## Why Now
 - **AI makes life-as-data cheap.** Turning a scattered life into a readable signal used to need a therapist's hour; now a system can do a first-pass read continuously and privately.
@@ -54,13 +54,13 @@ The user named these directly — they're the crux, not footnotes:
 
 ### ⬆ Pipeline
 - Back ← [[ideation]] — tracked on the active ideation board
-- Related → [[The Connection]] — both are people-to-people matching; this matches on *lived experience*, that on team synergy
+- Related → [[Connecting the Dots#Applied to people|The Connection]] — both are people-to-people matching; this matches on *lived experience*, that on team synergy
 - Related → [[Taste Detector]] — its life-as-data profile could feed the check-in's read
 - Related → [[Return to Basics]] — human wellbeing / grounding as AI accelerates
 - Hub → [[../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **ai-as-enabler-not-replacer** → [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Return to Basics]] (system), [[The Connection]] (system)
-- **multi-signal-fusion** → [[Advance Planner]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Taste Detector]] (system), [[The Connection]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system)
+- **ai-as-enabler-not-replacer** → [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Return to Basics]] (system)
+- **multi-signal-fusion** → [[Advance Planner]] (system), [[Atlas - One Map Over Every App]] (product), [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Meeting Line - Before, During, After]] (product), [[Taste Detector]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system), [[../research/system/linking-algorithms-survey]] (system)
 <!-- AUTO-CONCEPTS:END -->

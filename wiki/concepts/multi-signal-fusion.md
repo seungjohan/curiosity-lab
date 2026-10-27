@@ -12,11 +12,13 @@ Combining several individually-weak signals into one confident decision or ident
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
 - [[../ideation/Advance Planner]] (system)
+- [[../ideation/Atlas - One Map Over Every App]] (product)
 - [[../ideation/Been There]] (system)
 - [[../ideation/Chronicle - Personal Topic Timeline]] (product)
 - [[../ideation/Company Fit Finder - Where to Work]] (system)
+- [[../ideation/Connecting the Dots]] (system)
+- [[../ideation/Meeting Line - Before, During, After]] (product)
 - [[../ideation/Taste Detector]] (system)
-- [[../ideation/The Connection]] (system)
 - [[../ideation/Triathlon Photo Finder]] (system)
 - [[../ideation/Wine Value Advisor]] (system)
 - [[../projects/Michelin Filter]] (system)
@@ -26,6 +28,7 @@ Combining several individually-weak signals into one confident decision or ident
 - [[../research/system/connecting_the_dot]] (system)
 - [[../research/system/graph-theory-foundations]] (system)
 - [[../research/system/graphrag-connection-engine]] (system)
+- [[../research/system/linking-algorithms-survey]] (system)
 <!-- AUTO-INSTANCES:END -->
 
 ## 🔗 Connections

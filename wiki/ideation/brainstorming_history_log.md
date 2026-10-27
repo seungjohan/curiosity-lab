@@ -81,7 +81,7 @@ Append-only record of wiki operations (Ingest, Query, Health Check).
 
 ## [2026-05-14] Batch Data Ingestion
 - Processed 50+ files from `raw/obsidian/`.
-- Created specific subject pages for Startups: [[The Connection]], [[Triathlon Photo Finder]], [[Michelin Filter]], [[Webeing]], [[Market Analysis]], [[Startup Insights]].
+- Created specific subject pages for Startups: [[Connecting the Dots#Applied to people|The Connection]], [[Triathlon Photo Finder]], [[Michelin Filter]], [[Webeing]], [[Market Analysis]], [[Startup Insights]].
 - Created specific subject pages for Personal Reflections: [[Self-Reflection]], [[Relationship Lessons]], [[Career & Startup Mindset]], [[Dreams & Hobbies]], [[Social Interactions]].
 - Updated [[index]] and [[brainstorming]] with the new structure.
 

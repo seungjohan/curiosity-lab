@@ -8,7 +8,7 @@ lifecycle: spark
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** People broadcast their real taste through the digital footprints they've already left — subscriptions, the YouTube channels they follow, who they follow on Instagram, what they book and read. These signals are more honest than any survey.
 > **How to use it:** Fuse those scattered signals into a confident per-person taste profile, then act on it — recommendations, matching, niche discovery.
-> **Informs:** [[Advance Planner]] (the taste profile that powers its recommendations) and [[The Connection]] (taste-based matching).
+> **Informs:** [[Advance Planner]] (the taste profile that powers its recommendations) and [[Connecting the Dots#Applied to people|The Connection]] (taste-based matching).
 
 # Taste Detector
 
@@ -40,7 +40,7 @@ The key implication is an attitude, not a feature: **the more decentralized tast
 
 ## What We Can Do With the Taste Profile
 - **Feed recommendations** → power [[Advance Planner]] and similar services with a taste profile built automatically.
-- **Match people** → taste-based matching for dating, teams, or communities ([[The Connection]]).
+- **Match people** → taste-based matching for dating, teams, or communities ([[Connecting the Dots#Applied to people|The Connection]]).
 - **Find your tribe** → surface the niche communities, events, and content that fit a minor/long-tail interest.
 - **Personalized commerce & content** → serve the specific, not the average.
 
@@ -62,7 +62,7 @@ The key implication is an attitude, not a feature: **the more decentralized tast
 
 ## 🧭 Directions Being Explored
 Product story taking shape: **taste mirror as the hook → action / connection as the loop.**
-- **Payoffs are a sequence, not a menu:** *self-understanding* + *cross-domain discovery* are the content (novelty-prone alone); *action* ([[Advance Planner]]) + *connection* ([[The Connection]] / find-your-people) are the loops that beat novelty death. The mirror gets people in; the loop keeps them.
+- **Payoffs are a sequence, not a menu:** *self-understanding* + *cross-domain discovery* are the content (novelty-prone alone); *action* ([[Advance Planner]]) + *connection* ([[Connecting the Dots#Applied to people|The Connection]] / find-your-people) are the loops that beat novelty death. The mirror gets people in; the loop keeps them.
 - **Anti-Qloo positioning** as the whole differentiator: "Qloo knows taste; this knows *you*" — deeply personal, private, consumer-owned vs. identity-agnostic B2B.
 - **Maybe detection is the wrong hard problem to own.** Data walls make auto-detection fragile; inversion — make *curating* taste effortless and spend the real effort on the **action layer**. The moat may be what you *do* with taste, not how you infer it.
 - **Niche/long-tail as the wedge audience:** the mirror is most valuable to people with specific/underserved taste that mainstream recs fail — "finally, something gets me." (Direct line to this note's own infinite-channels thesis.)
@@ -82,10 +82,11 @@ Product story taking shape: **taste mirror as the hook → action / connection a
 ### ⬆ Pipeline
 - Back ← [[ideation]] — tracked on the active ideation board
 - Related → [[Advance Planner]] — Taste Detector builds the profile that Advance Planner acts on
-- Related → [[The Connection]] — taste-based matching between people
+- Related → [[Connecting the Dots#Applied to people|The Connection]] — taste-based matching between people
+- Related → [[Show Your Way - Instagram for Personal Methods|Show Your Way]]: same footprint, opposite consent. Here it's inferred; there the owner chooses to share and explain it
 - Hub → [[../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **multi-signal-fusion** → [[Advance Planner]] (system), [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[The Connection]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system)
+- **multi-signal-fusion** → [[Advance Planner]] (system), [[Atlas - One Map Over Every App]] (product), [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Meeting Line - Before, During, After]] (product), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system), [[../research/system/linking-algorithms-survey]] (system)
 <!-- AUTO-CONCEPTS:END -->

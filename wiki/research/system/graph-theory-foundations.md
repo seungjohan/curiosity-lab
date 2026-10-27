@@ -10,11 +10,11 @@ type: deep-dive
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** [[graphrag-connection-engine|GraphRAG]] and community detection are the *fancy* end. But the vault is literally a graph (notes = vertices, links = edges), and the **foundational** traversals — BFS, DFS, DSU — already answer the questions that matter most day one: *is my knowledge connected, or islands? which notes are orphans? how are two ideas related, minimally?*
 > **How to use it:** These run today on my real vault via `scripts/graph_analysis.py`. First run already found 10 orphan notes and proved the concept axis collapsed my graph's diameter to ~1 hop.
-> **Informs:** [[connecting_the_dot|Connecting the Dots]] (the parent), [[graphrag-connection-engine|GraphRAG & the Connection Engine]] (the neural half this pairs with).
+> **Informs:** [[connecting_the_dot|Connecting the Dots — The Field]] (the parent), [[graphrag-connection-engine|GraphRAG & the Connection Engine]] (the neural half this pairs with).
 
 # Graph Theory Foundations
 
-[[connecting_the_dot|Connecting the Dots]] named the *methods*; [[graphrag-connection-engine|GraphRAG]] covered the LLM-heavy end. This page goes the other direction — **down to the fundamentals** — because the cheapest, most immediately useful analysis needs no embeddings and no LLM at all. It's classical graph theory, and it runs in linear time on the graph I already have.
+[[connecting_the_dot|Connecting the Dots — The Field]] named the *methods*; [[graphrag-connection-engine|GraphRAG]] covered the LLM-heavy end. This page goes the other direction — **down to the fundamentals** — because the cheapest, most immediately useful analysis needs no embeddings and no LLM at all. It's classical graph theory, and it runs in linear time on the graph I already have.
 
 ## The vault *is* a graph
 
@@ -168,14 +168,14 @@ python scripts/graph_analysis.py --hubs 15        # notes holding the graph toge
 ## 🔗 Connections
 
 ### ⬆ Pipeline
-- Back ← [[connecting_the_dot|Connecting the Dots]] — the parent; this is its "from the ground up" computation layer
+- Back ← [[connecting_the_dot|Connecting the Dots — The Field]] — the parent; this is its "from the ground up" computation layer
 - Pairs with → [[graphrag-connection-engine|GraphRAG & the Connection Engine]] — the neural half of the neuro-symbolic pairing
 - Feeds → [[../../maintenance|Maintenance]] — the orphan list is a concrete backlog
-- Feeds → [[../../ideation/The Connection|The Connection]] — team-synergy graphs use these exact primitives (components, shortest path, PageRank)
+- Feeds → [[../../ideation/Connecting the Dots#Applied to people|The Connection]] — team-synergy graphs use these exact primitives (components, shortest path, PageRank)
 - Hub → [[../../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **bridging-structural-holes** → [[../../ideation/The Connection]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graphrag-connection-engine]] (system), [[two-kinds-of-connection]] (system)
-- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Taste Detector]] (system), [[../../ideation/The Connection]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[connecting_the_dot]] (system), [[graphrag-connection-engine]] (system)
+- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system), [[two-kinds-of-connection]] (system)
+- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Connecting the Dots]] (system), [[../../ideation/Meeting Line - Before, During, After]] (product), [[../../ideation/Taste Detector]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[connecting_the_dot]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system)
 <!-- AUTO-CONCEPTS:END -->

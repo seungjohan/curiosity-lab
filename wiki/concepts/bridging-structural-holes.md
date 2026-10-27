@@ -16,12 +16,14 @@ Cousin to [[multi-signal-fusion]] (which *combines* signals into one decision) â
 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
-- [[../ideation/The Connection]] (system)
+- [[../ideation/Atlas - One Map Over Every App]] (product)
+- [[../ideation/Connecting the Dots]] (system)
 - [[../projects/prd/Constellate_prd]] (product)
 - [[../research/system/AI-Industry-Map-2026]] (system)
 - [[../research/system/connecting_the_dot]] (system)
 - [[../research/system/graph-theory-foundations]] (system)
 - [[../research/system/graphrag-connection-engine]] (system)
+- [[../research/system/linking-algorithms-survey]] (system)
 - [[../research/system/two-kinds-of-connection]] (system)
 <!-- AUTO-INSTANCES:END -->
 

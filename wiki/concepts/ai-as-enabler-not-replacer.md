@@ -13,9 +13,9 @@ Using AI to *optimize or augment* a fundamentally human/natural process, rather 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
 - [[../ideation/Been There]] (system)
+- [[../ideation/Connecting the Dots]] (system)
 - [[../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system)
 - [[../ideation/Return to Basics]] (system)
-- [[../ideation/The Connection]] (system)
 <!-- AUTO-INSTANCES:END -->
 
 ## 🔗 Connections
