@@ -9,7 +9,7 @@ aliases: [Company Compass]
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** Finding companies is easy — LinkedIn and Glassdoor list them all. The hard, unsolved part is *understanding* a company well enough to judge whether it fits **you**, and then knowing how to *approach* it. As startups stop being "the risky choice," the scarce skill becomes selecting the right one wisely.
 > **How to use it:** Fuse a company's scattered public footprint (funding, team, reviews, growth, culture signals) into a confident read, match it against who the user is, and surface the few high-fit companies with a way in — not a list of 10,000.
-> **Informs:** The user's own career search (the [[../research/career/Finding-Dream-Services|career]] research folder is this idea done by hand). Sibling engine to [[Taste Detector]].
+> **Informs:** The user's own career search (the [[../research/career/Finding-Dream-Services|career]] research folder is this idea done by hand). Sibling engine to [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]].
 
 # Company Compass / Company Fit Finder - Where to Work
 
@@ -49,10 +49,10 @@ Each is weak alone; fused, they resolve a confident picture ([[multi-signal-fusi
 The engine is only as good as its data — the hard, unglamorous core.
 - **Primary sources:** LinkedIn (team, tenure, headcount trend, departures), Glassdoor / Blind (reviews, comp, sentiment), Indeed (job postings → hiring velocity), plus Crunchbase (funding), levels.fyi (comp), news/press.
 - **Scraping is the obvious path *and* the dangerous one.** LinkedIn is famously litigious about it (the multi-year *hiQ Labs v. LinkedIn* fight) and blocks aggressively; Glassdoor/Indeed restrict it in ToS. So scraping = real legal exposure + a brittle anti-bot cat-and-mouse.
-- **The hybrid that survives:** lean on official APIs where they exist, **user-authorized data** (the user connects/exports their *own* LinkedIn — sidesteps ToS, the same OAuth/export move [[Taste Detector]] landed on against the data walls), licensed data vendors, and fully-public/press data. Treat mass scraping as the *fragile* part of the plan, not the foundation.
+- **The hybrid that survives:** lean on official APIs where they exist, **user-authorized data** (the user connects/exports their *own* LinkedIn — sidesteps ToS, the same OAuth/export move [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]] landed on against the data walls), licensed data vendors, and fully-public/press data. Treat mass scraping as the *fragile* part of the plan, not the foundation.
 
 ## Fit Matching (the differentiator)
-Knowing the company is half of it. The other half is **matching it to who the user is** — the same fusion move as [[Taste Detector]], pointed at companies instead of people:
+Knowing the company is half of it. The other half is **matching it to who the user is** — the same fusion move as [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]], pointed at companies instead of people:
 - Read the *person's* profile (values, risk tolerance, career stage, working style, what they want next).
 - Read the *company's* character from the signals above.
 - Score **fit**, not just quality — a great company can be a bad fit, and a scrappy one can be perfect for a specific person.
@@ -66,7 +66,7 @@ Without a **standard that turns a company into comparable numbers, "fit" collaps
 - **Guard against false precision:** the standard's credibility is the *breakdown*, not a single black-box number. Over-quantifying culture produces confident nonsense — show the factors and how each scored, always.
 
 ## The Approach Layer
-Selection isn't the finish line — *getting in* is. A wiser version of [[Return to Basics|referral]]-style warm-path thinking (cf. parked **Flexible Lit**):
+Selection isn't the finish line — *getting in* is. A wiser version of [[Return to Basics - Food, Clothing and Shelter in the AI Age|referral]]-style warm-path thinking (cf. parked **Flexible Lit**):
 - Surface warm connections and realistic paths in.
 - Suggest framing/positioning for *this* company and *this* person.
 - Timing — when a company is hiring vs. quietly freezing.
@@ -76,32 +76,32 @@ Selection isn't the finish line — *getting in* is. A wiser version of [[Return
 - **Fit over ranking.** Don't rebuild Glassdoor's leaderboard; own the personal fit judgment nobody sells.
 - **De-biased review synthesis** as a credible, defensible sub-product on its own.
 - **The user's own [[../research/career/Finding-Dream-Services|career/ folder]] is the proof + seed:** 80+ hand-built company deep-dives, regional AI maps, visa/application notes. That's this idea run manually — real pain, real prior art, a starter dataset and a taste function.
-- **Sibling to [[Taste Detector]]:** same multi-signal-fusion engine; if built, they could share infrastructure (footprint → profile → match).
+- **Sibling to [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]]:** same multi-signal-fusion engine; if built, they could share infrastructure (footprint → profile → match).
 
 ## Challenges
 - **Data reliability**: reviews are biased and gameable; funding data is stale/private for early startups; de-biasing is the hard technical core.
 - **Data access & legality**: the richest sources (LinkedIn especially) fight scraping hard — legal exposure (*hiQ Labs v. LinkedIn*) plus brittle anti-bot. Durable access likely means user-authorized exports/APIs, not mass scraping.
 - **False precision in scoring**: numericalizing qualitative traits (culture, fit) risks confident-but-wrong scores; the standard must stay transparent and component-wise, or it becomes astrology with a dashboard.
-- **Defining "fit"**: quantifying person↔company match meaningfully (echoes [[Connecting the Dots#Applied to people|The Connection]]'s synergy-quantification problem).
+- **Defining "fit"**: quantifying person↔company match meaningfully (echoes [[Connecting the Dots - Non-Obvious Links Between Notes and People#Applied to people|The Connection]]'s synergy-quantification problem).
 - **Private-company opacity**: the most interesting early startups leave the thinnest public footprint — cold-start on the *company* side.
 - **Moat vs. incumbents**: LinkedIn, Glassdoor, Crunchbase, levels.fyi all own pieces; the defensible slice is *personal fit + approach*, not raw data.
 - **Trust**: a fit verdict people act on (a job is a big decision) has to earn deep trust and explain itself.
-- **Cold start on the person side**: a thin user profile yields a weak match — same footprint problem as [[Taste Detector]].
+- **Cold start on the person side**: a thin user profile yields a weak match — same footprint problem as [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]].
 
 ## 🔗 Connections
 
 ### ⬆ Pipeline
 - Back ← [[ideation]] — tracked on the active ideation board
-- Related → [[Taste Detector]] — same signal-fusion engine, pointed at companies instead of people
-- Related → [[Connecting the Dots#Applied to people|The Connection]] — person↔entity fit/synergy scoring
+- Related → [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]] — same signal-fusion engine, pointed at companies instead of people
+- Related → [[Connecting the Dots - Non-Obvious Links Between Notes and People#Applied to people|The Connection]] — person↔entity fit/synergy scoring
 - Related → [[../projects/Michelin Filter|Michelin Filter]] — sibling "trusted standard" play: score/curate quality on a defined standard
 - Seed ← [[../research/career/Finding-Dream-Services|Finding Dream Services]] — the career research that surfaced this
 - Hub → [[../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **multi-signal-fusion** → [[Advance Planner]] (system), [[Atlas - One Map Over Every App]] (product), [[Been There]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Connecting the Dots]] (system), [[Meeting Line - Before, During, After]] (product), [[Taste Detector]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system), [[../research/system/linking-algorithms-survey]] (system)
-- **high-signal-filter** → [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Constellate_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/music/music-social-media]] (music)
-- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Meeting Line - Before, During, After]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
-- **abundance-flips-value** → [[Private Space - The Bedroom Moved Online]] (music), [[Return to Basics]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system)
+- **multi-signal-fusion** → [[Atlas - One Map Over Every App]] (product), [[Been There - Peer Help from Someone Who Lived It]] (system), [[Chronicle - Personal Topic Timeline]] (product), [[Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[Ieum - One Line per Person, Before and After Every Meeting]] (product), [[Sniff - Taste-Based Travel Picks, Alerted in Advance]] (system), [[Taste Detector - Taste Profile from Digital Footprints]] (system), [[Triathlon Photo Finder - Find Race Photos by Bib, Face and Gear]] (system), [[Wine Value Advisor - Fair Price Check for Restaurant Wine Lists]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system), [[../research/system/linking-algorithms-survey]] (system)
+- **high-signal-filter** → [[Wine Value Advisor - Fair Price Check for Restaurant Wine Lists]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Constellate_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/music/music-social-media]] (music)
+- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Ieum - One Line per Person, Before and After Every Meeting]] (product), [[Insight Capture - Your Interpretation Over the Source File]] (product), [[Keep in Touch - Relationship Chronicle]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **abundance-flips-value** → [[Insight Capture - Your Interpretation Over the Source File]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Return to Basics - Food, Clothing and Shelter in the AI Age]] (system), [[../projects/Michelin Filter]] (system)
 <!-- AUTO-CONCEPTS:END -->

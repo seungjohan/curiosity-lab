@@ -85,7 +85,7 @@ So I think it would be really inspiring, a great chance to inspire people who ha
 
 Instagram is a social platform for sharing your private lifestyle. But I came up with the idea that after opening the market of the mobile industry, there are so many private personal space are created on mobile. For example, your um, list of downloaded applications can be also your privacy. Your phone screen is privacy. The way of using AI is also your privacy. Um, there are so many ways that um, you have your own private space in different ways, different types, different um, methods. So I'm wondering that not only just sharing your privacy through photos, but also um, sharing your way of using AI or other things can be also really insightful or um, impressive. For others as well. For example, for me, um, I'm really curious about like the way how people um, build their own um, phone screen or like the way of listing, the way of cleaning their phone screen, also the way of using AI in a different way, it's like the prompts. Like there's so many things. So I'm wondering. I think. This would be a good idea to, to share like your ways to others as like Instagram.
 
-**Connects:** [[ideation/Private Space - The Bedroom Moved Online]] — same thesis (home screen, app list, prompts as private rooms), arrived at again independently; this entry adds the *method* angle ("the way of cleaning", "the way of using") where that note is about the *collection*. · [[ideation/Taste Detector]]: same footprint, but inferred rather than shared by choice · [[research/vibecoding/karpathy-llm-wiki]]: a real example of one person's AI method going viral
+**Connects:** [[ideation/Private Space - The Bedroom Moved Online]] — same thesis (home screen, app list, prompts as private rooms), arrived at again independently; this entry adds the *method* angle ("the way of cleaning", "the way of using") where that note is about the *collection*. · [[ideation/Taste Detector - Taste Profile from Digital Footprints|Taste Detector]]: same footprint, but inferred rather than shared by choice · [[research/vibecoding/karpathy-llm-wiki]]: a real example of one person's AI method going viral
 
 ---
 
@@ -118,7 +118,7 @@ What I'm thinking: if I keep studying something and save it in the projects, it 
 ---
 
 ## 2026-07-22 💡 check my mental health before it breaks
-🎓 → [[ideation/Been There|Been There]]
+🎓 → [[ideation/Been There - Peer Help from Someone Who Lived It|Been There]]
 
 It's much easier now to transfer my life into data via AI. And people burn out *regularly* — not because they neglect themselves, but because there are so many triggers, and the timing differs by age and life stage: getting married, starting a job, losing one, having a baby. Everyone faces them, just off-schedule.
 
@@ -138,7 +138,7 @@ These days I feel something constantly stuck — in my stomach, or just below th
 ---
 
 ## 2026-05-15 💡 Return to Fundamentals
-🎓 → [[ideation/Return to Basics|Return to Basics]]
+🎓 → [[ideation/Return to Basics - Food, Clothing and Shelter in the AI Age|Return to Basics]]
 
 As AI develops faster and better, the "fundamental and basic things" get more important.
 

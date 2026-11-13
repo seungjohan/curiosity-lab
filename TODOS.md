@@ -113,7 +113,7 @@ Of the post's 10 points, 6 do not apply here and 3 are wrong:
   bill. On a Claude subscription the constraint is usage limits, not dollars.
 - **"Auto-context loading 50 files", "80,000-token prompts"** — this vault is
   265 markdown files and 784KB of `wiki/`. The 485MB on disk is `.git` (191M),
-  `raw/` (116M), `venv` and `.smart-env` — none of which costs a token.
+  `raw/` (116M) and `.smart-env` — none of which costs a token.
 
 The one point that *did* apply is #7 (write knowledge down once instead of
 re-deriving it per session) — and it applied in reverse: the knowledge is
@@ -128,7 +128,7 @@ already written, it just wasn't loading. See Finding 1.
   Not urgent; it is the last unported script.
 - `tests/test_bluer_parser.py` needs `bs4`, which is not installed, so a bare
   `pytest tests/` aborts at collection. Either `pip install beautifulsoup4`
-  into `venv/` or delete the test if the Bluer scraper is retired.
+  or delete the test if the Bluer scraper is retired.
 - `multi-signal-fusion` holds 28% of all concept assignments and spans
   cooking/product/system. By `LINKING.md:102`'s own bar that is "too vague".
   Consider splitting it into two narrower atoms.

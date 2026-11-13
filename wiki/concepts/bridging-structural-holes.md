@@ -17,7 +17,7 @@ Cousin to [[multi-signal-fusion]] (which *combines* signals into one decision) â
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
 - [[../ideation/Atlas - One Map Over Every App]] (product)
-- [[../ideation/Connecting the Dots]] (system)
+- [[../ideation/Connecting the Dots - Non-Obvious Links Between Notes and People]] (system)
 - [[../projects/prd/Constellate_prd]] (product)
 - [[../research/system/AI-Industry-Map-2026]] (system)
 - [[../research/system/connecting_the_dot]] (system)

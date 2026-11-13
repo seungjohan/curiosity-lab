@@ -15,9 +15,9 @@ type: index
 The subject hub for startup and side-project work. The notes below all declare this page as their `Subject`. For live status, see the [[ideation|Ideation Board]].
 
 ## 💡 Ideas & Concepts
-- [[Connecting the Dots#Applied to people|The Connection]] — MBTI + Graph ML team-synergy analysis.
-- [[Triathlon Photo Finder]] — find your event photos via gear/bib recognition.
-- [[Return to Basics]] — physical "atoms" as premium anchors in an AI era.
+- [[Connecting the Dots - Non-Obvious Links Between Notes and People#Applied to people|The Connection]] — MBTI + Graph ML team-synergy analysis.
+- [[Triathlon Photo Finder - Find Race Photos by Bib, Face and Gear|Triathlon Photo Finder]] — find your event photos via gear/bib recognition.
+- [[Return to Basics - Food, Clothing and Shelter in the AI Age|Return to Basics]] — physical "atoms" as premium anchors in an AI era.
 - [[Keep in Touch - Relationship Chronicle]] — CRM pointed at your own career: one thread per contact above the channels, so mentors and network don't drift.
 
 ## 🛠 Projects

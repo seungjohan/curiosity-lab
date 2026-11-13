@@ -12,7 +12,7 @@ Curating or ranking to surface the *few high-quality items* out of a saturated, 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
 - [[../ideation/Company Fit Finder - Where to Work]] (system)
-- [[../ideation/Wine Value Advisor]] (system)
+- [[../ideation/Wine Value Advisor - Fair Price Check for Restaurant Wine Lists]] (system)
 - [[../projects/Michelin Filter]] (system)
 - [[../projects/Trip Guide - Shareable Restaurant Map]] (travel)
 - [[../projects/prd/Constellate_prd]] (product)

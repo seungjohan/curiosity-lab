@@ -32,11 +32,11 @@ While there is no direct "Instagram of Music" that dominates the market, several
 
 ### ⬆ Pipeline
 - Feeds → [[../../ideation/ideation|Ideation Board]] — concept for a "music-first" social feed
-- Feeds → [[../../ideation/Unified-Media-Insight-Capture-Tool|Unified Media Capture]] — same "capture the moment of insight in media" thread
+- Feeds → [[../../ideation/Insight Capture - Your Interpretation Over the Source File|Unified Media Capture]] — same "capture the moment of insight in media" thread
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **high-signal-filter** → [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Constellate_prd]] (product), [[../cooking/selected-restaurants]] (cooking)
+- **high-signal-filter** → [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Wine Value Advisor - Fair Price Check for Restaurant Wine Lists]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Constellate_prd]] (product), [[../cooking/selected-restaurants]] (cooking)
 <!-- AUTO-CONCEPTS:END -->
 
 ### Analogical ✦ (hand-picked)

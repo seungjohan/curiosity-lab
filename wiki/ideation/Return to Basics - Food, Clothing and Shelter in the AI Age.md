@@ -28,7 +28,7 @@ I didn't pursue it, and the reason is cultural rather than intellectual. In Kore
 
 Which is, I think, why the mind slides to *this* instead — cook something real, grow something, put your hands on a physical material, get off the screen. It's what people reach for when the direct route is shut. I want to be careful about what I'm claiming there. Grounding is not treatment, and dressing up an access problem as a lifestyle thesis would be the dishonest version of this page. But the substitution is real and worth naming, because it means "return to basics" may be less a prediction about the AI era than a description of how anxiety gets handled where a proper channel is missing.
 
-**I have no idea yet.** No product, no wedge, not even a shape. I'm recording it because if I don't, I'll come back in six months, read the pillars and the premium-value argument, and forget that the reason I care about any of it is that I was anxious and the obvious answer was one I couldn't use. The nearest thing in the vault is [[Been There]] — route people to a peer who already survived the exact thing, precisely because the credentialed route is hard to walk into. Same origin, arrived at from the other side.
+**I have no idea yet.** No product, no wedge, not even a shape. I'm recording it because if I don't, I'll come back in six months, read the pillars and the premium-value argument, and forget that the reason I care about any of it is that I was anxious and the obvious answer was one I couldn't use. The nearest thing in the vault is [[Been There - Peer Help from Someone Who Lived It|Been There]] — route people to a peer who already survived the exact thing, precisely because the credentialed route is hard to walk into. Same origin, arrived at from the other side.
 
 ---
 
@@ -77,12 +77,12 @@ Which is, I think, why the mind slides to *this* instead — cook something real
 - Draws on → [[../research/cooking/index]] — food as a physical sensory ground truth
 - Draws on → [[../research/planting/index]] — gardening and growing real ingredients
 - Feeds → [[../projects/Michelin Filter]] — culinary exploration meets physical-first curation
-- Shares an origin with → [[Been There]] — both start from "the direct mental-health route is hard to walk into"; that one answers with a peer, this one with physical grounding
+- Shares an origin with → [[Been There - Peer Help from Someone Who Lived It|Been There]] — both start from "the direct mental-health route is hard to walk into"; that one answers with a peer, this one with physical grounding
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system)
-- **ai-as-enabler-not-replacer** → [[Been There]] (system), [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system)
+- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Insight Capture - Your Interpretation Over the Source File]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[../projects/Michelin Filter]] (system)
+- **ai-as-enabler-not-replacer** → [[Been There - Peer Help from Someone Who Lived It]] (system), [[Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system)
 <!-- AUTO-CONCEPTS:END -->
 
 ### Analogical ✦ (hand-picked)

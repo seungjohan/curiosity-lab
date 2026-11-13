@@ -13,9 +13,9 @@ Related to but distinct from [[high-signal-filter]]: filtering surfaces *quality
 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
-- [[../ideation/Advance Planner]] (system)
-- [[../ideation/Triathlon Photo Finder]] (system)
-- [[../ideation/Unified-Media-Insight-Capture-Tool]] (product)
+- [[../ideation/Insight Capture - Your Interpretation Over the Source File]] (product)
+- [[../ideation/Sniff - Taste-Based Travel Picks, Alerted in Advance]] (system)
+- [[../ideation/Triathlon Photo Finder - Find Race Photos by Bib, Face and Gear]] (system)
 - [[../projects/Trip Guide - Shareable Restaurant Map]] (travel)
 - [[../research/system/graphrag-connection-engine]] (system)
 <!-- AUTO-INSTANCES:END -->

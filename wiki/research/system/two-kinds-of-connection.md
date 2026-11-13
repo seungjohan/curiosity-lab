@@ -102,5 +102,5 @@ Sketch of a second engine: give each note a small **causal card** — `{consumes
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system)
+- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system)
 <!-- AUTO-CONCEPTS:END -->

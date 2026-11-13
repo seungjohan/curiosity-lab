@@ -113,7 +113,7 @@ music-social-media   (music)    →  Wine Value Advisor (idea)        1 hop
 
 The deepest point. There are two utterly different ways to reason over a knowledge graph, and the frontier is **combining** them — exactly [[../../concepts/multi-signal-fusion|multi-signal-fusion]] at the architecture level:
 
-| | **Symbolic** (this page) | **Neural / LLM** ([[graphrag-connection-engine|GraphRAG]] page) |
+| | **Symbolic** (this page) | **Neural / LLM** ([[graphrag-connection-engine\|GraphRAG]] page) |
 | :--- | :--- | :--- |
 | Works on | The explicit link structure | The meaning of the text |
 | Strength | Exact, cheap, explainable, O(V+E) | Understands, infers, summarizes |
@@ -171,11 +171,11 @@ python scripts/graph_analysis.py --hubs 15        # notes holding the graph toge
 - Back ← [[connecting_the_dot|Connecting the Dots — The Field]] — the parent; this is its "from the ground up" computation layer
 - Pairs with → [[graphrag-connection-engine|GraphRAG & the Connection Engine]] — the neural half of the neuro-symbolic pairing
 - Feeds → [[../../maintenance|Maintenance]] — the orphan list is a concrete backlog
-- Feeds → [[../../ideation/Connecting the Dots#Applied to people|The Connection]] — team-synergy graphs use these exact primitives (components, shortest path, PageRank)
+- Feeds → [[../../ideation/Connecting the Dots - Non-Obvious Links Between Notes and People#Applied to people|The Connection]] — team-synergy graphs use these exact primitives (components, shortest path, PageRank)
 - Hub → [[../../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system), [[two-kinds-of-connection]] (system)
-- **multi-signal-fusion** → [[../../ideation/Advance Planner]] (system), [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Been There]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Connecting the Dots]] (system), [[../../ideation/Meeting Line - Before, During, After]] (product), [[../../ideation/Taste Detector]] (system), [[../../ideation/Triathlon Photo Finder]] (system), [[../../ideation/Wine Value Advisor]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[connecting_the_dot]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system)
+- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[../../projects/prd/Constellate_prd]] (product), [[AI-Industry-Map-2026]] (system), [[connecting_the_dot]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system), [[two-kinds-of-connection]] (system)
+- **multi-signal-fusion** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Been There - Peer Help from Someone Who Lived It]] (system), [[../../ideation/Chronicle - Personal Topic Timeline]] (product), [[../../ideation/Company Fit Finder - Where to Work]] (system), [[../../ideation/Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[../../ideation/Ieum - One Line per Person, Before and After Every Meeting]] (product), [[../../ideation/Sniff - Taste-Based Travel Picks, Alerted in Advance]] (system), [[../../ideation/Taste Detector - Taste Profile from Digital Footprints]] (system), [[../../ideation/Triathlon Photo Finder - Find Race Photos by Bib, Face and Gear]] (system), [[../../ideation/Wine Value Advisor - Fair Price Check for Restaurant Wine Lists]] (system), [[../../projects/Michelin Filter]] (system), [[../../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../../projects/prd/Chronicle_prd]] (product), [[../cooking/selected-restaurants]] (cooking), [[connecting_the_dot]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system)
 <!-- AUTO-CONCEPTS:END -->

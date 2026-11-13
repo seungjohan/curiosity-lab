@@ -85,7 +85,7 @@ Ship the archive first as a solid wedge; the analysis (the real differentiator) 
 - How is the auto-summary / keyword extraction done — on-device, or a hosted LLM? Cost per URL at scale?
 - "Predict the future from my archive" — how far does the analysis go? Summary of the arc (easy) vs. genuine forecasting (hard, needs a real method).
 - Paywalled / JS-heavy pages: can enrichment reliably fetch title/metadata/summary?
-- Where does this end and [[Unified-Media-Insight-Capture-Tool]] begin? (This archives the *whole media by time*; that captures the *moment of insight inside* media.) Same product, or two?
+- Where does this end and [[Insight Capture - Your Interpretation Over the Source File|Insight Capture]] begin? (This archives the *whole media by time*; that captures the *moment of insight inside* media.) Same product, or two?
 
 ## 🔗 Connections
 
@@ -94,17 +94,17 @@ Ship the archive first as a solid wedge; the analysis (the real differentiator) 
 - Back ← [[ideation]] — tracked on the active ideation board
 - Spec → [[../projects/prd/Chronicle_prd|Chronicle PRD]] — v1 (the archive) product requirements
 - Spec → [[../projects/prd/Constellate_prd|Constellate PRD]] — the current spec: archive · read · trend · projects (supersedes v1)
-- Sibling → [[Unified-Media-Insight-Capture-Tool]] — the moment-of-insight capture cousin; this one archives whole media chronologically
+- Sibling → [[Insight Capture - Your Interpretation Over the Source File|Insight Capture]] — the moment-of-insight capture cousin; this one archives whole media chronologically
 - Hub → [[../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Meeting Line - Before, During, After]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
-- **multi-signal-fusion** → [[Advance Planner]] (system), [[Atlas - One Map Over Every App]] (product), [[Been There]] (system), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Meeting Line - Before, During, After]] (product), [[Taste Detector]] (system), [[Triathlon Photo Finder]] (system), [[Wine Value Advisor]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system), [[../research/system/linking-algorithms-survey]] (system)
+- **interpretation-over-artifact** → [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Ieum - One Line per Person, Before and After Every Meeting]] (product), [[Insight Capture - Your Interpretation Over the Source File]] (product), [[Keep in Touch - Relationship Chronicle]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **multi-signal-fusion** → [[Atlas - One Map Over Every App]] (product), [[Been There - Peer Help from Someone Who Lived It]] (system), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[Ieum - One Line per Person, Before and After Every Meeting]] (product), [[Sniff - Taste-Based Travel Picks, Alerted in Advance]] (system), [[Taste Detector - Taste Profile from Digital Footprints]] (system), [[Triathlon Photo Finder - Find Race Photos by Bib, Face and Gear]] (system), [[Wine Value Advisor - Fair Price Check for Restaurant Wine Lists]] (system), [[../projects/Michelin Filter]] (system), [[../projects/Trip Guide - Shareable Restaurant Map]] (travel), [[../projects/prd/Chronicle_prd]] (product), [[../research/cooking/selected-restaurants]] (cooking), [[../research/system/connecting_the_dot]] (system), [[../research/system/graph-theory-foundations]] (system), [[../research/system/graphrag-connection-engine]] (system), [[../research/system/linking-algorithms-survey]] (system)
 <!-- AUTO-CONCEPTS:END -->
 
 ### Tension ✦ (hand-picked)
-- [[Return to Basics]] — pulls against: this tool deepens digital capture/curation, while Return to Basics argues value is migrating to physical, non-digital grounding.
+- [[Return to Basics - Food, Clothing and Shelter in the AI Age|Return to Basics]] — pulls against: this tool deepens digital capture/curation, while Return to Basics argues value is migrating to physical, non-digital grounding.
 
 ---
 - **Subject**: [[Startup & Side Projects]]

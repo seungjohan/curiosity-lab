@@ -24,7 +24,7 @@ A central list of topics and deep-dive research pages.
 - [[Music Composition & Orchestration]] - Exploring MIDI, harmony, and orchestration (Ref: [[Dreams & Hobbies]]).
 - [[AI & Agentic Workflows]] - Investigating LLMs, AI Agents, and MCP (Model Context Protocol).
 - [[AI in Education - Side Effects]] - Analyzing cognitive offloading, "The Generative AI Paradox," and social impacts on teenagers.
-- [[Graph Machine Learning]] - Specifically for social network and synergy analysis (Ref: [[Connecting the Dots#Applied to people|The Connection]]).
+- [[Graph Machine Learning]] - Specifically for social network and synergy analysis (Ref: [[Connecting the Dots - Non-Obvious Links Between Notes and People#Applied to people|The Connection]]).
 - [[Startup Ecosystems]] - Analyzing viral consumer apps and solo entrepreneurship patterns.
 - [[Triathlon & Endurance Sports]] - Training and technical optimizations.
 - [[World History & Renaissance]] - Exploring periodic trends and organic relationships in history.

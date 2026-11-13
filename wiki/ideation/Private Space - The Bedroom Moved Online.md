@@ -61,7 +61,7 @@ It's also a clean instance of [[../concepts/interpretation-over-artifact|interpr
 
 I came in from a different direction entirely. I'd been looking at [발자취](https://apps.apple.com/kr/app/id6792431474) — a solo-built Korean walking app that fills in every 동 you've set foot in on a national dot map. Free, no account, no subscription, **no server at all**. One person shipped it and runs it at zero cost.
 
-What I said I wanted from it was the economics: no backend, no second party, no cold start, works for user #1 on day one. My board is full of ideas that fail all four — [[Been There]] needs advisor verification and crisis escalation before it does anything; [[Connecting the Dots#Applied to people|The Connection]] and [[Company Fit Finder - Where to Work]] need a matching pool to exist first. I'm tired of designing things that require a crowd before they require anything else.
+What I said I wanted from it was the economics: no backend, no second party, no cold start, works for user #1 on day one. My board is full of ideas that fail all four — [[Been There - Peer Help from Someone Who Lived It|Been There]] needs advisor verification and crisis escalation before it does anything; [[Connecting the Dots - Non-Obvious Links Between Notes and People#Applied to people|The Connection]] and [[Company Fit Finder - Where to Work]] need a matching pool to exist first. I'm tired of designing things that require a crowd before they require anything else.
 
 Then I drifted. Travel, maybe? Music? And I landed on *music social media — VSCO but for music* — which is the precise opposite of the constraint I'd just chosen. A social network is the one shape that needs a server, needs accounts, needs moderation, and is worth nothing to its first user. I was told as much, and I picked it anyway.
 
@@ -264,7 +264,7 @@ So the door question may have been the wrong question, or at least premature. **
 - **What replaces the finite board?** Or does the intimacy mechanic carry retention on its own?
 - **Is a room a snapshot or a living thing?** A playlist that keeps changing is a different object from one preserved as it was on a particular night — and "the room you had in 2024" may be the more moving artifact.
 - **Does the visitor leave a trace?** A guestbook, a mark, silence. Whether visits are visible changes the entire emotional register.
-- **Does this collapse back into [[Taste Detector]]?** Both turn consumption into a portrait. That one reads taste privately; this one hands it to another person. Same engine, or two products that merely rhyme?
+- **Does this collapse back into [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]]?** Both turn consumption into a portrait. That one reads taste privately; this one hands it to another person. Same engine, or two products that merely rhyme?
 
 ## 📚 References
 
@@ -280,9 +280,9 @@ So the door question may have been the wrong question, or at least premature. **
 ### ⬆ Pipeline
 - Back ← [[sparks|✨ Spark List]] — promoted from the `Music-first gallery / creation SNS` spark (2026-08-09)
 - Source ← [[../research/music/music-social-media|Music-Focused Social Media Research]] — the three stated killers this thesis answers
-- Related → [[Taste Detector]] — the same consumption-as-portrait engine, pointed inward rather than outward
+- Related → [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]] — the same consumption-as-portrait engine, pointed inward rather than outward
 - Sibling ↔ [[Show Your Way - Instagram for Personal Methods|Show Your Way]]: same thesis applied generally; that note shares the *method*, this one the *collection*
-- Related → [[Unified-Media-Insight-Capture-Tool]] — both make the private reaction, not the media, the object of value
+- Related → [[Insight Capture - Your Interpretation Over the Source File|Insight Capture]] — both make the private reaction, not the media, the object of value
 - Related → [[Keep in Touch - Relationship Chronicle]] — both bet that intimacy is the scarce thing worth building for
 - Hub → [[../index|Master Index]]
 
@@ -292,6 +292,6 @@ So the door question may have been the wrong question, or at least premature. **
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Meeting Line - Before, During, After]] (product), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
-- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Return to Basics]] (system), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/Michelin Filter]] (system)
+- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Ieum - One Line per Person, Before and After Every Meeting]] (product), [[Insight Capture - Your Interpretation Over the Source File]] (product), [[Keep in Touch - Relationship Chronicle]] (system), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **abundance-flips-value** → [[Company Fit Finder - Where to Work]] (system), [[Insight Capture - Your Interpretation Over the Source File]] (product), [[Return to Basics - Food, Clothing and Shelter in the AI Age]] (system), [[../projects/Michelin Filter]] (system)
 <!-- AUTO-CONCEPTS:END -->

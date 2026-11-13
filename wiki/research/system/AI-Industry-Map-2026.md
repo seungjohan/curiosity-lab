@@ -86,5 +86,5 @@ The ultimate goal: **Self-Healing, Self-Managing Ecosystems.**
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots]] (system), [[../../projects/prd/Constellate_prd]] (product), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system), [[two-kinds-of-connection]] (system)
+- **bridging-structural-holes** → [[../../ideation/Atlas - One Map Over Every App]] (product), [[../../ideation/Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[../../projects/prd/Constellate_prd]] (product), [[connecting_the_dot]] (system), [[graph-theory-foundations]] (system), [[graphrag-connection-engine]] (system), [[linking-algorithms-survey]] (system), [[two-kinds-of-connection]] (system)
 <!-- AUTO-CONCEPTS:END -->

@@ -9,7 +9,7 @@ aliases: [North Star]
 > [!IMPORTANT] Key Takeaway
 > **Why this matters:** Some people don't need help *choosing between* passions — they feel they have none. Nothing pulls at them, nothing seems worth trying. Existing "find your purpose" tools assume you already have interests to sort; this one starts from zero and helps a person rediscover what they actually like.
 > **How to use it:** Treat *reawakening interest* as the product, not goal-setting. Surface tiny sparks, make trying one thing nearly free, and let genuine liking build back up — small taste before big commitment.
-> **Informs:** Feeds [[Company Fit Finder - Where to Work|Company Compass]] downstream (find what you like → then find where to do it), and borders [[Been There]] (when flatness tips into "no reason to live").
+> **Informs:** Feeds [[Company Fit Finder - Where to Work|Company Compass]] downstream (find what you like → then find where to do it), and borders [[Been There - Peer Help from Someone Who Lived It|Been There]] (when flatness tips into "no reason to live").
 
 # North Star / Finding What You Like - Rekindling Passion & Curiosity
 
@@ -46,7 +46,7 @@ Several cultures already build in **structured time to wander and rediscover wha
 **The gap North Star fills:** all of these need the right country, employer, or life-window — and none of them help the person who is *already numb* and can't self-start. North Star is the **personal, always-on, low-stakes version** — the "wander and find what you like" step without needing to be 16, quit your job, or emigrate.
 
 ## Directions Being Explored
-- **Interest Graph, not purpose ladder** — map the faint signals of what a person leans toward (borrowing [[Connecting the Dots#Applied to people|The Connection]]'s graph approach) and let a *liking* emerge from the pattern, rather than demanding they declare a dream. Could bootstrap from [[Taste Detector]]'s footprint-read to beat the cold start.
+- **Interest Graph, not purpose ladder** — map the faint signals of what a person leans toward (borrowing [[Connecting the Dots - Non-Obvious Links Between Notes and People#Applied to people|The Connection]]'s graph approach) and let a *liking* emerge from the pattern, rather than demanding they declare a dream. Could bootstrap from [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]]'s footprint-read to beat the cold start.
 - **Near-free micro-trials** — an agent that turns a flicker of interest into a **tiny, low-cost taste** you can try this week (an hour, not a career). Core loop: *notice a spark → try a small thing → did it feel alive?* — evidence over introspection.
 
 ## Why AI Changes This Now
@@ -54,8 +54,8 @@ Several cultures already build in **structured time to wander and rediscover wha
 - **The interpretation is the asset** ([[interpretation-over-artifact]]): what matters is the person's own rekindled *liking* — the chat logs and inputs are just raw material.
 
 ## Challenges
-- **Cold start on passion**: the target user starts with *near-zero signal* — the hardest possible input. If [[Taste Detector]]-style footprint reading can seed a first guess, that's a real unlock.
-- **Mental-health border**: "nothing excites me / no reason to live" edges into depression and languishing. North Star is **not** therapy — it must know its limits, avoid harm, and hand off when needed. Direct tie to [[Been There]].
+- **Cold start on passion**: the target user starts with *near-zero signal* — the hardest possible input. If [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]]-style footprint reading can seed a first guess, that's a real unlock.
+- **Mental-health border**: "nothing excites me / no reason to live" edges into depression and languishing. North Star is **not** therapy — it must know its limits, avoid harm, and hand off when needed. Direct tie to [[Been There - Peer Help from Someone Who Lived It|Been There]].
 - **The atrophy trap** ([[abstraction-raises-altitude]], atrophy edge): if the agent hands someone interests instead of helping them *feel* their own, it builds nothing durable.
 - **Activation energy**: for a numb person, even a one-hour trial is a high bar — lowering that is the core design problem and the real retention test.
 - **Measuring success**: "did they come to like something?" is slow, fuzzy, and deeply personal — hard to instrument honestly.
@@ -66,15 +66,15 @@ Several cultures already build in **structured time to wander and rediscover wha
 - Back ← [[ideation]] — tracked on the active ideation board
 - Seed ← [[../research/career/Finding-Dream-Services|Finding Dream Services]] — the landscape research this was promoted (and narrowed) from
 - Next → [[Company Fit Finder - Where to Work|Company Compass]] — find what you *like* here, then find *where to do it for work* there (personal → career)
-- Related → [[Taste Detector]] — footprint-read could seed North Star's cold start (what you already lean toward)
+- Related → [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]] — footprint-read could seed North Star's cold start (what you already lean toward)
 - Related → [[Show Your Way - Instagram for Personal Methods|Show Your Way]]: borrowing someone else's shared method is a near-free way to try one thing
-- Related → [[Been There]] — the mental-health neighbor for when flatness tips into "no reason to live"
-- Related → [[Connecting the Dots#Applied to people|The Connection]] — shares the interest-as-graph approach
+- Related → [[Been There - Peer Help from Someone Who Lived It|Been There]] — the mental-health neighbor for when flatness tips into "no reason to live"
+- Related → [[Connecting the Dots - Non-Obvious Links Between Notes and People#Applied to people|The Connection]] — shares the interest-as-graph approach
 - Hub → [[../index|Master Index]]
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Keep in Touch - Relationship Chronicle]] (system), [[Meeting Line - Before, During, After]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
-- **ai-as-enabler-not-replacer** → [[Been There]] (system), [[Connecting the Dots]] (system), [[Return to Basics]] (system)
+- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[Ieum - One Line per Person, Before and After Every Meeting]] (product), [[Insight Capture - Your Interpretation Over the Source File]] (product), [[Keep in Touch - Relationship Chronicle]] (system), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **ai-as-enabler-not-replacer** → [[Been There - Peer Help from Someone Who Lived It]] (system), [[Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[Return to Basics - Food, Clothing and Shelter in the AI Age]] (system)
 - **abstraction-raises-altitude** → [[../projects/AI & Agentic Workflows]] (system), [[../projects/AI in Education - Side Effects]] (system), [[../research/career/Product-Management-0-to-1]] (career), [[../research/system/connecting_the_dot]] (system), [[../research/vibecoding/index]] (vibecoding)
 <!-- AUTO-CONCEPTS:END -->

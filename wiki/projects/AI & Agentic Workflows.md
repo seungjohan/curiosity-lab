@@ -43,4 +43,4 @@ Investigation into Large Language Models (LLMs), AI Agents, and the Model Contex
 <!-- AUTO-CONCEPTS:END -->
 
 ### Tension ✦ (hand-picked)
-- [[../ideation/Return to Basics|Return to Basics]] — the physical-grounding counter-weight to purely digital agentic automation (`bits-vs-atoms`).
+- [[../ideation/Return to Basics - Food, Clothing and Shelter in the AI Age|Return to Basics]] — the physical-grounding counter-weight to purely digital agentic automation (`bits-vs-atoms`).

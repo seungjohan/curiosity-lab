@@ -12,10 +12,10 @@ Using AI to *optimize or augment* a fundamentally human/natural process, rather 
 
 <!-- AUTO-INSTANCES:START -->
 ## Instanced by (auto-generated)
-- [[../ideation/Been There]] (system)
-- [[../ideation/Connecting the Dots]] (system)
+- [[../ideation/Been There - Peer Help from Someone Who Lived It]] (system)
+- [[../ideation/Connecting the Dots - Non-Obvious Links Between Notes and People]] (system)
 - [[../ideation/Finding What You Like - Rekindling Passion & Curiosity]] (system)
-- [[../ideation/Return to Basics]] (system)
+- [[../ideation/Return to Basics - Food, Clothing and Shelter in the AI Age]] (system)
 <!-- AUTO-INSTANCES:END -->
 
 ## 🔗 Connections

@@ -142,7 +142,7 @@ So the design question becomes **which vertical**, and the shortlist worth testi
 ## Challenges
 - **Cross-channel capture is the hard problem — and it's mostly walled off.** Email and calendar are accessible. KakaoTalk offers no API for reading personal chats; WhatsApp is Business-API-only; iMessage lives in a local macOS database (hence Clay's full-disk-access ask); LinkedIn DMs are closed; a call leaves nothing but a timestamp. An honest v1 in Korea **cannot auto-ingest the channel that matters most**.
 - **Clay/Mesh already exists and is well-built.** Any version of this has to answer "why not Clay?" — and outside of Korea, the answer is thin.
-- **Logging friction is the category killer.** Every personal CRM dies here. The walls remove the auto-capture escape hatch for exactly the apps carrying the most conversation — same wall [[Taste Detector]] hit.
+- **Logging friction is the category killer.** Every personal CRM dies here. The walls remove the auto-capture escape hatch for exactly the apps carrying the most conversation — same wall [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]] hit.
 - **Privacy** — a file of notes on named people, including what they said in confidence. Clay's full-disk-access requirement is already a stated trust obstacle; local-first is likely non-negotiable.
 - **The broadcast tightrope** — an update sent to 30 people has to feel written, not blasted. Get it wrong and it's a newsletter nobody opens; get it right and it may be the whole product.
 - **Cadence is fake precision** — a real advisor relationship doesn't run on a 90-day timer, and an "overdue" badge on a mentor feels wrong.
@@ -162,9 +162,9 @@ So the design question becomes **which vertical**, and the shortlist worth testi
 ### ⬆ Pipeline
 - Back ← [[sparks|✨ Spark List]] — working notes for the `Keep-in-touch log` spark (2026-07-31). **Deliberately not on the [[ideation|Ideation Board]]**: it's essentially CRM pointed at your own career, so it stays at spark stage until the "who keeps the log alive" problem has an answer.
 - Sibling → [[Chronicle - Personal Topic Timeline]] — the same chronicle idea pointed at topics rather than people
-- Related → [[Connecting the Dots#Applied to people|The Connection]] — relationships as a graph; this one maintains the edges instead of discovering them
+- Related → [[Connecting the Dots - Non-Obvious Links Between Notes and People#Applied to people|The Connection]] — relationships as a graph; this one maintains the edges instead of discovering them
 - Related → [[Company Fit Finder - Where to Work]] — the career-network layer this feeds; that one finds the company, this one keeps the people
-- Related → [[Taste Detector]] — hits the same platform data walls for auto-capture
+- Related → [[Taste Detector - Taste Profile from Digital Footprints|Taste Detector]] — hits the same platform data walls for auto-capture
 - Source → [[../research/inspiration|💡 Inspiration]] — the Uber-HR video behind the idea, and Pigment's verticalize-to-beat-giants argument
 - Hub → [[../index|Master Index]]
 
@@ -174,5 +174,5 @@ So the design question becomes **which vertical**, and the shortlist worth testi
 
 <!-- AUTO-CONCEPTS:START -->
 ### 🔀 Concepts (auto-generated — do not edit)
-- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Meeting Line - Before, During, After]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[Unified-Media-Insight-Capture-Tool]] (product), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
+- **interpretation-over-artifact** → [[Chronicle - Personal Topic Timeline]] (product), [[Company Fit Finder - Where to Work]] (system), [[Connecting the Dots - Non-Obvious Links Between Notes and People]] (system), [[Finding What You Like - Rekindling Passion & Curiosity]] (system), [[Ieum - One Line per Person, Before and After Every Meeting]] (product), [[Insight Capture - Your Interpretation Over the Source File]] (product), [[Private Space - The Bedroom Moved Online]] (music), [[Show Your Way - Instagram for Personal Methods]] (consumer), [[../projects/prd/Chronicle_prd]] (product), [[../projects/prd/Constellate_prd]] (product), [[../research/career/Creative-Tech-Trends]] (career), [[../research/vibecoding/karpathy-llm-wiki]] (vibecoding)
 <!-- AUTO-CONCEPTS:END -->
